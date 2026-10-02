@@ -1,0 +1,81 @@
+﻿SellerID,SellerName,SellerType,Country,City,JoinDate,SellerRating,SellerStatus
+SELL0001,Shepherd LLC,Brand Store,Qatar,Doha,2025-04-05,3.91,Active
+SELL0002,Adams-Anderson,Marketplace Seller,UAE,Dubai,2025-06-09,4.29,Active
+SELL0003,Becker-Watson,Marketplace Seller,UAE,Sharjah,2025-06-15,4.65,Active
+SELL0004,Flores PLC,Distributor,Saudi Arabia,Dammam,2024-03-21,3.98,Active
+SELL0005,Thomas Richard and Richardson,Marketplace Seller,UAE,Ajman,2025-06-13,3.53,Active
+SELL0006,Andrews Hurley and Williams,Marketplace Seller,Oman,Muscat,2025-02-07,4.72,Active
+SELL0007,Schaefer LLC,Marketplace Seller,UAE,Ajman,2024-09-18,4.74,Active
+SELL0008,Stevens and Sons,Distributor,Qatar,Doha,2025-06-11,4.44,Active
+SELL0009,Abbott-Harrison,Marketplace Seller,UAE,Ajman,2024-04-23,4.12,Active
+SELL0010,Calhoun PLC,Marketplace Seller,Saudi Arabia,Jeddah,2024-07-28,4.75,Active
+SELL0011,Mcclure Ramirez and Brown,Marketplace Seller,UAE,Abu Dhabi,2024-11-05,4.56,Active
+SELL0012,Dougherty Montoya and White,Marketplace Seller,UAE,Sharjah,2025-03-15,4.63,Active
+SELL0013,Chavez Davis and Chaney,Brand Store,Saudi Arabia,Riyadh,2024-02-16,3.94,Active
+SELL0014,Glass Norton and Brooks,Brand Store,Saudi Arabia,Riyadh,2024-11-03,3.98,Active
+SELL0015,Hartman PLC,Brand Store,Saudi Arabia,Riyadh,2025-02-13,4.16,Active
+SELL0016,Davis PLC,Marketplace Seller,UAE,Abu Dhabi,2024-08-25,4.19,Active
+SELL0017,Bishop Group,Marketplace Seller,UAE,Dubai,2025-07-19,4.16,Active
+SELL0018,Zavala Ltd,Marketplace Seller,Oman,Muscat,2024-02-24,3.82,Active
+SELL0019,Simmons Ltd,Marketplace Seller,UAE,Ajman,2025-07-15,3.76,Active
+SELL0020,Cox Arroyo and Atkins,Marketplace Seller,UAE,Ajman,2024-10-08,3.81,Active
+SELL0021,Taylor Williams and Ford,Brand Store,UAE,Dubai,2025-05-31,4.97,Active
+SELL0022,Edwards Smith and Krueger,Marketplace Seller,UAE,Sharjah,2024-06-12,3.93,Active
+SELL0023,Greer Valdez and Wiley,Marketplace Seller,Qatar,Doha,2025-01-01,3.76,Active
+SELL0024,Hoffman-Murphy,Distributor,Qatar,Doha,2024-07-05,4.08,Active
+SELL0025,Thomas Bradley and Mcdonald,Distributor,Qatar,Doha,2025-01-13,4.18,Active
+SELL0026,Lewis Mathews and Cooper,Marketplace Seller,UAE,Dubai,2025-01-14,4.43,Active
+SELL0027,Frye-Miranda,Brand Store,UAE,Abu Dhabi,2024-09-20,4.65,Active
+SELL0028,Davis Weber and Le,Distributor,UAE,Sharjah,2025-08-13,4.09,Active
+SELL0029,Harris-Collins,Distributor,UAE,Abu Dhabi,2024-12-09,4.35,Active
+SELL0030,Winters Ltd,Brand Store,UAE,Abu Dhabi,2025-05-08,4.43,Active
+SELL0031,Scott Inc,Marketplace Seller,UAE,Sharjah,2024-04-08,4.25,Active
+SELL0032,Beck Powell and Cohen,Brand Store,Qatar,Doha,2024-02-13,4.42,Active
+SELL0033,Lewis-Keith,Distributor,UAE,Dubai,2025-05-19,4.31,Active
+SELL0034,Kim-Warren,Brand Store,Saudi Arabia,Dammam,2025-07-16,4.36,Active
+SELL0035,Rogers and Sons,Brand Store,UAE,Sharjah,2024-09-25,4.28,Active
+SELL0036,Sullivan LLC,Brand Store,Kuwait,Kuwait City,2025-09-16,4.29,Active
+SELL0037,Williams-Patterson,Marketplace Seller,UAE,Sharjah,2024-05-03,4.0,Active
+SELL0038,Robinson Robbins and King,Brand Store,Kuwait,Kuwait City,2024-07-10,5.0,Active
+SELL0039,Gordon Payne and Ponce,Brand Store,Kuwait,Kuwait City,2024-07-21,3.96,Active
+SELL0040,Reyes Ltd,Marketplace Seller,Qatar,Doha,2025-09-10,4.79,Active
+SELL0041,Sullivan-Taylor,Marketplace Seller,Oman,Salalah,2024-01-31,4.62,Active
+SELL0042,Brown-Velasquez,Brand Store,Saudi Arabia,Riyadh,2025-08-14,4.17,Active
+SELL0043,Williams Ward and Harvey,Marketplace Seller,Qatar,Doha,2024-08-12,4.45,Active
+SELL0044,Woodward-Moore,Marketplace Seller,UAE,Abu Dhabi,2024-12-26,4.31,Active
+SELL0045,Summers Wheeler and Fernandez,Marketplace Seller,UAE,Ajman,2024-07-31,3.9,Suspended
+SELL0046,Rodriguez-Snyder,Marketplace Seller,UAE,Abu Dhabi,2025-03-22,4.31,Active
+SELL0047,Johnson Branch and Garcia,Marketplace Seller,UAE,Dubai,2024-05-29,4.08,Active
+SELL0048,Barajas Group,Marketplace Seller,Saudi Arabia,Riyadh,2025-05-11,4.5,Active
+SELL0049,Davis-Andersen,Distributor,UAE,Sharjah,2024-01-13,4.61,Suspended
+SELL0050,Trujillo-Padilla,Distributor,UAE,Ajman,2024-10-11,3.71,Active
+SELL0051,Brown-Park,Marketplace Seller,Saudi Arabia,Jeddah,2024-04-17,4.05,Active
+SELL0052,Sullivan PLC,Brand Store,UAE,Dubai,2024-08-24,4.48,Active
+SELL0053,Edwards LLC,Marketplace Seller,Saudi Arabia,Riyadh,2025-03-21,3.87,Active
+SELL0054,Fleming Inc,Marketplace Seller,Qatar,Doha,2025-07-23,3.78,Active
+SELL0055,Taylor Kim and Edwards,Marketplace Seller,Bahrain,Manama,2025-05-21,4.26,Active
+SELL0056,Howard Hayden and Smith,Marketplace Seller,UAE,Sharjah,2025-07-02,4.14,Active
+SELL0057,Ellison Miller and Rodriguez,Brand Store,Oman,Salalah,2024-05-16,4.4,Active
+SELL0058,Arias Knox and Reed,Brand Store,Bahrain,Manama,2025-05-24,4.29,Active
+SELL0059,Parks Green and Schultz,Distributor,UAE,Ajman,2025-01-29,4.15,Active
+SELL0060,Kim Inc,Marketplace Seller,Kuwait,Kuwait City,2025-09-01,4.53,Active
+SELL0061,Garcia-Ramos,Marketplace Seller,UAE,Ajman,2024-05-02,3.93,Active
+SELL0062,Ford PLC,Marketplace Seller,UAE,Sharjah,2024-02-01,4.02,Active
+SELL0063,Erickson-Lawrence,Marketplace Seller,UAE,Dubai,2024-08-21,3.57,Active
+SELL0064,Mcintyre Ltd,Marketplace Seller,Bahrain,Manama,2025-04-24,4.27,Active
+SELL0065,Williams Group,Marketplace Seller,UAE,Dubai,2024-07-02,3.96,Active
+SELL0066,Howell Booker and Mejia,Brand Store,UAE,Dubai,2024-01-08,4.65,Active
+SELL0067,Merritt Wilson and Ramirez,Marketplace Seller,UAE,Sharjah,2024-03-21,4.9,Active
+SELL0068,Johns Group,Marketplace Seller,UAE,Abu Dhabi,2024-01-30,4.24,Active
+SELL0069,Hale Wolf and Brown,Distributor,Qatar,Doha,2024-12-12,4.24,Active
+SELL0070,Austin Davis and Walker,Marketplace Seller,UAE,Ajman,2025-02-21,4.37,Active
+SELL0071,Jensen Thompson and Gardner,Marketplace Seller,UAE,Abu Dhabi,2024-08-08,4.12,Active
+SELL0072,Blankenship Ltd,Brand Store,Kuwait,Kuwait City,2024-12-27,3.99,Active
+SELL0073,Williams Group,Marketplace Seller,UAE,Abu Dhabi,2024-02-15,4.08,Active
+SELL0074,Russell Group,Marketplace Seller,Bahrain,Manama,2024-12-29,4.53,Active
+SELL0075,Smith Smith and Duncan,Brand Store,Bahrain,Manama,2025-08-24,4.58,Active
+SELL0076,Brown Payne and Love,Marketplace Seller,Saudi Arabia,Jeddah,2024-10-31,4.46,Active
+SELL0077,Osborne and Sons,Marketplace Seller,Bahrain,Manama,2025-09-27,4.07,Active
+SELL0078,Adams Frazier and Moran,Marketplace Seller,UAE,Dubai,2025-09-02,4.71,Active
+SELL0079,Lee Charles and Parker,Brand Store,Qatar,Doha,2025-03-21,4.46,Active
+SELL0080,Atkins-Smith,Brand Store,Saudi Arabia,Jeddah,2024-09-07,4.38,Active

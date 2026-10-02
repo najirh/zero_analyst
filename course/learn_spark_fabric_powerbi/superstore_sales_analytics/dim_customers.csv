@@ -1,0 +1,1201 @@
+﻿CustomerID,CustomerName,Email,Phone,Country,City,CustomerSegment,SignupDate,CustomerStatus
+CUST00001,Donald Walker,rhodespatricia@example.org,971566882282,UAE,Dubai,Corporate,2025-04-11,Active
+CUST00002,Brandon Hall,hoffmanjennifer@example.net,971541632483,UAE,Sharjah,Consumer,2025-03-07,Active
+CUST00003,Kevin Pacheco,blakeerik@example.com,971595652971,UAE,Ajman,Small Business,2025-02-01,Active
+CUST00004,Tyler Rogers,jamesmichael@example.com,78161849593,Bahrain,Manama,Consumer,2024-09-05,Active
+CUST00005,Dylan Miller,michellejames@example.com,971552860080,UAE,Dubai,Consumer,2024-02-03,Active
+CUST00006,Jacob Clark,jacqueline19@example.net,971570221198,UAE,Ajman,Consumer,2025-04-09,Active
+CUST00007,Carla Gray,gabriellecameron@example.org,971572194931,UAE,Sharjah,Consumer,2024-05-04,Active
+CUST00008,Ethan Adams,robinbradley@example.net,376724238849,Saudi Arabia,Riyadh,Consumer,2024-06-16,Active
+CUST00009,Daniel Bright,ddavis@example.org,269166978480,Bahrain,Manama,Consumer,2025-10-17,Active
+CUST00010,Debra Davidson,cartereric@example.org,971521392366,UAE,Abu Dhabi,Corporate,2025-05-12,Active
+CUST00011,Deborah Mason,williamrodriguez@example.net,893252880957,Kuwait,Kuwait City,Consumer,2025-11-27,Active
+CUST00012,William Roman,brianhumphrey@example.org,971591200125,UAE,Ajman,Consumer,2024-03-22,Active
+CUST00013,Mr. Philip Cannon,donnaarroyo@example.org,971562631083,UAE,Sharjah,Small Business,2024-03-03,Active
+CUST00014,Jenny Lewis,jenniferross@example.net,787133150983,Saudi Arabia,Dammam,Consumer,2024-07-12,Active
+CUST00015,Mark Perez,heathchad@example.org,971513366612,UAE,Ajman,Consumer,2024-06-09,Active
+CUST00016,Mr. Nathaniel Khan,esanchez@example.com,116566701065,Kuwait,Kuwait City,Consumer,2024-07-22,Active
+CUST00017,Jerry Henderson,steven17@example.net,80132677360,Saudi Arabia,Riyadh,Consumer,2024-06-30,Active
+CUST00018,Mrs. Rachel Gibson,uhorton@example.net,971595390464,UAE,Dubai,Consumer,2024-10-03,Active
+CUST00019,Mr. Daniel Brown,adkinsbrian@example.net,882081219136,Kuwait,Kuwait City,Corporate,2025-04-28,Active
+CUST00020,Lauren Williams,barnesbrandy@example.net,435346247510,Kuwait,Kuwait City,Consumer,2025-11-18,Active
+CUST00021,Ariel Medina,david51@example.org,971537009224,UAE,Sharjah,Consumer,2025-03-29,Active
+CUST00022,Roy Warner,contrerasangela@example.net,971564079037,UAE,Sharjah,Consumer,2024-09-26,Active
+CUST00023,Deborah Preston,josephjacobs@example.net,348740164005,Saudi Arabia,Dammam,Consumer,2024-03-16,Active
+CUST00024,Patrick Arnold,hhoffman@example.org,805982620450,Bahrain,Manama,Corporate,2025-04-10,Active
+CUST00025,Brian Deleon,vdickson@example.org,971549443226,UAE,Abu Dhabi,Consumer,2024-06-02,Active
+CUST00026,Christopher Marsh,nicolejohnson@example.net,971571071026,UAE,Dubai,Consumer,2025-11-06,Active
+CUST00027,Jennifer Santiago,josephcobb@example.org,971544428803,UAE,Ajman,Small Business,2025-11-05,Active
+CUST00028,John Gonzalez,ybailey@example.org,971576834972,UAE,Sharjah,Consumer,2024-10-06,Active
+CUST00029,Jennifer Ramirez,rasmussenjoshua@example.net,971533484187,UAE,Abu Dhabi,Small Business,2024-06-11,Active
+CUST00030,Sarah Rivera,wilsontara@example.org,19655698169,Saudi Arabia,Jeddah,Consumer,2025-01-06,Active
+CUST00031,April Frost,michaeljones@example.net,971544755914,UAE,Abu Dhabi,Consumer,2024-07-04,Active
+CUST00032,Mary Martinez,william65@example.com,971580016224,UAE,Abu Dhabi,Consumer,2025-11-03,Active
+CUST00033,Cheryl Ortega,lbyrd@example.net,971582931048,UAE,Dubai,Consumer,2025-05-23,Active
+CUST00034,Roy Torres,russellcarpenter@example.net,777387214895,Saudi Arabia,Jeddah,Consumer,2025-02-19,Active
+CUST00035,Megan Walker,dylanwilliams@example.com,971561715898,UAE,Sharjah,Consumer,2025-08-20,Active
+CUST00036,Joy Mercado,jennifercruz@example.com,201632870831,Qatar,Doha,Consumer,2025-03-22,Inactive
+CUST00037,Joseph Hansen,stephanie79@example.net,872774348734,Bahrain,Manama,Consumer,2024-04-07,Active
+CUST00038,Devon Flores,taylorjesse@example.net,971534210512,UAE,Dubai,Consumer,2024-02-26,Inactive
+CUST00039,Jason Rivera,nperry@example.com,971515674719,UAE,Sharjah,Small Business,2024-04-21,Active
+CUST00040,Theresa Smith,wwoods@example.com,971554165849,UAE,Ajman,Small Business,2024-10-11,Active
+CUST00041,Tiffany Barnes,tracynelson@example.com,656272980699,Qatar,Doha,Corporate,2025-07-04,Active
+CUST00042,Sean White,nicholas37@example.com,646417080531,Qatar,Doha,Consumer,2024-03-02,Active
+CUST00043,Christina Smith,johnwells@example.org,745299124190,Saudi Arabia,Dammam,Corporate,2025-07-04,Active
+CUST00044,Jaime David,charlesvaughn@example.net,971545703247,UAE,Sharjah,Consumer,2025-02-24,Active
+CUST00045,Elizabeth Sutton,hoganashlee@example.org,865185067165,Qatar,Doha,Consumer,2024-06-26,Active
+CUST00046,Nicholas Sheppard,christina87@example.com,971520421958,UAE,Ajman,Consumer,2025-05-31,Active
+CUST00047,Debra Christian,ramirezshannon@example.com,971563777024,UAE,Abu Dhabi,Consumer,2024-11-13,Active
+CUST00048,Gabrielle Snyder,hunter35@example.com,971520047453,UAE,Sharjah,Corporate,2025-02-19,Active
+CUST00049,Meredith Hill,blackjames@example.org,971581450611,UAE,Ajman,Consumer,2024-09-05,Active
+CUST00050,Peter Vaughn DDS,bwest@example.org,971542797855,UAE,Ajman,Consumer,2025-06-09,Active
+CUST00051,David Beck,thomas85@example.com,971522503247,UAE,Ajman,Small Business,2024-08-02,Active
+CUST00052,Heather Chavez,john13@example.com,823374989413,Kuwait,Kuwait City,Consumer,2025-12-28,Active
+CUST00053,Adrian Ferguson,brandon08@example.com,971564710375,UAE,Abu Dhabi,Consumer,2024-06-15,Active
+CUST00054,Sean Henry,andrewstaylor@example.com,971531104792,UAE,Sharjah,Consumer,2025-05-24,Active
+CUST00055,Dawn Hensley,shortrichard@example.org,229413186999,Saudi Arabia,Jeddah,Consumer,2024-09-05,Inactive
+CUST00056,Terry Evans,ntorres@example.org,971589452960,UAE,Ajman,Consumer,2025-07-20,Active
+CUST00057,Theresa Clark,josephmiller@example.org,971533508102,UAE,Ajman,Corporate,2025-03-21,Active
+CUST00058,Aaron Hayes,ocarter@example.com,713493618324,Saudi Arabia,Dammam,Consumer,2024-05-06,Active
+CUST00059,Eric Curry,scott74@example.net,971553563237,UAE,Abu Dhabi,Consumer,2024-02-22,Active
+CUST00060,Joshua Kim,prestonjessica@example.net,13990490278,Saudi Arabia,Jeddah,Consumer,2024-10-20,Active
+CUST00061,Kevin Walters,ecosta@example.com,551256746807,Saudi Arabia,Riyadh,Consumer,2025-10-30,Active
+CUST00062,Wayne Powell,sandovalamy@example.com,971589688895,UAE,Sharjah,Consumer,2024-08-17,Active
+CUST00063,Lisa Jimenez,nwolf@example.com,477109324808,Bahrain,Manama,Small Business,2024-02-09,Active
+CUST00064,Susan Murray MD,tyronemoran@example.net,971576880548,UAE,Dubai,Small Business,2024-03-09,Active
+CUST00065,John Kennedy,yarnold@example.org,146584044997,Bahrain,Manama,Small Business,2025-05-29,Active
+CUST00066,Mr. Phillip Bennett,molly39@example.com,971524650271,UAE,Dubai,Small Business,2024-11-21,Active
+CUST00067,Amanda Garner,qhughes@example.net,971594574185,UAE,Dubai,Small Business,2024-06-19,Active
+CUST00068,Andrew Shaw MD,sawyerscott@example.net,26217459615,Saudi Arabia,Jeddah,Consumer,2025-12-16,Inactive
+CUST00069,Nathan Malone,williamsonjimmy@example.net,971570303849,UAE,Sharjah,Small Business,2024-10-04,Active
+CUST00070,Nicole Hamilton MD,wallaceheather@example.org,504556238692,Qatar,Doha,Corporate,2025-11-03,Active
+CUST00071,Janet Vega,jdurham@example.org,971568114585,UAE,Sharjah,Corporate,2024-05-07,Active
+CUST00072,David Smith,rsantana@example.net,175946474367,Oman,Salalah,Consumer,2024-12-02,Active
+CUST00073,Laura Haney,andrew64@example.org,971572134783,UAE,Ajman,Consumer,2024-06-22,Active
+CUST00074,Natasha Williams,swall@example.org,339421047095,Oman,Muscat,Consumer,2025-02-17,Active
+CUST00075,Paul Thompson,kristinwalter@example.com,247451712368,Saudi Arabia,Jeddah,Consumer,2024-03-06,Active
+CUST00076,Dennis Martinez,emily49@example.com,137098593174,Bahrain,Manama,Corporate,2024-03-06,Active
+CUST00077,Andrew Ferrell,davispaige@example.org,971553381573,UAE,Abu Dhabi,Consumer,2024-03-26,Active
+CUST00078,Travis Horton,umatthews@example.org,971595871668,UAE,Ajman,Consumer,2024-10-10,Inactive
+CUST00079,Sandra Gilbert,antonio53@example.com,351585064317,Saudi Arabia,Jeddah,Consumer,2025-10-08,Active
+CUST00080,Linda Smith,john29@example.org,839335290422,Saudi Arabia,Dammam,Consumer,2025-04-28,Active
+CUST00081,Matthew Johnson,howardkristina@example.net,24026811775,Bahrain,Manama,Corporate,2024-07-01,Active
+CUST00082,Daniel Gilbert,stephen00@example.com,971516319707,UAE,Sharjah,Corporate,2025-03-09,Active
+CUST00083,Brian Joseph,fjones@example.com,971546396424,UAE,Abu Dhabi,Corporate,2025-09-10,Active
+CUST00084,Donald Schultz,oscar98@example.com,896118367365,Oman,Muscat,Consumer,2025-03-20,Active
+CUST00085,Emily Edwards,nicholas27@example.org,116152809885,Qatar,Doha,Consumer,2024-10-18,Active
+CUST00086,Teresa Henderson,schmittcaroline@example.com,983273158514,Bahrain,Manama,Corporate,2024-10-26,Active
+CUST00087,Justin Saunders,lynchdiane@example.net,24455022961,Saudi Arabia,Dammam,Consumer,2024-06-14,Active
+CUST00088,Anna Moreno,vbarnes@example.org,971571819576,UAE,Abu Dhabi,Consumer,2025-06-24,Active
+CUST00089,Paula Bradley,wareeric@example.net,971560296557,UAE,Abu Dhabi,Small Business,2024-09-27,Active
+CUST00090,Jeremy Coleman,nperry@example.net,971530279846,UAE,Abu Dhabi,Consumer,2024-02-06,Active
+CUST00091,Douglas Gregory,trose@example.org,690034324451,Saudi Arabia,Jeddah,Consumer,2024-03-24,Active
+CUST00092,Carl Patel,vincentwhitaker@example.com,971575732489,UAE,Sharjah,Consumer,2024-12-29,Active
+CUST00093,Amanda Smith,atkinsbarbara@example.net,641605297516,Oman,Muscat,Corporate,2024-02-22,Active
+CUST00094,Kelly Foster,julie35@example.org,818835523124,Bahrain,Manama,Small Business,2024-06-26,Active
+CUST00095,Peter Jones,kmarshall@example.net,995527177449,Saudi Arabia,Jeddah,Consumer,2024-05-06,Active
+CUST00096,Joel Johnson,marie11@example.net,798079359782,Kuwait,Kuwait City,Corporate,2024-09-13,Active
+CUST00097,Sara Haas,wagnergerald@example.org,788925546659,Kuwait,Kuwait City,Consumer,2024-11-24,Active
+CUST00098,Andrea Davis,umitchell@example.net,971540185054,UAE,Ajman,Consumer,2025-07-30,Active
+CUST00099,Brittany Miller,sabrinacollins@example.net,291486528168,Saudi Arabia,Dammam,Consumer,2025-12-05,Active
+CUST00100,Trevor Peterson,ilee@example.org,418880592962,Kuwait,Kuwait City,Consumer,2024-01-14,Active
+CUST00101,Lori Orr,xwilliams@example.net,971533151417,UAE,Ajman,Corporate,2024-05-12,Active
+CUST00102,Lisa Goodwin,pyoung@example.com,359774688623,Oman,Salalah,Consumer,2025-06-09,Inactive
+CUST00103,Martin Sawyer,dawsonzachary@example.org,124782613750,Saudi Arabia,Riyadh,Corporate,2024-04-11,Active
+CUST00104,Cynthia Vang,jeffrey51@example.net,220472779010,Bahrain,Manama,Consumer,2024-02-08,Active
+CUST00105,Todd Lynch,srodriguez@example.org,103697117980,Kuwait,Kuwait City,Consumer,2024-06-06,Active
+CUST00106,Doris Smith,john62@example.net,851888880670,Oman,Muscat,Consumer,2025-02-23,Active
+CUST00107,Alan Kramer,john19@example.net,971523217648,UAE,Abu Dhabi,Consumer,2025-12-17,Active
+CUST00108,Harold Morgan,mariacohen@example.net,971536778642,UAE,Sharjah,Consumer,2025-07-06,Active
+CUST00109,Chad Baldwin,mjohnson@example.org,54868740345,Oman,Salalah,Consumer,2024-12-15,Inactive
+CUST00110,Caleb Richardson,ypaul@example.com,775841616928,Qatar,Doha,Consumer,2025-09-24,Active
+CUST00111,Matthew Parker,cjackson@example.com,971561371106,UAE,Dubai,Consumer,2024-08-22,Active
+CUST00112,Susan Mendez,yhill@example.org,971554362902,UAE,Dubai,Corporate,2024-11-22,Active
+CUST00113,Heidi Owen,stephaniethomas@example.net,21355690927,Bahrain,Manama,Small Business,2024-02-24,Inactive
+CUST00114,Laura Moreno,redwards@example.org,971564564054,UAE,Sharjah,Consumer,2024-09-28,Active
+CUST00115,Cody Holmes,greenjorge@example.com,947312172715,Bahrain,Manama,Corporate,2025-12-02,Active
+CUST00116,Donna Evans,jenniferho@example.net,583132370589,Oman,Salalah,Consumer,2025-06-01,Active
+CUST00117,Mrs. Stacey Jones,ukey@example.com,971582571674,UAE,Abu Dhabi,Corporate,2024-12-07,Active
+CUST00118,Samantha Jones,dawn77@example.net,971590768647,UAE,Sharjah,Consumer,2025-01-18,Active
+CUST00119,Ronald Arnold,katrinaanderson@example.net,182422535841,Kuwait,Kuwait City,Small Business,2025-01-12,Inactive
+CUST00120,Denise Weber,shawgary@example.net,299590010943,Qatar,Doha,Consumer,2024-05-23,Active
+CUST00121,Kathleen Burton,dawn47@example.org,471027677359,Kuwait,Kuwait City,Consumer,2024-10-31,Active
+CUST00122,Morgan Valencia,xanderson@example.net,537147321046,Oman,Muscat,Consumer,2024-08-16,Active
+CUST00123,Stephanie Li,james27@example.net,971583851335,UAE,Abu Dhabi,Consumer,2024-11-01,Active
+CUST00124,Kathleen Davis,pwagner@example.org,4797480162,Qatar,Doha,Consumer,2024-12-06,Inactive
+CUST00125,Holly Morales,michaelroberts@example.com,971597580056,UAE,Dubai,Small Business,2025-06-15,Active
+CUST00126,Diana Hays,andersoncolin@example.com,852398680002,Bahrain,Manama,Consumer,2025-01-03,Inactive
+CUST00127,Brittany Barry,markaustin@example.org,971562187215,UAE,Dubai,Consumer,2025-08-09,Inactive
+CUST00128,Sarah Wheeler,terickson@example.com,971543978002,UAE,Sharjah,Small Business,2024-10-13,Active
+CUST00129,Michael Whitney,laura09@example.com,993097289623,Saudi Arabia,Jeddah,Consumer,2025-08-18,Inactive
+CUST00130,Cheryl Alexander,shernandez@example.org,897028385786,Qatar,Doha,Consumer,2025-02-21,Active
+CUST00131,Joseph Payne,chelsea33@example.com,344375758441,Oman,Salalah,Small Business,2025-11-29,Active
+CUST00132,William Cardenas,kellyroberts@example.net,574733848421,Saudi Arabia,Riyadh,Consumer,2025-05-08,Active
+CUST00133,Anthony Stein,danawilliams@example.com,712082677345,Saudi Arabia,Jeddah,Consumer,2025-06-24,Active
+CUST00134,Ann Andrews,gentrygregory@example.org,971584993343,UAE,Ajman,Consumer,2025-04-16,Active
+CUST00135,Russell French,sharonhayden@example.com,971515562067,UAE,Dubai,Consumer,2025-11-12,Active
+CUST00136,Keith Rodriguez,justin88@example.com,971553109628,UAE,Sharjah,Small Business,2025-10-02,Active
+CUST00137,Jonathan Nelson,riverajessica@example.net,205493296685,Saudi Arabia,Riyadh,Consumer,2025-10-11,Active
+CUST00138,William Woods,adamreyes@example.com,549904530174,Oman,Muscat,Consumer,2024-10-19,Active
+CUST00139,Stephanie Padilla,hannah45@example.net,327279568783,Kuwait,Kuwait City,Consumer,2024-10-22,Inactive
+CUST00140,Rachel Fox,christian91@example.org,971535301054,UAE,Abu Dhabi,Consumer,2025-05-11,Active
+CUST00141,Christina Herrera,markmeyer@example.org,971870728679,Saudi Arabia,Riyadh,Consumer,2025-08-28,Active
+CUST00142,Elizabeth Johnson,lisa39@example.org,971565229238,UAE,Ajman,Small Business,2025-02-11,Active
+CUST00143,Arthur Mcknight,andersenthomas@example.com,226567661825,Bahrain,Manama,Small Business,2024-02-03,Active
+CUST00144,Kendra Luna,maryavila@example.com,868633752431,Qatar,Doha,Small Business,2024-05-10,Active
+CUST00145,Ralph Stephenson,allencarlos@example.net,971585356616,UAE,Abu Dhabi,Consumer,2025-08-13,Inactive
+CUST00146,Michele Williams,moralesjimmy@example.org,284395995342,Saudi Arabia,Jeddah,Small Business,2024-01-25,Active
+CUST00147,Antonio Fry,conniesimmons@example.com,971595072967,UAE,Sharjah,Consumer,2024-06-10,Active
+CUST00148,Mason James,heather62@example.com,287334270866,Saudi Arabia,Dammam,Consumer,2024-02-04,Active
+CUST00149,David Rivera,nielsenmelanie@example.org,46990139837,Saudi Arabia,Riyadh,Consumer,2025-01-21,Active
+CUST00150,Tyler Smith,suzannewilson@example.com,936385467854,Saudi Arabia,Dammam,Consumer,2025-09-26,Active
+CUST00151,Julie Lang,ugill@example.org,560932048996,Saudi Arabia,Jeddah,Corporate,2024-09-19,Active
+CUST00152,James Whitaker,rpierce@example.com,777252287280,Saudi Arabia,Jeddah,Consumer,2024-04-21,Active
+CUST00153,Theresa Barnett,gutierrezmegan@example.org,971542843745,UAE,Sharjah,Consumer,2024-01-25,Active
+CUST00154,Daniel Bryant,williamsonelizabeth@example.net,700886008484,Kuwait,Kuwait City,Consumer,2024-02-19,Active
+CUST00155,Jessica Case,danieldavis@example.org,398454615679,Oman,Muscat,Corporate,2025-01-01,Active
+CUST00156,Michael Abbott,davisnicholas@example.net,2176591803,Kuwait,Kuwait City,Corporate,2025-12-23,Active
+CUST00157,Lacey Nelson,cohenjuan@example.net,971525734209,UAE,Abu Dhabi,Consumer,2025-10-19,Active
+CUST00158,Timothy Edwards,brendagoodwin@example.net,971535827438,UAE,Sharjah,Consumer,2025-02-15,Active
+CUST00159,Elizabeth Elliott,irhodes@example.com,971553669391,UAE,Abu Dhabi,Consumer,2025-08-22,Active
+CUST00160,Rachel Norris,masonterri@example.org,971532383810,UAE,Sharjah,Consumer,2024-10-07,Inactive
+CUST00161,Billy Jacobs,unovak@example.org,773586629619,Saudi Arabia,Dammam,Consumer,2024-03-12,Active
+CUST00162,Angela Moore,jodistewart@example.org,971512382357,UAE,Dubai,Consumer,2025-08-05,Active
+CUST00163,Jill Juarez,andersonjacob@example.com,101581995604,Saudi Arabia,Jeddah,Small Business,2024-03-07,Active
+CUST00164,Steven Stein,ashleyjackson@example.com,971544626632,UAE,Sharjah,Consumer,2024-10-10,Active
+CUST00165,Derrick Thomas,ryanfisher@example.com,543799371240,Qatar,Doha,Consumer,2024-05-03,Active
+CUST00166,Regina Rivera,ryan92@example.com,971525152994,UAE,Dubai,Consumer,2024-08-30,Active
+CUST00167,Christina Edwards,snovak@example.net,971584588685,UAE,Abu Dhabi,Consumer,2024-08-22,Active
+CUST00168,Kenneth Sanchez MD,kdiaz@example.org,807374167243,Saudi Arabia,Riyadh,Consumer,2025-05-22,Active
+CUST00169,Rachel Jones,iaguilar@example.net,971596787694,UAE,Sharjah,Corporate,2025-04-25,Active
+CUST00170,Jennifer Johnson,jacqueline89@example.net,971552573305,UAE,Abu Dhabi,Consumer,2025-11-05,Active
+CUST00171,David Ortega,deborahwilliams@example.net,971519810404,UAE,Sharjah,Consumer,2025-10-29,Active
+CUST00172,Paul Sheppard,grodriguez@example.com,888993756798,Kuwait,Kuwait City,Consumer,2025-05-09,Active
+CUST00173,Brian Perry,wilsonshelia@example.org,971532419480,UAE,Dubai,Consumer,2024-09-08,Active
+CUST00174,Richard Boyd,thomas77@example.com,401051238282,Saudi Arabia,Dammam,Consumer,2024-09-11,Active
+CUST00175,Crystal Sullivan,jacobsandoval@example.com,937966033419,Saudi Arabia,Riyadh,Consumer,2025-02-12,Active
+CUST00176,Holly Gonzalez,bakermichelle@example.net,971599838873,UAE,Ajman,Consumer,2025-08-06,Active
+CUST00177,James Long,baileymegan@example.net,499125134125,Saudi Arabia,Jeddah,Consumer,2025-12-06,Active
+CUST00178,Chad Reyes,tommymedina@example.net,971591861231,UAE,Abu Dhabi,Consumer,2025-01-07,Active
+CUST00179,Christopher Roberts,leonardhayes@example.org,971586165878,UAE,Sharjah,Consumer,2025-11-10,Active
+CUST00180,Kari Lee,gmaynard@example.net,676772190340,Qatar,Doha,Small Business,2025-09-23,Active
+CUST00181,Richard Cunningham,hdunn@example.net,485807836134,Saudi Arabia,Dammam,Small Business,2024-06-13,Active
+CUST00182,Robert Gonzales,rowejoel@example.net,971527807333,UAE,Ajman,Consumer,2024-11-24,Active
+CUST00183,Michael Chen,christinaglover@example.org,958498254494,Saudi Arabia,Jeddah,Consumer,2025-03-05,Active
+CUST00184,Anna Estes,rsellers@example.net,971592405138,UAE,Abu Dhabi,Consumer,2025-12-20,Active
+CUST00185,Danielle Dawson,kathleenlowe@example.com,946671168457,Saudi Arabia,Riyadh,Consumer,2024-04-02,Active
+CUST00186,Raymond Oconnor,sreid@example.com,863637454589,Saudi Arabia,Dammam,Small Business,2024-08-26,Active
+CUST00187,Mr. Michael Williams,simsmary@example.org,277063242415,Saudi Arabia,Jeddah,Consumer,2025-02-17,Active
+CUST00188,Mariah Williams,jessica36@example.net,971571119361,UAE,Ajman,Consumer,2024-03-01,Active
+CUST00189,Daniel Miller,aprilwallace@example.org,971521643208,UAE,Dubai,Corporate,2024-03-07,Active
+CUST00190,Virginia Henderson,timperez@example.org,155426221890,Saudi Arabia,Dammam,Corporate,2025-05-22,Active
+CUST00191,Nathan Fuller,samanthajensen@example.com,112196565234,Oman,Salalah,Small Business,2025-04-19,Active
+CUST00192,Michelle Mitchell,abbottdominique@example.com,898364037613,Qatar,Doha,Small Business,2024-06-30,Active
+CUST00193,Stephen Smith,sarah26@example.net,971522225855,UAE,Ajman,Consumer,2025-04-10,Active
+CUST00194,Carrie Ruiz,smithcarlos@example.com,971512155748,UAE,Dubai,Consumer,2024-11-03,Active
+CUST00195,Tiffany Sanders,courtney86@example.com,971582764242,UAE,Dubai,Consumer,2024-06-06,Active
+CUST00196,Joshua Jensen,christopher18@example.org,971584926168,UAE,Dubai,Corporate,2025-05-27,Active
+CUST00197,Gabriel Willis,collinssamuel@example.org,316179904210,Qatar,Doha,Small Business,2025-12-12,Active
+CUST00198,Troy Mills,gary24@example.net,56481491778,Saudi Arabia,Dammam,Consumer,2025-05-27,Active
+CUST00199,Carol Moore,shannonemily@example.org,800030756220,Oman,Muscat,Consumer,2024-02-10,Active
+CUST00200,Mary Walker,robertcortez@example.com,971520016389,UAE,Sharjah,Consumer,2025-08-09,Active
+CUST00201,Barbara Nunez,whitelinda@example.org,174451870534,Qatar,Doha,Consumer,2025-08-25,Active
+CUST00202,Dana Richardson,xcuevas@example.org,206038505064,Saudi Arabia,Jeddah,Small Business,2025-07-26,Active
+CUST00203,Mrs. Tonya Kaufman,jenniferdavis@example.org,971593667964,UAE,Dubai,Consumer,2024-05-29,Active
+CUST00204,Mercedes Watson,carpenterwilliam@example.net,971563509641,UAE,Abu Dhabi,Consumer,2025-10-17,Active
+CUST00205,Keith Graham,joelgreen@example.com,971582506526,UAE,Dubai,Consumer,2025-08-21,Active
+CUST00206,Ronnie Nguyen,enelson@example.org,912127756185,Saudi Arabia,Dammam,Corporate,2025-11-07,Active
+CUST00207,Samuel Davis,margaret90@example.org,971515525633,UAE,Ajman,Consumer,2024-11-25,Active
+CUST00208,Brandon Wright,randy04@example.com,67883171210,Saudi Arabia,Jeddah,Consumer,2025-09-02,Active
+CUST00209,Mrs. Samantha Watson,aguilarjonathan@example.org,971599729573,UAE,Abu Dhabi,Consumer,2025-08-29,Active
+CUST00210,Steven Ramos,christopherboone@example.com,971534062169,UAE,Sharjah,Consumer,2024-01-16,Active
+CUST00211,Amber Glass,zunderwood@example.com,662532447209,Saudi Arabia,Dammam,Corporate,2024-03-30,Active
+CUST00212,Kathleen Andrade,rbrown@example.com,971549302467,UAE,Ajman,Corporate,2025-03-26,Active
+CUST00213,Stephen Fox,mayokimberly@example.com,875985642059,Saudi Arabia,Riyadh,Consumer,2024-04-10,Active
+CUST00214,Diana Stokes,xmoreno@example.net,971555084109,UAE,Dubai,Small Business,2024-01-22,Active
+CUST00215,Ariel Sandoval,amanda03@example.net,522395590599,Saudi Arabia,Jeddah,Consumer,2025-12-30,Active
+CUST00216,William Keith,lweaver@example.com,971572671672,UAE,Sharjah,Consumer,2025-02-15,Active
+CUST00217,Kyle Smith,nsmith@example.org,971528492846,UAE,Sharjah,Consumer,2024-01-28,Active
+CUST00218,Christopher Lang,brian29@example.net,185156915452,Kuwait,Kuwait City,Consumer,2025-08-11,Active
+CUST00219,Mark Freeman,grant89@example.com,971594903513,UAE,Dubai,Small Business,2025-06-18,Active
+CUST00220,Casey Parker,david09@example.com,971562418906,UAE,Abu Dhabi,Consumer,2024-06-11,Active
+CUST00221,Latoya White,samantha93@example.net,725135521570,Saudi Arabia,Dammam,Consumer,2025-09-13,Active
+CUST00222,Hayley Buchanan,williamssamuel@example.com,971546919127,UAE,Dubai,Consumer,2024-06-02,Active
+CUST00223,Katherine Gray,egarcia@example.net,971566240283,UAE,Abu Dhabi,Consumer,2025-12-08,Active
+CUST00224,Carla Jones,phillipslucas@example.org,526218159970,Bahrain,Manama,Consumer,2025-04-20,Active
+CUST00225,Steve Moore,riveraterri@example.com,443106987205,Oman,Muscat,Small Business,2025-11-18,Active
+CUST00226,Matthew Greene,collinclark@example.net,171467741862,Saudi Arabia,Riyadh,Consumer,2024-11-08,Active
+CUST00227,Jeremy Baker,rbaker@example.net,211586938068,Kuwait,Kuwait City,Consumer,2025-10-08,Active
+CUST00228,Taylor Armstrong,thomasmiller@example.net,898992172233,Saudi Arabia,Riyadh,Consumer,2025-12-05,Active
+CUST00229,Michael Harris,maryscott@example.net,971577812526,UAE,Abu Dhabi,Consumer,2024-02-01,Active
+CUST00230,James Sanders,melissa87@example.org,162299911914,Saudi Arabia,Jeddah,Consumer,2025-10-29,Active
+CUST00231,Deborah Pena,rjohnson@example.com,971565849014,UAE,Dubai,Small Business,2025-10-04,Active
+CUST00232,Melissa Williams,hannah07@example.com,971520669435,UAE,Abu Dhabi,Corporate,2024-04-15,Inactive
+CUST00233,Robert Turner,megan13@example.org,754691373678,Kuwait,Kuwait City,Small Business,2025-10-16,Active
+CUST00234,Caitlin Collins,htaylor@example.net,233030705345,Saudi Arabia,Dammam,Consumer,2025-08-22,Active
+CUST00235,Becky Johnson,tracy72@example.com,971590170222,UAE,Abu Dhabi,Consumer,2025-01-03,Active
+CUST00236,Christopher Kline,mitchellpaul@example.org,333468007229,Saudi Arabia,Jeddah,Corporate,2025-03-04,Inactive
+CUST00237,Terri Marquez,rodney65@example.com,374896910858,Saudi Arabia,Jeddah,Corporate,2024-06-12,Active
+CUST00238,Brian Brown,danielle44@example.net,328309652074,Saudi Arabia,Riyadh,Consumer,2025-03-20,Active
+CUST00239,Norman Aguilar,matthewreeves@example.net,971583678496,UAE,Abu Dhabi,Consumer,2025-10-24,Active
+CUST00240,Susan Powers,megan82@example.com,971586989724,UAE,Ajman,Consumer,2025-01-25,Active
+CUST00241,David Stokes,staceylam@example.net,353465549471,Kuwait,Kuwait City,Consumer,2024-03-12,Active
+CUST00242,Lauren Oliver,gpreston@example.org,971522790902,UAE,Sharjah,Consumer,2024-02-09,Active
+CUST00243,Edwin Brown,derrickgonzalez@example.com,971591638280,UAE,Abu Dhabi,Consumer,2025-09-25,Active
+CUST00244,Victoria Thomas,kimberlyfreeman@example.net,500743292712,Bahrain,Manama,Corporate,2025-12-21,Active
+CUST00245,Jeffrey Woods,johnsonjames@example.com,583003354216,Oman,Salalah,Small Business,2024-11-12,Active
+CUST00246,Rodney Evans,stephen89@example.net,971563505232,UAE,Abu Dhabi,Consumer,2025-03-05,Active
+CUST00247,Whitney Cooper,mhoward@example.org,33230982150,Saudi Arabia,Dammam,Consumer,2024-09-03,Active
+CUST00248,Joseph Williams,stanleydesiree@example.org,971576268268,UAE,Abu Dhabi,Corporate,2025-10-01,Active
+CUST00249,Jeremy Martinez,thomas23@example.net,461849926189,Kuwait,Kuwait City,Consumer,2024-02-05,Active
+CUST00250,Kathleen Lynch,marie35@example.net,420873753001,Saudi Arabia,Jeddah,Consumer,2024-07-25,Active
+CUST00251,Brittany Davis,cummingscraig@example.com,744701204556,Kuwait,Kuwait City,Consumer,2025-09-01,Active
+CUST00252,Amber Christian,markkline@example.net,971580860062,UAE,Dubai,Small Business,2024-03-10,Active
+CUST00253,Jacqueline Cooper,moralessuzanne@example.com,762120216979,Saudi Arabia,Riyadh,Consumer,2024-07-14,Active
+CUST00254,Ian Johnson,timothyfreeman@example.com,14508993588,Kuwait,Kuwait City,Consumer,2024-05-12,Active
+CUST00255,Danielle Reed,jhernandez@example.net,971553092987,UAE,Abu Dhabi,Small Business,2024-03-10,Active
+CUST00256,Brooke Allison,ebooth@example.com,971534694812,UAE,Sharjah,Consumer,2024-02-09,Active
+CUST00257,Donald Hunter,ppowell@example.org,971521952314,UAE,Dubai,Consumer,2024-08-22,Active
+CUST00258,Joan Gates,fstewart@example.net,166088019948,Saudi Arabia,Dammam,Small Business,2024-12-01,Active
+CUST00259,Tiffany Cox,velasquezmegan@example.com,571130554885,Saudi Arabia,Jeddah,Consumer,2024-05-31,Active
+CUST00260,Charles Love,nrodriguez@example.org,163735160917,Saudi Arabia,Dammam,Corporate,2024-02-03,Inactive
+CUST00261,Brandy Porter,tranryan@example.net,971599817241,UAE,Dubai,Consumer,2025-04-25,Active
+CUST00262,Tammy Thompson,jessicaanderson@example.com,971584842172,UAE,Dubai,Corporate,2024-12-18,Active
+CUST00263,Erica Keith,spetty@example.org,971575564145,UAE,Sharjah,Corporate,2025-04-24,Active
+CUST00264,Tracy Chavez,devonmorrison@example.net,971550131083,UAE,Abu Dhabi,Consumer,2024-07-18,Active
+CUST00265,Kimberly Edwards,jamesweber@example.com,228851587996,Oman,Muscat,Corporate,2025-01-08,Active
+CUST00266,Rhonda Mills,jamesbrian@example.org,424420438057,Saudi Arabia,Jeddah,Small Business,2024-07-27,Active
+CUST00267,Kristina Walker,yyoung@example.net,66658004397,Saudi Arabia,Riyadh,Consumer,2025-03-25,Active
+CUST00268,Maria Fischer,kimberlybrandt@example.com,212281606484,Kuwait,Kuwait City,Consumer,2025-10-27,Active
+CUST00269,Abigail Owens,billmcfarland@example.net,971597384552,UAE,Abu Dhabi,Small Business,2024-04-27,Active
+CUST00270,Lisa Stanley,jtyler@example.com,583281826886,Qatar,Doha,Small Business,2024-02-07,Active
+CUST00271,Mary Rivera,jeffery98@example.com,157399305616,Saudi Arabia,Jeddah,Consumer,2024-09-12,Active
+CUST00272,Thomas Short,willie87@example.com,435811288013,Qatar,Doha,Consumer,2025-01-29,Active
+CUST00273,Brian Medina,elucas@example.net,971533468625,UAE,Dubai,Corporate,2025-09-23,Active
+CUST00274,Mitchell Johnson,brownlaura@example.net,934667665061,Saudi Arabia,Dammam,Corporate,2025-05-15,Active
+CUST00275,Amy Reese,haynescharles@example.net,449147660728,Saudi Arabia,Dammam,Consumer,2024-01-05,Active
+CUST00276,Robert Gardner,kennetheaton@example.net,88210099688,Oman,Muscat,Consumer,2024-04-09,Active
+CUST00277,Stephanie Cooper,gwhitehead@example.org,971545396080,UAE,Sharjah,Consumer,2024-08-10,Active
+CUST00278,Ruben Lee,emilybradley@example.org,814141397552,Qatar,Doha,Consumer,2024-04-27,Active
+CUST00279,Stephanie Stewart,qmurphy@example.com,995562053364,Oman,Salalah,Consumer,2024-03-14,Active
+CUST00280,Sherry Ford,kim78@example.org,971548499601,UAE,Sharjah,Small Business,2024-04-08,Active
+CUST00281,Sarah Trevino,patriciagonzalez@example.net,108099693084,Bahrain,Manama,Consumer,2024-05-08,Active
+CUST00282,Martha Hernandez,xwalker@example.net,971557379179,UAE,Dubai,Consumer,2025-10-14,Active
+CUST00283,John Dixon,acox@example.net,928272299275,Bahrain,Manama,Corporate,2025-06-19,Active
+CUST00284,Arthur Wood Jr.,aprilmoody@example.com,971568075712,UAE,Dubai,Consumer,2024-06-08,Active
+CUST00285,Anthony Hooper,dakota84@example.net,971548963185,UAE,Abu Dhabi,Consumer,2024-12-08,Active
+CUST00286,Carrie Valdez,briana18@example.com,971527562548,UAE,Dubai,Small Business,2024-07-11,Active
+CUST00287,Kelli Gomez,tommy79@example.org,971591242298,UAE,Ajman,Small Business,2024-10-01,Active
+CUST00288,Christopher Jones,jason22@example.com,971568327846,UAE,Abu Dhabi,Small Business,2025-01-01,Inactive
+CUST00289,Mary Perry,jennifer77@example.com,926030299228,Saudi Arabia,Riyadh,Small Business,2025-03-15,Active
+CUST00290,Christopher Nielsen,kgreene@example.net,971532470291,UAE,Ajman,Corporate,2025-10-12,Active
+CUST00291,Mary Campbell,robinsoncatherine@example.com,236929298425,Kuwait,Kuwait City,Consumer,2024-01-14,Active
+CUST00292,James Anderson,harrismichele@example.net,971594912633,UAE,Dubai,Corporate,2025-03-11,Active
+CUST00293,Lisa Thompson,richamanda@example.org,971547735088,UAE,Sharjah,Consumer,2025-05-14,Active
+CUST00294,Stephanie Ryan,princekimberly@example.net,865086376599,Saudi Arabia,Dammam,Consumer,2024-03-09,Active
+CUST00295,Ralph Kent,campbellnancy@example.com,300981806356,Qatar,Doha,Consumer,2024-11-06,Active
+CUST00296,Kevin Green,ncunningham@example.com,971534586222,UAE,Ajman,Consumer,2024-03-18,Active
+CUST00297,Dalton Arnold,jwhite@example.net,449562137213,Oman,Muscat,Small Business,2025-12-25,Active
+CUST00298,Joshua Terry,martintamara@example.org,971566378562,UAE,Dubai,Small Business,2024-10-19,Active
+CUST00299,Kaitlyn Burke,brownjeffrey@example.org,669849027703,Kuwait,Kuwait City,Consumer,2025-08-10,Active
+CUST00300,Kyle Black,christinacraig@example.com,971521377787,UAE,Ajman,Consumer,2024-07-27,Active
+CUST00301,Christopher Shea,zgomez@example.com,801184895543,Qatar,Doha,Consumer,2024-06-23,Active
+CUST00302,Jared Smith,richardrodriguez@example.org,971593665691,UAE,Dubai,Consumer,2025-12-04,Active
+CUST00303,Bruce Palmer,nancy94@example.net,697357790714,Saudi Arabia,Jeddah,Consumer,2025-01-02,Active
+CUST00304,Connie Haynes,robert58@example.net,971563811239,UAE,Abu Dhabi,Consumer,2024-10-06,Active
+CUST00305,Danielle Davis,charles27@example.com,394237333433,Oman,Muscat,Small Business,2024-01-08,Active
+CUST00306,Heather Maxwell,moraemma@example.net,971599605800,UAE,Ajman,Consumer,2025-09-01,Active
+CUST00307,Scott Rubio,uwatson@example.com,728463920867,Bahrain,Manama,Consumer,2024-12-25,Active
+CUST00308,Scott Parsons,sbray@example.net,971535214698,UAE,Dubai,Small Business,2024-01-24,Active
+CUST00309,Alexandra Clark,nguyenchloe@example.com,843479552763,Oman,Salalah,Consumer,2024-12-01,Active
+CUST00310,Scott Ramirez,ashleykrause@example.net,143866322702,Qatar,Doha,Consumer,2025-05-26,Active
+CUST00311,Sarah Holmes DDS,jevans@example.net,612034717545,Kuwait,Kuwait City,Consumer,2024-12-30,Active
+CUST00312,Deanna Smith,bellerin@example.net,971569844250,UAE,Abu Dhabi,Small Business,2025-02-13,Active
+CUST00313,Mariah Thompson,michael87@example.net,971548965695,UAE,Ajman,Consumer,2024-05-25,Active
+CUST00314,Louis Ford,mirandadavidson@example.com,971589146438,UAE,Abu Dhabi,Consumer,2024-11-22,Inactive
+CUST00315,Jennifer Meadows,martinjeremy@example.com,971525886372,UAE,Ajman,Consumer,2024-11-03,Active
+CUST00316,Lisa Foster,xnorman@example.net,622023413261,Qatar,Doha,Consumer,2025-04-21,Active
+CUST00317,Kimberly Johnson,fwarren@example.org,921643347228,Qatar,Doha,Consumer,2024-02-16,Active
+CUST00318,Shannon Nguyen,imcdonald@example.com,971562374647,UAE,Abu Dhabi,Consumer,2024-01-21,Active
+CUST00319,Travis Ryan,owelch@example.net,884578317456,Bahrain,Manama,Small Business,2025-02-04,Active
+CUST00320,Joseph Chang,mauriceharrison@example.org,971546989387,UAE,Dubai,Consumer,2024-04-23,Active
+CUST00321,Pedro Evans DDS,carla08@example.com,971536996639,UAE,Sharjah,Corporate,2025-05-17,Active
+CUST00322,Jessica Wright,oclayton@example.com,971539221379,UAE,Abu Dhabi,Consumer,2024-05-17,Active
+CUST00323,Kellie Marsh,justin84@example.com,971567641756,UAE,Sharjah,Corporate,2024-02-27,Active
+CUST00324,Chad Rodriguez,rwilliamson@example.net,971558548947,UAE,Abu Dhabi,Consumer,2024-05-17,Active
+CUST00325,Alec Williams,lopezcurtis@example.com,703120735647,Bahrain,Manama,Consumer,2025-03-30,Active
+CUST00326,Erin Bridges,brianrowe@example.org,234601367303,Bahrain,Manama,Consumer,2024-12-04,Active
+CUST00327,Maxwell Clark,tmaldonado@example.com,971530610500,UAE,Dubai,Small Business,2025-06-20,Active
+CUST00328,Natasha Dunn,kingdanielle@example.org,31365024916,Oman,Muscat,Corporate,2024-04-25,Active
+CUST00329,Richard Alvarez,nathandavis@example.org,195005281273,Oman,Salalah,Consumer,2024-01-07,Active
+CUST00330,Nicole Trujillo,bquinn@example.net,524077848739,Saudi Arabia,Jeddah,Consumer,2025-12-17,Active
+CUST00331,John Dillon,caseymoore@example.com,971514437677,UAE,Sharjah,Consumer,2025-01-31,Active
+CUST00332,Jordan Parsons,bgross@example.net,935186387829,Kuwait,Kuwait City,Consumer,2025-08-21,Active
+CUST00333,Ashley Mills,williamssharon@example.org,317310967899,Bahrain,Manama,Consumer,2024-08-23,Active
+CUST00334,Mitchell Smith,dianahebert@example.org,971510797968,UAE,Sharjah,Consumer,2024-02-05,Active
+CUST00335,Heather Paul,yshort@example.net,948014138113,Saudi Arabia,Riyadh,Consumer,2024-12-07,Active
+CUST00336,Matthew Hudson,angelagrant@example.net,971580047063,UAE,Abu Dhabi,Consumer,2024-10-08,Inactive
+CUST00337,Heather Ellis,kandrade@example.org,971552721553,UAE,Dubai,Corporate,2024-03-18,Active
+CUST00338,Mary Ferguson,umahoney@example.net,566593983684,Bahrain,Manama,Corporate,2025-02-05,Active
+CUST00339,James Barber,caitlin82@example.com,433504888992,Qatar,Doha,Small Business,2025-12-03,Active
+CUST00340,Charles Richardson,jesseshepherd@example.org,931572791940,Qatar,Doha,Corporate,2024-01-28,Active
+CUST00341,Tammy Cook,hbutler@example.org,971585142815,UAE,Abu Dhabi,Consumer,2024-10-05,Active
+CUST00342,Tanya Walters,hbrown@example.org,971551965471,UAE,Dubai,Small Business,2025-06-29,Active
+CUST00343,Erin Wolfe,brentdennis@example.com,998136462251,Saudi Arabia,Riyadh,Consumer,2024-08-21,Active
+CUST00344,James Miller,iayala@example.org,971551208934,UAE,Abu Dhabi,Consumer,2025-02-21,Active
+CUST00345,James Duncan,johnadams@example.com,911665535590,Qatar,Doha,Corporate,2024-12-17,Active
+CUST00346,Roberto Lang,scottglass@example.org,971570344167,UAE,Dubai,Consumer,2024-05-03,Active
+CUST00347,Peter Farrell,singhjohn@example.net,971598997222,UAE,Abu Dhabi,Consumer,2024-05-25,Active
+CUST00348,Samantha Smith,torresthomas@example.com,833884879206,Bahrain,Manama,Small Business,2025-11-07,Active
+CUST00349,Dawn Brown,kristinawilliamson@example.org,16451046368,Kuwait,Kuwait City,Consumer,2025-10-23,Active
+CUST00350,Mr. Brandon Gonzalez,tcastro@example.org,384576205554,Saudi Arabia,Jeddah,Corporate,2025-10-21,Active
+CUST00351,Desiree Brown,natasha08@example.com,256216893639,Saudi Arabia,Riyadh,Consumer,2025-12-28,Active
+CUST00352,Larry Cole,jamietaylor@example.net,248262925188,Qatar,Doha,Consumer,2024-11-07,Active
+CUST00353,Brianna Johnson,nicole66@example.com,423122099499,Saudi Arabia,Dammam,Consumer,2024-05-14,Inactive
+CUST00354,Michael Howard,manderson@example.com,971546286070,UAE,Ajman,Consumer,2024-06-17,Active
+CUST00355,Samuel Henry,frankperez@example.com,971511940369,UAE,Abu Dhabi,Consumer,2025-06-03,Active
+CUST00356,Derrick Gutierrez,katherinejones@example.com,573660965699,Saudi Arabia,Dammam,Consumer,2025-07-12,Active
+CUST00357,Michele Johnson,hayesmargaret@example.org,886086803476,Qatar,Doha,Consumer,2025-01-26,Active
+CUST00358,Christopher Phillips,vaughnrebecca@example.com,971587066032,UAE,Ajman,Small Business,2025-07-18,Active
+CUST00359,Nathan Wilson,phillipmorris@example.org,793714521117,Qatar,Doha,Consumer,2025-08-28,Active
+CUST00360,Monica Hester,nicholasjames@example.org,971530808635,UAE,Ajman,Consumer,2024-03-03,Active
+CUST00361,Mary Hernandez,haroldjoseph@example.com,474212309407,Saudi Arabia,Jeddah,Corporate,2025-10-27,Active
+CUST00362,Abigail Andrade,jaykeller@example.com,719903849830,Oman,Salalah,Corporate,2025-09-16,Active
+CUST00363,Amanda Nash,mark10@example.org,224999827950,Bahrain,Manama,Consumer,2024-04-18,Active
+CUST00364,Steven Wilkins,ebridges@example.com,971538175911,UAE,Abu Dhabi,Corporate,2025-07-15,Active
+CUST00365,Scott Murphy,swarren@example.org,198179469548,Kuwait,Kuwait City,Consumer,2024-12-09,Active
+CUST00366,Carl Hart,lvasquez@example.net,430107139660,Saudi Arabia,Jeddah,Small Business,2025-12-27,Active
+CUST00367,Christy Davidson,jonathan14@example.com,15569902355,Oman,Muscat,Consumer,2024-09-12,Active
+CUST00368,Maria Olson,imcclain@example.com,971573640055,UAE,Abu Dhabi,Consumer,2025-10-30,Active
+CUST00369,Tanya Brown,annette58@example.net,971579069690,UAE,Dubai,Consumer,2024-12-03,Active
+CUST00370,Evelyn Hendricks,carl24@example.org,682996291450,Oman,Muscat,Consumer,2024-01-14,Active
+CUST00371,David Hayes DVM,aliciathompson@example.com,971588502806,UAE,Dubai,Consumer,2024-10-29,Active
+CUST00372,Susan Wallace,lloydrebecca@example.org,971588981711,UAE,Abu Dhabi,Consumer,2025-07-27,Active
+CUST00373,Morgan Mills,douglas18@example.net,307681040915,Kuwait,Kuwait City,Consumer,2024-05-18,Active
+CUST00374,Ralph Reese,lanelarry@example.org,334485714224,Saudi Arabia,Riyadh,Consumer,2025-10-11,Active
+CUST00375,Kayla Clark,andrea42@example.net,971585814820,UAE,Sharjah,Consumer,2024-01-12,Active
+CUST00376,Carolyn Collins,amber02@example.org,16016629979,Kuwait,Kuwait City,Corporate,2025-08-09,Active
+CUST00377,Michelle Lambert,beltrankatelyn@example.com,171747733294,Oman,Salalah,Consumer,2024-08-16,Active
+CUST00378,Mary Mccormick,shawn01@example.com,971563175588,UAE,Abu Dhabi,Small Business,2024-10-13,Active
+CUST00379,Ryan Campbell,cassandra28@example.org,971525702852,UAE,Abu Dhabi,Consumer,2024-03-23,Active
+CUST00380,Ashley Hawkins,sparksamanda@example.com,393827615396,Qatar,Doha,Consumer,2024-10-23,Active
+CUST00381,Michael Thompson,stevensonjennifer@example.com,997581724619,Qatar,Doha,Consumer,2025-02-18,Active
+CUST00382,Sally Murphy,davislisa@example.net,227846997335,Bahrain,Manama,Consumer,2025-05-15,Active
+CUST00383,Elizabeth Harding,wrobbins@example.org,986240580085,Saudi Arabia,Dammam,Consumer,2025-02-20,Active
+CUST00384,Cynthia Park,tgarrett@example.com,971589638835,UAE,Dubai,Corporate,2025-09-20,Active
+CUST00385,Daniel Thompson,jacobcruz@example.com,242201027621,Qatar,Doha,Small Business,2024-10-23,Active
+CUST00386,Jesus Mccormick,dhanson@example.net,876532690973,Qatar,Doha,Consumer,2025-04-13,Active
+CUST00387,Laura Johnson,carrolljanet@example.org,971533116992,UAE,Abu Dhabi,Corporate,2024-07-15,Inactive
+CUST00388,Angela Cross,steven18@example.net,371894905807,Qatar,Doha,Consumer,2025-02-27,Active
+CUST00389,Nicholas Fisher,keith09@example.net,940792904904,Oman,Salalah,Corporate,2025-01-09,Active
+CUST00390,Sarah Ramirez,christinahill@example.com,192927524372,Kuwait,Kuwait City,Small Business,2024-03-01,Active
+CUST00391,Bradley Thomas,marymullins@example.com,372395041027,Bahrain,Manama,Corporate,2025-09-21,Active
+CUST00392,Travis Nielsen,noahthornton@example.com,286047658018,Saudi Arabia,Jeddah,Consumer,2024-12-13,Inactive
+CUST00393,Thomas Garrison,joseph14@example.net,971512825896,UAE,Dubai,Small Business,2025-11-29,Active
+CUST00394,Michael Allen,aprilbyrd@example.org,971594607464,UAE,Sharjah,Consumer,2025-03-02,Active
+CUST00395,Adam Jones,gdavis@example.net,534430091093,Qatar,Doha,Small Business,2024-08-16,Active
+CUST00396,Barbara Gates,nicholasgallagher@example.net,124471746542,Oman,Muscat,Corporate,2025-04-10,Active
+CUST00397,James Ferrell,stephanie42@example.com,739627128639,Kuwait,Kuwait City,Consumer,2024-07-21,Active
+CUST00398,Ashley Jones,kimberly07@example.org,971532371392,UAE,Sharjah,Consumer,2025-10-28,Active
+CUST00399,Andrew Myers,isabelconway@example.net,877661830671,Qatar,Doha,Consumer,2025-04-21,Active
+CUST00400,Felicia Turner MD,diazmelissa@example.com,971539718818,UAE,Dubai,Consumer,2025-01-25,Active
+CUST00401,Randall Holland,angelaponce@example.net,461571732030,Saudi Arabia,Jeddah,Consumer,2024-02-28,Active
+CUST00402,Ricky Schneider,zferguson@example.com,50506138782,Saudi Arabia,Riyadh,Small Business,2024-06-23,Active
+CUST00403,Nicolas Burns,ruizsamantha@example.org,202041792911,Saudi Arabia,Riyadh,Corporate,2024-06-19,Active
+CUST00404,Connie Brock,vrogers@example.net,971585902244,UAE,Ajman,Consumer,2024-12-28,Active
+CUST00405,Michael Gardner,mary30@example.net,971512086213,UAE,Sharjah,Corporate,2024-10-20,Active
+CUST00406,Donald Todd,heathertran@example.com,902196207100,Saudi Arabia,Riyadh,Consumer,2024-05-06,Active
+CUST00407,Linda Campbell,nschwartz@example.org,876329092791,Saudi Arabia,Dammam,Consumer,2025-11-07,Active
+CUST00408,David Wilson,montgomerymichelle@example.net,971554810380,UAE,Dubai,Consumer,2024-09-10,Active
+CUST00409,Mark Clark,leelaura@example.net,722005436459,Saudi Arabia,Riyadh,Consumer,2025-01-05,Active
+CUST00410,Tammy Thompson,washingtondarren@example.org,995635315313,Kuwait,Kuwait City,Consumer,2024-02-01,Active
+CUST00411,Daniel Ruiz,bbrown@example.org,972652735435,Saudi Arabia,Jeddah,Consumer,2025-09-27,Inactive
+CUST00412,Diana Rodriguez,kellis@example.com,492929831687,Kuwait,Kuwait City,Consumer,2024-01-24,Active
+CUST00413,Diana Blair,johnhamilton@example.org,906007806867,Oman,Muscat,Consumer,2025-03-07,Active
+CUST00414,Justin Smith,idodson@example.com,971538186921,UAE,Abu Dhabi,Small Business,2024-11-26,Active
+CUST00415,Ann Castillo,evan79@example.net,971591503616,UAE,Abu Dhabi,Consumer,2024-08-03,Active
+CUST00416,Julie Taylor,xlopez@example.net,971543766262,UAE,Dubai,Consumer,2025-03-02,Active
+CUST00417,Shannon Jones,alyssa46@example.com,195085016579,Saudi Arabia,Jeddah,Consumer,2024-12-04,Active
+CUST00418,Justin Jones,devonrogers@example.net,971595661847,UAE,Dubai,Consumer,2024-09-23,Active
+CUST00419,Todd Carpenter,karenhodges@example.com,486401557788,Kuwait,Kuwait City,Consumer,2024-03-23,Active
+CUST00420,Samantha Lam,zoliver@example.net,971517667857,UAE,Abu Dhabi,Corporate,2024-12-09,Active
+CUST00421,Teresa Jones,zmiller@example.org,971560526894,UAE,Dubai,Consumer,2025-11-21,Active
+CUST00422,Ashley Hill,tylergolden@example.net,468275670431,Saudi Arabia,Riyadh,Consumer,2024-07-29,Active
+CUST00423,Travis Newman,plane@example.net,798877492424,Saudi Arabia,Dammam,Consumer,2025-09-28,Active
+CUST00424,Patricia Williams,justin29@example.org,971582045464,UAE,Dubai,Small Business,2024-12-19,Active
+CUST00425,William Franco,evanwilson@example.com,745238055257,Qatar,Doha,Consumer,2025-06-03,Active
+CUST00426,Barbara Johnson,dmack@example.com,88547492975,Qatar,Doha,Corporate,2025-12-13,Inactive
+CUST00427,Brenda Pierce,angel93@example.com,971550670787,UAE,Sharjah,Corporate,2025-06-18,Active
+CUST00428,Lee Lee,kimberlywang@example.org,971573975459,UAE,Abu Dhabi,Consumer,2024-09-17,Active
+CUST00429,Jill Powers,daughertypreston@example.com,971543957754,UAE,Ajman,Consumer,2024-01-17,Active
+CUST00430,Terri Kerr,raymond65@example.com,971531958273,UAE,Ajman,Consumer,2024-08-19,Active
+CUST00431,Gregory Madden,lewispamela@example.net,742662991234,Saudi Arabia,Jeddah,Consumer,2024-09-29,Active
+CUST00432,Gabriela Fitzpatrick,adavis@example.net,971598055042,UAE,Abu Dhabi,Consumer,2025-12-22,Active
+CUST00433,Justin Page,jamescollier@example.com,971561112289,UAE,Abu Dhabi,Consumer,2025-10-29,Active
+CUST00434,Ronald Davenport,troy73@example.org,244714627301,Saudi Arabia,Jeddah,Small Business,2025-02-08,Active
+CUST00435,Linda Cox,qcunningham@example.net,158904290257,Qatar,Doha,Consumer,2024-12-25,Active
+CUST00436,Isaac Fields,brandon48@example.net,971549970870,UAE,Dubai,Corporate,2024-09-17,Active
+CUST00437,Pamela White,georgegary@example.com,445189520284,Saudi Arabia,Dammam,Small Business,2025-11-14,Active
+CUST00438,Thomas Martin,ericwalker@example.org,971596012533,UAE,Ajman,Small Business,2025-07-22,Active
+CUST00439,Melissa Cisneros,butlersabrina@example.org,75452798524,Saudi Arabia,Riyadh,Consumer,2025-08-03,Active
+CUST00440,Carl Benson,kyleclark@example.org,971532636262,UAE,Ajman,Small Business,2025-06-27,Active
+CUST00441,Ashley Smith,ctodd@example.org,89071401401,Saudi Arabia,Jeddah,Consumer,2024-11-06,Active
+CUST00442,Steven Lopez,anthony24@example.net,971580379073,UAE,Dubai,Consumer,2025-11-02,Active
+CUST00443,Jonathan Chandler,williamjones@example.net,971564915906,UAE,Dubai,Consumer,2024-09-10,Active
+CUST00444,Michelle Brandt,rachelmedina@example.net,387592712566,Saudi Arabia,Dammam,Consumer,2025-07-11,Active
+CUST00445,Philip Edwards,irodriguez@example.com,480157164794,Saudi Arabia,Riyadh,Consumer,2025-01-10,Active
+CUST00446,William Patterson,jacobsonleah@example.net,971531258833,UAE,Abu Dhabi,Consumer,2024-06-13,Active
+CUST00447,Michael Powers,qkim@example.net,126691215353,Saudi Arabia,Jeddah,Corporate,2024-09-25,Active
+CUST00448,David Coleman,tramirez@example.net,971553069838,UAE,Dubai,Consumer,2025-09-08,Active
+CUST00449,Rebecca Harding,thomas96@example.com,271147732010,Qatar,Doha,Consumer,2025-03-09,Inactive
+CUST00450,Christopher Jacobs,eric99@example.org,877347784858,Saudi Arabia,Riyadh,Consumer,2024-12-29,Active
+CUST00451,Wanda Beard,reyesleonard@example.com,971588649101,UAE,Sharjah,Consumer,2024-01-13,Active
+CUST00452,Christopher Hopkins,nicole27@example.com,467197889778,Kuwait,Kuwait City,Consumer,2024-11-19,Inactive
+CUST00453,Johnny Arellano,katie45@example.org,902559056165,Kuwait,Kuwait City,Consumer,2025-01-04,Active
+CUST00454,David Young,brittany14@example.org,208507698640,Saudi Arabia,Riyadh,Consumer,2024-10-27,Active
+CUST00455,Mrs. Jeanette Armstrong,rgarcia@example.org,785294563718,Kuwait,Kuwait City,Consumer,2025-03-05,Active
+CUST00456,Zachary Morales,claudiarubio@example.net,954198763514,Bahrain,Manama,Small Business,2024-07-28,Active
+CUST00457,Joshua Gonzalez,gking@example.com,82973748969,Oman,Salalah,Consumer,2025-08-10,Active
+CUST00458,Charles Hernandez,megan65@example.org,644249363123,Saudi Arabia,Dammam,Consumer,2025-01-16,Active
+CUST00459,Julie Castro,chenderson@example.org,971578082045,UAE,Dubai,Small Business,2024-06-28,Active
+CUST00460,David Lara,dawnwilliams@example.net,1594165162,Qatar,Doha,Small Business,2024-04-26,Active
+CUST00461,Tasha Boyd,tyler13@example.net,971516210715,UAE,Dubai,Consumer,2024-03-22,Active
+CUST00462,Erin Silva,vshaffer@example.org,321234764907,Qatar,Doha,Consumer,2024-03-30,Active
+CUST00463,Emily Coleman,sylviasuarez@example.org,754090034864,Bahrain,Manama,Corporate,2024-09-30,Active
+CUST00464,Kimberly Young,zprice@example.com,971528321829,UAE,Ajman,Consumer,2025-10-21,Active
+CUST00465,Nicole Evans,ruthwelch@example.net,41776561248,Oman,Salalah,Consumer,2024-08-07,Active
+CUST00466,Robin Rojas,wneal@example.org,720634591123,Saudi Arabia,Jeddah,Corporate,2024-09-13,Active
+CUST00467,Marie Anderson,usparks@example.com,242954316526,Qatar,Doha,Consumer,2025-06-04,Active
+CUST00468,Courtney Vaughan,rebeccamccann@example.org,206969421529,Saudi Arabia,Jeddah,Corporate,2025-11-20,Active
+CUST00469,Patricia Hebert,twilson@example.org,447626393436,Qatar,Doha,Consumer,2024-01-11,Active
+CUST00470,Dylan Green,xsolomon@example.net,971528463212,UAE,Abu Dhabi,Small Business,2024-10-25,Active
+CUST00471,Adam Anderson,terri63@example.net,694118005375,Bahrain,Manama,Consumer,2025-05-14,Active
+CUST00472,Linda Goodman,smithwilliam@example.com,652809242875,Saudi Arabia,Dammam,Consumer,2025-11-16,Active
+CUST00473,Joseph Thomas,edwardstiffany@example.com,971599809441,UAE,Abu Dhabi,Consumer,2024-04-06,Active
+CUST00474,Nicole Howe,raven49@example.com,625728703203,Saudi Arabia,Riyadh,Consumer,2025-09-28,Active
+CUST00475,Michael Graham,wwilliams@example.net,971583378188,UAE,Abu Dhabi,Consumer,2024-01-27,Active
+CUST00476,Brian Cortez,daviddavis@example.com,284993908926,Saudi Arabia,Riyadh,Corporate,2025-02-13,Active
+CUST00477,Mr. Gary Mitchell DVM,longbrittany@example.org,971540822201,UAE,Abu Dhabi,Consumer,2024-06-28,Active
+CUST00478,Brad Rivas,rgibson@example.net,509759230450,Kuwait,Kuwait City,Consumer,2025-09-02,Active
+CUST00479,Anna Scott,tammyglenn@example.org,326642147649,Saudi Arabia,Riyadh,Consumer,2025-02-03,Active
+CUST00480,Jacob Gonzalez,emcclure@example.com,165926610857,Saudi Arabia,Dammam,Consumer,2024-09-19,Inactive
+CUST00481,Tara Rose,robertssamuel@example.com,971554766028,UAE,Ajman,Consumer,2025-04-17,Active
+CUST00482,Miss Elizabeth Wright,dphillips@example.net,81866179454,Saudi Arabia,Dammam,Consumer,2024-08-07,Active
+CUST00483,Ashley Stanley,kristicameron@example.org,645977945232,Bahrain,Manama,Corporate,2024-02-29,Active
+CUST00484,Shelby Rodriguez,smithdarryl@example.org,971518589747,UAE,Sharjah,Corporate,2025-06-29,Active
+CUST00485,Jared Sandoval,nturner@example.com,971535258425,UAE,Sharjah,Consumer,2025-04-23,Active
+CUST00486,Megan Ballard,martinezalexander@example.org,303723683147,Qatar,Doha,Consumer,2025-05-19,Active
+CUST00487,Christopher Hernandez,emaynard@example.org,971570966110,UAE,Ajman,Corporate,2024-12-12,Active
+CUST00488,Christina Hudson,awilliams@example.org,679984076789,Bahrain,Manama,Consumer,2025-09-19,Active
+CUST00489,Sharon Hall,ricerobert@example.com,971539009512,UAE,Ajman,Consumer,2025-11-13,Active
+CUST00490,Matthew Small,simpsonsheila@example.com,971551727753,UAE,Abu Dhabi,Corporate,2025-02-07,Active
+CUST00491,Christopher Barber,ocooper@example.net,959724665729,Bahrain,Manama,Consumer,2024-11-23,Active
+CUST00492,Mary Anderson,ericvasquez@example.com,433800545228,Qatar,Doha,Corporate,2024-07-25,Active
+CUST00493,Brian Perez,tomchaney@example.com,971583263376,UAE,Sharjah,Small Business,2025-08-11,Active
+CUST00494,Kristin Kemp,mccarthysara@example.com,971590925517,UAE,Sharjah,Consumer,2025-07-15,Active
+CUST00495,Nicole Villegas,colonbobby@example.org,135247871255,Bahrain,Manama,Consumer,2025-08-06,Active
+CUST00496,Wayne Hammond,sanchezlisa@example.com,971564610032,UAE,Abu Dhabi,Consumer,2024-03-30,Active
+CUST00497,Derek Espinoza,qward@example.org,863266678507,Kuwait,Kuwait City,Small Business,2024-07-28,Active
+CUST00498,Kelly Jones,leroy26@example.org,29084668455,Oman,Salalah,Consumer,2025-07-16,Active
+CUST00499,Lisa Thomas,ngriffin@example.net,563410856288,Bahrain,Manama,Corporate,2025-08-26,Active
+CUST00500,Emily Peterson,andrewzamora@example.net,971542469247,UAE,Ajman,Consumer,2024-06-05,Inactive
+CUST00501,Raymond Barber,dennismckenzie@example.com,101749075399,Bahrain,Manama,Consumer,2025-03-08,Active
+CUST00502,Edwin Estrada,jenniferstone@example.org,971532700314,UAE,Sharjah,Small Business,2025-09-08,Active
+CUST00503,Cheryl Osborne,tgarcia@example.com,971570350924,UAE,Ajman,Consumer,2024-03-17,Active
+CUST00504,Antonio Beasley,elewis@example.com,988649767762,Qatar,Doha,Consumer,2025-08-27,Active
+CUST00505,Mr. Walter Palmer,bensonstanley@example.org,971573019115,UAE,Abu Dhabi,Consumer,2025-01-04,Active
+CUST00506,Jaclyn Crane,xrodriguez@example.net,971550078991,UAE,Abu Dhabi,Corporate,2025-06-28,Active
+CUST00507,Autumn Torres,kevin70@example.org,960443270185,Oman,Salalah,Consumer,2024-07-30,Active
+CUST00508,Kenneth Knight,kimberly79@example.org,877725199663,Kuwait,Kuwait City,Consumer,2025-09-27,Active
+CUST00509,Michael Ramos,debbie20@example.net,818139890983,Qatar,Doha,Consumer,2024-09-04,Active
+CUST00510,Matthew Schmidt,hilljamie@example.net,971541978888,UAE,Dubai,Consumer,2025-01-01,Active
+CUST00511,Angela Ferguson,richard07@example.org,626085641118,Qatar,Doha,Consumer,2025-09-04,Active
+CUST00512,Randy Moore,dgregory@example.net,971547264820,UAE,Abu Dhabi,Consumer,2024-07-27,Active
+CUST00513,Micheal Evans,floresrobert@example.com,971516739013,UAE,Sharjah,Small Business,2025-12-02,Inactive
+CUST00514,Stephanie Williams,karenwillis@example.com,971588877827,UAE,Dubai,Corporate,2024-07-07,Active
+CUST00515,Tiffany Adams,steven61@example.com,630489138249,Saudi Arabia,Riyadh,Consumer,2025-01-06,Active
+CUST00516,Kathryn Patton,nathanielgalloway@example.org,971555677485,UAE,Abu Dhabi,Consumer,2024-11-21,Active
+CUST00517,Thomas Hayes,hesssusan@example.net,971562496899,UAE,Sharjah,Consumer,2025-01-27,Active
+CUST00518,April Mahoney,qnelson@example.net,971576329075,UAE,Abu Dhabi,Consumer,2024-07-30,Active
+CUST00519,Mark Richards,brandon89@example.org,161284639855,Qatar,Doha,Corporate,2024-10-04,Active
+CUST00520,Denise Bates,matthew79@example.com,209700268768,Kuwait,Kuwait City,Consumer,2025-12-16,Active
+CUST00521,Angela Johnson,wchambers@example.com,971525663645,UAE,Dubai,Small Business,2025-07-28,Active
+CUST00522,Christopher Tate,martinezmitchell@example.org,30453194337,Kuwait,Kuwait City,Consumer,2025-08-27,Active
+CUST00523,Michael Obrien Jr.,rrodriguez@example.net,971583476576,UAE,Dubai,Consumer,2024-01-27,Active
+CUST00524,Cory Rodgers,cameronanderson@example.org,493843089487,Saudi Arabia,Dammam,Corporate,2024-12-31,Active
+CUST00525,Terri Williams,ryan64@example.org,971574416144,UAE,Dubai,Consumer,2025-11-15,Active
+CUST00526,Isaiah Blake,brandonhull@example.net,971525697605,UAE,Sharjah,Small Business,2025-05-11,Active
+CUST00527,Cory Miller,mooneyjeremiah@example.net,133254110760,Qatar,Doha,Small Business,2024-11-23,Active
+CUST00528,Sara Wright,vallen@example.org,831997179110,Saudi Arabia,Jeddah,Consumer,2025-08-04,Active
+CUST00529,Melissa Patton,ellisonscott@example.com,971553682501,UAE,Abu Dhabi,Consumer,2024-10-02,Active
+CUST00530,Brian Brown,phillipspatrick@example.org,399076769915,Bahrain,Manama,Consumer,2025-03-21,Active
+CUST00531,Corey Garcia,watkinsmary@example.net,845679723200,Oman,Muscat,Consumer,2024-11-27,Active
+CUST00532,Tyler Webster,brandy82@example.org,971571069572,UAE,Ajman,Corporate,2024-08-15,Active
+CUST00533,Donna Cordova,brianhunter@example.net,971523487010,UAE,Sharjah,Consumer,2024-12-08,Active
+CUST00534,Craig Gonzalez,kristenpeterson@example.net,795995946521,Qatar,Doha,Consumer,2025-09-18,Active
+CUST00535,Kathleen Mora,heatherowens@example.org,971580321747,UAE,Sharjah,Consumer,2025-10-01,Inactive
+CUST00536,Tiffany Rivera,lharris@example.org,971567315945,UAE,Ajman,Consumer,2024-06-23,Active
+CUST00537,Alvin Wilson,scott95@example.org,971535239821,UAE,Ajman,Consumer,2024-09-21,Active
+CUST00538,Duane Robinson,jennifer58@example.org,302410261534,Qatar,Doha,Consumer,2025-12-12,Active
+CUST00539,Mary Pugh,ejohns@example.org,971550113379,UAE,Dubai,Consumer,2024-06-24,Active
+CUST00540,Rebecca Lee,ubenson@example.net,309938425304,Oman,Muscat,Consumer,2024-04-15,Active
+CUST00541,Stacey Clark,muellerkrystal@example.net,286857872558,Kuwait,Kuwait City,Consumer,2025-09-13,Active
+CUST00542,Derrick Morales DVM,clarkpatricia@example.com,634669254812,Qatar,Doha,Consumer,2025-06-06,Active
+CUST00543,Crystal Williams,ronald76@example.com,754602734151,Oman,Muscat,Consumer,2024-08-03,Active
+CUST00544,Maria Hartman,coreyjones@example.org,971563889337,UAE,Dubai,Small Business,2025-09-07,Active
+CUST00545,Michael Wright,james92@example.net,44566907826,Qatar,Doha,Consumer,2025-02-02,Active
+CUST00546,Kara Black,dsharp@example.com,971573467903,UAE,Dubai,Small Business,2024-06-14,Active
+CUST00547,Cole Carrillo,cclark@example.net,971538204739,UAE,Dubai,Consumer,2025-08-01,Active
+CUST00548,Shane Torres,porterdonna@example.com,366684590902,Qatar,Doha,Consumer,2024-01-22,Inactive
+CUST00549,Laura Lloyd DVM,nbaird@example.com,971527456057,UAE,Ajman,Consumer,2025-12-14,Active
+CUST00550,John Murphy,tfowler@example.org,182097023164,Saudi Arabia,Jeddah,Consumer,2024-02-16,Active
+CUST00551,Andrea Brown,jacksonmichele@example.com,212867163234,Saudi Arabia,Riyadh,Consumer,2024-06-19,Active
+CUST00552,Caitlin Andrews,briana87@example.com,971588326927,UAE,Abu Dhabi,Consumer,2025-08-20,Active
+CUST00553,Jill Summers DDS,aliciakent@example.com,790147546926,Saudi Arabia,Dammam,Consumer,2024-05-27,Active
+CUST00554,Jessica Cruz,hollydavis@example.net,324841376815,Saudi Arabia,Dammam,Corporate,2024-05-11,Active
+CUST00555,Penny Ortiz,johnnyhunter@example.com,971568401945,UAE,Ajman,Consumer,2025-07-05,Active
+CUST00556,Megan Murray,julie36@example.org,412577711837,Saudi Arabia,Riyadh,Consumer,2024-01-20,Active
+CUST00557,Christopher Roberson,thompsondavid@example.net,971569010024,UAE,Dubai,Consumer,2024-12-09,Active
+CUST00558,Phillip Byrd,scottthompson@example.net,837081647090,Saudi Arabia,Jeddah,Consumer,2024-10-12,Active
+CUST00559,Tanya Brooks,jamessmith@example.org,531312206815,Oman,Muscat,Consumer,2025-07-17,Active
+CUST00560,Daniel Weaver,nmartinez@example.org,971551245272,UAE,Sharjah,Consumer,2025-02-14,Active
+CUST00561,James Stewart,olewis@example.org,971579863927,UAE,Sharjah,Consumer,2024-09-17,Active
+CUST00562,Marcus Williams,robertsaunders@example.com,971574825507,UAE,Dubai,Consumer,2025-04-25,Active
+CUST00563,Joshua Mooney,johnathandavis@example.com,252571509976,Saudi Arabia,Dammam,Small Business,2025-12-18,Active
+CUST00564,Kevin Mcneil,andrewblake@example.org,971561588363,UAE,Ajman,Consumer,2025-04-12,Active
+CUST00565,Nicole Harvey,taylorvictor@example.org,971564134634,UAE,Sharjah,Small Business,2024-08-13,Active
+CUST00566,Andrew Mclean,vstevenson@example.org,971595655047,UAE,Ajman,Small Business,2024-04-20,Active
+CUST00567,Paige Meyer,swong@example.org,971584488797,UAE,Ajman,Consumer,2024-07-22,Active
+CUST00568,Grace Harris,knoxelizabeth@example.org,968527017130,Oman,Salalah,Corporate,2024-06-16,Active
+CUST00569,Christopher Dunn,joelmiller@example.net,423362934497,Bahrain,Manama,Consumer,2025-11-15,Active
+CUST00570,Angela Kaufman,egray@example.com,896270661498,Qatar,Doha,Consumer,2024-07-17,Inactive
+CUST00571,James Torres,nicholas97@example.org,273230085766,Bahrain,Manama,Consumer,2025-02-07,Active
+CUST00572,John Davidson,ortizbenjamin@example.org,923645875066,Qatar,Doha,Consumer,2025-12-09,Active
+CUST00573,Robert Mccoy,terrydeanna@example.com,243992011669,Kuwait,Kuwait City,Consumer,2024-06-25,Active
+CUST00574,Jay Gallegos,heather88@example.net,946119524364,Bahrain,Manama,Consumer,2025-01-13,Active
+CUST00575,April Jones,pwarren@example.com,225223728179,Oman,Salalah,Corporate,2025-12-21,Active
+CUST00576,Clayton Malone,tonya67@example.net,214161415093,Saudi Arabia,Dammam,Consumer,2024-05-15,Active
+CUST00577,Alexandra Adams,ortegakristina@example.org,971577642498,UAE,Abu Dhabi,Small Business,2024-12-20,Active
+CUST00578,Adrienne Morrison,sarah75@example.net,971567888503,UAE,Ajman,Consumer,2024-03-11,Active
+CUST00579,Steve Key,shelleyortega@example.com,971528001960,UAE,Abu Dhabi,Corporate,2024-11-09,Active
+CUST00580,Shelley Drake,bryantholly@example.net,91843579786,Saudi Arabia,Dammam,Consumer,2025-03-21,Active
+CUST00581,Teresa Morris,morgan57@example.org,691567164932,Kuwait,Kuwait City,Consumer,2024-01-03,Inactive
+CUST00582,Michelle Johnson,trobles@example.net,271783332116,Saudi Arabia,Riyadh,Consumer,2025-10-01,Active
+CUST00583,Stephanie Miranda,jenniferwade@example.net,287153991566,Qatar,Doha,Consumer,2024-04-26,Active
+CUST00584,David Green,christopher15@example.net,195256904098,Oman,Salalah,Small Business,2025-12-06,Active
+CUST00585,Emma Diaz,aprilguzman@example.org,971538563971,UAE,Sharjah,Small Business,2025-09-10,Active
+CUST00586,Samuel Stewart,mary77@example.org,971518329442,UAE,Dubai,Corporate,2024-03-18,Active
+CUST00587,Maurice Solis,georgekyle@example.net,497374605233,Qatar,Doha,Small Business,2025-03-15,Active
+CUST00588,Shannon Luna,tracey20@example.net,567566184438,Kuwait,Kuwait City,Consumer,2025-11-04,Active
+CUST00589,Rick Glenn,hornjenna@example.com,927742333059,Saudi Arabia,Jeddah,Consumer,2024-03-12,Active
+CUST00590,Brittany Clements MD,saradavis@example.com,971529339821,UAE,Ajman,Consumer,2025-05-10,Active
+CUST00591,William Santos,obooker@example.net,301367492617,Saudi Arabia,Dammam,Consumer,2024-05-11,Active
+CUST00592,Holly Wilson,martinezdarlene@example.net,99974192676,Saudi Arabia,Riyadh,Consumer,2024-07-19,Active
+CUST00593,Arthur Stout,richardhaynes@example.com,189813129208,Oman,Muscat,Consumer,2025-02-21,Active
+CUST00594,Carl Harris,christopherscott@example.org,184582603408,Bahrain,Manama,Corporate,2025-08-07,Active
+CUST00595,Kenneth Neal,catherine83@example.net,30324329839,Kuwait,Kuwait City,Small Business,2025-04-26,Active
+CUST00596,Jennifer Pierce,patrick26@example.com,462831435989,Saudi Arabia,Dammam,Consumer,2024-07-21,Active
+CUST00597,Willie Hamilton,maynardjohn@example.com,971579518245,UAE,Ajman,Consumer,2024-11-02,Active
+CUST00598,Joshua Jones,coxmatthew@example.com,971563274943,UAE,Dubai,Consumer,2024-03-31,Active
+CUST00599,Denise Garcia,nicholasgarcia@example.org,849718594849,Kuwait,Kuwait City,Consumer,2024-04-16,Active
+CUST00600,Travis Price,linda88@example.net,792408222694,Qatar,Doha,Consumer,2025-10-16,Active
+CUST00601,Jacqueline Waters,lmann@example.com,784468341465,Oman,Salalah,Consumer,2025-11-01,Active
+CUST00602,David Davis,millerjustin@example.com,682778816093,Oman,Muscat,Consumer,2025-04-08,Active
+CUST00603,Nicole Sanchez,lawsontami@example.net,215285067625,Kuwait,Kuwait City,Consumer,2025-06-05,Active
+CUST00604,Sandra Rosales,robertstimothy@example.com,971561308081,UAE,Abu Dhabi,Consumer,2024-09-03,Active
+CUST00605,Laura Robinson,sarah80@example.com,971532456258,UAE,Dubai,Consumer,2024-06-04,Active
+CUST00606,Amy Smith,wmurphy@example.org,526501673188,Saudi Arabia,Riyadh,Consumer,2025-10-13,Active
+CUST00607,Adriana Hammond,jeremy65@example.com,628417722560,Oman,Muscat,Consumer,2024-10-26,Active
+CUST00608,Ashley Mitchell,ralphmanning@example.org,971563789198,UAE,Abu Dhabi,Consumer,2025-10-07,Active
+CUST00609,John Ortega,david78@example.com,971555562388,UAE,Ajman,Consumer,2024-04-27,Active
+CUST00610,Erika Duran,vshaw@example.com,110225803056,Qatar,Doha,Consumer,2025-08-06,Active
+CUST00611,Dylan Tucker,jwright@example.net,971533623755,UAE,Abu Dhabi,Consumer,2025-06-22,Active
+CUST00612,Randall Lin,elizabethpatterson@example.com,892392312604,Bahrain,Manama,Consumer,2025-01-08,Active
+CUST00613,Luis Davis,jamesalicia@example.net,356708604145,Saudi Arabia,Dammam,Consumer,2025-11-09,Active
+CUST00614,Danielle Jacobson,blakewilliams@example.net,971526077579,UAE,Dubai,Consumer,2025-11-19,Active
+CUST00615,Douglas Obrien,flopez@example.com,971521951552,UAE,Abu Dhabi,Consumer,2024-08-22,Active
+CUST00616,Michael Vega,markfigueroa@example.com,343961129109,Saudi Arabia,Jeddah,Consumer,2024-09-01,Active
+CUST00617,Brett Mcmahon,kevin73@example.net,971534728252,UAE,Dubai,Consumer,2024-05-20,Active
+CUST00618,Corey Pierce,patricia85@example.com,971510749971,UAE,Sharjah,Consumer,2025-06-10,Active
+CUST00619,Susan Jones,gmills@example.org,942409036788,Kuwait,Kuwait City,Consumer,2024-11-23,Active
+CUST00620,Janet Chan,nlawson@example.org,971527962327,UAE,Abu Dhabi,Consumer,2024-04-30,Active
+CUST00621,Leslie Smith,ugordon@example.net,971530885050,UAE,Sharjah,Consumer,2024-01-03,Active
+CUST00622,Elizabeth Adams,jacksonbrandon@example.org,24240338105,Saudi Arabia,Dammam,Consumer,2024-07-07,Active
+CUST00623,Travis Henson,jennifer69@example.com,5342408916,Oman,Muscat,Consumer,2025-12-10,Active
+CUST00624,Kristen Montoya,markharris@example.net,971573105980,UAE,Ajman,Corporate,2025-09-27,Active
+CUST00625,Brittney Hall,erichardson@example.org,971585421798,UAE,Dubai,Small Business,2025-08-12,Active
+CUST00626,Robert Thompson,lharding@example.net,42269312163,Oman,Salalah,Consumer,2024-12-28,Active
+CUST00627,Ariel Rose,morrisonnicholas@example.org,971538751505,UAE,Sharjah,Consumer,2025-10-25,Active
+CUST00628,Ronald Michael,johnmiller@example.org,18513279724,Saudi Arabia,Jeddah,Consumer,2024-03-21,Active
+CUST00629,Joshua Adams,smithbradley@example.net,186203036625,Saudi Arabia,Riyadh,Consumer,2024-12-15,Active
+CUST00630,Janice Henson,vasquezvicki@example.org,971537596545,UAE,Sharjah,Consumer,2024-06-13,Active
+CUST00631,Heather Gilbert,wardsandy@example.org,971531227468,UAE,Sharjah,Consumer,2024-03-15,Active
+CUST00632,Cassandra Moreno,erinhernandez@example.net,945147541022,Oman,Muscat,Consumer,2025-10-15,Active
+CUST00633,Robert Bray,wilsonronald@example.net,215226557676,Saudi Arabia,Riyadh,Small Business,2024-04-17,Active
+CUST00634,Robert Valdez,patrickdunn@example.net,883619689313,Saudi Arabia,Jeddah,Consumer,2025-08-02,Active
+CUST00635,Alicia Grant DVM,brownmichael@example.org,971573135532,UAE,Dubai,Consumer,2024-01-03,Active
+CUST00636,Samuel Bonilla,osanchez@example.org,126065019179,Kuwait,Kuwait City,Consumer,2024-08-03,Active
+CUST00637,Bob Jones,lhernandez@example.com,847657041200,Kuwait,Kuwait City,Consumer,2024-01-23,Active
+CUST00638,Alexandra Wall,qspencer@example.net,362418623690,Oman,Salalah,Consumer,2025-07-02,Active
+CUST00639,Vanessa Jacobs,velasqueztaylor@example.com,971548309051,UAE,Abu Dhabi,Consumer,2024-10-13,Active
+CUST00640,James Brown,deborah34@example.org,159503428113,Saudi Arabia,Dammam,Corporate,2025-04-21,Active
+CUST00641,Chelsea Harris,allenchristopher@example.net,970051405468,Oman,Salalah,Consumer,2024-01-09,Active
+CUST00642,Henry Anderson,riverapeggy@example.net,820967904227,Qatar,Doha,Corporate,2024-08-17,Active
+CUST00643,Nathan Wilkerson,kaylamartin@example.net,971599079814,UAE,Dubai,Consumer,2025-10-08,Active
+CUST00644,Marisa Conrad,seth25@example.com,971584042569,UAE,Ajman,Consumer,2025-01-11,Active
+CUST00645,Jessica Macdonald,nallen@example.net,971554969434,UAE,Sharjah,Consumer,2024-09-20,Active
+CUST00646,Mark Jimenez,thomasmonica@example.net,717524214955,Qatar,Doha,Consumer,2024-02-24,Active
+CUST00647,Julia Andersen,kathryn72@example.org,971580873920,UAE,Ajman,Consumer,2024-02-21,Active
+CUST00648,Jack Mitchell MD,scotthunt@example.net,516874090380,Bahrain,Manama,Consumer,2025-12-10,Inactive
+CUST00649,Christopher Ross,walkermorgan@example.net,577871121663,Saudi Arabia,Riyadh,Consumer,2025-09-14,Active
+CUST00650,Zachary Tucker,dwilson@example.org,971543931226,UAE,Ajman,Consumer,2024-08-27,Active
+CUST00651,Brianna Lewis,huertakim@example.org,673030644212,Qatar,Doha,Consumer,2025-02-01,Active
+CUST00652,Shane Hayes,qwarren@example.com,16542356778,Oman,Muscat,Consumer,2024-07-18,Active
+CUST00653,Thomas Hudson,hoffmanpatricia@example.org,992550272751,Saudi Arabia,Jeddah,Consumer,2025-12-05,Active
+CUST00654,Virginia Harding,cynthiafowler@example.net,33682963533,Bahrain,Manama,Consumer,2024-07-10,Inactive
+CUST00655,Jack Turner,wayne17@example.net,971518556255,UAE,Dubai,Consumer,2025-11-28,Active
+CUST00656,Guy Clayton,wmills@example.com,971514327308,UAE,Dubai,Consumer,2025-12-30,Active
+CUST00657,Jeffrey Thompson,amyjames@example.net,491111096179,Kuwait,Kuwait City,Consumer,2024-03-23,Active
+CUST00658,Kevin Johnson,melissa33@example.com,971599854713,UAE,Sharjah,Consumer,2024-03-13,Active
+CUST00659,Scott Sampson,tammy76@example.net,971588119050,UAE,Ajman,Consumer,2025-02-06,Active
+CUST00660,Adrienne Brooks,williamadams@example.net,463060002589,Saudi Arabia,Riyadh,Consumer,2025-05-28,Active
+CUST00661,Wendy Allen,plee@example.com,962626582631,Saudi Arabia,Dammam,Corporate,2024-09-01,Active
+CUST00662,Rachel Cameron,mary25@example.org,971539538040,UAE,Abu Dhabi,Corporate,2025-01-03,Active
+CUST00663,Adam Carrillo,anthonyzimmerman@example.org,27523343836,Qatar,Doha,Consumer,2024-03-09,Active
+CUST00664,Timothy Burton,rodriguezsara@example.org,244211753617,Qatar,Doha,Small Business,2025-04-26,Active
+CUST00665,Mr. Daniel Barnes,cynthia72@example.org,29901557998,Saudi Arabia,Jeddah,Corporate,2024-10-29,Active
+CUST00666,Tammy Lee,herreraapril@example.org,513052312447,Oman,Muscat,Corporate,2024-04-25,Active
+CUST00667,Juan Phillips,zgraham@example.org,971518978989,UAE,Ajman,Consumer,2025-11-26,Inactive
+CUST00668,Ryan Love,ygarcia@example.net,237676945919,Bahrain,Manama,Consumer,2024-07-01,Active
+CUST00669,Jacqueline Chen,colepamela@example.net,964985601256,Qatar,Doha,Consumer,2024-11-09,Active
+CUST00670,Matthew Watson,david50@example.net,379538164938,Saudi Arabia,Dammam,Consumer,2024-09-18,Active
+CUST00671,Lawrence Ware,berrydebbie@example.net,971563621439,UAE,Sharjah,Consumer,2024-03-16,Active
+CUST00672,Francisco Gonzalez,rjimenez@example.com,172959639040,Oman,Salalah,Consumer,2025-07-06,Active
+CUST00673,Diane Skinner,ijohnson@example.net,501716445561,Saudi Arabia,Dammam,Consumer,2025-12-22,Inactive
+CUST00674,Anthony Evans DVM,hallison@example.com,971553860083,UAE,Dubai,Consumer,2025-07-19,Active
+CUST00675,Danny Petersen,danielmorris@example.net,971546355877,UAE,Ajman,Consumer,2025-11-15,Active
+CUST00676,Brandon Ramsey,lisa80@example.net,401041459642,Bahrain,Manama,Consumer,2025-06-12,Active
+CUST00677,Francisco Hernandez,qwalsh@example.org,977457314415,Qatar,Doha,Small Business,2025-03-01,Active
+CUST00678,Matthew Foley,jonestroy@example.org,376371539885,Oman,Salalah,Consumer,2025-09-01,Active
+CUST00679,Sarah Garcia,jefferycox@example.com,971599796264,UAE,Abu Dhabi,Consumer,2025-06-01,Active
+CUST00680,Penny Lopez,rodney49@example.net,271130724078,Bahrain,Manama,Consumer,2025-09-25,Inactive
+CUST00681,Joshua Gomez,edwardshaw@example.net,74510663436,Qatar,Doha,Corporate,2024-09-13,Active
+CUST00682,Katherine Hamilton,lucassusan@example.org,971543957412,UAE,Dubai,Corporate,2025-03-09,Active
+CUST00683,Laura Allen,hillnicole@example.net,661347323549,Qatar,Doha,Corporate,2024-03-25,Active
+CUST00684,Jonathan Graves,sstevenson@example.org,512257207650,Qatar,Doha,Corporate,2025-06-19,Active
+CUST00685,Carolyn Wolf,wheelertara@example.net,971528895649,UAE,Dubai,Consumer,2025-12-12,Active
+CUST00686,Kaitlyn Williams,bradleyveronica@example.org,971531777762,UAE,Abu Dhabi,Consumer,2024-01-01,Active
+CUST00687,Charles Davis,linda57@example.com,847457054589,Saudi Arabia,Jeddah,Consumer,2025-01-18,Active
+CUST00688,Monica Smith,qchase@example.org,703965313614,Oman,Salalah,Consumer,2024-03-23,Active
+CUST00689,Tyler Rose,renee55@example.com,443098591679,Kuwait,Kuwait City,Corporate,2025-10-18,Active
+CUST00690,Kathryn Jennings,hbecker@example.com,971555545655,UAE,Dubai,Consumer,2024-07-29,Active
+CUST00691,Elizabeth Roberts,alexis03@example.com,971558383190,UAE,Ajman,Small Business,2025-03-31,Active
+CUST00692,John Smith,donna00@example.com,548821423691,Oman,Muscat,Consumer,2025-08-25,Active
+CUST00693,Henry Cain,ghenderson@example.com,942965923426,Saudi Arabia,Jeddah,Small Business,2024-06-08,Active
+CUST00694,Edward Ho,ygardner@example.com,971551280792,UAE,Dubai,Consumer,2024-05-25,Active
+CUST00695,Melissa Gordon,taylor67@example.com,708061294398,Saudi Arabia,Jeddah,Consumer,2024-03-11,Active
+CUST00696,Krystal Carter,qmartinez@example.org,870104159149,Saudi Arabia,Jeddah,Consumer,2024-04-02,Active
+CUST00697,Barbara Richards,mileszachary@example.net,232440793110,Kuwait,Kuwait City,Corporate,2025-05-19,Active
+CUST00698,Brent Harris,gjohnson@example.com,14672384979,Saudi Arabia,Riyadh,Small Business,2025-03-16,Active
+CUST00699,Cathy Cardenas,georgeharmon@example.net,971522988365,UAE,Sharjah,Small Business,2024-11-11,Active
+CUST00700,Mr. Brett Chapman,elizabeth66@example.net,766204719609,Qatar,Doha,Consumer,2024-05-26,Active
+CUST00701,Mary Wallace,sydney77@example.com,971557799289,UAE,Dubai,Corporate,2024-01-25,Active
+CUST00702,Jonathan Callahan,michaelmccarthy@example.com,225957244617,Saudi Arabia,Riyadh,Consumer,2024-01-07,Active
+CUST00703,Catherine Erickson,david59@example.net,971522663723,UAE,Dubai,Corporate,2025-12-03,Active
+CUST00704,Jennifer Williams,jesseortega@example.com,971531173866,UAE,Dubai,Consumer,2024-09-11,Active
+CUST00705,Peter Zavala,danielgilmore@example.net,971514079441,UAE,Ajman,Small Business,2025-11-12,Active
+CUST00706,Jennifer Brown,danny17@example.com,251762983347,Oman,Salalah,Small Business,2025-10-13,Active
+CUST00707,Patrick Hamilton,christopherjohnson@example.net,971519144220,UAE,Sharjah,Consumer,2025-05-10,Active
+CUST00708,Charles Smith,ecarroll@example.com,873397855982,Qatar,Doha,Consumer,2024-03-11,Active
+CUST00709,Shelly Carroll,kimberlyevans@example.org,309850344651,Qatar,Doha,Consumer,2024-11-16,Inactive
+CUST00710,Kenneth Castaneda,reginald08@example.net,974005643502,Qatar,Doha,Small Business,2025-12-07,Active
+CUST00711,Tammy Alvarado,youngcharles@example.net,971538589907,UAE,Dubai,Corporate,2025-02-03,Active
+CUST00712,Pamela Johnson,dodsoncarly@example.net,971592892079,UAE,Dubai,Consumer,2025-10-22,Active
+CUST00713,Karen Anderson,garciatyler@example.org,674300038960,Saudi Arabia,Jeddah,Consumer,2025-11-09,Active
+CUST00714,James Martinez,hdunn@example.com,971585452392,UAE,Sharjah,Consumer,2024-12-17,Active
+CUST00715,Stephanie Bell,samuel03@example.org,971514739400,UAE,Abu Dhabi,Small Business,2024-03-27,Active
+CUST00716,Jason Goodwin,ritteralexis@example.net,10272405593,Saudi Arabia,Riyadh,Corporate,2024-03-08,Active
+CUST00717,Matthew Douglas,wrightamy@example.com,971513110691,UAE,Ajman,Corporate,2024-04-04,Active
+CUST00718,Stephanie Trevino,xmarquez@example.net,384588105697,Saudi Arabia,Riyadh,Corporate,2025-05-29,Active
+CUST00719,Sarah Meyer,judy31@example.com,37710704496,Saudi Arabia,Riyadh,Consumer,2024-02-27,Active
+CUST00720,Douglas Lynch,ysmith@example.com,971513287093,UAE,Abu Dhabi,Consumer,2025-08-26,Active
+CUST00721,James Keller,guerreroanthony@example.com,954930596601,Kuwait,Kuwait City,Consumer,2024-11-20,Active
+CUST00722,Megan Garrison,ucoleman@example.net,971558730509,UAE,Abu Dhabi,Consumer,2024-10-10,Active
+CUST00723,Tyler Mcdonald,davidsmith@example.net,971515934261,UAE,Dubai,Consumer,2025-07-15,Active
+CUST00724,David Daniels,ashley09@example.com,449014954277,Oman,Salalah,Consumer,2025-11-25,Active
+CUST00725,Vincent Castillo,rickyriley@example.org,971584099471,UAE,Ajman,Corporate,2024-11-17,Active
+CUST00726,Emily Brown,jonathanbuchanan@example.com,232290310287,Bahrain,Manama,Consumer,2024-07-20,Active
+CUST00727,Crystal Lynn,theresa05@example.net,935118718133,Kuwait,Kuwait City,Corporate,2024-08-19,Active
+CUST00728,Melanie Jones,jliu@example.org,971594178655,UAE,Ajman,Consumer,2025-02-20,Active
+CUST00729,Frances Russell,thomas49@example.org,504290193588,Saudi Arabia,Riyadh,Consumer,2024-08-26,Active
+CUST00730,Jamie Aguilar,patrickcuevas@example.org,971583581516,UAE,Ajman,Small Business,2025-06-04,Active
+CUST00731,Wendy Cunningham,hryan@example.net,971584144519,UAE,Sharjah,Corporate,2025-11-28,Active
+CUST00732,Mary Meyer,joseph94@example.org,353751376515,Saudi Arabia,Jeddah,Consumer,2025-08-05,Active
+CUST00733,Martha Jacobs,ohartman@example.net,836929445511,Qatar,Doha,Small Business,2025-01-04,Active
+CUST00734,Ms. Mackenzie Barton,nancysmith@example.org,487120602128,Saudi Arabia,Dammam,Consumer,2024-11-03,Active
+CUST00735,Heather Morales,jenniferwilson@example.com,15767647229,Bahrain,Manama,Consumer,2025-11-01,Active
+CUST00736,Linda Wood,cgray@example.org,134750988986,Saudi Arabia,Dammam,Small Business,2024-03-02,Active
+CUST00737,Christopher Thomas,russellramirez@example.net,971539537369,UAE,Sharjah,Consumer,2024-08-23,Active
+CUST00738,Christopher Roberts,kgonzales@example.com,913421388209,Saudi Arabia,Jeddah,Consumer,2024-08-17,Active
+CUST00739,Rebecca Smith,woodjuan@example.net,782741176741,Bahrain,Manama,Consumer,2025-12-01,Active
+CUST00740,Audrey Gomez,garnerjeffrey@example.org,971552541546,UAE,Sharjah,Corporate,2025-12-25,Inactive
+CUST00741,Desiree Mccoy,mannleroy@example.org,971515318331,UAE,Abu Dhabi,Consumer,2024-08-26,Active
+CUST00742,Rebecca Stewart,averycourtney@example.org,963347272742,Qatar,Doha,Corporate,2024-11-12,Active
+CUST00743,Jose Cummings,aaronjones@example.net,206496935782,Saudi Arabia,Riyadh,Consumer,2025-04-08,Active
+CUST00744,Mary Henry,iharper@example.com,131467536127,Bahrain,Manama,Consumer,2025-09-05,Active
+CUST00745,James Anderson,flarsen@example.net,304483608545,Saudi Arabia,Riyadh,Small Business,2025-04-27,Active
+CUST00746,James Gaines,todd35@example.net,476392831995,Oman,Salalah,Consumer,2024-10-12,Active
+CUST00747,Nathan Lang,deleonmathew@example.com,971550801245,UAE,Abu Dhabi,Small Business,2025-03-17,Active
+CUST00748,Mary Stone,amanda28@example.com,425563830008,Oman,Salalah,Corporate,2025-07-13,Inactive
+CUST00749,Amanda Campbell,hallkelsey@example.org,416624111860,Kuwait,Kuwait City,Small Business,2025-01-01,Active
+CUST00750,Tamara Davis,mlee@example.com,680447314976,Bahrain,Manama,Consumer,2025-06-26,Inactive
+CUST00751,Jason Ramirez,rebecca88@example.org,76581739063,Bahrain,Manama,Corporate,2024-11-09,Inactive
+CUST00752,Maria Cook,davisgary@example.com,126978930746,Saudi Arabia,Dammam,Consumer,2024-09-26,Active
+CUST00753,Amanda Barker,rsavage@example.net,971565961553,UAE,Abu Dhabi,Small Business,2025-06-24,Active
+CUST00754,Katherine Porter,marcfletcher@example.net,161620281237,Kuwait,Kuwait City,Small Business,2024-06-01,Inactive
+CUST00755,Christopher Pratt,jtaylor@example.com,41644859592,Bahrain,Manama,Consumer,2024-01-29,Inactive
+CUST00756,Rebekah Crane,april47@example.com,522870562271,Qatar,Doha,Consumer,2024-07-30,Active
+CUST00757,Michael Medina,cody97@example.net,158350344694,Qatar,Doha,Consumer,2024-08-15,Active
+CUST00758,David Weaver,chrishernandez@example.net,424912896599,Saudi Arabia,Dammam,Small Business,2025-03-31,Active
+CUST00759,Shelby Barnett,aclark@example.org,192227051028,Oman,Salalah,Consumer,2024-07-21,Active
+CUST00760,Eric Wolf,annbennett@example.com,971599078939,UAE,Ajman,Consumer,2024-11-06,Active
+CUST00761,Ryan Stewart,waremegan@example.org,971528434369,UAE,Ajman,Consumer,2025-05-30,Active
+CUST00762,Michelle Larsen,yhenry@example.com,971562141506,UAE,Sharjah,Small Business,2025-11-21,Active
+CUST00763,Jessica Bailey,clinemelissa@example.net,639836520375,Oman,Salalah,Consumer,2025-05-15,Active
+CUST00764,Erin Bartlett,wesley09@example.com,476044090797,Bahrain,Manama,Consumer,2024-05-22,Active
+CUST00765,Maria Gardner,johnsonanthony@example.net,971528317940,UAE,Ajman,Consumer,2024-05-06,Active
+CUST00766,Shelby Anderson,hflowers@example.org,971567428685,UAE,Abu Dhabi,Consumer,2024-04-21,Inactive
+CUST00767,Emily Hodge,tonya39@example.net,971573687770,UAE,Dubai,Consumer,2024-11-19,Active
+CUST00768,Sarah Stewart,rebeccamatthews@example.com,660138241270,Oman,Salalah,Small Business,2024-01-13,Active
+CUST00769,Jennifer Reid,collinsann@example.org,791971112125,Saudi Arabia,Dammam,Corporate,2025-03-20,Active
+CUST00770,Christopher Smith,steven34@example.net,240642429563,Bahrain,Manama,Consumer,2025-04-02,Active
+CUST00771,William Green,fbaker@example.com,971592129604,UAE,Ajman,Corporate,2024-07-18,Active
+CUST00772,Martin Cole,benjamindavenport@example.com,971547693721,UAE,Ajman,Corporate,2025-02-26,Active
+CUST00773,Wendy Hamilton,jared88@example.net,971548467910,UAE,Sharjah,Corporate,2024-04-23,Active
+CUST00774,Raymond Scott,hgreen@example.net,727955969051,Qatar,Doha,Corporate,2025-08-02,Active
+CUST00775,Jason Cook,lopezmichael@example.org,820797996673,Saudi Arabia,Riyadh,Consumer,2025-09-26,Active
+CUST00776,Karen Morales,arellanonatalie@example.net,971516698541,UAE,Sharjah,Consumer,2025-06-12,Active
+CUST00777,Derrick Ray,martingarrett@example.com,971529312610,UAE,Sharjah,Consumer,2024-03-19,Active
+CUST00778,Terri Gonzalez,davidcook@example.org,425762702324,Kuwait,Kuwait City,Corporate,2025-10-09,Active
+CUST00779,Dalton Davis,ericpeters@example.com,725178637673,Qatar,Doha,Corporate,2024-02-28,Active
+CUST00780,Timothy Ross,rachael69@example.com,971543692118,UAE,Dubai,Consumer,2024-10-09,Active
+CUST00781,Michael Cordova,walkercharlotte@example.org,558099613273,Bahrain,Manama,Consumer,2025-01-24,Active
+CUST00782,Gerald Valdez,thernandez@example.com,46226817151,Saudi Arabia,Riyadh,Consumer,2024-06-03,Active
+CUST00783,Francis Andrews,aparks@example.com,971566093351,UAE,Abu Dhabi,Consumer,2025-08-09,Active
+CUST00784,Jenny Brown,ogreen@example.org,971543218943,UAE,Sharjah,Consumer,2025-04-22,Active
+CUST00785,Joanna Watson,ijoseph@example.com,268612059438,Bahrain,Manama,Consumer,2025-03-16,Active
+CUST00786,Anthony Campbell,parrishsteve@example.org,465408424560,Qatar,Doha,Corporate,2025-06-15,Active
+CUST00787,Linda Howard,schmidtrandy@example.org,971533737188,UAE,Abu Dhabi,Corporate,2024-08-24,Active
+CUST00788,Nicholas Schultz,worozco@example.com,971579185062,UAE,Abu Dhabi,Consumer,2024-03-02,Active
+CUST00789,Roger Conley,uwilliams@example.com,291681546602,Saudi Arabia,Riyadh,Consumer,2025-05-17,Active
+CUST00790,Angela Gaines,leonashley@example.com,59736424809,Qatar,Doha,Consumer,2025-06-10,Active
+CUST00791,Denise Russell,caseydiane@example.com,795133053194,Saudi Arabia,Riyadh,Small Business,2025-10-26,Active
+CUST00792,Madison Murphy,jalvarez@example.org,971560288175,UAE,Ajman,Consumer,2025-08-26,Active
+CUST00793,Rodney Hernandez,sclark@example.org,460917851385,Qatar,Doha,Consumer,2024-09-07,Active
+CUST00794,Michael Johnson,claudiacunningham@example.com,487368269116,Saudi Arabia,Riyadh,Small Business,2024-08-01,Active
+CUST00795,Dylan Hancock,wpierce@example.org,945515888636,Qatar,Doha,Corporate,2024-06-03,Active
+CUST00796,Tim Moore,ricardosmith@example.com,216966630932,Oman,Muscat,Consumer,2025-07-06,Active
+CUST00797,Ms. Monique Dougherty MD,garrettgarrett@example.net,971598670888,UAE,Abu Dhabi,Consumer,2025-03-28,Active
+CUST00798,Patrick Stephenson,marnold@example.org,971514622580,UAE,Ajman,Small Business,2024-03-07,Active
+CUST00799,Cynthia Kennedy,marcuscarter@example.org,977397327819,Qatar,Doha,Consumer,2024-11-30,Inactive
+CUST00800,Danielle Bowen,smithantonio@example.net,876164819807,Saudi Arabia,Dammam,Consumer,2025-09-28,Active
+CUST00801,Robert Clayton,coxjennifer@example.net,971550179601,UAE,Ajman,Consumer,2025-08-27,Active
+CUST00802,Richard Garcia,katherine91@example.net,971579577529,UAE,Abu Dhabi,Consumer,2025-04-04,Active
+CUST00803,Gerald Durham,gclark@example.com,971584607930,UAE,Ajman,Consumer,2024-05-03,Active
+CUST00804,Steven Vasquez,katherinepeterson@example.net,574949022840,Saudi Arabia,Dammam,Consumer,2025-04-13,Active
+CUST00805,Michelle Parker,ashleytorres@example.net,422294643039,Saudi Arabia,Riyadh,Small Business,2025-10-04,Active
+CUST00806,Jackson Romero,kwoods@example.com,985856728727,Bahrain,Manama,Consumer,2024-04-18,Active
+CUST00807,Gloria Parker,edwardfranklin@example.net,357790833506,Kuwait,Kuwait City,Consumer,2024-01-11,Active
+CUST00808,Denise Nixon,wallerbrian@example.net,971580665074,UAE,Abu Dhabi,Consumer,2025-11-25,Active
+CUST00809,Robert White,jeremylove@example.org,971549711170,UAE,Sharjah,Small Business,2025-01-16,Inactive
+CUST00810,Kristen Davis,jessicalowery@example.org,33399771805,Saudi Arabia,Riyadh,Consumer,2024-01-30,Active
+CUST00811,Bradley Gonzalez,carmenevans@example.org,971533216267,UAE,Sharjah,Consumer,2024-05-23,Active
+CUST00812,Ashley Tanner,briannareid@example.com,469472587844,Qatar,Doha,Consumer,2025-02-28,Active
+CUST00813,Donald Hoffman,connie12@example.com,587722164175,Kuwait,Kuwait City,Consumer,2025-09-25,Active
+CUST00814,Brian Hall,warren58@example.com,493925236229,Qatar,Doha,Consumer,2025-08-23,Active
+CUST00815,Kara Larson,rchan@example.org,971567121056,UAE,Ajman,Consumer,2024-08-25,Active
+CUST00816,Scott Torres,kevinacosta@example.net,746966060652,Saudi Arabia,Jeddah,Corporate,2025-11-11,Active
+CUST00817,Michael Clark,kenneth50@example.com,658833987411,Saudi Arabia,Riyadh,Consumer,2025-07-13,Inactive
+CUST00818,Teresa Watkins,harringtonpeter@example.net,349960105485,Oman,Salalah,Consumer,2024-04-27,Active
+CUST00819,Chad Brady,tiffany62@example.org,971581015993,UAE,Abu Dhabi,Consumer,2025-11-05,Active
+CUST00820,Kristina Gonzales,ashley48@example.net,21557325737,Qatar,Doha,Corporate,2025-03-06,Active
+CUST00821,Michele Scott,taylordawn@example.com,971559573446,UAE,Ajman,Consumer,2024-08-31,Active
+CUST00822,Mr. Joseph Durham,allen60@example.net,874951191818,Saudi Arabia,Jeddah,Consumer,2024-10-16,Active
+CUST00823,Anita Nielsen,karenwang@example.com,772512957860,Bahrain,Manama,Consumer,2025-08-05,Active
+CUST00824,Ronald Smith,marcushernandez@example.org,971535057299,UAE,Abu Dhabi,Consumer,2025-02-23,Active
+CUST00825,Kim Valdez,kaylaandrews@example.com,323421089028,Saudi Arabia,Dammam,Consumer,2025-03-02,Active
+CUST00826,Ethan Hall,jamesmartin@example.com,971513835598,UAE,Sharjah,Consumer,2025-11-27,Active
+CUST00827,Patricia Johnson,ymartinez@example.org,360776336911,Qatar,Doha,Consumer,2024-06-19,Active
+CUST00828,Kelli Martin,davidburns@example.net,971586586435,UAE,Abu Dhabi,Small Business,2025-01-04,Active
+CUST00829,Jennifer Clark MD,timothy81@example.com,971586386965,UAE,Sharjah,Small Business,2024-09-18,Active
+CUST00830,Jason Nixon,gomezsonya@example.org,431670450232,Kuwait,Kuwait City,Consumer,2024-01-12,Active
+CUST00831,Brenda Harrison,brownleah@example.net,971576120560,UAE,Dubai,Consumer,2024-01-07,Active
+CUST00832,Jason Moore,gregstone@example.org,512073465495,Saudi Arabia,Dammam,Small Business,2025-04-27,Active
+CUST00833,Stephen Johnson,robinwilliams@example.com,210531611776,Kuwait,Kuwait City,Consumer,2025-07-25,Active
+CUST00834,Rhonda Smith,qharrison@example.org,859177932382,Bahrain,Manama,Consumer,2024-11-17,Active
+CUST00835,Brandon Powell,wrightjohn@example.net,971574669427,UAE,Sharjah,Corporate,2024-06-13,Active
+CUST00836,William Barnett,kathleen25@example.com,971530411011,UAE,Sharjah,Consumer,2025-04-26,Active
+CUST00837,Noah Rosales,ywelch@example.org,971554761947,UAE,Ajman,Consumer,2024-09-30,Active
+CUST00838,Mark Conley,fernandomorris@example.net,971580972908,UAE,Ajman,Consumer,2025-12-16,Active
+CUST00839,Chelsea Kane,nhayes@example.com,871485524578,Oman,Salalah,Small Business,2024-12-16,Active
+CUST00840,Gloria Stone,caseyronald@example.org,971599362500,UAE,Abu Dhabi,Consumer,2025-04-29,Active
+CUST00841,Darren Ellis,martinezjennifer@example.org,971570058562,UAE,Abu Dhabi,Consumer,2025-12-05,Active
+CUST00842,Jeffrey Joyce,burchteresa@example.org,832303589298,Saudi Arabia,Jeddah,Small Business,2025-09-29,Active
+CUST00843,Kimberly Steele,nicholasgarcia@example.org,289634064686,Kuwait,Kuwait City,Corporate,2024-02-04,Active
+CUST00844,Todd Smith,jeanette43@example.net,62272362669,Saudi Arabia,Jeddah,Consumer,2024-12-07,Active
+CUST00845,Darrell Rush,patriciamartinez@example.net,971554005127,UAE,Sharjah,Consumer,2024-06-30,Active
+CUST00846,Christine Thomas,kathleen01@example.net,819737418972,Oman,Salalah,Corporate,2025-03-03,Active
+CUST00847,Michelle Hutchinson,jamespatricia@example.org,692743811995,Oman,Muscat,Small Business,2025-10-04,Active
+CUST00848,Sara Richmond,gbrown@example.com,485645101739,Kuwait,Kuwait City,Consumer,2025-09-26,Active
+CUST00849,Derek Osborn,kcastro@example.com,971531670307,UAE,Ajman,Consumer,2024-06-10,Active
+CUST00850,Mary Williams,garzalaura@example.org,135996605779,Kuwait,Kuwait City,Consumer,2025-03-18,Active
+CUST00851,Robert Garner,bcaldwell@example.org,51460745553,Kuwait,Kuwait City,Consumer,2024-01-28,Active
+CUST00852,Jimmy Ritter,kayla23@example.net,652715598354,Saudi Arabia,Dammam,Consumer,2024-11-21,Active
+CUST00853,Jared Howell,katherineharris@example.net,557522501394,Oman,Muscat,Consumer,2025-10-29,Active
+CUST00854,Nicole Medina,emontgomery@example.org,971553965824,UAE,Dubai,Small Business,2025-05-26,Active
+CUST00855,Suzanne Alvarado,dustin58@example.com,261499153703,Saudi Arabia,Riyadh,Consumer,2024-03-09,Active
+CUST00856,Allison Walker DDS,johnperez@example.net,204309776889,Oman,Muscat,Corporate,2024-04-23,Active
+CUST00857,Lauren Burton,tfrancis@example.com,655358512538,Kuwait,Kuwait City,Consumer,2024-10-27,Active
+CUST00858,Dr. Katie Alvarez,daniel93@example.net,971528484758,UAE,Abu Dhabi,Consumer,2024-04-03,Active
+CUST00859,Vanessa Nicholson,stevenandrews@example.org,971544543768,UAE,Ajman,Corporate,2024-09-11,Active
+CUST00860,Kevin Brown,andrewwest@example.net,572151494097,Kuwait,Kuwait City,Corporate,2024-12-01,Active
+CUST00861,Victoria Lewis,scollins@example.net,971525551270,UAE,Abu Dhabi,Consumer,2025-05-29,Active
+CUST00862,Robert Romero,ithomas@example.net,90591191862,Oman,Salalah,Consumer,2024-08-10,Active
+CUST00863,Olivia White,anthonymcfarland@example.net,971566846596,UAE,Abu Dhabi,Consumer,2024-06-30,Active
+CUST00864,Tracy Berry,yballard@example.net,252145264712,Oman,Muscat,Consumer,2024-03-28,Active
+CUST00865,William Schultz,shannon18@example.com,971584712740,UAE,Sharjah,Consumer,2024-10-20,Active
+CUST00866,Vicki Brown,cody08@example.org,971548802832,UAE,Ajman,Corporate,2024-01-15,Active
+CUST00867,Alexander Stein,michele23@example.net,283512959272,Saudi Arabia,Jeddah,Consumer,2024-01-04,Active
+CUST00868,Amanda Williams,aguirrelarry@example.com,971550794346,UAE,Abu Dhabi,Corporate,2024-04-18,Active
+CUST00869,Leslie Jackson,jimenezcarrie@example.net,971559802235,UAE,Sharjah,Consumer,2024-03-19,Active
+CUST00870,Tanya Kelley,hbowers@example.net,971555874854,UAE,Sharjah,Consumer,2025-11-02,Active
+CUST00871,Jacob Allen,zlopez@example.org,971550425111,UAE,Sharjah,Consumer,2025-02-08,Active
+CUST00872,Tammy Cochran,abbottchristopher@example.net,971551467922,UAE,Abu Dhabi,Consumer,2024-09-18,Active
+CUST00873,Laura Patel,psherman@example.org,527346666170,Qatar,Doha,Consumer,2024-08-22,Active
+CUST00874,Lisa Torres,kelli08@example.org,149982508004,Saudi Arabia,Riyadh,Consumer,2024-03-17,Active
+CUST00875,Amy Bryan,hrodgers@example.org,971516852902,UAE,Dubai,Consumer,2024-05-17,Active
+CUST00876,Amanda Lewis,ododson@example.net,971573569689,UAE,Dubai,Small Business,2025-01-06,Active
+CUST00877,Kathleen Duncan,williamspatrick@example.net,403526356022,Saudi Arabia,Riyadh,Corporate,2024-08-21,Active
+CUST00878,Sonia Henderson,jamie46@example.net,666437490607,Oman,Muscat,Consumer,2024-06-28,Active
+CUST00879,Mark Wilson,ijones@example.com,464844941163,Saudi Arabia,Jeddah,Consumer,2025-04-28,Active
+CUST00880,Mr. Zachary Harrison Jr.,benjaminhughes@example.org,369572790833,Qatar,Doha,Consumer,2025-02-08,Active
+CUST00881,Christian Villarreal,sandra57@example.org,662481323570,Kuwait,Kuwait City,Corporate,2024-02-01,Active
+CUST00882,Joseph Hawkins,amystewart@example.org,971511406150,UAE,Dubai,Consumer,2024-02-20,Active
+CUST00883,Joseph Montgomery,jennifermorris@example.org,130609069130,Oman,Muscat,Consumer,2025-05-14,Active
+CUST00884,Roger Alvarez,ncampbell@example.com,971576607761,UAE,Dubai,Small Business,2025-02-02,Active
+CUST00885,Melanie Salazar,tina77@example.org,971555140485,UAE,Abu Dhabi,Consumer,2024-11-24,Active
+CUST00886,Courtney Mitchell,sylviaprice@example.com,506420768362,Bahrain,Manama,Consumer,2024-11-27,Active
+CUST00887,Stephen Murray,ywallace@example.com,971567416012,UAE,Abu Dhabi,Corporate,2024-05-31,Active
+CUST00888,James Cummings,johnmarquez@example.net,957865436271,Bahrain,Manama,Consumer,2024-09-22,Active
+CUST00889,Ross Hampton,nwilliams@example.com,971555031629,UAE,Abu Dhabi,Consumer,2025-04-21,Active
+CUST00890,James Holmes,sherryjohnson@example.org,971527127283,UAE,Sharjah,Consumer,2025-02-06,Active
+CUST00891,Denise Reese,danielleandrews@example.org,657327599801,Oman,Salalah,Consumer,2024-10-08,Active
+CUST00892,Scott Brown,edwardsrachel@example.org,341595977524,Saudi Arabia,Dammam,Corporate,2024-03-03,Active
+CUST00893,Stephanie Hernandez,nwilson@example.com,887431271026,Saudi Arabia,Riyadh,Consumer,2024-03-15,Active
+CUST00894,Alejandro Watts,sarah99@example.org,79551512294,Saudi Arabia,Riyadh,Consumer,2024-10-03,Active
+CUST00895,Timothy Horne,suzanneflores@example.net,597099625438,Qatar,Doha,Consumer,2025-10-31,Active
+CUST00896,Allison Flores,brettallen@example.com,765047158029,Qatar,Doha,Consumer,2025-12-17,Active
+CUST00897,James Conway,sprice@example.net,971520431929,UAE,Abu Dhabi,Small Business,2025-06-20,Active
+CUST00898,Jacob Hunt,vrussell@example.org,483744171581,Saudi Arabia,Jeddah,Small Business,2024-07-16,Active
+CUST00899,Ashley Jones,calvin93@example.org,5912975191,Saudi Arabia,Jeddah,Consumer,2025-08-14,Active
+CUST00900,Paul Miller,higginschristopher@example.com,301658373792,Qatar,Doha,Consumer,2025-05-29,Active
+CUST00901,Sharon Brown,williammiller@example.org,971586294529,UAE,Dubai,Consumer,2024-07-29,Active
+CUST00902,Laura Lopez,warnercharles@example.org,326949684364,Saudi Arabia,Dammam,Consumer,2024-07-11,Active
+CUST00903,Mary Donaldson,juan21@example.org,971550076121,UAE,Sharjah,Consumer,2025-06-20,Inactive
+CUST00904,Nicholas Harvey,wmiller@example.net,971530868901,UAE,Abu Dhabi,Consumer,2024-02-15,Active
+CUST00905,Megan Flores,helen91@example.net,575757475833,Qatar,Doha,Consumer,2024-11-21,Active
+CUST00906,Jennifer Hobbs,sandra67@example.com,226602562650,Kuwait,Kuwait City,Consumer,2024-05-04,Active
+CUST00907,Carrie Watkins,jaysmith@example.com,453076248433,Saudi Arabia,Dammam,Consumer,2025-07-31,Active
+CUST00908,Mr. Samuel Freeman DDS,suzanne15@example.net,942387367042,Kuwait,Kuwait City,Corporate,2025-03-18,Active
+CUST00909,Jessica Martinez,alyssapeterson@example.com,971559172324,UAE,Ajman,Corporate,2025-04-05,Active
+CUST00910,Jaclyn Waller,smithmitchell@example.org,971551130558,UAE,Dubai,Consumer,2025-08-12,Active
+CUST00911,David Wiggins,cynthia74@example.net,953259399337,Oman,Muscat,Consumer,2024-06-01,Active
+CUST00912,Jorge Davis,cindymiller@example.com,941763425073,Saudi Arabia,Jeddah,Consumer,2024-12-08,Active
+CUST00913,Roger Olson,kristenfrye@example.com,983399140388,Saudi Arabia,Dammam,Small Business,2025-04-07,Inactive
+CUST00914,Michael Farrell,jose24@example.org,615727682975,Kuwait,Kuwait City,Corporate,2024-06-30,Active
+CUST00915,Craig Obrien,frank25@example.org,58752568065,Saudi Arabia,Jeddah,Consumer,2025-11-14,Inactive
+CUST00916,Paige Schneider,ariel90@example.net,971596320218,UAE,Sharjah,Corporate,2024-05-09,Active
+CUST00917,Bonnie Brown,taylorcurtis@example.org,155516517680,Bahrain,Manama,Consumer,2024-02-10,Active
+CUST00918,Melissa Kelley,olsenshane@example.org,971581772618,UAE,Dubai,Consumer,2024-10-30,Active
+CUST00919,Crystal Brown,williamsmegan@example.org,3322855660,Saudi Arabia,Dammam,Consumer,2025-07-10,Active
+CUST00920,Michael Terry MD,gonzalezbarry@example.org,971571647309,UAE,Sharjah,Small Business,2025-07-12,Active
+CUST00921,Michael Perkins,william26@example.org,971559975039,UAE,Sharjah,Consumer,2025-03-01,Active
+CUST00922,Mark Dean,angela86@example.org,945354614707,Saudi Arabia,Riyadh,Consumer,2024-04-21,Active
+CUST00923,Patricia Harris,williamslinda@example.net,971538905854,UAE,Dubai,Corporate,2025-12-07,Active
+CUST00924,Peter Fitzgerald,marissa39@example.com,971553488531,UAE,Dubai,Consumer,2025-11-12,Active
+CUST00925,Mark Knight,jay04@example.org,971544671806,UAE,Abu Dhabi,Consumer,2024-09-20,Inactive
+CUST00926,Geoffrey Porter,dcortez@example.com,778943191009,Bahrain,Manama,Consumer,2024-06-06,Active
+CUST00927,Tara Turner,kdaniel@example.org,533651460401,Qatar,Doha,Consumer,2025-09-17,Active
+CUST00928,Timothy Lucero,davidfields@example.net,720113798440,Saudi Arabia,Jeddah,Consumer,2024-04-13,Active
+CUST00929,Brittany Brown,fjohnson@example.com,971557704340,UAE,Sharjah,Consumer,2024-12-16,Active
+CUST00930,William Ray,douglassusan@example.com,734043370096,Saudi Arabia,Riyadh,Consumer,2025-08-29,Active
+CUST00931,David Allison Jr.,christopher57@example.com,971533846147,UAE,Ajman,Consumer,2025-11-26,Active
+CUST00932,Steven Barber,malikfowler@example.com,971559437614,UAE,Abu Dhabi,Consumer,2025-02-01,Inactive
+CUST00933,John Reed,dylan78@example.com,971578493686,UAE,Abu Dhabi,Consumer,2024-05-06,Active
+CUST00934,Lance Dyer,sandy77@example.net,58295829236,Saudi Arabia,Jeddah,Small Business,2024-09-20,Active
+CUST00935,Wanda Stephens,johnstonjonathan@example.net,357155868639,Bahrain,Manama,Small Business,2025-08-24,Active
+CUST00936,Victoria Perez,smoore@example.org,817214364381,Kuwait,Kuwait City,Consumer,2025-07-01,Active
+CUST00937,Bryan Lopez,jonesshaun@example.org,560945653469,Qatar,Doha,Consumer,2024-01-18,Active
+CUST00938,Leslie Shelton,portermichael@example.com,681699570607,Qatar,Doha,Consumer,2025-11-02,Active
+CUST00939,Angela Ramsey,gibsonkaitlyn@example.org,54873961029,Oman,Salalah,Small Business,2024-12-12,Active
+CUST00940,Jonathan Ford,isolis@example.net,491872742049,Saudi Arabia,Dammam,Consumer,2025-11-13,Inactive
+CUST00941,Tracy Jones,atucker@example.com,604235973711,Qatar,Doha,Consumer,2024-11-07,Active
+CUST00942,Theresa Hart,ycrawford@example.net,85816704686,Oman,Muscat,Small Business,2024-04-11,Active
+CUST00943,Travis Howard,phunter@example.org,21923785847,Oman,Muscat,Consumer,2024-02-17,Active
+CUST00944,Lauren Wilson,halldylan@example.org,50801849804,Bahrain,Manama,Corporate,2025-12-09,Active
+CUST00945,John Lewis,nmendoza@example.org,971538317302,UAE,Dubai,Consumer,2024-08-21,Active
+CUST00946,Lori Trevino,thomasdavid@example.net,178192365346,Oman,Muscat,Consumer,2024-05-05,Active
+CUST00947,Frank Foster,emilygalvan@example.com,971560973241,UAE,Ajman,Consumer,2025-07-03,Active
+CUST00948,Courtney Solomon,ymendez@example.net,971562919199,UAE,Abu Dhabi,Consumer,2024-11-24,Active
+CUST00949,Nicole Moore,tyler16@example.net,618120546475,Bahrain,Manama,Corporate,2025-10-10,Inactive
+CUST00950,Tamara Wyatt,ydixon@example.net,971583199975,UAE,Ajman,Consumer,2025-09-02,Active
+CUST00951,Melanie Greene,taylordavis@example.com,971530096059,UAE,Ajman,Corporate,2025-03-06,Active
+CUST00952,Lisa Brown,sarah49@example.net,971510278495,UAE,Dubai,Small Business,2025-12-12,Active
+CUST00953,Erika Allen,michaeltorres@example.com,449639243588,Oman,Salalah,Consumer,2024-06-15,Active
+CUST00954,Joseph Wilson,danielle39@example.net,971530757269,UAE,Sharjah,Consumer,2024-05-29,Active
+CUST00955,Matthew Crawford,peterlove@example.net,852491416860,Saudi Arabia,Jeddah,Consumer,2025-08-29,Active
+CUST00956,Tanya Gibson,william63@example.com,679176651221,Saudi Arabia,Jeddah,Consumer,2024-05-17,Active
+CUST00957,Amanda Jones MD,david16@example.org,971594921488,UAE,Sharjah,Consumer,2025-07-08,Inactive
+CUST00958,Amy Rodriguez,justin33@example.org,971512873524,UAE,Sharjah,Consumer,2024-01-30,Active
+CUST00959,Debra Tran,edwardspencer@example.com,263890219947,Qatar,Doha,Consumer,2025-03-27,Active
+CUST00960,Connie Stevens,patricialowery@example.com,34699673311,Kuwait,Kuwait City,Small Business,2024-03-10,Active
+CUST00961,Patrick Cruz,wjohnson@example.com,768550789679,Saudi Arabia,Dammam,Consumer,2025-06-04,Active
+CUST00962,Lindsay Hale,zjackson@example.org,556434369709,Bahrain,Manama,Consumer,2024-09-29,Active
+CUST00963,Micheal Johnson,michael07@example.com,616453454722,Saudi Arabia,Riyadh,Consumer,2025-04-16,Active
+CUST00964,Linda Patrick,wernermichael@example.org,219804184724,Kuwait,Kuwait City,Consumer,2025-09-15,Active
+CUST00965,Thomas Perez,garrett13@example.org,971557376166,UAE,Sharjah,Consumer,2025-09-18,Active
+CUST00966,Rachel Wiggins,keithharrison@example.com,971573925100,UAE,Dubai,Small Business,2025-03-29,Active
+CUST00967,Robert Gonzalez,jonescraig@example.org,785228230524,Saudi Arabia,Riyadh,Consumer,2025-10-15,Active
+CUST00968,Stephanie Long,brandonmoore@example.org,971533266975,UAE,Ajman,Consumer,2025-08-16,Active
+CUST00969,Holly Logan,lsanchez@example.net,329016204787,Oman,Muscat,Consumer,2024-06-25,Active
+CUST00970,Stacy Owens,kristin96@example.com,971529145109,UAE,Abu Dhabi,Consumer,2025-02-05,Active
+CUST00971,Jonathan Porter,clarkcarol@example.com,196664505730,Saudi Arabia,Jeddah,Consumer,2025-01-17,Active
+CUST00972,Bridget Grimes,deborahturner@example.org,37476775372,Kuwait,Kuwait City,Consumer,2024-11-13,Active
+CUST00973,Charles Bowman,phillipsbrian@example.com,619458870715,Saudi Arabia,Dammam,Consumer,2025-12-01,Active
+CUST00974,Carol Gay,juliehoffman@example.org,838507659759,Bahrain,Manama,Consumer,2024-05-21,Active
+CUST00975,Jose Martinez,bblake@example.net,898126574223,Saudi Arabia,Dammam,Consumer,2024-07-26,Active
+CUST00976,Daniel Williams,mckayjames@example.net,626894301204,Saudi Arabia,Jeddah,Corporate,2025-03-26,Active
+CUST00977,Thomas Martin,qwilson@example.com,957498855829,Qatar,Doha,Consumer,2025-07-28,Active
+CUST00978,Paula Sanchez,hamiltonjoseph@example.net,971564542231,UAE,Dubai,Consumer,2025-05-13,Active
+CUST00979,Wendy Williams,laurie41@example.org,971579542215,UAE,Abu Dhabi,Consumer,2024-08-07,Active
+CUST00980,Colleen Blanchard,gstein@example.net,666954132971,Oman,Muscat,Consumer,2025-02-09,Active
+CUST00981,Jared Reynolds,bkennedy@example.com,143776936634,Qatar,Doha,Consumer,2025-11-07,Active
+CUST00982,Christopher Murphy,gcastaneda@example.org,28671200720,Saudi Arabia,Jeddah,Small Business,2025-03-21,Active
+CUST00983,Meghan Hull,elizabeth10@example.org,971539797713,UAE,Abu Dhabi,Consumer,2024-07-31,Active
+CUST00984,Andrew Aguilar,mendezlori@example.org,971555444007,UAE,Sharjah,Consumer,2025-10-13,Active
+CUST00985,Samantha Henry,brittney98@example.org,217942817934,Saudi Arabia,Dammam,Consumer,2025-07-30,Active
+CUST00986,Christopher Kennedy,ghoward@example.com,971512914611,UAE,Dubai,Small Business,2024-10-14,Inactive
+CUST00987,Jennifer Roman,lauraboone@example.net,337220109121,Kuwait,Kuwait City,Corporate,2024-08-02,Active
+CUST00988,Diane Cook,beth76@example.com,971535118176,UAE,Ajman,Corporate,2024-04-02,Active
+CUST00989,Terri Arnold,sharon37@example.net,971584071229,UAE,Sharjah,Corporate,2024-03-30,Active
+CUST00990,Corey Jones,randalllinda@example.com,971513305610,UAE,Sharjah,Consumer,2024-01-25,Active
+CUST00991,Mr. James Fletcher MD,lisamcgee@example.net,971564732500,UAE,Abu Dhabi,Consumer,2024-05-16,Active
+CUST00992,Thomas Knight,adrianlogan@example.com,971533835237,UAE,Abu Dhabi,Consumer,2024-11-04,Active
+CUST00993,Dr. Charles Henson,williamsimpson@example.com,260055955017,Saudi Arabia,Riyadh,Consumer,2024-10-30,Active
+CUST00994,Michael Hodge,alyssa89@example.net,971563798337,UAE,Dubai,Consumer,2024-05-27,Active
+CUST00995,Randy Simon,gibsonjennifer@example.net,971530658359,UAE,Dubai,Consumer,2025-11-07,Active
+CUST00996,Joyce Mitchell MD,wellsnatalie@example.com,593744039464,Bahrain,Manama,Small Business,2024-07-30,Active
+CUST00997,Trevor Cole,dsmith@example.org,971587821196,UAE,Sharjah,Consumer,2025-01-22,Active
+CUST00998,Robert Payne,usmith@example.net,907938841368,Qatar,Doha,Consumer,2025-08-08,Inactive
+CUST00999,Alexis Jordan,deborah70@example.org,971584110701,UAE,Sharjah,Consumer,2024-05-09,Active
+CUST01000,Deanna Sandoval,robert63@example.net,971551888352,UAE,Abu Dhabi,Small Business,2024-04-04,Active
+CUST01001,Timothy Collins,joneseric@example.org,971557206309,UAE,Ajman,Consumer,2024-04-29,Active
+CUST01002,David Osborne,tammy17@example.com,971558442092,UAE,Ajman,Consumer,2025-09-14,Active
+CUST01003,Penny Marshall,olsonchristina@example.org,971534325097,UAE,Abu Dhabi,Small Business,2024-03-29,Active
+CUST01004,Christopher Drake,jessica91@example.org,971565906455,UAE,Sharjah,Corporate,2024-09-17,Active
+CUST01005,Joseph Norris,timothymiddleton@example.net,971541239860,UAE,Sharjah,Consumer,2024-04-28,Active
+CUST01006,James Sherman,aguirrekimberly@example.com,239791378765,Oman,Salalah,Small Business,2024-09-13,Active
+CUST01007,Jesse Smith,andre55@example.com,971567153903,UAE,Sharjah,Consumer,2024-05-25,Active
+CUST01008,Ethan Ford,meganwheeler@example.net,971553151508,UAE,Abu Dhabi,Consumer,2025-07-01,Active
+CUST01009,Kara Spencer,david05@example.org,971583304060,UAE,Abu Dhabi,Consumer,2025-07-13,Active
+CUST01010,Elaine Trevino,crosbyelizabeth@example.org,624561851744,Saudi Arabia,Jeddah,Consumer,2024-08-15,Active
+CUST01011,Mrs. Michelle Kane,coxcody@example.com,512939130448,Saudi Arabia,Riyadh,Consumer,2024-01-17,Active
+CUST01012,Micheal Mcconnell,rebecca41@example.com,971571203758,UAE,Ajman,Consumer,2025-10-28,Active
+CUST01013,Thomas Fisher,joseph02@example.org,971527631957,UAE,Sharjah,Consumer,2025-07-03,Active
+CUST01014,April Vance,harrisonmichael@example.net,971571395288,UAE,Abu Dhabi,Small Business,2024-03-09,Active
+CUST01015,Todd Jacobson,christopherjackson@example.net,971555975556,UAE,Ajman,Consumer,2024-03-19,Active
+CUST01016,Ashley Burnett,trobinson@example.org,971560758892,UAE,Sharjah,Consumer,2025-11-01,Active
+CUST01017,Sharon Hicks,hsmith@example.com,783063963845,Oman,Salalah,Corporate,2024-05-03,Active
+CUST01018,Susan Roberts,christinapreston@example.net,497016934292,Saudi Arabia,Dammam,Consumer,2024-10-22,Active
+CUST01019,Brandi Williams,juliesimon@example.net,971536801589,UAE,Dubai,Consumer,2024-03-28,Active
+CUST01020,Destiny Rodriguez,pearsonjennifer@example.net,971526186862,UAE,Abu Dhabi,Consumer,2024-10-15,Active
+CUST01021,Daniel Thomas,meltonmark@example.com,971597741878,UAE,Dubai,Consumer,2024-01-11,Inactive
+CUST01022,Denise Alvarado,jamiegomez@example.net,774604067200,Saudi Arabia,Riyadh,Consumer,2024-10-03,Active
+CUST01023,Brian Mitchell,joshua60@example.com,975437347642,Kuwait,Kuwait City,Corporate,2025-01-17,Active
+CUST01024,Alicia Young,jcruz@example.net,971518821437,UAE,Ajman,Corporate,2024-06-10,Active
+CUST01025,Derek Wood,hannah48@example.com,971572640623,UAE,Dubai,Consumer,2025-04-13,Active
+CUST01026,Keith Dyer,rachelking@example.org,971572701639,UAE,Sharjah,Corporate,2025-06-28,Active
+CUST01027,Kristi Austin,courtneymadden@example.org,971581926775,UAE,Dubai,Small Business,2025-07-07,Active
+CUST01028,Randy Carrillo,abradley@example.com,214644936999,Bahrain,Manama,Corporate,2024-04-18,Active
+CUST01029,Craig Sanchez,hodgemichael@example.org,971516434323,UAE,Dubai,Consumer,2024-03-11,Active
+CUST01030,Jeffrey Hart DDS,cunninghamderrick@example.com,376811872333,Saudi Arabia,Riyadh,Small Business,2025-01-23,Active
+CUST01031,Thomas Ortiz,dawn73@example.org,971562829582,UAE,Ajman,Consumer,2024-03-11,Active
+CUST01032,Bryan Trujillo,bradleybarker@example.net,73651189394,Saudi Arabia,Riyadh,Consumer,2024-09-05,Active
+CUST01033,Howard Chavez,anthonydavis@example.net,432230233324,Qatar,Doha,Small Business,2024-11-07,Active
+CUST01034,Luke Johnson,michaelsherman@example.com,971532919530,UAE,Dubai,Small Business,2024-02-14,Active
+CUST01035,Michael Bass,thomassmith@example.com,826112312616,Qatar,Doha,Consumer,2025-09-01,Active
+CUST01036,Miguel Reeves,olivia29@example.net,971597013102,UAE,Sharjah,Consumer,2025-05-25,Active
+CUST01037,Jerry Jackson,qramirez@example.net,971555806781,UAE,Ajman,Consumer,2025-04-27,Active
+CUST01038,Patricia Smith,xphillips@example.net,191203818769,Saudi Arabia,Jeddah,Consumer,2024-06-05,Active
+CUST01039,Shawn Lindsey,rebeccaromero@example.net,388158814458,Saudi Arabia,Dammam,Consumer,2024-02-08,Active
+CUST01040,John Massey,leahwalker@example.net,829716815724,Kuwait,Kuwait City,Consumer,2025-08-27,Active
+CUST01041,Penny Rowe,royjennifer@example.org,971530704568,UAE,Dubai,Consumer,2024-01-22,Active
+CUST01042,Rhonda Willis,wattstimothy@example.org,971564745659,UAE,Abu Dhabi,Consumer,2024-08-23,Active
+CUST01043,Maria Brown,ballvanessa@example.com,184442182998,Saudi Arabia,Jeddah,Consumer,2024-11-16,Active
+CUST01044,Patricia Hernandez,walter05@example.com,971587859932,UAE,Ajman,Small Business,2024-07-28,Active
+CUST01045,Julie Williams,smithjose@example.org,551584826691,Kuwait,Kuwait City,Consumer,2024-12-08,Active
+CUST01046,Kayla Ewing,donna54@example.org,971564594159,UAE,Ajman,Small Business,2024-10-28,Active
+CUST01047,Andrew Klein,nbrown@example.org,998795098221,Kuwait,Kuwait City,Corporate,2025-07-27,Active
+CUST01048,Bryan Myers,zamorarose@example.net,971551321256,UAE,Dubai,Consumer,2024-07-14,Active
+CUST01049,Deanna Vincent,amywells@example.org,638164321269,Kuwait,Kuwait City,Consumer,2024-01-04,Active
+CUST01050,Maria Estrada,rickey20@example.org,971578412170,UAE,Sharjah,Consumer,2025-06-13,Active
+CUST01051,Bianca Bowen,tlewis@example.com,706462554026,Bahrain,Manama,Consumer,2025-10-03,Active
+CUST01052,Joshua Lopez,susanpruitt@example.org,971514422888,UAE,Sharjah,Consumer,2025-06-10,Active
+CUST01053,Eric Conner,william88@example.org,153888245279,Oman,Muscat,Consumer,2025-05-03,Active
+CUST01054,Dylan Fowler,john33@example.com,971533627745,UAE,Ajman,Consumer,2025-05-06,Active
+CUST01055,Laurie Stephenson,fosterjeffrey@example.org,119787180933,Qatar,Doha,Small Business,2024-05-21,Active
+CUST01056,Katherine Taylor,yvonne06@example.org,971581264168,UAE,Sharjah,Consumer,2024-03-07,Active
+CUST01057,Tamara Carr,uchang@example.com,971574694370,UAE,Abu Dhabi,Consumer,2025-06-12,Active
+CUST01058,Shannon Maxwell,smithjack@example.org,915618298036,Bahrain,Manama,Consumer,2024-03-10,Active
+CUST01059,Deborah Campbell,hornerebecca@example.org,971596817611,UAE,Abu Dhabi,Consumer,2024-12-10,Active
+CUST01060,Jenna Lynch,dennis01@example.com,971559176816,UAE,Ajman,Consumer,2025-10-06,Active
+CUST01061,Shelby Fowler,daniel43@example.org,875092632239,Qatar,Doha,Small Business,2025-03-16,Active
+CUST01062,Jerry Rogers,qjones@example.org,971548689071,UAE,Sharjah,Corporate,2025-01-04,Active
+CUST01063,Elizabeth Stone,cshepard@example.com,537666081126,Saudi Arabia,Jeddah,Consumer,2025-05-22,Active
+CUST01064,Shelly Brown,michaelsanders@example.net,62715312345,Qatar,Doha,Consumer,2025-11-16,Active
+CUST01065,Joshua Graham,washingtonmelanie@example.com,971539839934,UAE,Abu Dhabi,Consumer,2024-02-07,Active
+CUST01066,Brenda Clark,kelly01@example.org,808735437882,Kuwait,Kuwait City,Corporate,2025-07-11,Active
+CUST01067,James Ramsey,garciamitchell@example.net,971516918863,UAE,Dubai,Consumer,2024-02-03,Active
+CUST01068,Amber Richardson,prattjustin@example.org,749269996996,Saudi Arabia,Riyadh,Consumer,2025-05-21,Active
+CUST01069,Olivia Reese,hdavis@example.com,859693259140,Qatar,Doha,Consumer,2025-08-29,Active
+CUST01070,Rebecca Vincent,pamelarodriguez@example.org,971577178382,UAE,Sharjah,Consumer,2025-10-09,Active
+CUST01071,Wayne Powell,russellholly@example.net,971575034404,UAE,Abu Dhabi,Corporate,2024-08-02,Active
+CUST01072,Bruce Gallagher,maygordon@example.org,971522063550,UAE,Abu Dhabi,Consumer,2024-12-11,Active
+CUST01073,Misty Meyer,markbates@example.com,828040561299,Qatar,Doha,Consumer,2024-08-13,Active
+CUST01074,Sarah Thomas,amy26@example.net,971535492108,UAE,Sharjah,Consumer,2024-09-06,Inactive
+CUST01075,Janet Gray,nmccoy@example.org,971598862643,UAE,Ajman,Consumer,2024-07-13,Active
+CUST01076,Annette Rivas,katieaguirre@example.com,971510506995,UAE,Abu Dhabi,Consumer,2025-02-14,Active
+CUST01077,Dr. Darlene Lee,raymond23@example.net,840027300869,Qatar,Doha,Corporate,2025-02-21,Active
+CUST01078,Zachary Wilson,egordon@example.org,971526760394,UAE,Abu Dhabi,Consumer,2025-10-24,Active
+CUST01079,Frances Montes,williamscarl@example.net,971540186120,UAE,Abu Dhabi,Consumer,2025-05-02,Inactive
+CUST01080,Angela Soto,hodgemanuel@example.com,283976205344,Bahrain,Manama,Corporate,2024-02-10,Active
+CUST01081,Kyle Myers,kleinshane@example.org,629250817760,Saudi Arabia,Riyadh,Consumer,2025-10-15,Inactive
+CUST01082,Andrea Strickland,sandersalexandria@example.net,133373125523,Qatar,Doha,Consumer,2025-02-16,Active
+CUST01083,John Ho,ksmith@example.net,192061363852,Saudi Arabia,Riyadh,Consumer,2025-10-30,Active
+CUST01084,Haley Martinez,sethvance@example.net,971516818922,UAE,Sharjah,Consumer,2024-12-27,Active
+CUST01085,Anthony Ali,brandon64@example.net,971579580185,UAE,Sharjah,Consumer,2024-08-04,Active
+CUST01086,Jessica Mitchell,youngjamie@example.com,678127782210,Saudi Arabia,Dammam,Small Business,2024-02-01,Active
+CUST01087,Stephanie Chapman,curtislee@example.net,971553866822,UAE,Abu Dhabi,Consumer,2025-04-11,Active
+CUST01088,Kenneth Peterson,rmueller@example.net,971538266442,UAE,Abu Dhabi,Small Business,2025-11-10,Active
+CUST01089,Sharon Hall,nancycharles@example.org,605397079866,Kuwait,Kuwait City,Consumer,2024-11-15,Active
+CUST01090,Jennifer Hurley,rachelholmes@example.org,506821223552,Saudi Arabia,Jeddah,Corporate,2024-11-27,Active
+CUST01091,Mary Smith,amber71@example.net,971589007515,UAE,Ajman,Corporate,2025-12-25,Active
+CUST01092,Morgan Mills,charlesduncan@example.com,790898436998,Qatar,Doha,Consumer,2024-07-12,Active
+CUST01093,Tiffany Martinez,rosaleslauren@example.net,869484249598,Qatar,Doha,Consumer,2025-07-25,Active
+CUST01094,Diane Hayes,wrivers@example.org,971534465875,UAE,Abu Dhabi,Corporate,2025-04-04,Active
+CUST01095,Howard White,ewest@example.org,97461917798,Bahrain,Manama,Consumer,2025-05-22,Active
+CUST01096,Marcus Herman,jhiggins@example.org,971568765512,UAE,Dubai,Consumer,2024-10-07,Active
+CUST01097,Kathleen Brady,erin06@example.net,350405669579,Kuwait,Kuwait City,Consumer,2024-08-21,Active
+CUST01098,Douglas Weaver,melissa44@example.org,796325942328,Qatar,Doha,Corporate,2024-01-23,Active
+CUST01099,Sandra Walker,amyvalenzuela@example.net,562415285725,Saudi Arabia,Riyadh,Small Business,2025-09-10,Active
+CUST01100,Jennifer Lawrence,matthewfranklin@example.net,138186550784,Oman,Salalah,Consumer,2024-05-02,Active
+CUST01101,Alexis Flores,smejia@example.com,971540760593,UAE,Abu Dhabi,Consumer,2025-11-24,Active
+CUST01102,Mark Wilson,housedaniel@example.com,203859340153,Oman,Salalah,Consumer,2024-06-12,Active
+CUST01103,Jesse Murphy,james32@example.com,971525116926,UAE,Abu Dhabi,Corporate,2024-08-12,Active
+CUST01104,Jason Luna,allenronald@example.com,94214105276,Kuwait,Kuwait City,Consumer,2025-03-28,Active
+CUST01105,Miss Kelly Hoffman DDS,katherinesmith@example.com,388856225866,Bahrain,Manama,Consumer,2025-01-21,Active
+CUST01106,Lauren Perry,rryan@example.com,971587468612,UAE,Sharjah,Consumer,2025-11-28,Active
+CUST01107,Michael Dixon,amber59@example.com,594282491165,Saudi Arabia,Dammam,Consumer,2025-09-21,Active
+CUST01108,Sonya Williams,nathan39@example.net,132155130557,Oman,Muscat,Consumer,2024-04-09,Active
+CUST01109,Jessica Rojas,campbelljustin@example.net,971587327760,UAE,Ajman,Corporate,2025-01-15,Active
+CUST01110,Kevin Carney,sthomas@example.org,774620258254,Saudi Arabia,Riyadh,Small Business,2025-01-18,Active
+CUST01111,Daniel Cervantes,mclaughlinjames@example.org,971579578794,UAE,Abu Dhabi,Consumer,2025-11-24,Active
+CUST01112,Sherry Brewer,claire06@example.net,971565394229,UAE,Sharjah,Consumer,2024-04-02,Active
+CUST01113,David Baker,jamestran@example.com,827681722577,Oman,Salalah,Consumer,2024-01-06,Active
+CUST01114,Kristina Baker,nicholashuffman@example.org,971548837854,UAE,Dubai,Consumer,2024-07-09,Active
+CUST01115,Kayla Rowe,qreyes@example.net,971573993927,UAE,Dubai,Consumer,2024-08-25,Active
+CUST01116,Anthony Melton,phorne@example.com,971583971622,UAE,Sharjah,Small Business,2024-06-24,Active
+CUST01117,Daniel Ramos,sararios@example.org,522299936216,Saudi Arabia,Jeddah,Consumer,2024-05-08,Active
+CUST01118,Margaret Young,joeljackson@example.net,398358446177,Saudi Arabia,Dammam,Consumer,2025-04-24,Active
+CUST01119,Donna Mcmahon,jose49@example.com,971577887955,UAE,Dubai,Corporate,2024-06-08,Active
+CUST01120,Catherine Griffin,ksmith@example.org,971594850875,UAE,Sharjah,Consumer,2025-03-22,Active
+CUST01121,Gary Estrada,fwolf@example.net,375298832201,Qatar,Doha,Corporate,2024-11-17,Active
+CUST01122,Richard Roy,glenware@example.com,978889753585,Oman,Salalah,Small Business,2025-08-02,Active
+CUST01123,Tammy Lindsey,harrisjoshua@example.com,619951715239,Kuwait,Kuwait City,Consumer,2024-06-21,Active
+CUST01124,Kenneth Maxwell,elizabeth14@example.org,971575534828,UAE,Sharjah,Corporate,2024-01-17,Active
+CUST01125,Nancy Lee,rhondaray@example.com,971571394671,UAE,Abu Dhabi,Consumer,2024-12-14,Active
+CUST01126,Kathryn Franklin,thomasbrandon@example.org,971595543663,UAE,Dubai,Consumer,2024-03-01,Active
+CUST01127,Christopher Delacruz,wortiz@example.net,19111661220,Saudi Arabia,Jeddah,Consumer,2025-06-18,Active
+CUST01128,Chad Cooper,mrandolph@example.net,49366538027,Bahrain,Manama,Consumer,2025-03-26,Active
+CUST01129,Phillip Campbell,davisandrew@example.net,971595417897,UAE,Ajman,Consumer,2025-07-20,Inactive
+CUST01130,Brenda Rogers,raymark@example.org,946209355610,Saudi Arabia,Jeddah,Small Business,2025-05-13,Active
+CUST01131,Haley Maxwell,xcolon@example.org,712436585856,Oman,Salalah,Consumer,2025-06-06,Active
+CUST01132,Ryan Green,beasleykimberly@example.org,706159273874,Saudi Arabia,Dammam,Small Business,2025-07-10,Active
+CUST01133,Jessica Griffith,reynoldsmichelle@example.org,322481554203,Qatar,Doha,Small Business,2024-05-01,Inactive
+CUST01134,Alan Cox,kfrye@example.net,564915795546,Kuwait,Kuwait City,Consumer,2024-01-24,Inactive
+CUST01135,Ryan Taylor,steven01@example.org,181030683176,Saudi Arabia,Riyadh,Consumer,2025-11-21,Active
+CUST01136,Christopher Black,blacklisa@example.net,971513775702,UAE,Dubai,Corporate,2025-07-11,Active
+CUST01137,Kevin Oneill,mccannjanet@example.com,380671307351,Saudi Arabia,Riyadh,Consumer,2024-09-24,Active
+CUST01138,Wayne Finley,zevans@example.com,971552101517,UAE,Ajman,Consumer,2025-08-16,Active
+CUST01139,Allison Cunningham,michaelvillarreal@example.net,766947031805,Bahrain,Manama,Consumer,2024-05-07,Active
+CUST01140,Paula Lawson,lynncalhoun@example.com,971572648941,UAE,Sharjah,Small Business,2025-12-30,Active
+CUST01141,Stacy Kim,christianrichards@example.net,971529470911,UAE,Sharjah,Consumer,2025-11-04,Active
+CUST01142,Scott Smith,whitneyrichard@example.com,459011079771,Saudi Arabia,Riyadh,Small Business,2024-06-24,Active
+CUST01143,Deborah Young,hooveranna@example.net,905315204998,Bahrain,Manama,Consumer,2024-01-28,Active
+CUST01144,Ronald Underwood,hlogan@example.com,137971669841,Saudi Arabia,Riyadh,Consumer,2025-08-12,Active
+CUST01145,Brittany Washington,washingtonashley@example.org,971581908276,UAE,Ajman,Consumer,2025-10-24,Active
+CUST01146,Frank White,brandi19@example.com,142620370878,Saudi Arabia,Jeddah,Consumer,2024-06-19,Active
+CUST01147,Ryan Guerrero,mccoydonna@example.com,813599898972,Saudi Arabia,Riyadh,Consumer,2024-03-18,Active
+CUST01148,Alex Huff,sarah80@example.org,971548778801,UAE,Ajman,Consumer,2024-03-01,Active
+CUST01149,Stephanie Torres,eugenemartinez@example.com,978570820048,Saudi Arabia,Riyadh,Consumer,2025-12-09,Active
+CUST01150,Melvin Poole,meganjames@example.org,971518288515,UAE,Sharjah,Consumer,2024-11-01,Active
+CUST01151,Phillip Contreras,williamporter@example.net,971520698216,UAE,Ajman,Corporate,2024-08-06,Active
+CUST01152,Michael Castro,stevengoodwin@example.net,40953141961,Saudi Arabia,Jeddah,Consumer,2024-07-16,Active
+CUST01153,Juan Wright MD,mathewbennett@example.org,971555525374,UAE,Dubai,Small Business,2024-11-07,Inactive
+CUST01154,Robert Ballard,owhite@example.org,971551163819,UAE,Abu Dhabi,Consumer,2025-07-22,Active
+CUST01155,Michaela Campbell,preyes@example.net,960478421702,Saudi Arabia,Dammam,Small Business,2025-10-07,Active
+CUST01156,Christopher Mahoney,margaretrussell@example.net,89348688390,Oman,Salalah,Corporate,2024-09-03,Inactive
+CUST01157,John Ewing,eguzman@example.com,971565436107,UAE,Dubai,Corporate,2024-04-10,Active
+CUST01158,Ann Jones,williskatherine@example.net,971581414529,UAE,Sharjah,Consumer,2024-01-17,Active
+CUST01159,Victoria Bowman,yolandamarks@example.net,971517660678,UAE,Sharjah,Small Business,2024-06-30,Active
+CUST01160,John Russell,petersontina@example.org,971583498554,UAE,Dubai,Consumer,2024-10-24,Active
+CUST01161,Jorge Morales,kentmichael@example.com,971550170352,UAE,Ajman,Consumer,2025-11-01,Active
+CUST01162,Dennis Jensen MD,marksheidi@example.com,971537740293,UAE,Sharjah,Consumer,2025-07-01,Active
+CUST01163,Jennifer Brown,vmosley@example.org,971597814287,UAE,Sharjah,Small Business,2024-01-21,Active
+CUST01164,David Medina,paynestephanie@example.net,971512795126,UAE,Sharjah,Consumer,2025-07-17,Active
+CUST01165,Roy Thomas,christopher46@example.net,359266486989,Kuwait,Kuwait City,Corporate,2024-01-03,Active
+CUST01166,Melissa Dunn,sarah69@example.com,971544456905,UAE,Sharjah,Consumer,2025-05-25,Active
+CUST01167,Erin Chapman,linda01@example.org,920753605117,Saudi Arabia,Dammam,Consumer,2025-05-17,Active
+CUST01168,Crystal Carlson,uclark@example.org,971528292770,UAE,Sharjah,Consumer,2024-11-04,Active
+CUST01169,Beth Robertson,mark90@example.com,994248942,Saudi Arabia,Dammam,Small Business,2024-10-26,Active
+CUST01170,James Grimes,areynolds@example.org,971534467331,UAE,Sharjah,Consumer,2024-08-02,Active
+CUST01171,Christopher Wilkins,leroy57@example.com,809745338906,Saudi Arabia,Riyadh,Small Business,2024-08-26,Active
+CUST01172,Deanna Sullivan,ologan@example.org,971584925048,UAE,Dubai,Small Business,2024-06-26,Active
+CUST01173,Dylan Rodriguez,cassandra53@example.org,622122427677,Kuwait,Kuwait City,Small Business,2025-07-16,Active
+CUST01174,Lisa Price,millerjuan@example.org,584886008017,Saudi Arabia,Jeddah,Small Business,2024-10-19,Active
+CUST01175,Michael Frey,jamesmiller@example.net,971568570763,UAE,Dubai,Small Business,2025-01-11,Active
+CUST01176,Jill Floyd,galvanjoshua@example.org,426121203843,Qatar,Doha,Corporate,2025-03-10,Active
+CUST01177,Michael Blair,murraymichael@example.net,971553105220,UAE,Abu Dhabi,Small Business,2024-09-06,Active
+CUST01178,Dr. Carrie Anderson,wesleyjohns@example.com,971529973915,UAE,Abu Dhabi,Consumer,2024-05-03,Active
+CUST01179,Debra Johnson,pscott@example.com,752311232748,Qatar,Doha,Consumer,2025-08-04,Active
+CUST01180,Katherine Bentley,hayesrachel@example.com,342720388621,Saudi Arabia,Riyadh,Consumer,2025-07-12,Inactive
+CUST01181,Joshua Solis,lawsonpaul@example.org,971534093575,UAE,Abu Dhabi,Consumer,2024-09-15,Inactive
+CUST01182,Miguel Lee,ylynch@example.org,971588056716,UAE,Dubai,Consumer,2025-08-26,Active
+CUST01183,Sandra Adams,markperez@example.com,18167784816,Saudi Arabia,Jeddah,Consumer,2024-08-25,Active
+CUST01184,David Santiago,jose60@example.net,851799378105,Saudi Arabia,Dammam,Corporate,2025-12-22,Active
+CUST01185,Joshua Horne,morgan69@example.net,988290457927,Saudi Arabia,Dammam,Corporate,2025-04-14,Inactive
+CUST01186,Chad Bennett,patrickmichelle@example.net,971587836661,UAE,Abu Dhabi,Corporate,2024-07-19,Active
+CUST01187,Michelle Thompson,rebeccadecker@example.net,972833912187,Saudi Arabia,Dammam,Small Business,2025-01-29,Active
+CUST01188,Terri Knight,zacharyrobertson@example.org,221010232001,Kuwait,Kuwait City,Consumer,2024-10-13,Active
+CUST01189,Brian Kent,hespinoza@example.org,971596379410,UAE,Sharjah,Consumer,2024-10-08,Active
+CUST01190,Chelsey Reyes,robertssamantha@example.org,971529544473,UAE,Dubai,Small Business,2025-02-03,Active
+CUST01191,Francisco Sanchez,lawrencekari@example.com,682354695100,Saudi Arabia,Jeddah,Consumer,2025-10-17,Active
+CUST01192,Joyce Walton DVM,woodlisa@example.com,715006666411,Bahrain,Manama,Consumer,2025-06-19,Active
+CUST01193,Jacob Dillon,padillapatricia@example.org,971557582023,UAE,Abu Dhabi,Consumer,2025-10-22,Inactive
+CUST01194,Jeremy Nguyen,lmendez@example.com,89058366834,Oman,Salalah,Consumer,2025-12-21,Active
+CUST01195,Latoya Howell,paulstevens@example.org,971565701567,UAE,Sharjah,Corporate,2024-04-12,Active
+CUST01196,Kristin Meyer,kennedywanda@example.net,915059625719,Saudi Arabia,Riyadh,Consumer,2025-01-20,Active
+CUST01197,Kurt Martinez,andersonnicole@example.com,971558593510,UAE,Dubai,Consumer,2025-10-16,Active
+CUST01198,Kelly Hansen,omarturner@example.org,971574419118,UAE,Sharjah,Consumer,2024-11-27,Active
+CUST01199,Tony Merritt,sarah17@example.com,851777412746,Kuwait,Kuwait City,Consumer,2025-02-07,Active
+CUST01200,Joshua Robles,juanfranklin@example.net,264222975891,Qatar,Doha,Consumer,2024-05-14,Active

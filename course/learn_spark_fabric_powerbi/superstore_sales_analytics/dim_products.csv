@@ -1,0 +1,351 @@
+﻿ProductID,ProductName,Category,SubCategory,Brand,UnitCost,UnitPrice,ProductLaunchDate,ProductStatus
+PROD00001,TechCore Laptop 225,Electronics,Laptop,Nova,1890.74,2917.9,2024-11-30,Discontinued
+PROD00002,VivoMax Hair Dryer 819,Beauty,Hair Dryer,HomePro,286.35,426.75,2025-07-07,Active
+PROD00003,Vertex Makeup Kit 541,Beauty,Makeup Kit,Vertex,202.66,318.15,2025-09-09,Active
+PROD00004,Aero Air Fryer 611,Home & Kitchen,Air Fryer,FitEdge,518.89,833.29,2024-08-31,Active
+PROD00005,HomePro Jeans 528,Fashion,Jeans,VivoMax,61.87,105.96,2024-01-06,Active
+PROD00006,HomePro Smartwatch 417,Electronics,Smartwatch,VivoMax,2220.83,3577.57,2024-04-27,Active
+PROD00007,TechCore Monitor 760,Electronics,Monitor,Vertex,699.09,927.87,2024-09-10,Active
+PROD00008,PrimeLife T-Shirt 200,Fashion,T-Shirt,Vertex,375.08,629.03,2024-01-09,Active
+PROD00009,PrimeLife Headphones 475,Electronics,Headphones,VivoMax,2734.35,4002.5,2024-12-26,Active
+PROD00010,TechCore Vacuum Cleaner 346,Home & Kitchen,Vacuum Cleaner,UrbanX,330.3,579.44,2025-12-20,Active
+PROD00011,Vertex Skincare 579,Beauty,Skincare,TechCore,371.69,625.97,2024-08-16,Active
+PROD00012,Nova Jacket 795,Fashion,Jacket,UrbanX,426.35,656.17,2024-04-04,Active
+PROD00013,Aero Blender 874,Home & Kitchen,Blender,PrimeLife,704.21,957.89,2024-10-12,Active
+PROD00014,Aero Air Fryer 563,Home & Kitchen,Air Fryer,FitEdge,43.26,63.23,2024-07-27,Active
+PROD00015,HomePro Jacket 433,Fashion,Jacket,FitEdge,111.59,186.93,2024-12-01,Active
+PROD00016,UrbanX Football 535,Sports,Football,PrimeLife,203.57,284.92,2024-07-04,Discontinued
+PROD00017,Nova Air Fryer 880,Home & Kitchen,Air Fryer,VivoMax,764.23,1081.63,2025-02-28,Active
+PROD00018,FitEdge Jacket 556,Fashion,Jacket,Zenith,47.75,78.83,2025-04-03,Active
+PROD00019,PrimeLife Fitness Tracker 798,Sports,Fitness Tracker,UrbanX,347.92,524.57,2025-04-27,Active
+PROD00020,Aero Dumbbells 291,Sports,Dumbbells,PrimeLife,149.5,258.9,2025-02-22,Active
+PROD00021,Zenith Football 579,Sports,Football,UrbanX,184.53,293.74,2025-07-22,Active
+PROD00022,UrbanX Tablet 477,Electronics,Tablet,TechCore,2054.32,2883.18,2024-06-08,Active
+PROD00023,FitEdge Perfume 504,Beauty,Perfume,VivoMax,127.34,204.05,2024-06-10,Active
+PROD00024,Zenith Football 113,Sports,Football,FitEdge,245.77,321.72,2024-08-29,Active
+PROD00025,Nova Smartphone 756,Electronics,Smartphone,UrbanX,2147.15,3465.16,2024-03-10,Active
+PROD00026,Vertex Jacket 205,Fashion,Jacket,TechCore,122.68,177.29,2024-01-12,Discontinued
+PROD00027,FitEdge Skincare 965,Beauty,Skincare,Aero,59.94,100.88,2025-07-28,Active
+PROD00028,Vertex Hair Dryer 619,Beauty,Hair Dryer,FitEdge,113.17,180.51,2025-02-21,Active
+PROD00029,PrimeLife Headphones 576,Electronics,Headphones,FitEdge,741.91,1140.81,2025-04-14,Active
+PROD00030,Vertex Cookware Set 577,Home & Kitchen,Cookware Set,Zenith,735.79,973.94,2025-10-13,Active
+PROD00031,Aero Coffee Maker 800,Home & Kitchen,Coffee Maker,Aero,561.53,895.07,2025-09-04,Active
+PROD00032,Aero Smartphone 662,Electronics,Smartphone,FitEdge,1866.77,2648.9,2024-02-03,Active
+PROD00033,VivoMax Smartphone 900,Electronics,Smartphone,Vertex,598.33,1054.83,2024-06-27,Active
+PROD00034,HomePro Yoga Mat 279,Sports,Yoga Mat,FitEdge,90.63,160.62,2025-04-10,Active
+PROD00035,VivoMax Laptop 993,Electronics,Laptop,Zenith,1002.77,1737.51,2025-12-01,Active
+PROD00036,Nova Cookware Set 328,Home & Kitchen,Cookware Set,Vertex,229.02,331.03,2025-02-09,Active
+PROD00037,VivoMax Coffee Maker 683,Home & Kitchen,Coffee Maker,TechCore,243.83,425.61,2024-10-29,Active
+PROD00038,Nova Protein Bar 624,Grocery,Protein Bar,VivoMax,70.9,105.99,2024-07-03,Active
+PROD00039,Zenith Skincare 350,Beauty,Skincare,Aero,192.18,326.26,2024-01-11,Active
+PROD00040,HomePro Air Fryer 211,Home & Kitchen,Air Fryer,TechCore,354.68,603.34,2025-10-09,Active
+PROD00041,FitEdge Vacuum Cleaner 349,Home & Kitchen,Vacuum Cleaner,Vertex,569.4,1028.38,2024-03-26,Discontinued
+PROD00042,TechCore Blender 381,Home & Kitchen,Blender,FitEdge,90.4,132.47,2024-10-07,Active
+PROD00043,TechCore Jacket 496,Fashion,Jacket,TechCore,409.17,688.66,2024-11-20,Active
+PROD00044,VivoMax Coffee Maker 738,Home & Kitchen,Coffee Maker,Zenith,739.51,1020.17,2025-08-03,Active
+PROD00045,Nova Blender 110,Home & Kitchen,Blender,FitEdge,703.86,917.48,2025-03-25,Discontinued
+PROD00046,Zenith Handbag 560,Fashion,Handbag,Zenith,119.64,155.59,2024-01-05,Active
+PROD00047,FitEdge Dates 456,Grocery,Dates,Nova,36.5,64.04,2025-10-16,Active
+PROD00048,TechCore Cereal 581,Grocery,Cereal,Vertex,109.17,151.03,2024-09-01,Active
+PROD00049,Aero Skincare 935,Beauty,Skincare,TechCore,54.51,87.02,2025-12-12,Active
+PROD00050,HomePro Dumbbells 754,Sports,Dumbbells,Aero,103.9,167.22,2025-10-27,Active
+PROD00051,PrimeLife Laptop 962,Electronics,Laptop,Vertex,748.4,1334.5,2024-08-31,Active
+PROD00052,UrbanX Coffee Maker 620,Home & Kitchen,Coffee Maker,TechCore,573.88,970.13,2025-10-01,Active
+PROD00053,PrimeLife Laptop 960,Electronics,Laptop,HomePro,1855.54,3195.51,2025-02-14,Active
+PROD00054,Vertex Blender 845,Home & Kitchen,Blender,Nova,180.86,307.25,2025-07-30,Active
+PROD00055,FitEdge Vacuum Cleaner 857,Home & Kitchen,Vacuum Cleaner,Zenith,578.24,1044.06,2025-01-31,Active
+PROD00056,HomePro Fitness Tracker 935,Sports,Fitness Tracker,Zenith,304.33,499.74,2024-08-23,Active
+PROD00057,VivoMax Monitor 659,Electronics,Monitor,UrbanX,159.2,238.21,2025-02-16,Active
+PROD00058,PrimeLife T-Shirt 563,Fashion,T-Shirt,PrimeLife,368.84,509.39,2024-05-15,Active
+PROD00059,Nova Yoga Mat 687,Sports,Yoga Mat,Zenith,196.05,351.98,2024-05-04,Active
+PROD00060,TechCore Protein Bar 183,Grocery,Protein Bar,Zenith,116.41,150.5,2025-06-21,Active
+PROD00061,UrbanX Coffee Maker 513,Home & Kitchen,Coffee Maker,Vertex,598.53,1013.77,2025-07-16,Active
+PROD00062,Zenith Hair Dryer 860,Beauty,Hair Dryer,TechCore,200.34,319.77,2024-08-15,Active
+PROD00063,HomePro Coffee Maker 330,Home & Kitchen,Coffee Maker,TechCore,372.4,569.81,2024-10-15,Active
+PROD00064,Nova Vacuum Cleaner 703,Home & Kitchen,Vacuum Cleaner,Nova,396.56,645.0,2024-06-17,Active
+PROD00065,FitEdge Smartphone 796,Electronics,Smartphone,PrimeLife,188.8,273.88,2025-09-07,Active
+PROD00066,VivoMax Headphones 708,Electronics,Headphones,Nova,1860.9,2395.17,2024-11-01,Active
+PROD00067,FitEdge Sneakers 318,Fashion,Sneakers,TechCore,585.98,763.56,2025-08-09,Active
+PROD00068,Aero Cereal 124,Grocery,Cereal,TechCore,50.7,86.98,2024-05-10,Active
+PROD00069,Nova Cookware Set 292,Home & Kitchen,Cookware Set,UrbanX,735.36,995.43,2024-01-07,Active
+PROD00070,Aero Air Fryer 154,Home & Kitchen,Air Fryer,PrimeLife,342.47,549.89,2025-05-21,Active
+PROD00071,Nova Vacuum Cleaner 698,Home & Kitchen,Vacuum Cleaner,HomePro,187.54,340.1,2024-11-30,Active
+PROD00072,PrimeLife Protein Bar 428,Grocery,Protein Bar,Nova,96.29,173.33,2024-09-15,Active
+PROD00073,Zenith Hair Dryer 565,Beauty,Hair Dryer,TechCore,372.01,483.23,2024-05-16,Active
+PROD00074,HomePro Dates 808,Grocery,Dates,PrimeLife,13.41,19.47,2024-07-05,Active
+PROD00075,FitEdge Watch 156,Fashion,Watch,UrbanX,190.45,275.77,2025-12-18,Active
+PROD00076,Nova Dumbbells 434,Sports,Dumbbells,HomePro,28.57,39.15,2025-10-11,Active
+PROD00077,PrimeLife Dumbbells 420,Sports,Dumbbells,TechCore,155.93,259.19,2025-05-22,Active
+PROD00078,Zenith Tablet 991,Electronics,Tablet,Aero,550.61,843.88,2024-04-02,Discontinued
+PROD00079,Nova T-Shirt 181,Fashion,T-Shirt,VivoMax,388.78,568.29,2025-10-24,Active
+PROD00080,HomePro Coffee Maker 812,Home & Kitchen,Coffee Maker,VivoMax,148.63,192.44,2024-03-24,Discontinued
+PROD00081,Zenith Headphones 567,Electronics,Headphones,HomePro,2205.56,2923.31,2025-08-07,Active
+PROD00082,Zenith Headphones 167,Electronics,Headphones,VivoMax,598.79,1028.92,2025-09-06,Active
+PROD00083,Vertex Laptop 909,Electronics,Laptop,Aero,1016.99,1401.42,2024-06-13,Active
+PROD00084,PrimeLife Fitness Tracker 426,Sports,Fitness Tracker,HomePro,492.3,688.84,2025-07-02,Active
+PROD00085,Aero Laptop 144,Electronics,Laptop,FitEdge,211.26,344.07,2024-01-05,Active
+PROD00086,Vertex Skincare 515,Beauty,Skincare,UrbanX,422.96,552.38,2024-05-18,Active
+PROD00087,Nova Smartwatch 618,Electronics,Smartwatch,VivoMax,676.88,900.26,2025-05-26,Active
+PROD00088,TechCore Makeup Kit 830,Beauty,Makeup Kit,UrbanX,92.23,158.46,2024-05-02,Active
+PROD00089,HomePro Olive Oil 968,Grocery,Olive Oil,VivoMax,104.38,146.02,2025-04-17,Active
+PROD00090,PrimeLife Smartphone 913,Electronics,Smartphone,Aero,2325.45,3284.24,2025-03-19,Active
+PROD00091,PrimeLife Smartphone 165,Electronics,Smartphone,PrimeLife,2462.87,4170.93,2025-04-26,Active
+PROD00092,UrbanX Vacuum Cleaner 543,Home & Kitchen,Vacuum Cleaner,FitEdge,761.93,981.49,2024-02-19,Active
+PROD00093,TechCore Football 592,Sports,Football,VivoMax,118.52,180.86,2025-10-24,Active
+PROD00094,VivoMax Cookware Set 616,Home & Kitchen,Cookware Set,FitEdge,28.98,42.41,2025-01-17,Active
+PROD00095,UrbanX T-Shirt 811,Fashion,T-Shirt,Zenith,381.59,617.28,2024-03-31,Active
+PROD00096,Vertex Headphones 563,Electronics,Headphones,HomePro,955.14,1409.98,2025-02-22,Active
+PROD00097,Aero Watch 265,Fashion,Watch,Vertex,463.03,611.71,2024-12-22,Active
+PROD00098,TechCore Air Fryer 148,Home & Kitchen,Air Fryer,PrimeLife,615.85,1007.82,2024-01-04,Active
+PROD00099,TechCore Laptop 904,Electronics,Laptop,UrbanX,1674.47,2712.53,2024-09-24,Active
+PROD00100,Nova Headphones 115,Electronics,Headphones,Aero,2297.0,3355.45,2024-03-09,Active
+PROD00101,TechCore Handbag 474,Fashion,Handbag,TechCore,241.05,415.82,2024-03-18,Active
+PROD00102,FitEdge Skincare 227,Beauty,Skincare,Zenith,55.36,95.25,2024-03-22,Active
+PROD00103,FitEdge Blender 659,Home & Kitchen,Blender,UrbanX,538.03,748.04,2024-11-14,Active
+PROD00104,UrbanX Hair Dryer 163,Beauty,Hair Dryer,PrimeLife,208.72,297.97,2025-01-25,Discontinued
+PROD00105,Aero Smartphone 145,Electronics,Smartphone,Vertex,1992.17,3525.88,2024-08-30,Active
+PROD00106,UrbanX Perfume 770,Beauty,Perfume,Zenith,251.69,346.39,2025-02-05,Active
+PROD00107,FitEdge Jeans 680,Fashion,Jeans,HomePro,73.94,114.07,2025-06-17,Active
+PROD00108,PrimeLife Protein Bar 601,Grocery,Protein Bar,TechCore,32.09,56.78,2025-10-04,Discontinued
+PROD00109,FitEdge Coffee Maker 800,Home & Kitchen,Coffee Maker,TechCore,567.26,807.7,2025-02-19,Active
+PROD00110,Nova Smartwatch 755,Electronics,Smartwatch,TechCore,346.97,596.04,2024-12-04,Active
+PROD00111,Aero Olive Oil 254,Grocery,Olive Oil,Aero,15.36,23.08,2025-12-11,Active
+PROD00112,VivoMax Smartphone 708,Electronics,Smartphone,TechCore,2602.17,3693.74,2024-05-02,Active
+PROD00113,VivoMax Monitor 887,Electronics,Monitor,VivoMax,2574.8,3460.49,2025-05-19,Active
+PROD00114,FitEdge Air Fryer 493,Home & Kitchen,Air Fryer,Aero,86.55,145.97,2024-10-05,Active
+PROD00115,HomePro Monitor 843,Electronics,Monitor,Aero,2236.62,3984.92,2025-01-12,Active
+PROD00116,HomePro Running Shoes 610,Sports,Running Shoes,VivoMax,303.3,392.71,2025-06-01,Active
+PROD00117,Zenith Headphones 320,Electronics,Headphones,TechCore,1867.93,2472.71,2025-07-01,Active
+PROD00118,HomePro Coffee Maker 172,Home & Kitchen,Coffee Maker,TechCore,132.02,190.63,2025-07-18,Active
+PROD00119,UrbanX Sneakers 105,Fashion,Sneakers,FitEdge,83.83,121.11,2025-10-31,Active
+PROD00120,Aero Hair Dryer 904,Beauty,Hair Dryer,PrimeLife,395.78,530.75,2024-12-15,Active
+PROD00121,TechCore Perfume 727,Beauty,Perfume,HomePro,173.54,294.99,2025-07-12,Active
+PROD00122,FitEdge Monitor 944,Electronics,Monitor,Nova,1460.59,2639.45,2025-05-25,Active
+PROD00123,Nova Cereal 342,Grocery,Cereal,Aero,124.72,165.0,2025-09-18,Active
+PROD00124,UrbanX Air Fryer 679,Home & Kitchen,Air Fryer,TechCore,588.97,915.6,2024-02-19,Discontinued
+PROD00125,Zenith Air Fryer 414,Home & Kitchen,Air Fryer,Zenith,343.2,451.28,2025-12-15,Active
+PROD00126,Vertex Dates 994,Grocery,Dates,Zenith,102.85,171.04,2025-03-20,Active
+PROD00127,Nova Makeup Kit 287,Beauty,Makeup Kit,VivoMax,253.73,448.01,2024-04-22,Active
+PROD00128,UrbanX Air Fryer 676,Home & Kitchen,Air Fryer,TechCore,371.15,637.15,2025-10-25,Active
+PROD00129,PrimeLife Makeup Kit 775,Beauty,Makeup Kit,PrimeLife,419.36,550.01,2024-12-16,Active
+PROD00130,Vertex Air Fryer 120,Home & Kitchen,Air Fryer,PrimeLife,328.37,464.44,2024-05-05,Active
+PROD00131,Nova Monitor 435,Electronics,Monitor,UrbanX,585.34,789.45,2025-01-06,Discontinued
+PROD00132,Nova Headphones 198,Electronics,Headphones,FitEdge,76.59,108.18,2024-08-30,Active
+PROD00133,TechCore Dumbbells 693,Sports,Dumbbells,PrimeLife,124.98,179.82,2025-10-05,Active
+PROD00134,FitEdge Vacuum Cleaner 205,Home & Kitchen,Vacuum Cleaner,FitEdge,540.39,705.18,2025-09-24,Discontinued
+PROD00135,PrimeLife Smartphone 757,Electronics,Smartphone,HomePro,686.96,1121.69,2025-04-24,Active
+PROD00136,VivoMax Smartphone 781,Electronics,Smartphone,PrimeLife,790.97,1139.47,2025-12-27,Active
+PROD00137,UrbanX Dumbbells 725,Sports,Dumbbells,FitEdge,268.41,467.03,2024-04-10,Active
+PROD00138,HomePro Cereal 412,Grocery,Cereal,Aero,84.78,149.35,2025-06-11,Active
+PROD00139,Vertex Makeup Kit 335,Beauty,Makeup Kit,TechCore,347.21,597.38,2024-12-14,Discontinued
+PROD00140,Vertex Coffee 303,Grocery,Coffee,UrbanX,36.35,60.9,2024-01-01,Active
+PROD00141,PrimeLife Laptop 636,Electronics,Laptop,UrbanX,2425.75,4123.3,2024-05-09,Discontinued
+PROD00142,Aero Running Shoes 908,Sports,Running Shoes,Vertex,25.71,42.42,2024-06-05,Active
+PROD00143,VivoMax T-Shirt 782,Fashion,T-Shirt,HomePro,442.93,612.5,2024-08-03,Active
+PROD00144,UrbanX Monitor 125,Electronics,Monitor,HomePro,1684.43,2283.37,2024-04-03,Active
+PROD00145,Nova Yoga Mat 583,Sports,Yoga Mat,Vertex,380.72,626.98,2025-11-07,Active
+PROD00146,Aero Headphones 792,Electronics,Headphones,Vertex,292.97,465.46,2025-12-15,Active
+PROD00147,HomePro Skincare 214,Beauty,Skincare,PrimeLife,90.5,126.57,2024-04-08,Active
+PROD00148,VivoMax Vacuum Cleaner 125,Home & Kitchen,Vacuum Cleaner,UrbanX,33.46,50.0,2025-11-21,Active
+PROD00149,TechCore Air Fryer 708,Home & Kitchen,Air Fryer,Zenith,133.23,208.8,2024-02-13,Active
+PROD00150,TechCore Coffee Maker 788,Home & Kitchen,Coffee Maker,FitEdge,528.32,768.52,2024-03-05,Active
+PROD00151,Vertex Tablet 853,Electronics,Tablet,TechCore,1337.04,1926.11,2024-07-22,Active
+PROD00152,Nova Protein Bar 521,Grocery,Protein Bar,Vertex,64.71,85.06,2025-12-21,Active
+PROD00153,VivoMax T-Shirt 941,Fashion,T-Shirt,Nova,336.75,512.78,2025-04-23,Active
+PROD00154,UrbanX Protein Bar 377,Grocery,Protein Bar,UrbanX,58.33,100.62,2025-06-17,Active
+PROD00155,FitEdge Smartwatch 600,Electronics,Smartwatch,Zenith,1183.31,1969.87,2025-11-05,Active
+PROD00156,FitEdge Cookware Set 133,Home & Kitchen,Cookware Set,UrbanX,751.23,1122.95,2025-09-19,Active
+PROD00157,Vertex Coffee 714,Grocery,Coffee,HomePro,77.63,131.53,2025-06-29,Active
+PROD00158,Nova Monitor 190,Electronics,Monitor,Vertex,1178.34,2056.06,2024-02-18,Active
+PROD00159,Zenith Tablet 925,Electronics,Tablet,UrbanX,1585.21,2277.23,2025-12-11,Active
+PROD00160,FitEdge Smartphone 291,Electronics,Smartphone,UrbanX,101.06,160.96,2025-11-29,Active
+PROD00161,UrbanX Hair Dryer 605,Beauty,Hair Dryer,HomePro,156.01,279.96,2025-02-25,Active
+PROD00162,Zenith Skincare 248,Beauty,Skincare,HomePro,147.3,255.45,2025-06-02,Active
+PROD00163,Nova Headphones 738,Electronics,Headphones,VivoMax,1303.32,2073.57,2025-05-26,Active
+PROD00164,Aero Yoga Mat 314,Sports,Yoga Mat,TechCore,101.48,164.61,2025-05-06,Discontinued
+PROD00165,Nova Smartphone 522,Electronics,Smartphone,TechCore,1267.51,1633.27,2025-06-21,Active
+PROD00166,HomePro Sneakers 638,Fashion,Sneakers,UrbanX,26.06,46.42,2025-06-20,Active
+PROD00167,PrimeLife Blender 354,Home & Kitchen,Blender,Aero,470.45,668.74,2024-04-03,Active
+PROD00168,HomePro Yoga Mat 422,Sports,Yoga Mat,Nova,239.15,355.14,2025-04-07,Active
+PROD00169,UrbanX Smartphone 431,Electronics,Smartphone,TechCore,291.08,425.22,2025-12-15,Active
+PROD00170,TechCore Monitor 567,Electronics,Monitor,TechCore,2258.13,3449.43,2024-07-21,Active
+PROD00171,Vertex Laptop 983,Electronics,Laptop,FitEdge,2119.28,2837.38,2025-06-05,Active
+PROD00172,Vertex Headphones 570,Electronics,Headphones,Vertex,423.67,611.08,2024-04-18,Active
+PROD00173,TechCore Fitness Tracker 313,Sports,Fitness Tracker,HomePro,68.74,94.75,2025-09-14,Active
+PROD00174,Zenith Blender 627,Home & Kitchen,Blender,UrbanX,427.66,728.55,2024-04-05,Active
+PROD00175,TechCore Running Shoes 500,Sports,Running Shoes,Zenith,55.37,82.88,2024-11-16,Discontinued
+PROD00176,TechCore Jacket 458,Fashion,Jacket,VivoMax,336.7,511.28,2024-09-19,Active
+PROD00177,Aero Yoga Mat 116,Sports,Yoga Mat,UrbanX,256.38,423.89,2025-11-10,Active
+PROD00178,FitEdge Jacket 301,Fashion,Jacket,VivoMax,375.96,489.31,2025-05-22,Active
+PROD00179,Nova Smartwatch 691,Electronics,Smartwatch,Zenith,1200.63,1923.08,2024-03-16,Active
+PROD00180,TechCore Jacket 789,Fashion,Jacket,PrimeLife,170.85,278.27,2024-09-29,Active
+PROD00181,Vertex Jeans 748,Fashion,Jeans,TechCore,362.89,654.01,2024-05-21,Active
+PROD00182,TechCore Running Shoes 297,Sports,Running Shoes,Vertex,351.85,514.26,2025-10-17,Active
+PROD00183,FitEdge Yoga Mat 642,Sports,Yoga Mat,VivoMax,365.48,615.85,2025-07-08,Active
+PROD00184,FitEdge Monitor 595,Electronics,Monitor,VivoMax,1619.49,2111.28,2025-01-02,Discontinued
+PROD00185,Vertex Blender 136,Home & Kitchen,Blender,FitEdge,445.88,672.0,2024-11-01,Active
+PROD00186,UrbanX Monitor 152,Electronics,Monitor,UrbanX,1818.1,2848.89,2025-10-09,Active
+PROD00187,UrbanX Fitness Tracker 495,Sports,Fitness Tracker,TechCore,308.48,517.45,2024-10-24,Active
+PROD00188,PrimeLife Headphones 487,Electronics,Headphones,Aero,117.97,154.28,2024-10-15,Active
+PROD00189,Vertex Dumbbells 222,Sports,Dumbbells,VivoMax,259.85,345.79,2024-01-03,Active
+PROD00190,FitEdge Laptop 582,Electronics,Laptop,UrbanX,108.48,193.18,2025-12-19,Active
+PROD00191,UrbanX Smartphone 659,Electronics,Smartphone,Aero,2085.13,3142.61,2024-02-11,Active
+PROD00192,VivoMax Smartwatch 620,Electronics,Smartwatch,HomePro,2906.92,3741.64,2025-06-06,Active
+PROD00193,Nova Smartphone 611,Electronics,Smartphone,Nova,1466.3,1975.12,2025-03-10,Active
+PROD00194,Vertex Jeans 869,Fashion,Jeans,Zenith,502.86,754.16,2025-11-13,Active
+PROD00195,Nova Monitor 515,Electronics,Monitor,Aero,105.47,170.57,2024-11-17,Active
+PROD00196,Aero Smartwatch 389,Electronics,Smartwatch,VivoMax,379.66,495.88,2024-12-01,Active
+PROD00197,HomePro Smartphone 462,Electronics,Smartphone,VivoMax,2756.62,3872.99,2024-10-17,Active
+PROD00198,FitEdge Protein Bar 895,Grocery,Protein Bar,Vertex,15.8,25.37,2025-03-02,Active
+PROD00199,VivoMax Skincare 574,Beauty,Skincare,PrimeLife,74.28,102.07,2025-03-22,Active
+PROD00200,Vertex Laptop 106,Electronics,Laptop,VivoMax,417.91,703.81,2024-06-12,Active
+PROD00201,Aero Monitor 743,Electronics,Monitor,FitEdge,588.7,806.93,2025-07-14,Active
+PROD00202,FitEdge Jacket 349,Fashion,Jacket,PrimeLife,22.42,38.23,2025-05-14,Active
+PROD00203,Vertex Cookware Set 973,Home & Kitchen,Cookware Set,UrbanX,208.89,289.99,2025-04-20,Active
+PROD00204,PrimeLife Handbag 689,Fashion,Handbag,HomePro,449.76,684.9,2025-12-24,Active
+PROD00205,UrbanX Coffee Maker 246,Home & Kitchen,Coffee Maker,TechCore,355.5,504.38,2024-03-06,Discontinued
+PROD00206,UrbanX Olive Oil 968,Grocery,Olive Oil,HomePro,101.57,154.76,2025-05-13,Active
+PROD00207,VivoMax Monitor 320,Electronics,Monitor,Vertex,367.4,481.19,2025-08-16,Active
+PROD00208,VivoMax T-Shirt 968,Fashion,T-Shirt,Aero,518.94,818.71,2025-12-15,Active
+PROD00209,Nova Smartwatch 334,Electronics,Smartwatch,PrimeLife,1433.43,2398.14,2024-02-24,Active
+PROD00210,HomePro Running Shoes 475,Sports,Running Shoes,Zenith,55.67,87.05,2024-08-05,Discontinued
+PROD00211,UrbanX Blender 863,Home & Kitchen,Blender,Zenith,604.82,850.07,2025-09-23,Active
+PROD00212,Aero Tablet 235,Electronics,Tablet,Aero,1784.94,2680.49,2024-01-30,Active
+PROD00213,Nova Blender 786,Home & Kitchen,Blender,PrimeLife,735.03,1024.38,2025-11-20,Active
+PROD00214,TechCore Air Fryer 797,Home & Kitchen,Air Fryer,TechCore,500.68,879.3,2025-02-28,Active
+PROD00215,HomePro Perfume 338,Beauty,Perfume,VivoMax,217.63,366.09,2025-11-28,Discontinued
+PROD00216,Nova Blender 276,Home & Kitchen,Blender,HomePro,751.36,1050.93,2024-06-08,Active
+PROD00217,VivoMax T-Shirt 459,Fashion,T-Shirt,Nova,66.45,111.93,2025-11-20,Active
+PROD00218,Aero Vacuum Cleaner 334,Home & Kitchen,Vacuum Cleaner,Zenith,509.41,788.48,2024-01-22,Active
+PROD00219,FitEdge Vacuum Cleaner 192,Home & Kitchen,Vacuum Cleaner,Zenith,568.49,849.52,2024-06-29,Active
+PROD00220,FitEdge T-Shirt 331,Fashion,T-Shirt,HomePro,261.58,399.13,2025-12-05,Active
+PROD00221,Nova Makeup Kit 229,Beauty,Makeup Kit,Vertex,379.77,555.3,2025-01-30,Active
+PROD00222,TechCore Smartphone 812,Electronics,Smartphone,Zenith,2678.43,3500.44,2024-07-20,Active
+PROD00223,TechCore Smartwatch 339,Electronics,Smartwatch,FitEdge,2293.1,3038.58,2025-03-28,Active
+PROD00224,Zenith Sneakers 938,Fashion,Sneakers,Aero,374.25,561.16,2024-10-13,Discontinued
+PROD00225,VivoMax Laptop 151,Electronics,Laptop,Nova,1304.3,1838.38,2024-04-20,Discontinued
+PROD00226,Zenith Vacuum Cleaner 607,Home & Kitchen,Vacuum Cleaner,FitEdge,275.01,422.26,2024-02-29,Active
+PROD00227,Nova Yoga Mat 307,Sports,Yoga Mat,UrbanX,412.29,615.15,2025-09-26,Active
+PROD00228,FitEdge Cookware Set 911,Home & Kitchen,Cookware Set,Zenith,725.2,1131.2,2025-11-16,Active
+PROD00229,Zenith Blender 501,Home & Kitchen,Blender,Aero,729.84,938.92,2024-11-02,Active
+PROD00230,HomePro Monitor 417,Electronics,Monitor,TechCore,1917.86,2497.4,2024-01-11,Active
+PROD00231,FitEdge Laptop 795,Electronics,Laptop,HomePro,551.64,825.2,2024-02-10,Active
+PROD00232,FitEdge Handbag 798,Fashion,Handbag,Aero,210.24,343.62,2024-10-23,Active
+PROD00233,TechCore Hair Dryer 789,Beauty,Hair Dryer,Vertex,115.06,148.88,2025-10-07,Active
+PROD00234,Vertex Monitor 989,Electronics,Monitor,Nova,1431.89,2568.15,2025-12-08,Active
+PROD00235,UrbanX Watch 311,Fashion,Watch,Vertex,416.29,536.57,2024-10-31,Active
+PROD00236,PrimeLife Olive Oil 611,Grocery,Olive Oil,Vertex,41.45,55.57,2025-12-08,Active
+PROD00237,Zenith Smartphone 771,Electronics,Smartphone,FitEdge,2114.94,3237.37,2024-10-14,Active
+PROD00238,Nova T-Shirt 843,Fashion,T-Shirt,VivoMax,436.01,649.32,2025-11-27,Active
+PROD00239,UrbanX T-Shirt 402,Fashion,T-Shirt,Aero,189.01,328.23,2025-10-02,Active
+PROD00240,Nova Jeans 980,Fashion,Jeans,FitEdge,271.32,380.86,2024-01-30,Active
+PROD00241,VivoMax Cookware Set 410,Home & Kitchen,Cookware Set,HomePro,111.74,191.54,2024-06-19,Active
+PROD00242,VivoMax Coffee 110,Grocery,Coffee,HomePro,100.9,177.18,2024-10-14,Active
+PROD00243,UrbanX Running Shoes 328,Sports,Running Shoes,Zenith,129.76,217.16,2024-04-21,Active
+PROD00244,Vertex Tablet 458,Electronics,Tablet,HomePro,1274.1,2174.93,2025-02-20,Active
+PROD00245,Zenith Laptop 688,Electronics,Laptop,TechCore,3145.43,4034.31,2025-08-10,Active
+PROD00246,HomePro Football 609,Sports,Football,VivoMax,378.19,605.11,2024-09-21,Active
+PROD00247,Zenith Olive Oil 805,Grocery,Olive Oil,UrbanX,85.83,123.78,2024-02-14,Discontinued
+PROD00248,Zenith Handbag 252,Fashion,Handbag,Nova,172.3,253.91,2025-02-28,Active
+PROD00249,Nova Headphones 432,Electronics,Headphones,TechCore,2171.27,3171.12,2025-07-22,Active
+PROD00250,PrimeLife Dumbbells 920,Sports,Dumbbells,Nova,250.49,401.16,2025-07-25,Active
+PROD00251,Aero Handbag 599,Fashion,Handbag,TechCore,128.84,189.8,2024-08-07,Active
+PROD00252,VivoMax Blender 327,Home & Kitchen,Blender,Nova,320.72,564.73,2024-01-27,Active
+PROD00253,VivoMax Cereal 443,Grocery,Cereal,UrbanX,55.68,73.96,2025-12-05,Active
+PROD00254,Aero Makeup Kit 657,Beauty,Makeup Kit,Nova,222.91,338.64,2024-10-12,Active
+PROD00255,VivoMax Tablet 934,Electronics,Tablet,UrbanX,1155.41,1547.75,2024-05-23,Active
+PROD00256,Nova Blender 907,Home & Kitchen,Blender,Nova,224.87,332.32,2024-08-11,Active
+PROD00257,FitEdge Smartphone 429,Electronics,Smartphone,Aero,1692.4,2235.94,2025-07-16,Active
+PROD00258,TechCore Tablet 233,Electronics,Tablet,Nova,1851.06,3228.07,2025-06-07,Active
+PROD00259,VivoMax Smartwatch 150,Electronics,Smartwatch,VivoMax,1049.28,1821.53,2025-02-18,Active
+PROD00260,PrimeLife T-Shirt 815,Fashion,T-Shirt,Aero,468.35,660.24,2024-09-07,Active
+PROD00261,Nova Hair Dryer 240,Beauty,Hair Dryer,Vertex,411.74,536.12,2024-08-08,Active
+PROD00262,Vertex Handbag 329,Fashion,Handbag,UrbanX,72.01,104.6,2025-03-17,Active
+PROD00263,PrimeLife Tablet 703,Electronics,Tablet,FitEdge,1051.66,1771.67,2024-05-02,Active
+PROD00264,HomePro Coffee Maker 699,Home & Kitchen,Coffee Maker,Vertex,331.63,548.11,2024-05-18,Active
+PROD00265,TechCore Monitor 494,Electronics,Monitor,Nova,238.7,350.19,2025-09-09,Active
+PROD00266,TechCore Blender 187,Home & Kitchen,Blender,PrimeLife,603.38,963.32,2024-10-08,Active
+PROD00267,VivoMax Monitor 369,Electronics,Monitor,PrimeLife,746.24,1230.07,2024-11-12,Active
+PROD00268,VivoMax Smartwatch 537,Electronics,Smartwatch,FitEdge,1446.33,2582.78,2025-08-31,Active
+PROD00269,TechCore Olive Oil 948,Grocery,Olive Oil,FitEdge,100.79,156.95,2024-03-05,Active
+PROD00270,FitEdge Hair Dryer 815,Beauty,Hair Dryer,FitEdge,51.77,70.46,2025-12-08,Active
+PROD00271,FitEdge Dumbbells 205,Sports,Dumbbells,Vertex,167.68,270.44,2024-07-05,Active
+PROD00272,Vertex Tablet 209,Electronics,Tablet,Nova,973.85,1327.4,2025-07-27,Active
+PROD00273,PrimeLife Headphones 204,Electronics,Headphones,Aero,2281.66,3801.49,2025-04-30,Active
+PROD00274,Zenith Monitor 563,Electronics,Monitor,TechCore,307.38,448.08,2025-11-02,Active
+PROD00275,FitEdge Dates 313,Grocery,Dates,VivoMax,9.12,15.98,2025-06-23,Discontinued
+PROD00276,HomePro Fitness Tracker 301,Sports,Fitness Tracker,VivoMax,19.18,32.75,2025-11-17,Active
+PROD00277,VivoMax Perfume 805,Beauty,Perfume,Nova,19.88,27.39,2025-02-09,Active
+PROD00278,Nova Hair Dryer 141,Beauty,Hair Dryer,TechCore,210.01,323.19,2024-08-22,Active
+PROD00279,Aero Dates 419,Grocery,Dates,HomePro,40.32,58.86,2025-05-06,Active
+PROD00280,Zenith Olive Oil 261,Grocery,Olive Oil,HomePro,93.79,152.27,2024-03-15,Active
+PROD00281,Vertex Monitor 268,Electronics,Monitor,FitEdge,267.7,345.74,2025-01-10,Active
+PROD00282,TechCore Protein Bar 127,Grocery,Protein Bar,PrimeLife,40.96,58.83,2025-01-09,Active
+PROD00283,Vertex Coffee Maker 621,Home & Kitchen,Coffee Maker,FitEdge,33.41,57.43,2025-10-08,Active
+PROD00284,PrimeLife Jacket 237,Fashion,Jacket,Zenith,198.1,258.65,2024-01-29,Active
+PROD00285,FitEdge Yoga Mat 793,Sports,Yoga Mat,PrimeLife,195.64,304.9,2025-06-20,Active
+PROD00286,Zenith Sneakers 595,Fashion,Sneakers,Nova,162.79,242.55,2025-11-23,Active
+PROD00287,Nova Laptop 594,Electronics,Laptop,HomePro,1027.0,1584.74,2025-03-09,Active
+PROD00288,Nova Cookware Set 119,Home & Kitchen,Cookware Set,HomePro,103.87,155.73,2025-05-16,Active
+PROD00289,HomePro T-Shirt 314,Fashion,T-Shirt,FitEdge,562.2,735.49,2024-03-12,Active
+PROD00290,Vertex Yoga Mat 643,Sports,Yoga Mat,FitEdge,331.8,573.44,2025-03-30,Discontinued
+PROD00291,TechCore Coffee Maker 619,Home & Kitchen,Coffee Maker,FitEdge,108.58,143.25,2024-10-24,Active
+PROD00292,PrimeLife Vacuum Cleaner 888,Home & Kitchen,Vacuum Cleaner,Vertex,481.14,817.72,2025-04-11,Active
+PROD00293,FitEdge Smartphone 858,Electronics,Smartphone,PrimeLife,962.55,1443.69,2025-06-12,Active
+PROD00294,UrbanX Running Shoes 852,Sports,Running Shoes,Aero,307.72,492.18,2025-10-24,Active
+PROD00295,FitEdge Vacuum Cleaner 667,Home & Kitchen,Vacuum Cleaner,Aero,582.07,775.31,2025-06-03,Active
+PROD00296,HomePro Headphones 933,Electronics,Headphones,Vertex,908.24,1329.86,2025-04-25,Discontinued
+PROD00297,Aero Handbag 581,Fashion,Handbag,VivoMax,389.18,632.26,2025-02-20,Active
+PROD00298,TechCore Monitor 204,Electronics,Monitor,Nova,1939.79,3247.31,2024-10-04,Active
+PROD00299,Aero T-Shirt 495,Fashion,T-Shirt,Nova,22.78,38.98,2024-06-10,Active
+PROD00300,PrimeLife Jeans 338,Fashion,Jeans,Vertex,280.21,423.79,2025-02-12,Active
+PROD00301,HomePro Laptop 352,Electronics,Laptop,UrbanX,1045.53,1398.65,2025-08-10,Active
+PROD00302,Nova Fitness Tracker 327,Sports,Fitness Tracker,Nova,47.78,65.07,2025-10-09,Active
+PROD00303,PrimeLife Cereal 390,Grocery,Cereal,TechCore,108.76,176.24,2025-06-09,Active
+PROD00304,Aero Vacuum Cleaner 146,Home & Kitchen,Vacuum Cleaner,TechCore,489.27,656.19,2025-12-03,Active
+PROD00305,HomePro Handbag 176,Fashion,Handbag,FitEdge,226.71,363.48,2024-07-24,Active
+PROD00306,Nova Vacuum Cleaner 176,Home & Kitchen,Vacuum Cleaner,FitEdge,69.46,102.01,2024-12-02,Active
+PROD00307,Nova Football 241,Sports,Football,PrimeLife,325.27,574.02,2025-11-30,Active
+PROD00308,Vertex Dates 820,Grocery,Dates,VivoMax,74.77,130.85,2025-10-10,Active
+PROD00309,Nova Olive Oil 406,Grocery,Olive Oil,Aero,80.33,125.14,2025-05-01,Discontinued
+PROD00310,Zenith Hair Dryer 817,Beauty,Hair Dryer,Nova,215.21,288.64,2024-09-23,Active
+PROD00311,Aero Laptop 348,Electronics,Laptop,Aero,1579.58,2558.95,2024-06-21,Active
+PROD00312,HomePro Blender 950,Home & Kitchen,Blender,Vertex,623.41,934.64,2024-06-28,Active
+PROD00313,Zenith Air Fryer 232,Home & Kitchen,Air Fryer,Zenith,568.96,1017.34,2025-11-23,Active
+PROD00314,Nova Cookware Set 761,Home & Kitchen,Cookware Set,UrbanX,647.96,1138.41,2025-11-24,Active
+PROD00315,FitEdge Sneakers 148,Fashion,Sneakers,Zenith,281.57,406.33,2024-01-26,Active
+PROD00316,UrbanX Smartphone 156,Electronics,Smartphone,VivoMax,1018.07,1599.06,2025-05-18,Active
+PROD00317,TechCore Headphones 742,Electronics,Headphones,HomePro,2106.56,2864.68,2024-02-26,Active
+PROD00318,HomePro Tablet 112,Electronics,Tablet,UrbanX,2755.49,3646.46,2025-05-30,Active
+PROD00319,HomePro Yoga Mat 752,Sports,Yoga Mat,VivoMax,432.3,672.93,2024-09-24,Active
+PROD00320,PrimeLife Makeup Kit 854,Beauty,Makeup Kit,HomePro,162.88,264.68,2025-05-02,Active
+PROD00321,Vertex Jacket 705,Fashion,Jacket,TechCore,552.9,738.7,2024-12-30,Active
+PROD00322,Vertex Jeans 801,Fashion,Jeans,HomePro,397.73,561.53,2024-01-21,Active
+PROD00323,VivoMax Running Shoes 936,Sports,Running Shoes,TechCore,220.8,356.35,2025-12-16,Active
+PROD00324,Vertex Coffee Maker 113,Home & Kitchen,Coffee Maker,Nova,687.85,1069.89,2024-07-13,Active
+PROD00325,VivoMax Headphones 722,Electronics,Headphones,Zenith,1179.27,1878.72,2025-09-22,Active
+PROD00326,Nova Laptop 427,Electronics,Laptop,Zenith,577.99,833.64,2025-07-22,Active
+PROD00327,Nova Sneakers 980,Fashion,Sneakers,FitEdge,59.38,82.49,2024-10-11,Active
+PROD00328,UrbanX Football 763,Sports,Football,VivoMax,237.65,354.4,2025-05-18,Active
+PROD00329,PrimeLife Tablet 739,Electronics,Tablet,Nova,263.35,454.65,2025-05-07,Active
+PROD00330,Aero Watch 842,Fashion,Watch,Nova,554.91,718.26,2024-12-30,Active
+PROD00331,Zenith Protein Bar 157,Grocery,Protein Bar,HomePro,25.77,42.51,2025-08-04,Active
+PROD00332,Vertex Cookware Set 398,Home & Kitchen,Cookware Set,TechCore,739.32,1105.21,2024-10-20,Active
+PROD00333,Zenith Running Shoes 546,Sports,Running Shoes,VivoMax,25.05,37.23,2025-06-03,Active
+PROD00334,Nova Air Fryer 668,Home & Kitchen,Air Fryer,Vertex,93.42,121.73,2025-06-10,Active
+PROD00335,Zenith Watch 387,Fashion,Watch,Aero,334.47,464.63,2025-12-23,Active
+PROD00336,FitEdge Hair Dryer 230,Beauty,Hair Dryer,UrbanX,281.63,485.16,2025-06-10,Active
+PROD00337,VivoMax Smartphone 195,Electronics,Smartphone,Aero,2029.71,3046.23,2025-11-19,Active
+PROD00338,TechCore Vacuum Cleaner 217,Home & Kitchen,Vacuum Cleaner,Vertex,98.31,160.59,2025-10-30,Active
+PROD00339,TechCore Watch 567,Fashion,Watch,Vertex,164.89,291.26,2024-09-01,Active
+PROD00340,TechCore Jeans 795,Fashion,Jeans,Aero,444.9,614.56,2024-05-25,Active
+PROD00341,UrbanX Olive Oil 248,Grocery,Olive Oil,FitEdge,92.0,160.76,2025-12-06,Active
+PROD00342,FitEdge Protein Bar 372,Grocery,Protein Bar,PrimeLife,29.5,45.79,2024-11-14,Active
+PROD00343,UrbanX Yoga Mat 210,Sports,Yoga Mat,Vertex,223.25,350.26,2025-02-15,Active
+PROD00344,Vertex Jeans 793,Fashion,Jeans,Nova,75.08,127.14,2025-12-24,Active
+PROD00345,VivoMax Sneakers 649,Fashion,Sneakers,Vertex,156.73,218.02,2024-07-16,Active
+PROD00346,TechCore Coffee 986,Grocery,Coffee,Zenith,122.34,168.78,2024-10-09,Active
+PROD00347,VivoMax Protein Bar 105,Grocery,Protein Bar,Aero,28.48,39.03,2025-06-15,Active
+PROD00348,HomePro Smartphone 690,Electronics,Smartphone,FitEdge,2980.65,3943.34,2025-07-21,Discontinued
+PROD00349,VivoMax Fitness Tracker 373,Sports,Fitness Tracker,Nova,268.23,411.55,2024-10-06,Active
+PROD00350,UrbanX Jacket 985,Fashion,Jacket,Zenith,247.4,420.85,2025-08-12,Active
