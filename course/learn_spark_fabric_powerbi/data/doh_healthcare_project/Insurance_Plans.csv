@@ -1,0 +1,451 @@
+﻿Insurance_Plan_ID,Insurance_Provider,Plan_Type,Coverage_Type,Coverage_Percentage,Policy_Start_Date,Policy_End_Date,Plan_Status
+INS00001,MedNet,Enhanced,Individual,0.894,2025-11-21,2026-11-21,Expired
+INS00002,National General Insurance,Standard,Government,0.875,2025-05-07,2027-05-07,Active
+INS00003,NLGIC,Corporate,Corporate,0.89,2026-09-18,2027-09-19,Active
+INS00004,AXA Gulf,Enhanced,Individual,0.707,2026-07-06,2027-07-07,Active
+INS00005,NLGIC,Standard,Government,0.841,2026-06-27,2027-06-27,Expired
+INS00006,NLGIC,Standard,Individual,0.971,2025-01-02,2026-01-02,Expired
+INS00007,NLGIC,Corporate,Family,0.721,2025-08-25,2026-08-25,Active
+INS00008,National General Insurance,Basic,Individual,0.833,2025-12-10,2027-12-10,Expired
+INS00009,Bupa Arabia,Corporate,Individual,0.72,2026-08-29,2027-08-30,Active
+INS00010,Oman Insurance,Corporate,Government,0.732,2025-05-23,2027-05-23,Active
+INS00011,Dubai Insurance,Basic,Government,0.862,2025-03-06,2027-03-06,Expired
+INS00012,Daman,Enhanced,Corporate,0.808,2026-06-29,2027-06-29,Active
+INS00013,Thiqa,Corporate,Government,0.729,2026-04-18,2027-04-19,Expired
+INS00014,Orient Insurance,Premium,Government,0.738,2025-07-30,2026-07-30,Active
+INS00015,ADNIC,Premium,Family,0.988,2026-11-15,2027-11-16,Active
+INS00016,Dubai Insurance,Enhanced,Government,0.714,2025-02-15,2027-02-15,Expired
+INS00017,Thiqa,Standard,Corporate,0.884,2026-11-08,2028-11-07,Active
+INS00018,Dubai Insurance,Premium,Corporate,0.745,2026-08-09,2028-08-08,Expired
+INS00019,ADNIC,Enhanced,Family,0.967,2026-02-09,2027-02-09,Expired
+INS00020,Dubai Insurance,Enhanced,Government,0.994,2025-02-02,2026-02-02,Active
+INS00021,AXA Gulf,Premium,Corporate,0.987,2025-12-23,2026-12-24,Expired
+INS00022,AXA Gulf,Enhanced,Individual,0.989,2026-05-28,2027-05-29,Expired
+INS00023,Bupa Arabia,Corporate,Corporate,0.899,2026-05-16,2027-05-17,Expired
+INS00024,AXA Gulf,Basic,Government,0.704,2026-09-07,2027-09-08,Expired
+INS00025,NLGIC,Basic,Individual,0.966,2026-07-27,2027-07-28,Expired
+INS00026,Sukoon,Standard,Family,0.71,2025-01-05,2026-01-06,Active
+INS00027,Saada,Premium,Corporate,0.82,2025-02-23,2026-02-24,Expired
+INS00028,Oman Insurance,Premium,Family,0.888,2026-11-02,2027-11-03,Expired
+INS00029,Dubai Insurance,Corporate,Government,0.89,2025-03-18,2027-03-18,Expired
+INS00030,NLGIC,Corporate,Corporate,0.883,2025-07-21,2026-07-21,Expired
+INS00031,Bupa Arabia,Basic,Government,0.895,2025-05-13,2026-05-13,Active
+INS00032,NAS,Corporate,Corporate,0.727,2025-11-25,2026-11-25,Active
+INS00033,Thiqa,Premium,Family,0.708,2026-09-11,2027-09-12,Active
+INS00034,NLGIC,Standard,Corporate,0.759,2025-07-13,2027-07-13,Active
+INS00035,Dubai Insurance,Enhanced,Government,0.71,2025-02-26,2026-02-27,Active
+INS00036,Oman Insurance,Enhanced,Government,1.0,2025-06-30,2027-06-30,Active
+INS00037,NAS,Basic,Family,0.788,2025-07-14,2027-07-14,Active
+INS00038,Saada,Basic,Corporate,0.988,2025-02-11,2026-02-11,Active
+INS00039,Cigna,Premium,Corporate,0.818,2026-07-24,2028-07-23,Expired
+INS00040,NLGIC,Premium,Government,0.744,2025-04-02,2026-04-03,Active
+INS00041,Oman Insurance,Basic,Government,0.955,2026-10-15,2028-10-14,Active
+INS00042,ADNIC,Premium,Government,0.817,2025-01-17,2027-01-17,Active
+INS00043,Thiqa,Basic,Government,0.836,2026-05-12,2027-05-12,Expired
+INS00044,NAS,Enhanced,Government,0.789,2026-07-12,2028-07-11,Active
+INS00045,MedNet,Corporate,Family,0.886,2026-02-18,2028-02-18,Expired
+INS00046,Daman,Corporate,Family,0.751,2025-07-14,2026-07-15,Expired
+INS00047,Dubai Insurance,Enhanced,Family,0.944,2026-07-09,2028-07-08,Active
+INS00048,Daman,Enhanced,Government,0.869,2025-10-23,2026-10-24,Expired
+INS00049,NLGIC,Standard,Family,0.91,2026-10-28,2028-10-27,Active
+INS00050,Daman,Standard,Family,0.992,2026-03-16,2027-03-17,Active
+INS00051,Saada,Enhanced,Government,0.777,2026-11-24,2027-11-25,Active
+INS00052,National General Insurance,Corporate,Corporate,0.816,2026-05-16,2027-05-16,Active
+INS00053,MedNet,Standard,Individual,0.918,2025-11-28,2026-11-28,Active
+INS00054,Oman Insurance,Enhanced,Corporate,0.889,2026-07-06,2027-07-06,Active
+INS00055,Saada,Premium,Corporate,0.8,2026-08-23,2027-08-23,Active
+INS00056,NLGIC,Basic,Government,0.807,2026-01-06,2027-01-07,Active
+INS00057,Daman,Enhanced,Corporate,0.713,2026-11-14,2027-11-15,Active
+INS00058,NLGIC,Premium,Government,0.75,2025-09-04,2026-09-05,Active
+INS00059,MetLife,Corporate,Family,0.885,2025-09-09,2026-09-09,Expired
+INS00060,Saada,Premium,Individual,0.855,2025-12-02,2026-12-02,Active
+INS00061,Cigna,Standard,Government,0.743,2026-02-02,2028-02-02,Active
+INS00062,MetLife,Standard,Corporate,0.976,2026-02-24,2027-02-25,Active
+INS00063,Orient Insurance,Corporate,Individual,0.906,2026-03-20,2027-03-21,Expired
+INS00064,Oman Insurance,Enhanced,Family,0.993,2026-05-05,2027-05-06,Active
+INS00065,National General Insurance,Basic,Corporate,0.947,2025-02-09,2026-02-10,Active
+INS00066,Saada,Premium,Individual,0.962,2026-09-17,2027-09-18,Expired
+INS00067,Saada,Corporate,Individual,0.937,2026-12-01,2027-12-01,Active
+INS00068,Daman,Basic,Family,0.997,2025-08-04,2026-08-05,Expired
+INS00069,Oman Insurance,Enhanced,Corporate,0.791,2025-06-16,2027-06-16,Expired
+INS00070,Daman,Enhanced,Corporate,0.973,2026-06-20,2027-06-20,Active
+INS00071,AXA Gulf,Corporate,Corporate,0.729,2026-03-27,2027-03-27,Expired
+INS00072,Sukoon,Enhanced,Government,0.815,2025-11-19,2026-11-19,Active
+INS00073,ADNIC,Enhanced,Corporate,0.767,2026-01-11,2027-01-12,Expired
+INS00074,Saada,Premium,Family,0.987,2026-06-11,2027-06-11,Expired
+INS00075,Saada,Basic,Corporate,0.826,2026-01-30,2027-01-30,Expired
+INS00076,Saada,Basic,Family,0.841,2026-03-28,2027-03-28,Active
+INS00077,MetLife,Basic,Corporate,0.801,2025-10-09,2026-10-09,Active
+INS00078,Cigna,Premium,Individual,0.813,2026-10-17,2028-10-16,Active
+INS00079,National General Insurance,Basic,Corporate,0.865,2026-11-10,2028-11-09,Active
+INS00080,NAS,Basic,Family,0.945,2025-05-14,2026-05-15,Active
+INS00081,MedNet,Corporate,Family,0.736,2025-10-14,2026-10-15,Active
+INS00082,Orient Insurance,Standard,Individual,0.759,2026-09-12,2027-09-12,Active
+INS00083,Cigna,Corporate,Family,0.724,2025-01-10,2026-01-10,Expired
+INS00084,Thiqa,Basic,Corporate,0.709,2026-03-31,2027-03-31,Expired
+INS00085,AXA Gulf,Premium,Individual,0.716,2025-06-21,2026-06-22,Expired
+INS00086,Oman Insurance,Corporate,Individual,0.945,2025-04-17,2026-04-17,Expired
+INS00087,Thiqa,Basic,Individual,0.838,2026-09-13,2027-09-13,Expired
+INS00088,Cigna,Standard,Government,0.989,2025-07-17,2027-07-17,Active
+INS00089,Oman Insurance,Corporate,Individual,0.762,2025-04-04,2026-04-05,Expired
+INS00090,Oman Insurance,Premium,Individual,0.796,2025-04-11,2027-04-11,Active
+INS00091,AXA Gulf,Standard,Government,0.741,2025-09-14,2026-09-15,Expired
+INS00092,Cigna,Premium,Individual,0.754,2025-06-09,2026-06-09,Active
+INS00093,NLGIC,Standard,Corporate,0.785,2026-04-03,2027-04-03,Expired
+INS00094,NLGIC,Enhanced,Government,0.898,2026-01-19,2027-01-19,Active
+INS00095,Orient Insurance,Corporate,Individual,0.721,2025-10-28,2026-10-29,Active
+INS00096,NLGIC,Corporate,Individual,0.828,2026-03-08,2027-03-09,Active
+INS00097,National General Insurance,Corporate,Government,0.976,2025-07-05,2027-07-05,Active
+INS00098,Orient Insurance,Corporate,Individual,0.784,2025-03-25,2026-03-26,Active
+INS00099,ADNIC,Premium,Government,0.828,2025-07-16,2026-07-17,Expired
+INS00100,Orient Insurance,Enhanced,Corporate,0.971,2026-06-09,2027-06-09,Active
+INS00101,NAS,Corporate,Government,0.946,2025-08-17,2027-08-17,Active
+INS00102,MetLife,Corporate,Individual,0.931,2026-06-06,2027-06-07,Expired
+INS00103,Thiqa,Standard,Corporate,0.832,2026-01-12,2028-01-12,Expired
+INS00104,National General Insurance,Basic,Government,0.777,2025-12-05,2026-12-06,Active
+INS00105,ADNIC,Corporate,Individual,0.803,2025-03-31,2026-04-01,Expired
+INS00106,Dubai Insurance,Basic,Corporate,0.784,2026-05-31,2027-06-01,Active
+INS00107,Dubai Insurance,Basic,Corporate,0.946,2026-08-11,2027-08-12,Active
+INS00108,Sukoon,Corporate,Family,0.733,2025-11-28,2026-11-28,Active
+INS00109,Oman Insurance,Premium,Individual,0.921,2026-09-01,2027-09-02,Active
+INS00110,NLGIC,Standard,Government,0.983,2026-05-03,2027-05-03,Expired
+INS00111,MetLife,Enhanced,Government,0.951,2025-09-20,2026-09-21,Expired
+INS00112,Thiqa,Premium,Corporate,0.79,2025-10-15,2026-10-16,Active
+INS00113,Sukoon,Basic,Individual,0.915,2025-04-08,2026-04-08,Active
+INS00114,NAS,Basic,Government,0.816,2025-06-18,2026-06-19,Active
+INS00115,ADNIC,Enhanced,Government,0.73,2025-01-25,2026-01-26,Active
+INS00116,Sukoon,Corporate,Corporate,0.942,2026-08-30,2027-08-30,Expired
+INS00117,NAS,Standard,Individual,0.88,2025-03-22,2027-03-22,Active
+INS00118,Oman Insurance,Basic,Family,0.833,2025-05-24,2026-05-25,Active
+INS00119,Thiqa,Basic,Corporate,0.7,2026-05-22,2028-05-21,Expired
+INS00120,MetLife,Basic,Government,0.843,2025-10-25,2026-10-26,Expired
+INS00121,Oman Insurance,Premium,Individual,0.858,2025-04-29,2026-04-29,Active
+INS00122,MetLife,Standard,Government,0.704,2025-08-06,2026-08-07,Active
+INS00123,Cigna,Corporate,Individual,0.843,2025-08-08,2027-08-08,Active
+INS00124,Bupa Arabia,Enhanced,Family,0.898,2026-01-30,2027-01-31,Expired
+INS00125,Cigna,Premium,Corporate,0.904,2025-09-29,2026-09-30,Active
+INS00126,MedNet,Corporate,Corporate,0.931,2025-10-13,2027-10-13,Active
+INS00127,National General Insurance,Corporate,Individual,0.821,2025-01-08,2027-01-08,Active
+INS00128,MedNet,Basic,Corporate,0.701,2025-07-01,2026-07-02,Active
+INS00129,ADNIC,Enhanced,Individual,0.75,2026-10-13,2028-10-12,Expired
+INS00130,Sukoon,Enhanced,Government,0.942,2025-08-19,2026-08-20,Active
+INS00131,Orient Insurance,Premium,Government,0.854,2025-05-10,2026-05-10,Active
+INS00132,Saada,Basic,Family,0.874,2026-04-16,2028-04-15,Active
+INS00133,Bupa Arabia,Standard,Government,0.995,2025-08-21,2027-08-21,Active
+INS00134,Cigna,Corporate,Individual,0.872,2026-03-08,2028-03-07,Expired
+INS00135,Orient Insurance,Basic,Corporate,0.743,2025-04-14,2026-04-14,Expired
+INS00136,Cigna,Corporate,Government,0.81,2026-05-04,2027-05-05,Active
+INS00137,ADNIC,Standard,Individual,0.897,2025-04-06,2026-04-06,Active
+INS00138,Dubai Insurance,Premium,Corporate,0.982,2026-05-20,2028-05-19,Active
+INS00139,Sukoon,Corporate,Individual,0.831,2026-04-04,2027-04-04,Expired
+INS00140,NLGIC,Basic,Government,0.743,2026-06-23,2027-06-24,Active
+INS00141,National General Insurance,Basic,Government,0.727,2025-03-01,2026-03-02,Expired
+INS00142,AXA Gulf,Basic,Government,0.829,2026-04-08,2028-04-07,Active
+INS00143,Daman,Enhanced,Corporate,0.712,2025-01-27,2026-01-28,Active
+INS00144,AXA Gulf,Standard,Family,0.712,2026-07-02,2028-07-01,Active
+INS00145,National General Insurance,Enhanced,Government,0.887,2025-05-16,2026-05-17,Active
+INS00146,Cigna,Basic,Individual,0.984,2026-03-13,2027-03-14,Active
+INS00147,Sukoon,Standard,Corporate,0.794,2026-09-16,2027-09-17,Active
+INS00148,NAS,Corporate,Corporate,0.801,2026-10-16,2028-10-15,Active
+INS00149,Daman,Enhanced,Individual,0.728,2025-04-23,2026-04-24,Active
+INS00150,Dubai Insurance,Standard,Corporate,0.985,2026-02-17,2027-02-18,Expired
+INS00151,Thiqa,Corporate,Corporate,0.893,2026-09-10,2027-09-10,Expired
+INS00152,ADNIC,Premium,Corporate,0.865,2026-08-23,2027-08-23,Active
+INS00153,NAS,Premium,Individual,0.932,2026-03-26,2027-03-27,Active
+INS00154,Sukoon,Basic,Government,0.938,2025-09-28,2027-09-28,Active
+INS00155,Dubai Insurance,Premium,Individual,0.878,2026-04-08,2027-04-09,Active
+INS00156,Dubai Insurance,Basic,Corporate,0.853,2025-01-15,2027-01-15,Active
+INS00157,ADNIC,Premium,Corporate,0.873,2025-08-23,2027-08-23,Expired
+INS00158,MetLife,Premium,Corporate,0.915,2025-10-13,2026-10-14,Active
+INS00159,Bupa Arabia,Basic,Family,0.707,2025-10-15,2026-10-15,Active
+INS00160,AXA Gulf,Corporate,Corporate,0.93,2026-01-18,2027-01-18,Active
+INS00161,Saada,Enhanced,Individual,0.86,2026-03-12,2028-03-11,Active
+INS00162,Thiqa,Premium,Family,0.836,2026-06-17,2028-06-16,Active
+INS00163,Orient Insurance,Basic,Corporate,0.891,2025-11-23,2027-11-23,Active
+INS00164,Sukoon,Corporate,Family,0.845,2025-11-12,2026-11-13,Expired
+INS00165,Daman,Premium,Government,0.788,2026-05-07,2027-05-08,Active
+INS00166,National General Insurance,Premium,Corporate,0.951,2025-10-05,2026-10-05,Active
+INS00167,MedNet,Enhanced,Corporate,0.867,2026-04-14,2028-04-13,Active
+INS00168,NAS,Corporate,Government,0.972,2025-02-19,2026-02-20,Active
+INS00169,MedNet,Standard,Family,0.866,2026-08-28,2027-08-28,Active
+INS00170,Daman,Basic,Family,0.729,2026-07-13,2027-07-13,Expired
+INS00171,Bupa Arabia,Basic,Corporate,0.841,2026-11-19,2027-11-19,Expired
+INS00172,Sukoon,Standard,Government,0.847,2026-11-29,2028-11-28,Active
+INS00173,National General Insurance,Corporate,Corporate,0.747,2026-05-01,2028-04-30,Expired
+INS00174,NLGIC,Basic,Family,0.754,2026-02-20,2028-02-20,Active
+INS00175,NLGIC,Enhanced,Government,0.848,2026-06-10,2027-06-11,Expired
+INS00176,ADNIC,Premium,Corporate,0.777,2025-11-11,2026-11-11,Expired
+INS00177,ADNIC,Basic,Government,0.727,2025-01-06,2027-01-06,Active
+INS00178,NAS,Corporate,Government,0.896,2026-01-23,2028-01-23,Expired
+INS00179,ADNIC,Standard,Government,0.761,2025-12-07,2026-12-07,Active
+INS00180,NLGIC,Basic,Corporate,0.934,2025-07-26,2027-07-26,Active
+INS00181,Orient Insurance,Enhanced,Family,0.999,2025-12-15,2026-12-15,Expired
+INS00182,Cigna,Enhanced,Corporate,0.739,2025-07-21,2026-07-21,Expired
+INS00183,Oman Insurance,Basic,Individual,0.775,2025-09-07,2027-09-07,Active
+INS00184,Dubai Insurance,Premium,Corporate,0.721,2025-05-06,2027-05-06,Active
+INS00185,NLGIC,Premium,Government,0.823,2025-02-01,2027-02-01,Active
+INS00186,Daman,Corporate,Individual,0.82,2026-05-30,2027-05-31,Active
+INS00187,ADNIC,Standard,Family,0.771,2026-03-16,2028-03-15,Active
+INS00188,Cigna,Premium,Family,0.708,2025-02-26,2026-02-26,Active
+INS00189,Bupa Arabia,Standard,Corporate,0.872,2025-02-22,2027-02-22,Active
+INS00190,National General Insurance,Basic,Individual,0.861,2026-10-25,2027-10-26,Active
+INS00191,Daman,Enhanced,Individual,0.77,2025-04-09,2026-04-09,Active
+INS00192,NLGIC,Standard,Government,0.904,2026-03-30,2028-03-29,Expired
+INS00193,NLGIC,Standard,Corporate,0.954,2025-10-08,2026-10-08,Active
+INS00194,Sukoon,Premium,Individual,0.714,2026-05-05,2028-05-04,Active
+INS00195,Thiqa,Corporate,Government,0.788,2026-03-07,2028-03-06,Active
+INS00196,AXA Gulf,Standard,Corporate,0.926,2025-01-07,2026-01-07,Active
+INS00197,MetLife,Corporate,Family,0.743,2025-04-12,2026-04-12,Expired
+INS00198,Daman,Corporate,Family,0.829,2025-03-08,2027-03-08,Expired
+INS00199,Sukoon,Standard,Individual,0.84,2025-12-10,2026-12-10,Expired
+INS00200,Oman Insurance,Basic,Corporate,0.779,2026-05-20,2027-05-21,Active
+INS00201,Sukoon,Premium,Family,0.72,2025-10-09,2026-10-09,Expired
+INS00202,MetLife,Basic,Individual,0.887,2025-05-31,2027-05-31,Active
+INS00203,Sukoon,Premium,Government,0.72,2026-08-29,2027-08-29,Active
+INS00204,MedNet,Enhanced,Individual,0.949,2025-06-16,2026-06-17,Active
+INS00205,Cigna,Premium,Government,0.732,2025-10-28,2027-10-28,Active
+INS00206,Thiqa,Standard,Government,0.796,2025-04-20,2027-04-20,Active
+INS00207,Orient Insurance,Basic,Family,0.707,2026-09-15,2027-09-16,Active
+INS00208,Sukoon,Premium,Corporate,0.868,2025-12-31,2026-12-31,Active
+INS00209,AXA Gulf,Basic,Corporate,0.723,2026-05-15,2027-05-15,Active
+INS00210,ADNIC,Premium,Government,0.757,2026-02-05,2027-02-06,Active
+INS00211,Saada,Corporate,Corporate,0.975,2026-06-10,2028-06-09,Active
+INS00212,MedNet,Corporate,Individual,0.991,2025-08-14,2027-08-14,Active
+INS00213,Thiqa,Standard,Individual,0.984,2025-02-05,2026-02-06,Active
+INS00214,Thiqa,Basic,Individual,0.739,2025-09-28,2026-09-28,Active
+INS00215,MetLife,Enhanced,Corporate,0.7,2025-08-10,2026-08-10,Active
+INS00216,Dubai Insurance,Enhanced,Family,0.972,2026-06-09,2027-06-09,Active
+INS00217,Saada,Corporate,Family,0.986,2026-11-15,2028-11-14,Active
+INS00218,MetLife,Premium,Family,0.931,2026-04-10,2027-04-11,Active
+INS00219,Oman Insurance,Premium,Individual,0.731,2026-05-19,2027-05-20,Expired
+INS00220,ADNIC,Corporate,Government,0.808,2025-01-28,2026-01-29,Active
+INS00221,Cigna,Enhanced,Family,0.864,2026-09-23,2027-09-23,Active
+INS00222,Orient Insurance,Corporate,Family,0.888,2026-01-24,2027-01-25,Active
+INS00223,Saada,Standard,Corporate,0.872,2025-10-05,2026-10-06,Active
+INS00224,Daman,Standard,Corporate,0.712,2025-02-03,2026-02-04,Active
+INS00225,Daman,Premium,Individual,0.759,2026-02-05,2027-02-05,Active
+INS00226,Cigna,Standard,Government,0.945,2025-07-01,2026-07-02,Expired
+INS00227,NLGIC,Standard,Family,0.783,2026-08-11,2028-08-10,Active
+INS00228,MetLife,Basic,Individual,0.961,2025-09-02,2026-09-03,Active
+INS00229,Sukoon,Enhanced,Corporate,0.736,2026-01-08,2028-01-08,Active
+INS00230,Sukoon,Enhanced,Corporate,0.89,2026-07-27,2028-07-26,Expired
+INS00231,Saada,Basic,Family,0.724,2025-07-03,2026-07-03,Active
+INS00232,AXA Gulf,Enhanced,Family,0.747,2025-12-26,2026-12-26,Expired
+INS00233,Saada,Standard,Corporate,0.867,2026-04-05,2027-04-06,Active
+INS00234,ADNIC,Standard,Government,0.752,2025-07-29,2026-07-30,Active
+INS00235,Cigna,Corporate,Family,0.737,2026-09-10,2027-09-10,Expired
+INS00236,AXA Gulf,Basic,Corporate,0.882,2025-08-30,2026-08-30,Expired
+INS00237,MetLife,Premium,Family,0.747,2026-08-19,2027-08-19,Active
+INS00238,National General Insurance,Standard,Government,0.938,2025-10-10,2026-10-11,Expired
+INS00239,Saada,Corporate,Family,0.899,2025-05-08,2026-05-09,Active
+INS00240,AXA Gulf,Corporate,Corporate,0.847,2025-05-19,2027-05-19,Expired
+INS00241,NLGIC,Enhanced,Family,0.92,2026-11-06,2027-11-07,Active
+INS00242,MedNet,Premium,Government,0.832,2025-07-28,2026-07-28,Active
+INS00243,NAS,Basic,Individual,0.783,2026-09-03,2028-09-02,Active
+INS00244,AXA Gulf,Basic,Family,0.926,2026-01-14,2027-01-15,Active
+INS00245,National General Insurance,Basic,Individual,0.941,2025-12-30,2026-12-31,Expired
+INS00246,MedNet,Corporate,Government,0.741,2026-02-06,2027-02-06,Expired
+INS00247,MedNet,Corporate,Corporate,0.796,2026-03-24,2027-03-25,Expired
+INS00248,ADNIC,Corporate,Family,0.763,2026-10-02,2027-10-03,Active
+INS00249,MetLife,Corporate,Family,0.816,2026-01-16,2028-01-16,Expired
+INS00250,Orient Insurance,Premium,Government,0.714,2026-04-23,2027-04-24,Active
+INS00251,Daman,Standard,Individual,0.959,2026-06-09,2027-06-10,Expired
+INS00252,Daman,Corporate,Individual,0.786,2025-02-11,2026-02-12,Active
+INS00253,National General Insurance,Corporate,Government,0.873,2025-08-06,2026-08-07,Active
+INS00254,Oman Insurance,Standard,Individual,0.755,2025-06-11,2027-06-11,Active
+INS00255,Daman,Basic,Family,0.779,2025-02-10,2026-02-10,Expired
+INS00256,Cigna,Premium,Individual,0.994,2026-06-17,2027-06-17,Active
+INS00257,Cigna,Premium,Individual,0.791,2026-01-17,2027-01-18,Active
+INS00258,ADNIC,Enhanced,Individual,0.714,2026-01-30,2027-01-30,Active
+INS00259,Bupa Arabia,Enhanced,Government,0.782,2026-11-29,2027-11-30,Expired
+INS00260,Thiqa,Premium,Corporate,0.948,2025-10-21,2026-10-21,Active
+INS00261,AXA Gulf,Premium,Government,0.895,2025-11-29,2027-11-29,Active
+INS00262,MetLife,Standard,Government,0.723,2026-06-20,2027-06-20,Active
+INS00263,ADNIC,Standard,Corporate,0.999,2026-09-17,2027-09-17,Active
+INS00264,NLGIC,Standard,Corporate,0.708,2026-02-01,2027-02-01,Active
+INS00265,AXA Gulf,Enhanced,Individual,0.986,2025-12-18,2027-12-18,Active
+INS00266,Saada,Basic,Family,0.947,2026-11-02,2027-11-02,Active
+INS00267,Dubai Insurance,Standard,Corporate,0.934,2025-06-24,2026-06-24,Active
+INS00268,Sukoon,Premium,Family,0.867,2025-03-27,2026-03-27,Active
+INS00269,Bupa Arabia,Basic,Individual,0.902,2026-07-18,2028-07-17,Active
+INS00270,Dubai Insurance,Enhanced,Government,0.781,2026-08-22,2028-08-21,Expired
+INS00271,Oman Insurance,Enhanced,Individual,0.701,2026-11-30,2027-11-30,Active
+INS00272,Bupa Arabia,Standard,Government,0.818,2025-11-05,2026-11-05,Expired
+INS00273,Orient Insurance,Enhanced,Family,0.999,2025-12-14,2026-12-14,Expired
+INS00274,Sukoon,Corporate,Corporate,0.709,2026-10-05,2027-10-05,Active
+INS00275,Oman Insurance,Enhanced,Individual,0.781,2026-02-13,2028-02-13,Expired
+INS00276,Dubai Insurance,Basic,Family,0.741,2025-06-22,2026-06-22,Expired
+INS00277,Saada,Standard,Government,0.728,2026-08-09,2027-08-10,Active
+INS00278,Saada,Enhanced,Corporate,0.813,2026-09-03,2027-09-03,Expired
+INS00279,Oman Insurance,Corporate,Individual,0.878,2026-01-03,2028-01-03,Active
+INS00280,Cigna,Basic,Government,0.799,2025-08-18,2026-08-19,Expired
+INS00281,Orient Insurance,Premium,Government,0.89,2026-03-20,2028-03-19,Expired
+INS00282,Oman Insurance,Corporate,Individual,0.84,2025-07-08,2027-07-08,Active
+INS00283,Orient Insurance,Basic,Family,0.712,2025-01-12,2027-01-12,Active
+INS00284,ADNIC,Enhanced,Government,0.788,2026-06-13,2027-06-14,Expired
+INS00285,Saada,Enhanced,Government,0.79,2026-09-10,2027-09-11,Active
+INS00286,National General Insurance,Basic,Government,0.875,2026-10-07,2027-10-08,Active
+INS00287,Oman Insurance,Enhanced,Individual,0.974,2025-09-21,2027-09-21,Active
+INS00288,Thiqa,Corporate,Individual,0.705,2025-08-25,2026-08-25,Active
+INS00289,NLGIC,Basic,Family,0.721,2025-02-12,2027-02-12,Active
+INS00290,Cigna,Standard,Corporate,0.802,2025-02-02,2026-02-02,Expired
+INS00291,Sukoon,Basic,Family,0.771,2025-06-29,2026-06-29,Expired
+INS00292,AXA Gulf,Basic,Individual,0.97,2026-03-11,2027-03-12,Active
+INS00293,MetLife,Corporate,Government,0.86,2025-11-21,2027-11-21,Active
+INS00294,Cigna,Enhanced,Corporate,0.87,2026-03-28,2027-03-29,Active
+INS00295,National General Insurance,Standard,Individual,0.85,2025-12-11,2027-12-11,Active
+INS00296,Saada,Standard,Family,0.754,2026-11-30,2028-11-29,Active
+INS00297,Oman Insurance,Standard,Government,0.822,2025-04-14,2026-04-15,Active
+INS00298,Bupa Arabia,Corporate,Corporate,0.999,2025-07-21,2026-07-22,Expired
+INS00299,ADNIC,Premium,Individual,0.885,2025-03-08,2026-03-09,Active
+INS00300,Dubai Insurance,Premium,Individual,0.966,2026-03-03,2027-03-03,Active
+INS00301,Dubai Insurance,Premium,Government,0.728,2026-11-18,2028-11-17,Active
+INS00302,Bupa Arabia,Premium,Individual,0.741,2026-10-08,2027-10-08,Active
+INS00303,AXA Gulf,Enhanced,Government,0.731,2025-07-12,2026-07-12,Active
+INS00304,NAS,Enhanced,Government,0.997,2025-12-23,2026-12-23,Active
+INS00305,ADNIC,Enhanced,Corporate,0.781,2026-07-21,2027-07-21,Active
+INS00306,ADNIC,Corporate,Corporate,0.773,2026-04-26,2027-04-27,Active
+INS00307,Bupa Arabia,Standard,Individual,0.702,2026-06-04,2027-06-04,Active
+INS00308,Dubai Insurance,Standard,Family,0.838,2025-12-03,2026-12-03,Expired
+INS00309,Thiqa,Basic,Individual,0.964,2026-11-16,2028-11-15,Expired
+INS00310,ADNIC,Enhanced,Corporate,0.868,2026-06-11,2027-06-11,Active
+INS00311,Bupa Arabia,Standard,Corporate,0.802,2025-05-26,2026-05-27,Active
+INS00312,Saada,Premium,Government,0.928,2025-01-12,2026-01-12,Active
+INS00313,Orient Insurance,Standard,Corporate,0.897,2026-01-07,2027-01-08,Active
+INS00314,Sukoon,Enhanced,Individual,0.982,2026-05-21,2027-05-22,Active
+INS00315,Thiqa,Standard,Individual,0.818,2025-10-11,2026-10-12,Active
+INS00316,AXA Gulf,Corporate,Family,0.873,2025-09-06,2026-09-07,Active
+INS00317,Daman,Basic,Individual,0.826,2026-11-23,2028-11-22,Active
+INS00318,Bupa Arabia,Standard,Government,0.995,2025-11-04,2026-11-05,Active
+INS00319,Orient Insurance,Standard,Individual,0.865,2025-03-31,2027-03-31,Active
+INS00320,Saada,Enhanced,Corporate,0.792,2026-03-05,2027-03-05,Active
+INS00321,Cigna,Basic,Individual,0.832,2025-08-20,2026-08-21,Expired
+INS00322,Saada,Standard,Corporate,0.753,2026-05-29,2027-05-29,Active
+INS00323,ADNIC,Corporate,Family,0.822,2025-02-05,2026-02-05,Active
+INS00324,Orient Insurance,Corporate,Corporate,0.896,2026-06-28,2027-06-28,Active
+INS00325,Sukoon,Standard,Family,0.75,2025-04-24,2027-04-24,Expired
+INS00326,MedNet,Standard,Individual,0.747,2025-11-03,2027-11-03,Active
+INS00327,NLGIC,Corporate,Corporate,0.879,2026-10-09,2027-10-09,Active
+INS00328,NLGIC,Basic,Government,0.787,2025-04-08,2026-04-08,Active
+INS00329,Daman,Premium,Individual,0.976,2025-03-23,2027-03-23,Active
+INS00330,Daman,Standard,Government,0.789,2025-05-26,2027-05-26,Active
+INS00331,Sukoon,Corporate,Government,0.761,2025-11-26,2026-11-26,Active
+INS00332,Oman Insurance,Basic,Individual,0.707,2025-11-03,2027-11-03,Expired
+INS00333,National General Insurance,Basic,Corporate,0.974,2026-02-10,2027-02-11,Expired
+INS00334,NAS,Enhanced,Family,0.809,2025-01-15,2026-01-16,Expired
+INS00335,Orient Insurance,Standard,Government,0.817,2026-05-07,2027-05-08,Active
+INS00336,Saada,Premium,Government,0.72,2025-03-26,2026-03-27,Active
+INS00337,MetLife,Enhanced,Family,0.862,2025-10-29,2026-10-29,Expired
+INS00338,NLGIC,Enhanced,Government,0.94,2025-07-15,2026-07-15,Active
+INS00339,Dubai Insurance,Enhanced,Family,0.856,2026-05-15,2027-05-16,Active
+INS00340,Sukoon,Standard,Government,0.968,2026-10-13,2027-10-14,Active
+INS00341,NAS,Corporate,Individual,0.875,2025-12-04,2026-12-04,Active
+INS00342,Dubai Insurance,Standard,Corporate,0.942,2026-08-15,2028-08-14,Active
+INS00343,NLGIC,Basic,Individual,0.923,2025-05-26,2026-05-27,Active
+INS00344,Orient Insurance,Premium,Government,0.749,2026-11-20,2027-11-21,Expired
+INS00345,NLGIC,Corporate,Corporate,0.875,2025-06-02,2027-06-02,Active
+INS00346,Saada,Basic,Government,0.831,2025-10-26,2026-10-26,Active
+INS00347,NAS,Basic,Corporate,0.755,2025-07-23,2026-07-23,Active
+INS00348,ADNIC,Enhanced,Corporate,0.914,2025-05-12,2026-05-13,Active
+INS00349,National General Insurance,Enhanced,Corporate,0.949,2026-07-04,2027-07-05,Expired
+INS00350,AXA Gulf,Standard,Government,0.955,2025-11-15,2027-11-15,Active
+INS00351,National General Insurance,Enhanced,Family,0.88,2025-06-05,2026-06-05,Active
+INS00352,Thiqa,Basic,Family,0.926,2026-07-29,2027-07-29,Active
+INS00353,Oman Insurance,Premium,Corporate,0.792,2025-02-11,2027-02-11,Expired
+INS00354,Saada,Basic,Family,0.902,2026-05-27,2027-05-27,Active
+INS00355,Sukoon,Basic,Individual,0.985,2025-10-28,2026-10-29,Active
+INS00356,Oman Insurance,Basic,Government,0.904,2026-07-02,2028-07-01,Active
+INS00357,Thiqa,Enhanced,Family,0.712,2026-11-29,2027-11-29,Expired
+INS00358,ADNIC,Standard,Individual,0.927,2025-05-21,2027-05-21,Expired
+INS00359,Thiqa,Standard,Family,0.916,2025-07-21,2027-07-21,Expired
+INS00360,Dubai Insurance,Corporate,Family,0.716,2025-12-05,2026-12-05,Active
+INS00361,Oman Insurance,Basic,Government,0.945,2025-08-24,2026-08-24,Active
+INS00362,Thiqa,Enhanced,Individual,0.917,2026-11-26,2027-11-26,Expired
+INS00363,Daman,Premium,Government,0.941,2026-01-09,2027-01-09,Expired
+INS00364,National General Insurance,Basic,Corporate,0.894,2026-08-31,2028-08-30,Active
+INS00365,AXA Gulf,Enhanced,Individual,0.76,2026-02-26,2027-02-26,Active
+INS00366,AXA Gulf,Standard,Government,0.977,2026-11-11,2027-11-12,Expired
+INS00367,Sukoon,Corporate,Individual,0.884,2026-09-22,2028-09-21,Active
+INS00368,Cigna,Enhanced,Family,0.788,2025-08-31,2027-08-31,Expired
+INS00369,Saada,Standard,Individual,0.837,2025-02-04,2027-02-04,Active
+INS00370,Bupa Arabia,Corporate,Individual,0.971,2025-12-28,2026-12-28,Active
+INS00371,Sukoon,Premium,Government,0.907,2026-05-25,2027-05-26,Active
+INS00372,Sukoon,Basic,Government,0.76,2026-10-12,2028-10-11,Active
+INS00373,Daman,Standard,Government,0.92,2026-05-14,2028-05-13,Active
+INS00374,MetLife,Basic,Corporate,0.759,2026-06-28,2028-06-27,Active
+INS00375,Oman Insurance,Basic,Family,0.739,2026-04-09,2028-04-08,Active
+INS00376,NLGIC,Enhanced,Individual,0.909,2026-10-23,2027-10-23,Active
+INS00377,NAS,Corporate,Individual,0.987,2026-09-27,2027-09-27,Active
+INS00378,Daman,Enhanced,Individual,0.701,2025-02-13,2026-02-14,Active
+INS00379,ADNIC,Premium,Government,0.848,2026-08-29,2027-08-30,Active
+INS00380,Dubai Insurance,Corporate,Family,0.887,2025-07-17,2026-07-17,Expired
+INS00381,Sukoon,Enhanced,Corporate,0.972,2026-03-11,2028-03-10,Active
+INS00382,Sukoon,Enhanced,Corporate,0.939,2026-10-12,2027-10-12,Active
+INS00383,NAS,Premium,Corporate,0.8,2025-07-03,2026-07-03,Active
+INS00384,Daman,Premium,Family,0.995,2026-05-07,2028-05-06,Active
+INS00385,MetLife,Premium,Individual,0.986,2026-02-01,2027-02-01,Active
+INS00386,Oman Insurance,Enhanced,Family,0.77,2025-03-02,2026-03-02,Active
+INS00387,NAS,Standard,Government,0.858,2026-08-25,2027-08-25,Active
+INS00388,Thiqa,Standard,Family,0.824,2025-07-07,2027-07-07,Expired
+INS00389,Orient Insurance,Premium,Family,0.763,2026-07-27,2027-07-27,Active
+INS00390,Saada,Enhanced,Family,0.802,2026-04-10,2027-04-10,Active
+INS00391,AXA Gulf,Standard,Family,0.769,2026-06-01,2028-05-31,Expired
+INS00392,Dubai Insurance,Corporate,Family,0.871,2025-02-13,2027-02-13,Active
+INS00393,Thiqa,Premium,Government,0.922,2026-01-27,2027-01-27,Active
+INS00394,Daman,Basic,Corporate,0.924,2026-07-28,2027-07-29,Expired
+INS00395,MedNet,Standard,Family,0.878,2025-10-25,2026-10-26,Active
+INS00396,MetLife,Enhanced,Family,0.847,2026-07-16,2027-07-17,Active
+INS00397,MetLife,Enhanced,Family,0.878,2026-06-08,2027-06-08,Active
+INS00398,National General Insurance,Basic,Corporate,0.805,2026-02-09,2027-02-10,Active
+INS00399,NAS,Premium,Family,0.972,2025-12-24,2026-12-25,Active
+INS00400,Dubai Insurance,Standard,Family,0.869,2026-06-30,2027-07-01,Expired
+INS00401,NLGIC,Premium,Government,0.793,2026-08-07,2028-08-06,Expired
+INS00402,NLGIC,Enhanced,Family,0.875,2026-02-19,2027-02-19,Active
+INS00403,Sukoon,Enhanced,Corporate,0.978,2025-05-02,2026-05-02,Active
+INS00404,Saada,Premium,Individual,0.749,2026-03-04,2028-03-03,Active
+INS00405,MedNet,Standard,Government,0.98,2025-05-27,2026-05-28,Expired
+INS00406,Daman,Premium,Corporate,0.772,2025-02-10,2026-02-10,Active
+INS00407,National General Insurance,Premium,Family,0.788,2025-09-02,2026-09-02,Expired
+INS00408,National General Insurance,Standard,Corporate,0.885,2025-05-04,2026-05-04,Expired
+INS00409,National General Insurance,Standard,Individual,0.733,2026-06-20,2028-06-19,Active
+INS00410,MetLife,Premium,Family,0.988,2025-06-18,2027-06-18,Active
+INS00411,MedNet,Standard,Family,0.911,2026-04-20,2028-04-19,Active
+INS00412,MetLife,Basic,Family,0.923,2025-11-01,2027-11-01,Active
+INS00413,MetLife,Standard,Government,0.986,2025-08-02,2026-08-03,Expired
+INS00414,Oman Insurance,Corporate,Family,0.783,2025-05-03,2026-05-03,Expired
+INS00415,Dubai Insurance,Basic,Family,0.737,2025-09-16,2026-09-17,Expired
+INS00416,Oman Insurance,Premium,Corporate,0.963,2025-05-31,2027-05-31,Expired
+INS00417,Sukoon,Premium,Individual,0.791,2025-11-08,2026-11-08,Active
+INS00418,Thiqa,Premium,Individual,0.978,2025-07-30,2026-07-30,Active
+INS00419,Saada,Standard,Family,0.779,2026-01-10,2028-01-10,Active
+INS00420,Daman,Basic,Government,0.78,2025-08-11,2027-08-11,Active
+INS00421,Daman,Basic,Government,0.984,2025-11-07,2026-11-08,Expired
+INS00422,NLGIC,Premium,Government,0.958,2025-01-16,2027-01-16,Expired
+INS00423,MedNet,Enhanced,Family,0.98,2025-01-17,2027-01-17,Active
+INS00424,Orient Insurance,Standard,Corporate,0.866,2025-07-10,2027-07-10,Active
+INS00425,Saada,Premium,Individual,0.937,2026-01-25,2027-01-26,Active
+INS00426,AXA Gulf,Enhanced,Government,0.752,2025-05-05,2026-05-05,Active
+INS00427,Sukoon,Premium,Government,0.99,2026-10-22,2027-10-23,Active
+INS00428,Daman,Corporate,Corporate,0.74,2025-01-22,2026-01-23,Active
+INS00429,MedNet,Corporate,Family,0.819,2025-08-16,2026-08-17,Expired
+INS00430,National General Insurance,Basic,Government,0.95,2025-10-27,2027-10-27,Expired
+INS00431,MedNet,Corporate,Corporate,0.868,2026-09-16,2027-09-16,Active
+INS00432,MetLife,Standard,Individual,0.924,2026-02-11,2027-02-11,Expired
+INS00433,Oman Insurance,Enhanced,Government,0.868,2026-05-01,2028-04-30,Active
+INS00434,NLGIC,Premium,Government,0.961,2025-05-26,2026-05-27,Active
+INS00435,NLGIC,Premium,Corporate,0.937,2026-03-09,2027-03-09,Active
+INS00436,ADNIC,Premium,Family,0.99,2025-03-07,2026-03-07,Active
+INS00437,AXA Gulf,Corporate,Corporate,0.873,2026-02-23,2027-02-24,Active
+INS00438,Oman Insurance,Standard,Individual,0.838,2026-09-03,2028-09-02,Active
+INS00439,NLGIC,Basic,Corporate,0.938,2026-10-26,2027-10-27,Expired
+INS00440,Oman Insurance,Standard,Individual,0.702,2025-08-26,2027-08-26,Expired
+INS00441,NAS,Basic,Government,0.795,2026-09-07,2027-09-07,Active
+INS00442,Sukoon,Corporate,Corporate,0.763,2026-11-22,2028-11-21,Expired
+INS00443,Bupa Arabia,Premium,Individual,0.785,2025-02-11,2027-02-11,Active
+INS00444,ADNIC,Standard,Government,0.842,2025-04-09,2026-04-09,Active
+INS00445,NLGIC,Enhanced,Corporate,0.831,2025-03-22,2026-03-22,Active
+INS00446,ADNIC,Standard,Corporate,0.972,2025-03-31,2027-03-31,Active
+INS00447,Bupa Arabia,Premium,Family,0.777,2026-01-28,2027-01-29,Active
+INS00448,Daman,Premium,Family,0.858,2026-01-27,2027-01-28,Active
+INS00449,Sukoon,Enhanced,Government,0.756,2026-08-18,2027-08-18,Expired
+INS00450,AXA Gulf,Basic,Family,0.965,2026-09-26,2028-09-25,Active

@@ -1,0 +1,1651 @@
+﻿Facility_ID,Facility_Name,Facility_Type,Facility_Size,Emirate,Region,City,Ownership,Regulator,Facility_Status
+FAC00001,Al Noor Clinic - Ajman,Clinic,Large,Ajman,Ajman,Ajman,Private,DoH Abu Dhabi,Temporarily Closed
+FAC00002,Prime Medical Center - Dibba Al-Fujairah,Medical Center,Tertiary,Fujairah,Fujairah,Dibba Al-Fujairah,Public,Sharjah Health Authority,Active
+FAC00003,NMC Hospital - Jebel Ali,Hospital,Small,Dubai,Dubai,Jebel Ali,Public,DHA Dubai,Active
+FAC00004,MediCare Medical Center - Al Ain,Medical Center,Small,Abu Dhabi,Al Dhafra,Al Ain,Public,DHA Dubai,Temporarily Closed
+FAC00005,Prime Clinic - Ruwais,Clinic,Large,Abu Dhabi,Al Ain,Ruwais,Public,Sharjah Health Authority,Temporarily Closed
+FAC00006,Al Noor Specialty Center - Jebel Ali,Specialty Center,Tertiary,Dubai,Dubai,Jebel Ali,Public,DHA Dubai,Temporarily Closed
+FAC00007,Emirates Clinic - Kalba,Clinic,Large,Sharjah,Sharjah,Kalba,Private,DoH Abu Dhabi,Active
+FAC00008,Burjeel Specialty Center - Hatta,Specialty Center,Medium,Dubai,Dubai,Hatta,Public,MOHAP,Active
+FAC00009,NMC Medical Center - Umm Al Quwain,Medical Center,Tertiary,Umm Al Quwain,Umm Al Quwain,Umm Al Quwain,Private,Sharjah Health Authority,Active
+FAC00010,National Medical Center - Dubai,Medical Center,Small,Dubai,Dubai,Dubai,Public,DoH Abu Dhabi,Active
+FAC00011,Emirates Hospital - Fujairah,Hospital,Small,Fujairah,Fujairah,Fujairah,Public,Sharjah Health Authority,Active
+FAC00012,NMC Medical Center - Jebel Ali,Medical Center,Tertiary,Dubai,Dubai,Jebel Ali,Public,Sharjah Health Authority,Temporarily Closed
+FAC00013,Life Clinic - Dubai,Clinic,Medium,Dubai,Dubai,Dubai,Private,MOHAP,Temporarily Closed
+FAC00014,NMC Specialty Center - Kalba,Specialty Center,Tertiary,Sharjah,Al Dhaid,Kalba,Private,Sharjah Health Authority,Active
+FAC00015,Al Noor Clinic - Hatta,Clinic,Tertiary,Dubai,Dubai,Hatta,Public,MOHAP,Active
+FAC00016,Life Medical Center - Ruwais,Medical Center,Medium,Abu Dhabi,Al Dhafra,Ruwais,Public,DHA Dubai,Temporarily Closed
+FAC00017,NMC Clinic - Sharjah,Clinic,Small,Sharjah,Khor Fakkan,Sharjah,Private,DHA Dubai,Active
+FAC00018,Aster Medical Center - Ruwais,Medical Center,Small,Abu Dhabi,Al Ain,Ruwais,Private,Sharjah Health Authority,Active
+FAC00019,NMC Medical Center - Al Ain,Medical Center,Large,Abu Dhabi,Abu Dhabi City,Al Ain,Private,Sharjah Health Authority,Active
+FAC00020,NMC Medical Center - Ruwais,Medical Center,Tertiary,Abu Dhabi,Al Dhafra,Ruwais,Public,DoH Abu Dhabi,Active
+FAC00021,MediCare Specialty Center - Kalba,Specialty Center,Medium,Sharjah,Al Dhaid,Kalba,Private,MOHAP,Temporarily Closed
+FAC00022,Life Medical Center - Ruwais,Medical Center,,Abu Dhabi,Al Ain,Ruwais,Public,Sharjah Health Authority,Active
+FAC00023,Prime Hospital - Kalba,Hospital,Tertiary,Sharjah,Al Dhaid,Kalba,Public,MOHAP,Active
+FAC00024,Emirates Clinic - Madinat Zayed,Clinic,Small,Abu Dhabi,Abu Dhabi City,Madinat Zayed,Private,DHA Dubai,Active
+FAC00025,Aster Clinic - Kalba,Clinic,Large,Sharjah,Khor Fakkan,Kalba,Public,Sharjah Health Authority,Active
+FAC00026,Prime Medical Center - Madinat Zayed,Medical Center,Tertiary,Abu Dhabi,Al Ain,Madinat Zayed,Public,Sharjah Health Authority,Active
+FAC00027,Prime Day Surgery Center - Dhaid,Day Surgery Center,Large,Sharjah,Sharjah,Dhaid,Private,DoH Abu Dhabi,Active
+FAC00028,NMC Specialty Center - Ras Al Khaimah,Specialty Center,Tertiary,Ras Al Khaimah,Ras Al Khaimah,Ras Al Khaimah,Private,MOHAP,Active
+FAC00029,Emirates Medical Center - Dubai,Medical Center,Small,Dubai,Dubai,Dubai,Private,DoH Abu Dhabi,Active
+FAC00030,NMC Hospital - Al Ain,Hospital,Small,Abu Dhabi,Al Ain,Al Ain,Private,MOHAP,Active
+FAC00031,Life Clinic - Dubai,Clinic,Small,Dubai,Dubai,Dubai,Private,DoH Abu Dhabi,Active
+FAC00032,Life Hospital - Hatta,Hospital,Large,Dubai,Dubai,Hatta,Private,DoH Abu Dhabi,Active
+FAC00033,MediCare Specialty Center - Khor Fakkan,Specialty Center,Tertiary,Sharjah,Khor Fakkan,Khor Fakkan,Public,MOHAP,Active
+FAC00034,Al Noor Specialty Center - Jebel Ali,Specialty Center,Medium,Dubai,Dubai,Jebel Ali,Private,DoH Abu Dhabi,Active
+FAC00035,Gulf Medical Center - Dubai,Medical Center,Small,Dubai,Dubai,Dubai,Public,Sharjah Health Authority,Active
+FAC00036,MediCare Hospital - Dhaid,Hospital,Large,Sharjah,Al Dhaid,Dhaid,Private,MOHAP,Active
+FAC00037,Gulf Clinic - Hatta,Clinic,Tertiary,Dubai,Dubai,Hatta,Private,DoH Abu Dhabi,Active
+FAC00038,Aster Clinic - Khor Fakkan,Clinic,Medium,Sharjah,Sharjah,Khor Fakkan,Public,Sharjah Health Authority,Temporarily Closed
+FAC00039,Emirates Clinic - Dhaid,Clinic,Tertiary,Sharjah,Khor Fakkan,Dhaid,Private,Sharjah Health Authority,Active
+FAC00040,NMC Clinic - Dubai,Clinic,Large,Dubai,Dubai,Dubai,Private,Sharjah Health Authority,Active
+FAC00041,Aster Medical Center - Al Ain,Medical Center,Tertiary,Abu Dhabi,Al Dhafra,Al Ain,Public,DoH Abu Dhabi,Active
+FAC00042,Burjeel Specialty Center - Jebel Ali,Specialty Center,Large,Dubai,Dubai,Jebel Ali,Public,Sharjah Health Authority,Active
+FAC00043,Gulf Clinic - Ruwais,Clinic,Small,Abu Dhabi,Al Ain,Ruwais,Public,Sharjah Health Authority,Active
+FAC00044,Prime Specialty Center - Khor Fakkan,Specialty Center,Medium,Sharjah,Al Dhaid,Khor Fakkan,Private,MOHAP,Active
+FAC00045,Aster Hospital - Abu Dhabi,Hospital,Small,Abu Dhabi,Al Dhafra,Abu Dhabi,Private,DoH Abu Dhabi,Temporarily Closed
+FAC00046,NMC Clinic - Madinat Zayed,Clinic,Tertiary,Abu Dhabi,Al Dhafra,Madinat Zayed,Public,DoH Abu Dhabi,Active
+FAC00047,National Clinic - Dubai,Clinic,Tertiary,Dubai,Dubai,Dubai,Private,DHA Dubai,Active
+FAC00048,National Clinic - Fujairah,Clinic,Small,Fujairah,Fujairah,Fujairah,Public,MOHAP,Temporarily Closed
+FAC00049,Life Clinic - Jebel Ali,Clinic,Small,Dubai,Dubai,Jebel Ali,Private,Sharjah Health Authority,Active
+FAC00050,Emirates Hospital - Kalba,Hospital,Tertiary,Sharjah,Khor Fakkan,Kalba,Public,MOHAP,Active
+FAC00051,Gulf Specialty Center - Madinat Zayed,Specialty Center,Small,Abu Dhabi,Al Ain,Madinat Zayed,Private,Sharjah Health Authority,Active
+FAC00052,Burjeel Specialty Center - Ruwais,Specialty Center,Large,Abu Dhabi,Al Dhafra,Ruwais,Public,DHA Dubai,Active
+FAC00053,Life Day Surgery Center - Khor Fakkan,Day Surgery Center,,Sharjah,Sharjah,Khor Fakkan,Public,MOHAP,Active
+FAC00054,National Specialty Center - Hatta,Specialty Center,Tertiary,Dubai,Dubai,Hatta,Public,MOHAP,Active
+FAC00055,Burjeel Specialty Center - Dibba Al-Fujairah,Specialty Center,Small,Fujairah,Fujairah,Dibba Al-Fujairah,Public,Sharjah Health Authority,Active
+FAC00056,MediCare Medical Center - Kalba,Medical Center,Tertiary,Sharjah,Al Dhaid,Kalba,Public,Sharjah Health Authority,Active
+FAC00057,Aster Clinic - Abu Dhabi,Clinic,Small,Abu Dhabi,Al Ain,Abu Dhabi,Public,Sharjah Health Authority,Active
+FAC00058,Burjeel Clinic - Dhaid,Clinic,Large,Sharjah,Khor Fakkan,Dhaid,Private,DoH Abu Dhabi,Active
+FAC00059,Life Clinic - Ruwais,Clinic,Tertiary,Abu Dhabi,Al Ain,Ruwais,Private,Sharjah Health Authority,Active
+FAC00060,Burjeel Medical Center - Al Ain,Medical Center,Tertiary,Abu Dhabi,Abu Dhabi City,Al Ain,Public,MOHAP,Active
+FAC00061,National Medical Center - Dubai,Medical Center,Small,Dubai,Dubai,Dubai,Private,MOHAP,Active
+FAC00062,Prime Medical Center - Dibba Al-Fujairah,Medical Center,Large,Fujairah,Fujairah,Dibba Al-Fujairah,Private,DHA Dubai,Active
+FAC00063,MediCare Day Surgery Center - Dhaid,Day Surgery Center,Medium,Sharjah,Khor Fakkan,Dhaid,Public,Sharjah Health Authority,Active
+FAC00064,Emirates Clinic - Dubai,Clinic,Medium,Dubai,Dubai,Dubai,Private,Sharjah Health Authority,Active
+FAC00065,Al Noor Clinic - Sharjah,Clinic,Small,Sharjah,Sharjah,Sharjah,Public,Sharjah Health Authority,Active
+FAC00066,Emirates Medical Center - Hatta,Medical Center,Small,Dubai,Dubai,Hatta,Public,DoH Abu Dhabi,Active
+FAC00067,MediCare Medical Center - Madinat Zayed,Medical Center,Tertiary,Abu Dhabi,Al Dhafra,Madinat Zayed,Public,DHA Dubai,Active
+FAC00068,Life Hospital - Sharjah,Hospital,Medium,Sharjah,Al Dhaid,Sharjah,Private,DHA Dubai,Active
+FAC00069,Aster Clinic - Dhaid,Clinic,Small,Sharjah,Khor Fakkan,Dhaid,Public,DHA Dubai,Active
+FAC00070,Al Noor Medical Center - Masfout,Medical Center,Large,Ajman,Ajman,Masfout,Private,Sharjah Health Authority,Active
+FAC00071,Aster Clinic - Dubai,Clinic,Medium,Dubai,Dubai,Dubai,Private,Sharjah Health Authority,Active
+FAC00072,Burjeel Medical Center - Hatta,Medical Center,Medium,Dubai,Dubai,Hatta,Private,Sharjah Health Authority,Active
+FAC00073,Gulf Clinic - Dibba Al-Fujairah,Clinic,Large,Fujairah,Fujairah,Dibba Al-Fujairah,Private,DoH Abu Dhabi,Active
+FAC00074,National Clinic - Ras Al Khaimah,Clinic,Small,Ras Al Khaimah,Ras Al Khaimah,Ras Al Khaimah,Private,DoH Abu Dhabi,Temporarily Closed
+FAC00075,NMC Medical Center - Abu Dhabi,Medical Center,Large,Abu Dhabi,Al Ain,Abu Dhabi,Public,DoH Abu Dhabi,Temporarily Closed
+FAC00076,Gulf Medical Center - Sharjah,Medical Center,Small,Sharjah,Al Dhaid,Sharjah,Public,DoH Abu Dhabi,Active
+FAC00077,Life Clinic - Umm Al Quwain,Clinic,Large,Umm Al Quwain,Umm Al Quwain,Umm Al Quwain,Public,DHA Dubai,Active
+FAC00078,Emirates Specialty Center - Ras Al Khaimah,Specialty Center,Tertiary,Ras Al Khaimah,Ras Al Khaimah,Ras Al Khaimah,Private,DHA Dubai,Active
+FAC00079,Life Medical Center - Kalba,Medical Center,Large,Sharjah,Al Dhaid,Kalba,Private,MOHAP,Active
+FAC00080,Prime Clinic - Masfout,Clinic,Medium,Ajman,Ajman,Masfout,Public,DHA Dubai,Active
+FAC00081,Emirates Hospital - Madinat Zayed,Hospital,Small,Abu Dhabi,Abu Dhabi City,Madinat Zayed,Public,Sharjah Health Authority,Active
+FAC00082,Prime Hospital - Al Ain,Hospital,Medium,Abu Dhabi,Abu Dhabi City,Al Ain,Public,MOHAP,Active
+FAC00083,Gulf Hospital - Ajman,Hospital,Small,Ajman,Ajman,Ajman,Private,DHA Dubai,Active
+FAC00084,NMC Hospital - Jebel Ali,Hospital,Small,Dubai,Dubai,Jebel Ali,Public,MOHAP,Active
+FAC00085,Life Medical Center - Abu Dhabi,Medical Center,Medium,Abu Dhabi,Al Dhafra,Abu Dhabi,Public,MOHAP,Active
+FAC00086,NMC Hospital - Fujairah,Hospital,Small,Fujairah,Fujairah,Fujairah,Private,MOHAP,Temporarily Closed
+FAC00087,Al Noor Hospital - Dibba Al-Fujairah,Hospital,Large,Fujairah,Fujairah,Dibba Al-Fujairah,Private,DoH Abu Dhabi,Active
+FAC00088,MediCare Hospital - Dibba Al-Fujairah,Hospital,Small,Fujairah,Fujairah,Dibba Al-Fujairah,Private,Sharjah Health Authority,Active
+FAC00089,MediCare Medical Center - Dubai,Medical Center,Medium,Dubai,Dubai,Dubai,Public,MOHAP,Active
+FAC00090,NMC Clinic - Kalba,Clinic,Tertiary,Sharjah,Sharjah,Kalba,Public,MOHAP,Active
+FAC00091,Gulf Day Surgery Center - Abu Dhabi,Day Surgery Center,Large,Abu Dhabi,Abu Dhabi City,Abu Dhabi,Private,Sharjah Health Authority,Active
+FAC00092,Aster Clinic - Sharjah,Clinic,Tertiary,Sharjah,Khor Fakkan,Sharjah,Public,Sharjah Health Authority,Temporarily Closed
+FAC00093,NMC Clinic - Fujairah,Clinic,Tertiary,Fujairah,Fujairah,Fujairah,Private,MOHAP,Active
+FAC00094,Prime Clinic - Dubai,Clinic,Small,Dubai,Dubai,Dubai,Private,Sharjah Health Authority,Temporarily Closed
+FAC00095,Al Noor Clinic - Umm Al Quwain,Clinic,Small,Umm Al Quwain,Umm Al Quwain,Umm Al Quwain,Public,DoH Abu Dhabi,Active
+FAC00096,Burjeel Clinic - Umm Al Quwain,Clinic,Medium,Umm Al Quwain,Umm Al Quwain,Umm Al Quwain,Private,DoH Abu Dhabi,Active
+FAC00097,Burjeel Clinic - Al Ain,Clinic,Large,Abu Dhabi,Al Ain,Al Ain,Public,DoH Abu Dhabi,Temporarily Closed
+FAC00098,Burjeel Medical Center - Ruwais,Medical Center,Tertiary,Abu Dhabi,Abu Dhabi City,Ruwais,Public,MOHAP,Temporarily Closed
+FAC00099,Aster Hospital - Ras Al Khaimah,Hospital,Medium,Ras Al Khaimah,Ras Al Khaimah,Ras Al Khaimah,Public,DHA Dubai,Active
+FAC00100,Burjeel Specialty Center - Ras Al Khaimah,Specialty Center,Small,Ras Al Khaimah,Ras Al Khaimah,Ras Al Khaimah,Private,DoH Abu Dhabi,Active
+FAC00101,Aster Hospital - Hatta,Hospital,Small,Dubai,Dubai,Hatta,Public,MOHAP,Active
+FAC00102,Emirates Clinic - Jebel Ali,Clinic,Large,Dubai,Dubai,Jebel Ali,Public,Sharjah Health Authority,Active
+FAC00103,NMC Specialty Center - Dhaid,Specialty Center,Medium,Sharjah,Khor Fakkan,Dhaid,Private,MOHAP,Active
+FAC00104,MediCare Day Surgery Center - Jebel Ali,Day Surgery Center,Tertiary,Dubai,Dubai,Jebel Ali,Public,MOHAP,Active
+FAC00105,Burjeel Medical Center - Al Ain,Medical Center,Large,Abu Dhabi,Abu Dhabi City,Al Ain,Public,DoH Abu Dhabi,Active
+FAC00106,Al Noor Clinic - Fujairah,Clinic,Large,Fujairah,Fujairah,Fujairah,Private,Sharjah Health Authority,Active
+FAC00107,NMC Hospital - Khor Fakkan,Hospital,Tertiary,Sharjah,Khor Fakkan,Khor Fakkan,Private,DHA Dubai,Temporarily Closed
+FAC00108,Prime Clinic - Madinat Zayed,Clinic,Small,Abu Dhabi,Abu Dhabi City,Madinat Zayed,Public,MOHAP,Temporarily Closed
+FAC00109,Al Noor Specialty Center - Al Ain,Specialty Center,Medium,Abu Dhabi,Al Ain,Al Ain,Private,DHA Dubai,Active
+FAC00110,Al Noor Clinic - Al Ain,Clinic,Medium,Abu Dhabi,Al Ain,Al Ain,Private,MOHAP,Active
+FAC00111,Prime Clinic - Ras Al Khaimah,Clinic,Small,Ras Al Khaimah,Ras Al Khaimah,Ras Al Khaimah,Private,DoH Abu Dhabi,Active
+FAC00112,Aster Specialty Center - Ruwais,Specialty Center,Large,Abu Dhabi,Al Ain,Ruwais,Public,Sharjah Health Authority,Active
+FAC00113,Al Noor Hospital - Dibba Al-Fujairah,Hospital,Large,Fujairah,Fujairah,Dibba Al-Fujairah,Private,MOHAP,Temporarily Closed
+FAC00114,Prime Day Surgery Center - Jebel Ali,Day Surgery Center,Small,Dubai,Dubai,Jebel Ali,Private,DHA Dubai,Active
+FAC00115,Al Noor Clinic - Khor Fakkan,Clinic,Medium,Sharjah,Al Dhaid,Khor Fakkan,Private,DoH Abu Dhabi,Active
+FAC00116,Aster Clinic - Abu Dhabi,Clinic,Tertiary,Abu Dhabi,Al Ain,Abu Dhabi,Private,MOHAP,Active
+FAC00117,Al Noor Clinic - Al Ain,Clinic,Tertiary,Abu Dhabi,Al Ain,Al Ain,Public,DoH Abu Dhabi,Active
+FAC00118,Prime Medical Center - Ajman,Medical Center,Small,Ajman,Ajman,Ajman,Private,MOHAP,Active
+FAC00119,Gulf Clinic - Dubai,Clinic,Small,Dubai,Dubai,Dubai,Public,MOHAP,Temporarily Closed
+FAC00120,Aster Clinic - Jebel Ali,Clinic,Medium,Dubai,Dubai,Jebel Ali,Public,MOHAP,Temporarily Closed
+FAC00121,Aster Specialty Center - Fujairah,Specialty Center,Large,Fujairah,Fujairah,Fujairah,Public,Sharjah Health Authority,Active
+FAC00122,Burjeel Day Surgery Center - Fujairah,Day Surgery Center,Large,Fujairah,Fujairah,Fujairah,Public,MOHAP,Temporarily Closed
+FAC00123,Gulf Medical Center - Jebel Ali,Medical Center,Small,Dubai,Dubai,Jebel Ali,Public,DoH Abu Dhabi,Active
+FAC00124,Aster Medical Center - Ajman,Medical Center,Large,Ajman,Ajman,Ajman,Private,DHA Dubai,Temporarily Closed
+FAC00125,Aster Medical Center - Madinat Zayed,Medical Center,Medium,Abu Dhabi,Al Dhafra,Madinat Zayed,Private,DHA Dubai,Temporarily Closed
+FAC00126,Aster Hospital - Ras Al Khaimah,Hospital,Tertiary,Ras Al Khaimah,Ras Al Khaimah,Ras Al Khaimah,Private,Sharjah Health Authority,Temporarily Closed
+FAC00127,Burjeel Clinic - Ras Al Khaimah,Clinic,Small,Ras Al Khaimah,Ras Al Khaimah,Ras Al Khaimah,Public,MOHAP,Active
+FAC00128,Prime Medical Center - Al Ain,Medical Center,Tertiary,Abu Dhabi,Al Dhafra,Al Ain,Private,DoH Abu Dhabi,Active
+FAC00129,Gulf Hospital - Hatta,Hospital,Large,Dubai,Dubai,Hatta,Public,DoH Abu Dhabi,Temporarily Closed
+FAC00130,Al Noor Clinic - Ajman,Clinic,Small,Ajman,Ajman,Ajman,Public,DHA Dubai,Active
+FAC00131,Burjeel Clinic - Abu Dhabi,Clinic,Large,Abu Dhabi,Al Dhafra,Abu Dhabi,Public,DHA Dubai,Active
+FAC00132,Burjeel Clinic - Sharjah,Clinic,Tertiary,Sharjah,Khor Fakkan,Sharjah,Private,Sharjah Health Authority,Temporarily Closed
+FAC00133,Al Noor Clinic - Hatta,Clinic,Small,Dubai,Dubai,Hatta,Public,MOHAP,Active
+FAC00134,Emirates Clinic - Madinat Zayed,Clinic,Small,Abu Dhabi,Al Dhafra,Madinat Zayed,Private,DHA Dubai,Temporarily Closed
+FAC00135,MediCare Clinic - Ajman,Clinic,Small,Ajman,Ajman,Ajman,Public,MOHAP,Temporarily Closed
+FAC00136,Emirates Specialty Center - Dubai,Specialty Center,Medium,Dubai,Dubai,Dubai,Private,Sharjah Health Authority,Temporarily Closed
+FAC00137,National Medical Center - Fujairah,Medical Center,Tertiary,Fujairah,Fujairah,Fujairah,Private,MOHAP,Temporarily Closed
+FAC00138,Prime Clinic - Jebel Ali,Clinic,Tertiary,Dubai,Dubai,Jebel Ali,Public,MOHAP,Active
+FAC00139,Al Noor Clinic - Dubai,Clinic,Small,Dubai,Dubai,Dubai,Public,MOHAP,Active
+FAC00140,Aster Clinic - Jebel Ali,Clinic,Medium,Dubai,Dubai,Jebel Ali,Public,MOHAP,Temporarily Closed
+FAC00141,NMC Hospital - Abu Dhabi,Hospital,Small,Abu Dhabi,Al Ain,Abu Dhabi,Public,Sharjah Health Authority,Active
+FAC00142,MediCare Clinic - Dubai,Clinic,Small,Dubai,Dubai,Dubai,Private,DoH Abu Dhabi,Active
+FAC00143,Burjeel Hospital - Sharjah,Hospital,Tertiary,Sharjah,Khor Fakkan,Sharjah,Private,DoH Abu Dhabi,Active
+FAC00144,Prime Clinic - Umm Al Quwain,Clinic,Tertiary,Umm Al Quwain,Umm Al Quwain,Umm Al Quwain,Private,Sharjah Health Authority,Active
+FAC00145,NMC Clinic - Madinat Zayed,Clinic,Large,Abu Dhabi,Al Dhafra,Madinat Zayed,Public,Sharjah Health Authority,Active
+FAC00146,Emirates Clinic - Jebel Ali,Clinic,Large,Dubai,Dubai,Jebel Ali,Public,DoH Abu Dhabi,Temporarily Closed
+FAC00147,Burjeel Medical Center - Al Ain,Medical Center,Tertiary,Abu Dhabi,Al Dhafra,Al Ain,Public,Sharjah Health Authority,Temporarily Closed
+FAC00148,Prime Clinic - Hatta,Clinic,Medium,Dubai,Dubai,Hatta,Public,MOHAP,Temporarily Closed
+FAC00149,Life Medical Center - Jebel Ali,Medical Center,Small,Dubai,Dubai,Jebel Ali,Private,DHA Dubai,Active
+FAC00150,Gulf Clinic - Ruwais,Clinic,Small,Abu Dhabi,Abu Dhabi City,Ruwais,Private,DHA Dubai,Active
+FAC00151,National Clinic - Kalba,Clinic,Tertiary,Sharjah,Khor Fakkan,Kalba,Public,Sharjah Health Authority,Active
+FAC00152,Burjeel Day Surgery Center - Ruwais,Day Surgery Center,Small,Abu Dhabi,Abu Dhabi City,Ruwais,Public,DoH Abu Dhabi,Temporarily Closed
+FAC00153,Burjeel Medical Center - Hatta,Medical Center,Tertiary,Dubai,Dubai,Hatta,Private,DoH Abu Dhabi,Temporarily Closed
+FAC00154,Life Clinic - Hatta,Clinic,Small,Dubai,Dubai,Hatta,Public,DoH Abu Dhabi,Active
+FAC00155,Burjeel Specialty Center - Al Ain,Specialty Center,Large,Abu Dhabi,Al Ain,Al Ain,Private,Sharjah Health Authority,Temporarily Closed
+FAC00156,MediCare Medical Center - Fujairah,Medical Center,Large,Fujairah,Fujairah,Fujairah,Private,Sharjah Health Authority,Temporarily Closed
+FAC00157,Life Clinic - Dubai,Clinic,,Dubai,Dubai,Dubai,Public,DHA Dubai,Active
+FAC00158,Gulf Medical Center - Abu Dhabi,Medical Center,Tertiary,Abu Dhabi,Abu Dhabi City,Abu Dhabi,Private,DHA Dubai,Active
+FAC00159,Aster Day Surgery Center - Madinat Zayed,Day Surgery Center,Small,Abu Dhabi,Al Ain,Madinat Zayed,Public,DoH Abu Dhabi,Active
+FAC00160,Gulf Hospital - Jebel Ali,Hospital,Tertiary,Dubai,Dubai,Jebel Ali,Private,DHA Dubai,Temporarily Closed
+FAC00161,Prime Hospital - Madinat Zayed,Hospital,Medium,Abu Dhabi,Al Ain,Madinat Zayed,Private,MOHAP,Active
+FAC00162,Aster Clinic - Fujairah,Clinic,Tertiary,Fujairah,Fujairah,Fujairah,Private,DHA Dubai,Temporarily Closed
+FAC00163,Burjeel Medical Center - Umm Al Quwain,Medical Center,Tertiary,Umm Al Quwain,Umm Al Quwain,Umm Al Quwain,Public,Sharjah Health Authority,Temporarily Closed
+FAC00164,Emirates Clinic - Masfout,Clinic,Medium,Ajman,Ajman,Masfout,Private,Sharjah Health Authority,Active
+FAC00165,Al Noor Medical Center - Ajman,Medical Center,Small,Ajman,Ajman,Ajman,Public,DoH Abu Dhabi,Temporarily Closed
+FAC00166,Gulf Clinic - Dubai,Clinic,Tertiary,Dubai,Dubai,Dubai,Private,Sharjah Health Authority,Active
+FAC00167,Burjeel Hospital - Dibba Al-Fujairah,Hospital,Large,Fujairah,Fujairah,Dibba Al-Fujairah,Private,DHA Dubai,Active
+FAC00168,Prime Clinic - Madinat Zayed,Clinic,Small,Abu Dhabi,Al Ain,Madinat Zayed,Private,DHA Dubai,Active
+FAC00169,Prime Hospital - Masfout,Hospital,Small,Ajman,Ajman,Masfout,Public,Sharjah Health Authority,Active
+FAC00170,MediCare Clinic - Dubai,Clinic,Large,Dubai,Dubai,Dubai,Private,MOHAP,Active
+FAC00171,MediCare Clinic - Kalba,Clinic,Tertiary,Sharjah,Sharjah,Kalba,Public,MOHAP,Active
+FAC00172,Al Noor Specialty Center - Dhaid,Specialty Center,Large,Sharjah,Al Dhaid,Dhaid,Private,DoH Abu Dhabi,Temporarily Closed
+FAC00173,NMC Medical Center - Jebel Ali,Medical Center,Medium,Dubai,Dubai,Jebel Ali,Public,DoH Abu Dhabi,Active
+FAC00174,National Clinic - Dibba Al-Fujairah,Clinic,Small,Fujairah,Fujairah,Dibba Al-Fujairah,Private,MOHAP,Active
+FAC00175,NMC Hospital - Dibba Al-Fujairah,Hospital,Medium,Fujairah,Fujairah,Dibba Al-Fujairah,Public,MOHAP,Temporarily Closed
+FAC00176,Al Noor Hospital - Hatta,Hospital,Medium,Dubai,Dubai,Hatta,Private,DoH Abu Dhabi,Temporarily Closed
+FAC00177,Life Clinic - Madinat Zayed,Clinic,Tertiary,Abu Dhabi,Abu Dhabi City,Madinat Zayed,Public,DHA Dubai,Active
+FAC00178,Emirates Medical Center - Hatta,Medical Center,Small,Dubai,Dubai,Hatta,Public,DoH Abu Dhabi,Active
+FAC00179,Aster Hospital - Ras Al Khaimah,Hospital,Medium,Ras Al Khaimah,Ras Al Khaimah,Ras Al Khaimah,Private,DoH Abu Dhabi,Active
+FAC00180,Prime Day Surgery Center - Dubai,Day Surgery Center,Medium,Dubai,Dubai,Dubai,Private,DoH Abu Dhabi,Active
+FAC00181,National Clinic - Abu Dhabi,Clinic,Medium,Abu Dhabi,Al Dhafra,Abu Dhabi,Private,MOHAP,Temporarily Closed
+FAC00182,Gulf Medical Center - Dhaid,Medical Center,Large,Sharjah,Khor Fakkan,Dhaid,Public,DHA Dubai,Active
+FAC00183,Prime Medical Center - Abu Dhabi,Medical Center,Large,Abu Dhabi,Abu Dhabi City,Abu Dhabi,Public,Sharjah Health Authority,Active
+FAC00184,Aster Medical Center - Ruwais,Medical Center,Medium,Abu Dhabi,Al Dhafra,Ruwais,Private,DoH Abu Dhabi,Active
+FAC00185,Prime Clinic - Dubai,Clinic,Small,Dubai,Dubai,Dubai,Public,MOHAP,Active
+FAC00186,Gulf Day Surgery Center - Al Ain,Day Surgery Center,Medium,Abu Dhabi,Al Ain,Al Ain,Public,DoH Abu Dhabi,Temporarily Closed
+FAC00187,NMC Clinic - Abu Dhabi,Clinic,Small,Abu Dhabi,Al Dhafra,Abu Dhabi,Private,Sharjah Health Authority,Active
+FAC00188,NMC Clinic - Masfout,Clinic,Small,Ajman,Ajman,Masfout,Private,DHA Dubai,Active
+FAC00189,National Specialty Center - Kalba,Specialty Center,Tertiary,Sharjah,Khor Fakkan,Kalba,Public,DHA Dubai,Active
+FAC00190,Al Noor Day Surgery Center - Dubai,Day Surgery Center,Medium,Dubai,Dubai,Dubai,Public,DHA Dubai,Active
+FAC00191,Gulf Medical Center - Ruwais,Medical Center,Small,Abu Dhabi,Al Dhafra,Ruwais,Private,MOHAP,Active
+FAC00192,NMC Clinic - Madinat Zayed,Clinic,Medium,Abu Dhabi,Al Ain,Madinat Zayed,Public,DoH Abu Dhabi,Active
+FAC00193,Life Clinic - Dhaid,Clinic,Medium,Sharjah,Khor Fakkan,Dhaid,Public,MOHAP,Active
+FAC00194,Gulf Clinic - Umm Al Quwain,Clinic,Large,Umm Al Quwain,Umm Al Quwain,Umm Al Quwain,Private,DoH Abu Dhabi,Active
+FAC00195,National Clinic - Masfout,Clinic,Medium,Ajman,Ajman,Masfout,Public,Sharjah Health Authority,Temporarily Closed
+FAC00196,Prime Hospital - Abu Dhabi,Hospital,Small,Abu Dhabi,Al Ain,Abu Dhabi,Private,Sharjah Health Authority,Temporarily Closed
+FAC00197,Al Noor Specialty Center - Masfout,Specialty Center,Small,Ajman,Ajman,Masfout,Public,DHA Dubai,Active
+FAC00198,National Specialty Center - Al Ain,Specialty Center,Tertiary,Abu Dhabi,Abu Dhabi City,Al Ain,Public,DHA Dubai,Active
+FAC00199,Gulf Hospital - Kalba,Hospital,Small,Sharjah,Khor Fakkan,Kalba,Public,Sharjah Health Authority,Active
+FAC00200,NMC Clinic - Madinat Zayed,Clinic,Tertiary,Abu Dhabi,Al Ain,Madinat Zayed,Public,DHA Dubai,Active
+FAC00201,National Clinic - Umm Al Quwain,Clinic,Small,Umm Al Quwain,Umm Al Quwain,Umm Al Quwain,Private,DoH Abu Dhabi,Active
+FAC00202,Life Medical Center - Ras Al Khaimah,Medical Center,Tertiary,Ras Al Khaimah,Ras Al Khaimah,Ras Al Khaimah,Public,DoH Abu Dhabi,Active
+FAC00203,Al Noor Clinic - Al Ain,Clinic,Medium,Abu Dhabi,Al Ain,Al Ain,Private,MOHAP,Active
+FAC00204,Prime Clinic - Sharjah,Clinic,Large,Sharjah,Al Dhaid,Sharjah,Private,MOHAP,Active
+FAC00205,Burjeel Specialty Center - Khor Fakkan,Specialty Center,Tertiary,Sharjah,Al Dhaid,Khor Fakkan,Public,DHA Dubai,Active
+FAC00206,Aster Clinic - Masfout,Clinic,Large,Ajman,Ajman,Masfout,Private,MOHAP,Temporarily Closed
+FAC00207,Aster Medical Center - Kalba,Medical Center,Medium,Sharjah,Sharjah,Kalba,Public,DHA Dubai,Temporarily Closed
+FAC00208,NMC Clinic - Dubai,Clinic,Medium,Dubai,Dubai,Dubai,Private,MOHAP,Temporarily Closed
+FAC00209,NMC Specialty Center - Ruwais,Specialty Center,Large,Abu Dhabi,Al Dhafra,Ruwais,Public,DHA Dubai,Active
+FAC00210,Gulf Medical Center - Jebel Ali,Medical Center,Small,Dubai,Dubai,Jebel Ali,Public,DHA Dubai,Active
+FAC00211,Aster Clinic - Abu Dhabi,Clinic,Large,Abu Dhabi,Al Dhafra,Abu Dhabi,Public,MOHAP,Active
+FAC00212,Aster Medical Center - Al Ain,Medical Center,Tertiary,Abu Dhabi,Abu Dhabi City,Al Ain,Public,MOHAP,Temporarily Closed
+FAC00213,Emirates Day Surgery Center - Umm Al Quwain,Day Surgery Center,Medium,Umm Al Quwain,Umm Al Quwain,Umm Al Quwain,Private,Sharjah Health Authority,Active
+FAC00214,National Medical Center - Abu Dhabi,Medical Center,Tertiary,Abu Dhabi,Abu Dhabi City,Abu Dhabi,Private,Sharjah Health Authority,Temporarily Closed
+FAC00215,National Clinic - Jebel Ali,Clinic,Large,Dubai,Dubai,Jebel Ali,Public,MOHAP,Active
+FAC00216,Gulf Clinic - Ras Al Khaimah,Clinic,Small,Ras Al Khaimah,Ras Al Khaimah,Ras Al Khaimah,Private,MOHAP,Active
+FAC00217,Gulf Medical Center - Sharjah,Medical Center,Medium,Sharjah,Khor Fakkan,Sharjah,Private,MOHAP,Active
+FAC00218,Emirates Hospital - Dhaid,Hospital,Tertiary,Sharjah,Sharjah,Dhaid,Private,DoH Abu Dhabi,Active
+FAC00219,MediCare Hospital - Dubai,Hospital,Medium,Dubai,Dubai,Dubai,Private,DHA Dubai,Active
+FAC00220,Aster Hospital - Sharjah,Hospital,Large,Sharjah,Khor Fakkan,Sharjah,Private,DoH Abu Dhabi,Active
+FAC00221,National Specialty Center - Umm Al Quwain,Specialty Center,Medium,Umm Al Quwain,Umm Al Quwain,Umm Al Quwain,Public,DoH Abu Dhabi,Temporarily Closed
+FAC00222,National Clinic - Khor Fakkan,Clinic,Tertiary,Sharjah,Al Dhaid,Khor Fakkan,Public,DoH Abu Dhabi,Active
+FAC00223,Burjeel Clinic - Dibba Al-Fujairah,Clinic,Tertiary,Fujairah,Fujairah,Dibba Al-Fujairah,Public,Sharjah Health Authority,Active
+FAC00224,NMC Clinic - Al Ain,Clinic,Small,Abu Dhabi,Abu Dhabi City,Al Ain,Public,DHA Dubai,Active
+FAC00225,Al Noor Hospital - Dubai,Hospital,Large,Dubai,Dubai,Dubai,Private,MOHAP,Temporarily Closed
+FAC00226,Life Medical Center - Dhaid,Medical Center,Large,Sharjah,Al Dhaid,Dhaid,Public,Sharjah Health Authority,Active
+FAC00227,National Clinic - Umm Al Quwain,Clinic,Small,Umm Al Quwain,Umm Al Quwain,Umm Al Quwain,Private,DHA Dubai,Active
+FAC00228,Al Noor Clinic - Jebel Ali,Clinic,Small,Dubai,Dubai,Jebel Ali,Private,MOHAP,Active
+FAC00229,Gulf Hospital - Al Ain,Hospital,Medium,Abu Dhabi,Abu Dhabi City,Al Ain,Public,MOHAP,Active
+FAC00230,MediCare Medical Center - Fujairah,Medical Center,Tertiary,Fujairah,Fujairah,Fujairah,Private,DoH Abu Dhabi,Active
+FAC00231,MediCare Hospital - Jebel Ali,Hospital,Medium,Dubai,Dubai,Jebel Ali,Private,DoH Abu Dhabi,Temporarily Closed
+FAC00232,National Day Surgery Center - Jebel Ali,Day Surgery Center,Medium,Dubai,Dubai,Jebel Ali,Private,DoH Abu Dhabi,Active
+FAC00233,Gulf Day Surgery Center - Khor Fakkan,Day Surgery Center,Small,Sharjah,Sharjah,Khor Fakkan,Private,DoH Abu Dhabi,Active
+FAC00234,MediCare Hospital - Ajman,Hospital,Medium,Ajman,Ajman,Ajman,Public,Sharjah Health Authority,Active
+FAC00235,Gulf Specialty Center - Dubai,Specialty Center,Large,Dubai,Dubai,Dubai,Private,DoH Abu Dhabi,Active
+FAC00236,MediCare Specialty Center - Hatta,Specialty Center,Small,Dubai,Dubai,Hatta,Private,MOHAP,Temporarily Closed
+FAC00237,Emirates Clinic - Ras Al Khaimah,Clinic,Tertiary,Ras Al Khaimah,Ras Al Khaimah,Ras Al Khaimah,Private,MOHAP,Active
+FAC00238,National Medical Center - Ruwais,Medical Center,Medium,Abu Dhabi,Al Ain,Ruwais,Private,DHA Dubai,Active
+FAC00239,NMC Medical Center - Al Ain,Medical Center,Small,Abu Dhabi,Al Ain,Al Ain,Public,Sharjah Health Authority,Temporarily Closed
+FAC00240,National Clinic - Masfout,Clinic,Tertiary,Ajman,Ajman,Masfout,Public,DoH Abu Dhabi,Temporarily Closed
+FAC00241,MediCare Hospital - Abu Dhabi,Hospital,Small,Abu Dhabi,Al Ain,Abu Dhabi,Public,MOHAP,Active
+FAC00242,Al Noor Medical Center - Umm Al Quwain,Medical Center,Medium,Umm Al Quwain,Umm Al Quwain,Umm Al Quwain,Private,MOHAP,Active
+FAC00243,Prime Specialty Center - Dubai,Specialty Center,Medium,Dubai,Dubai,Dubai,Private,DoH Abu Dhabi,Active
+FAC00244,Aster Day Surgery Center - Kalba,Day Surgery Center,Large,Sharjah,Khor Fakkan,Kalba,Public,DHA Dubai,Active
+FAC00245,Emirates Clinic - Fujairah,Clinic,Small,Fujairah,Fujairah,Fujairah,Public,MOHAP,Active
+FAC00246,Al Noor Clinic - Madinat Zayed,Clinic,Tertiary,Abu Dhabi,Al Ain,Madinat Zayed,Private,MOHAP,Active
+FAC00247,Aster Hospital - Masfout,Hospital,Small,Ajman,Ajman,Masfout,Public,Sharjah Health Authority,Active
+FAC00248,Prime Medical Center - Fujairah,Medical Center,Large,Fujairah,Fujairah,Fujairah,Private,Sharjah Health Authority,Active
+FAC00249,Life Specialty Center - Dubai,Specialty Center,Small,Dubai,Dubai,Dubai,Private,DHA Dubai,Active
+FAC00250,Emirates Clinic - Fujairah,Clinic,Medium,Fujairah,Fujairah,Fujairah,Private,DHA Dubai,Active
+FAC00251,Prime Clinic - Al Ain,Clinic,Medium,Abu Dhabi,Al Ain,Al Ain,Private,MOHAP,Active
+FAC00252,Burjeel Clinic - Hatta,Clinic,,Dubai,Dubai,Hatta,Public,DHA Dubai,Active
+FAC00253,Emirates Medical Center - Jebel Ali,Medical Center,Tertiary,Dubai,Dubai,Jebel Ali,Public,DoH Abu Dhabi,Active
+FAC00254,Gulf Medical Center - Ajman,Medical Center,Large,Ajman,Ajman,Ajman,Public,DoH Abu Dhabi,Active
+FAC00255,Prime Day Surgery Center - Madinat Zayed,Day Surgery Center,Medium,Abu Dhabi,Abu Dhabi City,Madinat Zayed,Private,DHA Dubai,Active
+FAC00256,Aster Medical Center - Madinat Zayed,Medical Center,Tertiary,Abu Dhabi,Abu Dhabi City,Madinat Zayed,Public,DHA Dubai,Active
+FAC00257,Life Specialty Center - Jebel Ali,Specialty Center,Medium,Dubai,Dubai,Jebel Ali,Private,DHA Dubai,Active
+FAC00258,Gulf Clinic - Umm Al Quwain,Clinic,Small,Umm Al Quwain,Umm Al Quwain,Umm Al Quwain,Private,MOHAP,Temporarily Closed
+FAC00259,National Specialty Center - Dhaid,Specialty Center,Small,Sharjah,Khor Fakkan,Dhaid,Private,MOHAP,Active
+FAC00260,National Medical Center - Dibba Al-Fujairah,Medical Center,Tertiary,Fujairah,Fujairah,Dibba Al-Fujairah,Public,MOHAP,Active
+FAC00261,NMC Clinic - Fujairah,Clinic,Large,Fujairah,Fujairah,Fujairah,Public,MOHAP,Active
+FAC00262,Prime Specialty Center - Ruwais,Specialty Center,Small,Abu Dhabi,Al Ain,Ruwais,Private,Sharjah Health Authority,Active
+FAC00263,Life Clinic - Kalba,Clinic,Small,Sharjah,Khor Fakkan,Kalba,Public,DHA Dubai,Active
+FAC00264,MediCare Specialty Center - Dubai,Specialty Center,Small,Dubai,Dubai,Dubai,Private,MOHAP,Active
+FAC00265,Burjeel Specialty Center - Abu Dhabi,Specialty Center,Medium,Abu Dhabi,Al Ain,Abu Dhabi,Public,Sharjah Health Authority,Active
+FAC00266,Al Noor Specialty Center - Hatta,Specialty Center,Small,Dubai,Dubai,Hatta,Public,DHA Dubai,Active
+FAC00267,Life Medical Center - Dubai,Medical Center,Small,Dubai,Dubai,Dubai,Private,MOHAP,Active
+FAC00268,Life Medical Center - Abu Dhabi,Medical Center,Tertiary,Abu Dhabi,Al Ain,Abu Dhabi,Public,MOHAP,Active
+FAC00269,Burjeel Clinic - Al Ain,Clinic,Medium,Abu Dhabi,Al Dhafra,Al Ain,Public,Sharjah Health Authority,Active
+FAC00270,MediCare Medical Center - Masfout,Medical Center,Large,Ajman,Ajman,Masfout,Public,MOHAP,Active
+FAC00271,MediCare Clinic - Kalba,Clinic,Medium,Sharjah,Sharjah,Kalba,Private,Sharjah Health Authority,Active
+FAC00272,Burjeel Clinic - Hatta,Clinic,Medium,Dubai,Dubai,Hatta,Public,Sharjah Health Authority,Active
+FAC00273,NMC Clinic - Ruwais,Clinic,Medium,Abu Dhabi,Abu Dhabi City,Ruwais,Public,DHA Dubai,Active
+FAC00274,Gulf Clinic - Madinat Zayed,Clinic,Medium,Abu Dhabi,Al Ain,Madinat Zayed,Public,DoH Abu Dhabi,Active
+FAC00275,Aster Medical Center - Ruwais,Medical Center,Medium,Abu Dhabi,Al Ain,Ruwais,Public,DHA Dubai,Temporarily Closed
+FAC00276,NMC Specialty Center - Dubai,Specialty Center,Large,Dubai,Dubai,Dubai,Public,DoH Abu Dhabi,Temporarily Closed
+FAC00277,Gulf Clinic - Al Ain,Clinic,Tertiary,Abu Dhabi,Abu Dhabi City,Al Ain,Public,DHA Dubai,Active
+FAC00278,Emirates Clinic - Hatta,Clinic,Tertiary,Dubai,Dubai,Hatta,Public,Sharjah Health Authority,Active
+FAC00279,National Specialty Center - Sharjah,Specialty Center,Medium,Sharjah,Sharjah,Sharjah,Public,Sharjah Health Authority,Active
+FAC00280,Burjeel Clinic - Abu Dhabi,Clinic,Large,Abu Dhabi,Al Dhafra,Abu Dhabi,Private,DHA Dubai,Active
+FAC00281,Emirates Medical Center - Jebel Ali,Medical Center,Small,Dubai,Dubai,Jebel Ali,Public,DHA Dubai,Active
+FAC00282,MediCare Clinic - Al Ain,Clinic,Tertiary,Abu Dhabi,Al Ain,Al Ain,Private,DoH Abu Dhabi,Active
+FAC00283,Aster Clinic - Dubai,Clinic,Medium,Dubai,Dubai,Dubai,Public,Sharjah Health Authority,Active
+FAC00284,Aster Day Surgery Center - Ras Al Khaimah,Day Surgery Center,Medium,Ras Al Khaimah,Ras Al Khaimah,Ras Al Khaimah,Public,MOHAP,Active
+FAC00285,Aster Medical Center - Al Ain,Medical Center,Tertiary,Abu Dhabi,Al Ain,Al Ain,Private,DHA Dubai,Active
+FAC00286,NMC Specialty Center - Al Ain,Specialty Center,Tertiary,Abu Dhabi,Abu Dhabi City,Al Ain,Private,MOHAP,Active
+FAC00287,MediCare Clinic - Jebel Ali,Clinic,Medium,Dubai,Dubai,Jebel Ali,Public,MOHAP,Active
+FAC00288,MediCare Clinic - Ruwais,Clinic,,Abu Dhabi,Al Ain,Ruwais,Public,Sharjah Health Authority,Active
+FAC00289,Prime Medical Center - Abu Dhabi,Medical Center,Tertiary,Abu Dhabi,Al Ain,Abu Dhabi,Public,MOHAP,Active
+FAC00290,Gulf Hospital - Al Ain,Hospital,Small,Abu Dhabi,Abu Dhabi City,Al Ain,Public,MOHAP,Temporarily Closed
+FAC00291,Aster Specialty Center - Dubai,Specialty Center,Tertiary,Dubai,Dubai,Dubai,Public,DHA Dubai,Active
+FAC00292,National Clinic - Fujairah,Clinic,Large,Fujairah,Fujairah,Fujairah,Private,Sharjah Health Authority,Active
+FAC00293,Prime Hospital - Abu Dhabi,Hospital,Small,Abu Dhabi,Al Dhafra,Abu Dhabi,Public,MOHAP,Active
+FAC00294,National Medical Center - Jebel Ali,Medical Center,Small,Dubai,Dubai,Jebel Ali,Public,MOHAP,Active
+FAC00295,Al Noor Day Surgery Center - Ruwais,Day Surgery Center,Large,Abu Dhabi,Al Ain,Ruwais,Public,DHA Dubai,Active
+FAC00296,National Clinic - Abu Dhabi,Clinic,Medium,Abu Dhabi,Abu Dhabi City,Abu Dhabi,Private,DoH Abu Dhabi,Temporarily Closed
+FAC00297,Al Noor Hospital - Ajman,Hospital,Large,Ajman,Ajman,Ajman,Private,DoH Abu Dhabi,Active
+FAC00298,Emirates Day Surgery Center - Dubai,Day Surgery Center,Medium,Dubai,Dubai,Dubai,Public,DHA Dubai,Active
+FAC00299,NMC Day Surgery Center - Al Ain,Day Surgery Center,Large,Abu Dhabi,Al Dhafra,Al Ain,Public,Sharjah Health Authority,Active
+FAC00300,Prime Clinic - Khor Fakkan,Clinic,Large,Sharjah,Sharjah,Khor Fakkan,Public,DHA Dubai,Active
+FAC00301,Prime Clinic - Hatta,Clinic,,Dubai,Dubai,Hatta,Public,Sharjah Health Authority,Active
+FAC00302,Emirates Clinic - Fujairah,Clinic,Small,Fujairah,Fujairah,Fujairah,Public,DoH Abu Dhabi,Temporarily Closed
+FAC00303,National Specialty Center - Masfout,Specialty Center,Medium,Ajman,Ajman,Masfout,Private,DoH Abu Dhabi,Active
+FAC00304,Life Medical Center - Al Ain,Medical Center,Small,Abu Dhabi,Abu Dhabi City,Al Ain,Private,DHA Dubai,Temporarily Closed
+FAC00305,NMC Medical Center - Ras Al Khaimah,Medical Center,,Ras Al Khaimah,Ras Al Khaimah,Ras Al Khaimah,Public,DoH Abu Dhabi,Active
+FAC00306,Al Noor Medical Center - Madinat Zayed,Medical Center,Small,Abu Dhabi,Al Ain,Madinat Zayed,Public,DoH Abu Dhabi,Active
+FAC00307,Emirates Medical Center - Ruwais,Medical Center,Tertiary,Abu Dhabi,Al Dhafra,Ruwais,Private,DoH Abu Dhabi,Temporarily Closed
+FAC00308,Burjeel Day Surgery Center - Madinat Zayed,Day Surgery Center,Tertiary,Abu Dhabi,Abu Dhabi City,Madinat Zayed,Public,DoH Abu Dhabi,Active
+FAC00309,Burjeel Hospital - Abu Dhabi,Hospital,Large,Abu Dhabi,Abu Dhabi City,Abu Dhabi,Public,Sharjah Health Authority,Active
+FAC00310,Burjeel Clinic - Hatta,Clinic,Tertiary,Dubai,Dubai,Hatta,Private,MOHAP,Temporarily Closed
+FAC00311,Gulf Day Surgery Center - Madinat Zayed,Day Surgery Center,Medium,Abu Dhabi,Al Ain,Madinat Zayed,Private,DoH Abu Dhabi,Active
+FAC00312,Al Noor Medical Center - Khor Fakkan,Medical Center,Medium,Sharjah,Sharjah,Khor Fakkan,Public,DoH Abu Dhabi,Temporarily Closed
+FAC00313,Al Noor Hospital - Dubai,Hospital,Tertiary,Dubai,Dubai,Dubai,Public,MOHAP,Active
+FAC00314,NMC Medical Center - Al Ain,Medical Center,Large,Abu Dhabi,Al Dhafra,Al Ain,Public,DoH Abu Dhabi,Active
+FAC00315,Prime Medical Center - Al Ain,Medical Center,Large,Abu Dhabi,Abu Dhabi City,Al Ain,Private,DoH Abu Dhabi,Active
+FAC00316,Aster Clinic - Al Ain,Clinic,Medium,Abu Dhabi,Abu Dhabi City,Al Ain,Private,Sharjah Health Authority,Active
+FAC00317,NMC Medical Center - Hatta,Medical Center,Tertiary,Dubai,Dubai,Hatta,Public,Sharjah Health Authority,Temporarily Closed
+FAC00318,Prime Clinic - Abu Dhabi,Clinic,Large,Abu Dhabi,Abu Dhabi City,Abu Dhabi,Public,DoH Abu Dhabi,Temporarily Closed
+FAC00319,NMC Medical Center - Ruwais,Medical Center,Medium,Abu Dhabi,Abu Dhabi City,Ruwais,Private,MOHAP,Active
+FAC00320,Prime Clinic - Dubai,Clinic,Medium,Dubai,Dubai,Dubai,Private,DoH Abu Dhabi,Active
+FAC00321,Aster Clinic - Ras Al Khaimah,Clinic,Medium,Ras Al Khaimah,Ras Al Khaimah,Ras Al Khaimah,Private,MOHAP,Active
+FAC00322,National Day Surgery Center - Jebel Ali,Day Surgery Center,Small,Dubai,Dubai,Jebel Ali,Private,Sharjah Health Authority,Active
+FAC00323,NMC Clinic - Hatta,Clinic,Tertiary,Dubai,Dubai,Hatta,Public,DHA Dubai,Active
+FAC00324,National Clinic - Sharjah,Clinic,Small,Sharjah,Khor Fakkan,Sharjah,Private,MOHAP,Active
+FAC00325,National Specialty Center - Ras Al Khaimah,Specialty Center,Large,Ras Al Khaimah,Ras Al Khaimah,Ras Al Khaimah,Public,MOHAP,Active
+FAC00326,Life Day Surgery Center - Madinat Zayed,Day Surgery Center,Medium,Abu Dhabi,Al Dhafra,Madinat Zayed,Public,Sharjah Health Authority,Temporarily Closed
+FAC00327,Al Noor Clinic - Sharjah,Clinic,Medium,Sharjah,Al Dhaid,Sharjah,Public,DHA Dubai,Active
+FAC00328,Gulf Clinic - Ras Al Khaimah,Clinic,Large,Ras Al Khaimah,Ras Al Khaimah,Ras Al Khaimah,Private,DoH Abu Dhabi,Active
+FAC00329,Burjeel Clinic - Madinat Zayed,Clinic,Tertiary,Abu Dhabi,Abu Dhabi City,Madinat Zayed,Public,DoH Abu Dhabi,Active
+FAC00330,Life Medical Center - Ruwais,Medical Center,Tertiary,Abu Dhabi,Al Dhafra,Ruwais,Public,Sharjah Health Authority,Active
+FAC00331,Gulf Specialty Center - Jebel Ali,Specialty Center,Medium,Dubai,Dubai,Jebel Ali,Private,DoH Abu Dhabi,Active
+FAC00332,MediCare Medical Center - Umm Al Quwain,Medical Center,Small,Umm Al Quwain,Umm Al Quwain,Umm Al Quwain,Public,DoH Abu Dhabi,Temporarily Closed
+FAC00333,Prime Clinic - Hatta,Clinic,Large,Dubai,Dubai,Hatta,Private,DoH Abu Dhabi,Active
+FAC00334,Prime Clinic - Khor Fakkan,Clinic,Large,Sharjah,Al Dhaid,Khor Fakkan,Private,MOHAP,Active
+FAC00335,Al Noor Medical Center - Jebel Ali,Medical Center,Small,Dubai,Dubai,Jebel Ali,Public,DoH Abu Dhabi,Temporarily Closed
+FAC00336,Life Day Surgery Center - Sharjah,Day Surgery Center,Medium,Sharjah,Sharjah,Sharjah,Private,Sharjah Health Authority,Active
+FAC00337,Life Clinic - Masfout,Clinic,Small,Ajman,Ajman,Masfout,Public,Sharjah Health Authority,Active
+FAC00338,Al Noor Specialty Center - Kalba,Specialty Center,Medium,Sharjah,Khor Fakkan,Kalba,Public,MOHAP,Temporarily Closed
+FAC00339,Al Noor Clinic - Dibba Al-Fujairah,Clinic,Tertiary,Fujairah,Fujairah,Dibba Al-Fujairah,Public,Sharjah Health Authority,Active
+FAC00340,National Clinic - Madinat Zayed,Clinic,Medium,Abu Dhabi,Abu Dhabi City,Madinat Zayed,Public,DHA Dubai,Temporarily Closed
+FAC00341,MediCare Clinic - Dubai,Clinic,Medium,Dubai,Dubai,Dubai,Private,DHA Dubai,Active
+FAC00342,Aster Specialty Center - Hatta,Specialty Center,Medium,Dubai,Dubai,Hatta,Public,DHA Dubai,Active
+FAC00343,Life Medical Center - Ras Al Khaimah,Medical Center,Tertiary,Ras Al Khaimah,Ras Al Khaimah,Ras Al Khaimah,Public,DoH Abu Dhabi,Temporarily Closed
+FAC00344,Prime Clinic - Fujairah,Clinic,Large,Fujairah,Fujairah,Fujairah,Private,DoH Abu Dhabi,Active
+FAC00345,Aster Clinic - Dubai,Clinic,Small,Dubai,Dubai,Dubai,Public,DoH Abu Dhabi,Active
+FAC00346,NMC Clinic - Jebel Ali,Clinic,Medium,Dubai,Dubai,Jebel Ali,Public,MOHAP,Active
+FAC00347,Burjeel Clinic - Jebel Ali,Clinic,Large,Dubai,Dubai,Jebel Ali,Public,MOHAP,Temporarily Closed
+FAC00348,Prime Clinic - Dhaid,Clinic,Large,Sharjah,Al Dhaid,Dhaid,Public,DHA Dubai,Active
+FAC00349,Aster Clinic - Dubai,Clinic,Small,Dubai,Dubai,Dubai,Public,MOHAP,Temporarily Closed
+FAC00350,MediCare Hospital - Ras Al Khaimah,Hospital,Large,Ras Al Khaimah,Ras Al Khaimah,Ras Al Khaimah,Private,DHA Dubai,Active
+FAC00351,Prime Medical Center - Ras Al Khaimah,Medical Center,Medium,Ras Al Khaimah,Ras Al Khaimah,Ras Al Khaimah,Private,MOHAP,Active
+FAC00352,Al Noor Clinic - Dibba Al-Fujairah,Clinic,Medium,Fujairah,Fujairah,Dibba Al-Fujairah,Public,Sharjah Health Authority,Temporarily Closed
+FAC00353,Al Noor Clinic - Dhaid,Clinic,Large,Sharjah,Khor Fakkan,Dhaid,Private,DHA Dubai,Active
+FAC00354,NMC Hospital - Umm Al Quwain,Hospital,Tertiary,Umm Al Quwain,Umm Al Quwain,Umm Al Quwain,Public,DoH Abu Dhabi,Temporarily Closed
+FAC00355,Gulf Medical Center - Masfout,Medical Center,Large,Ajman,Ajman,Masfout,Private,Sharjah Health Authority,Active
+FAC00356,Al Noor Clinic - Ruwais,Clinic,Large,Abu Dhabi,Al Ain,Ruwais,Public,DHA Dubai,Active
+FAC00357,NMC Hospital - Jebel Ali,Hospital,Tertiary,Dubai,Dubai,Jebel Ali,Public,Sharjah Health Authority,Active
+FAC00358,Gulf Hospital - Ras Al Khaimah,Hospital,Large,Ras Al Khaimah,Ras Al Khaimah,Ras Al Khaimah,Private,DoH Abu Dhabi,Active
+FAC00359,Life Hospital - Kalba,Hospital,Medium,Sharjah,Al Dhaid,Kalba,Public,DoH Abu Dhabi,Active
+FAC00360,NMC Clinic - Madinat Zayed,Clinic,,Abu Dhabi,Abu Dhabi City,Madinat Zayed,Public,DoH Abu Dhabi,Active
+FAC00361,Burjeel Clinic - Dubai,Clinic,Medium,Dubai,Dubai,Dubai,Public,DHA Dubai,Active
+FAC00362,Al Noor Medical Center - Ruwais,Medical Center,Tertiary,Abu Dhabi,Al Dhafra,Ruwais,Private,DHA Dubai,Active
+FAC00363,Life Specialty Center - Dubai,Specialty Center,Large,Dubai,Dubai,Dubai,Public,DHA Dubai,Active
+FAC00364,Aster Specialty Center - Hatta,Specialty Center,Large,Dubai,Dubai,Hatta,Private,DHA Dubai,Active
+FAC00365,MediCare Hospital - Hatta,Hospital,Small,Dubai,Dubai,Hatta,Private,DoH Abu Dhabi,Temporarily Closed
+FAC00366,Emirates Clinic - Jebel Ali,Clinic,Small,Dubai,Dubai,Jebel Ali,Private,Sharjah Health Authority,Active
+FAC00367,Gulf Medical Center - Khor Fakkan,Medical Center,Tertiary,Sharjah,Khor Fakkan,Khor Fakkan,Public,DHA Dubai,Active
+FAC00368,Gulf Hospital - Al Ain,Hospital,Tertiary,Abu Dhabi,Al Dhafra,Al Ain,Private,Sharjah Health Authority,Active
+FAC00369,MediCare Clinic - Ajman,Clinic,Small,Ajman,Ajman,Ajman,Public,DHA Dubai,Active
+FAC00370,MediCare Hospital - Sharjah,Hospital,Tertiary,Sharjah,Al Dhaid,Sharjah,Public,DHA Dubai,Active
+FAC00371,Prime Clinic - Sharjah,Clinic,Small,Sharjah,Sharjah,Sharjah,Public,Sharjah Health Authority,Active
+FAC00372,Aster Clinic - Madinat Zayed,Clinic,,Abu Dhabi,Al Ain,Madinat Zayed,Public,DHA Dubai,Active
+FAC00373,National Medical Center - Jebel Ali,Medical Center,Small,Dubai,Dubai,Jebel Ali,Private,Sharjah Health Authority,Temporarily Closed
+FAC00374,National Medical Center - Dhaid,Medical Center,Small,Sharjah,Sharjah,Dhaid,Private,Sharjah Health Authority,Active
+FAC00375,Prime Medical Center - Dubai,Medical Center,Large,Dubai,Dubai,Dubai,Private,DoH Abu Dhabi,Active
+FAC00376,MediCare Specialty Center - Ras Al Khaimah,Specialty Center,Small,Ras Al Khaimah,Ras Al Khaimah,Ras Al Khaimah,Public,MOHAP,Active
+FAC00377,MediCare Clinic - Madinat Zayed,Clinic,Tertiary,Abu Dhabi,Al Ain,Madinat Zayed,Private,MOHAP,Active
+FAC00378,Life Clinic - Hatta,Clinic,Small,Dubai,Dubai,Hatta,Private,DHA Dubai,Active
+FAC00379,Burjeel Clinic - Ras Al Khaimah,Clinic,Medium,Ras Al Khaimah,Ras Al Khaimah,Ras Al Khaimah,Private,DoH Abu Dhabi,Active
+FAC00380,MediCare Medical Center - Dubai,Medical Center,Large,Dubai,Dubai,Dubai,Public,MOHAP,Temporarily Closed
+FAC00381,NMC Day Surgery Center - Madinat Zayed,Day Surgery Center,Large,Abu Dhabi,Abu Dhabi City,Madinat Zayed,Private,MOHAP,Active
+FAC00382,Gulf Specialty Center - Jebel Ali,Specialty Center,Large,Dubai,Dubai,Jebel Ali,Public,Sharjah Health Authority,Temporarily Closed
+FAC00383,MediCare Hospital - Hatta,Hospital,Medium,Dubai,Dubai,Hatta,Private,DHA Dubai,Temporarily Closed
+FAC00384,MediCare Day Surgery Center - Umm Al Quwain,Day Surgery Center,Tertiary,Umm Al Quwain,Umm Al Quwain,Umm Al Quwain,Public,DHA Dubai,Active
+FAC00385,Prime Hospital - Jebel Ali,Hospital,Large,Dubai,Dubai,Jebel Ali,Private,MOHAP,Temporarily Closed
+FAC00386,Burjeel Hospital - Khor Fakkan,Hospital,Medium,Sharjah,Khor Fakkan,Khor Fakkan,Public,Sharjah Health Authority,Active
+FAC00387,Al Noor Medical Center - Dubai,Medical Center,Medium,Dubai,Dubai,Dubai,Public,DHA Dubai,Temporarily Closed
+FAC00388,Emirates Clinic - Khor Fakkan,Clinic,Medium,Sharjah,Sharjah,Khor Fakkan,Public,DoH Abu Dhabi,Active
+FAC00389,Emirates Medical Center - Al Ain,Medical Center,Small,Abu Dhabi,Abu Dhabi City,Al Ain,Public,DHA Dubai,Active
+FAC00390,Al Noor Clinic - Madinat Zayed,Clinic,Medium,Abu Dhabi,Al Ain,Madinat Zayed,Private,MOHAP,Active
+FAC00391,Aster Medical Center - Madinat Zayed,Medical Center,Tertiary,Abu Dhabi,Al Ain,Madinat Zayed,Public,DoH Abu Dhabi,Temporarily Closed
+FAC00392,Emirates Medical Center - Al Ain,Medical Center,Medium,Abu Dhabi,Al Dhafra,Al Ain,Private,Sharjah Health Authority,Temporarily Closed
+FAC00393,Emirates Clinic - Hatta,Clinic,Tertiary,Dubai,Dubai,Hatta,Private,DoH Abu Dhabi,Temporarily Closed
+FAC00394,Life Clinic - Abu Dhabi,Clinic,Tertiary,Abu Dhabi,Abu Dhabi City,Abu Dhabi,Public,Sharjah Health Authority,Temporarily Closed
+FAC00395,MediCare Medical Center - Jebel Ali,Medical Center,Large,Dubai,Dubai,Jebel Ali,Private,Sharjah Health Authority,Active
+FAC00396,Life Hospital - Ajman,Hospital,Tertiary,Ajman,Ajman,Ajman,Private,MOHAP,Temporarily Closed
+FAC00397,NMC Medical Center - Dubai,Medical Center,Small,Dubai,Dubai,Dubai,Public,DHA Dubai,Active
+FAC00398,Prime Medical Center - Dubai,Medical Center,Large,Dubai,Dubai,Dubai,Private,Sharjah Health Authority,Active
+FAC00399,Burjeel Clinic - Jebel Ali,Clinic,Large,Dubai,Dubai,Jebel Ali,Private,MOHAP,Active
+FAC00400,National Medical Center - Jebel Ali,Medical Center,Large,Dubai,Dubai,Jebel Ali,Public,DHA Dubai,Active
+FAC00401,Prime Clinic - Al Ain,Clinic,Medium,Abu Dhabi,Abu Dhabi City,Al Ain,Public,Sharjah Health Authority,Active
+FAC00402,Gulf Clinic - Al Ain,Clinic,Medium,Abu Dhabi,Al Ain,Al Ain,Private,DoH Abu Dhabi,Active
+FAC00403,Life Specialty Center - Ras Al Khaimah,Specialty Center,Medium,Ras Al Khaimah,Ras Al Khaimah,Ras Al Khaimah,Public,MOHAP,Active
+FAC00404,Burjeel Clinic - Ras Al Khaimah,Clinic,Tertiary,Ras Al Khaimah,Ras Al Khaimah,Ras Al Khaimah,Public,Sharjah Health Authority,Active
+FAC00405,NMC Medical Center - Sharjah,Medical Center,Medium,Sharjah,Khor Fakkan,Sharjah,Private,DoH Abu Dhabi,Active
+FAC00406,Life Clinic - Umm Al Quwain,Clinic,Tertiary,Umm Al Quwain,Umm Al Quwain,Umm Al Quwain,Public,Sharjah Health Authority,Active
+FAC00407,Life Specialty Center - Ajman,Specialty Center,Tertiary,Ajman,Ajman,Ajman,Private,DoH Abu Dhabi,Temporarily Closed
+FAC00408,Prime Hospital - Umm Al Quwain,Hospital,Medium,Umm Al Quwain,Umm Al Quwain,Umm Al Quwain,Private,DoH Abu Dhabi,Active
+FAC00409,Emirates Clinic - Fujairah,Clinic,Tertiary,Fujairah,Fujairah,Fujairah,Public,MOHAP,Active
+FAC00410,Al Noor Day Surgery Center - Dhaid,Day Surgery Center,Large,Sharjah,Khor Fakkan,Dhaid,Public,Sharjah Health Authority,Temporarily Closed
+FAC00411,MediCare Medical Center - Dhaid,Medical Center,Medium,Sharjah,Al Dhaid,Dhaid,Public,DHA Dubai,Active
+FAC00412,Al Noor Specialty Center - Abu Dhabi,Specialty Center,Small,Abu Dhabi,Al Dhafra,Abu Dhabi,Private,DHA Dubai,Active
+FAC00413,Al Noor Clinic - Abu Dhabi,Clinic,Large,Abu Dhabi,Al Dhafra,Abu Dhabi,Private,MOHAP,Active
+FAC00414,NMC Clinic - Ajman,Clinic,Tertiary,Ajman,Ajman,Ajman,Public,DoH Abu Dhabi,Active
+FAC00415,Prime Clinic - Ruwais,Clinic,Medium,Abu Dhabi,Al Ain,Ruwais,Public,DHA Dubai,Active
+FAC00416,Life Medical Center - Dubai,Medical Center,Tertiary,Dubai,Dubai,Dubai,Public,DoH Abu Dhabi,Temporarily Closed
+FAC00417,Prime Clinic - Umm Al Quwain,Clinic,Medium,Umm Al Quwain,Umm Al Quwain,Umm Al Quwain,Public,DHA Dubai,Active
+FAC00418,NMC Specialty Center - Ajman,Specialty Center,Large,Ajman,Ajman,Ajman,Public,DHA Dubai,Active
+FAC00419,Emirates Clinic - Hatta,Clinic,Small,Dubai,Dubai,Hatta,Private,MOHAP,Active
+FAC00420,NMC Specialty Center - Dubai,Specialty Center,Tertiary,Dubai,Dubai,Dubai,Private,MOHAP,Temporarily Closed
+FAC00421,National Hospital - Dubai,Hospital,Large,Dubai,Dubai,Dubai,Public,MOHAP,Active
+FAC00422,Prime Clinic - Dubai,Clinic,Tertiary,Dubai,Dubai,Dubai,Public,DHA Dubai,Active
+FAC00423,MediCare Day Surgery Center - Al Ain,Day Surgery Center,Medium,Abu Dhabi,Al Dhafra,Al Ain,Private,DHA Dubai,Temporarily Closed
+FAC00424,Emirates Clinic - Abu Dhabi,Clinic,Large,Abu Dhabi,Al Ain,Abu Dhabi,Public,DoH Abu Dhabi,Active
+FAC00425,Life Clinic - Umm Al Quwain,Clinic,Tertiary,Umm Al Quwain,Umm Al Quwain,Umm Al Quwain,Public,MOHAP,Temporarily Closed
+FAC00426,National Medical Center - Al Ain,Medical Center,Tertiary,Abu Dhabi,Al Ain,Al Ain,Public,Sharjah Health Authority,Active
+FAC00427,Gulf Specialty Center - Ajman,Specialty Center,Large,Ajman,Ajman,Ajman,Public,DoH Abu Dhabi,Active
+FAC00428,Gulf Day Surgery Center - Ras Al Khaimah,Day Surgery Center,Medium,Ras Al Khaimah,Ras Al Khaimah,Ras Al Khaimah,Private,DoH Abu Dhabi,Active
+FAC00429,Emirates Clinic - Masfout,Clinic,Small,Ajman,Ajman,Masfout,Private,MOHAP,Active
+FAC00430,Burjeel Hospital - Abu Dhabi,Hospital,Medium,Abu Dhabi,Al Dhafra,Abu Dhabi,Public,Sharjah Health Authority,Active
+FAC00431,Al Noor Day Surgery Center - Hatta,Day Surgery Center,Medium,Dubai,Dubai,Hatta,Private,DoH Abu Dhabi,Temporarily Closed
+FAC00432,National Medical Center - Ruwais,Medical Center,Small,Abu Dhabi,Al Dhafra,Ruwais,Private,Sharjah Health Authority,Active
+FAC00433,Emirates Specialty Center - Dubai,Specialty Center,Small,Dubai,Dubai,Dubai,Public,DHA Dubai,Active
+FAC00434,Aster Clinic - Dubai,Clinic,Large,Dubai,Dubai,Dubai,Private,Sharjah Health Authority,Active
+FAC00435,Prime Clinic - Hatta,Clinic,Large,Dubai,Dubai,Hatta,Private,DHA Dubai,Temporarily Closed
+FAC00436,National Clinic - Kalba,Clinic,Tertiary,Sharjah,Khor Fakkan,Kalba,Public,Sharjah Health Authority,Active
+FAC00437,Burjeel Specialty Center - Dibba Al-Fujairah,Specialty Center,Tertiary,Fujairah,Fujairah,Dibba Al-Fujairah,Public,DoH Abu Dhabi,Active
+FAC00438,Prime Medical Center - Al Ain,Medical Center,Small,Abu Dhabi,Al Ain,Al Ain,Public,DHA Dubai,Active
+FAC00439,Aster Hospital - Hatta,Hospital,Medium,Dubai,Dubai,Hatta,Public,DoH Abu Dhabi,Active
+FAC00440,National Medical Center - Sharjah,Medical Center,Medium,Sharjah,Sharjah,Sharjah,Public,Sharjah Health Authority,Active
+FAC00441,Life Hospital - Ras Al Khaimah,Hospital,Small,Ras Al Khaimah,Ras Al Khaimah,Ras Al Khaimah,Private,DHA Dubai,Active
+FAC00442,Gulf Medical Center - Dubai,Medical Center,Tertiary,Dubai,Dubai,Dubai,Private,Sharjah Health Authority,Temporarily Closed
+FAC00443,Al Noor Specialty Center - Hatta,Specialty Center,Small,Dubai,Dubai,Hatta,Public,DHA Dubai,Active
+FAC00444,NMC Clinic - Abu Dhabi,Clinic,Large,Abu Dhabi,Abu Dhabi City,Abu Dhabi,Private,Sharjah Health Authority,Temporarily Closed
+FAC00445,NMC Medical Center - Hatta,Medical Center,Small,Dubai,Dubai,Hatta,Public,DHA Dubai,Temporarily Closed
+FAC00446,Gulf Clinic - Hatta,Clinic,Medium,Dubai,Dubai,Hatta,Private,DoH Abu Dhabi,Active
+FAC00447,Al Noor Clinic - Ruwais,Clinic,Tertiary,Abu Dhabi,Al Dhafra,Ruwais,Public,DoH Abu Dhabi,Active
+FAC00448,National Clinic - Jebel Ali,Clinic,Medium,Dubai,Dubai,Jebel Ali,Public,MOHAP,Active
+FAC00449,Aster Day Surgery Center - Ras Al Khaimah,Day Surgery Center,Large,Ras Al Khaimah,Ras Al Khaimah,Ras Al Khaimah,Public,DHA Dubai,Active
+FAC00450,Emirates Clinic - Ajman,Clinic,Large,Ajman,Ajman,Ajman,Private,Sharjah Health Authority,Active
+FAC00451,MediCare Clinic - Al Ain,Clinic,Small,Abu Dhabi,Abu Dhabi City,Al Ain,Private,DoH Abu Dhabi,Active
+FAC00452,Aster Clinic - Jebel Ali,Clinic,Tertiary,Dubai,Dubai,Jebel Ali,Private,Sharjah Health Authority,Temporarily Closed
+FAC00453,Aster Medical Center - Kalba,Medical Center,Small,Sharjah,Sharjah,Kalba,Private,DHA Dubai,Active
+FAC00454,Burjeel Day Surgery Center - Ruwais,Day Surgery Center,Large,Abu Dhabi,Al Ain,Ruwais,Public,Sharjah Health Authority,Active
+FAC00455,Gulf Medical Center - Ras Al Khaimah,Medical Center,Small,Ras Al Khaimah,Ras Al Khaimah,Ras Al Khaimah,Public,Sharjah Health Authority,Active
+FAC00456,National Clinic - Madinat Zayed,Clinic,Small,Abu Dhabi,Al Ain,Madinat Zayed,Private,MOHAP,Temporarily Closed
+FAC00457,Burjeel Clinic - Dibba Al-Fujairah,Clinic,Large,Fujairah,Fujairah,Dibba Al-Fujairah,Public,DoH Abu Dhabi,Temporarily Closed
+FAC00458,Gulf Clinic - Sharjah,Clinic,Tertiary,Sharjah,Al Dhaid,Sharjah,Public,Sharjah Health Authority,Active
+FAC00459,Gulf Medical Center - Abu Dhabi,Medical Center,Medium,Abu Dhabi,Al Dhafra,Abu Dhabi,Public,Sharjah Health Authority,Temporarily Closed
+FAC00460,Life Medical Center - Masfout,Medical Center,Small,Ajman,Ajman,Masfout,Private,MOHAP,Active
+FAC00461,Gulf Medical Center - Dubai,Medical Center,Large,Dubai,Dubai,Dubai,Private,DHA Dubai,Active
+FAC00462,MediCare Hospital - Ras Al Khaimah,Hospital,Tertiary,Ras Al Khaimah,Ras Al Khaimah,Ras Al Khaimah,Public,MOHAP,Active
+FAC00463,Life Hospital - Abu Dhabi,Hospital,Large,Abu Dhabi,Al Dhafra,Abu Dhabi,Public,DoH Abu Dhabi,Active
+FAC00464,Burjeel Clinic - Jebel Ali,Clinic,Medium,Dubai,Dubai,Jebel Ali,Public,DoH Abu Dhabi,Active
+FAC00465,Al Noor Clinic - Dubai,Clinic,Large,Dubai,Dubai,Dubai,Private,Sharjah Health Authority,Active
+FAC00466,Aster Clinic - Ras Al Khaimah,Clinic,Large,Ras Al Khaimah,Ras Al Khaimah,Ras Al Khaimah,Public,MOHAP,Temporarily Closed
+FAC00467,Al Noor Hospital - Masfout,Hospital,Tertiary,Ajman,Ajman,Masfout,Private,DHA Dubai,Active
+FAC00468,Emirates Medical Center - Abu Dhabi,Medical Center,Tertiary,Abu Dhabi,Al Ain,Abu Dhabi,Private,DHA Dubai,Active
+FAC00469,NMC Clinic - Dhaid,Clinic,Tertiary,Sharjah,Sharjah,Dhaid,Public,DoH Abu Dhabi,Temporarily Closed
+FAC00470,NMC Hospital - Ras Al Khaimah,Hospital,Small,Ras Al Khaimah,Ras Al Khaimah,Ras Al Khaimah,Private,DHA Dubai,Active
+FAC00471,Life Hospital - Jebel Ali,Hospital,Small,Dubai,Dubai,Jebel Ali,Private,Sharjah Health Authority,Active
+FAC00472,Gulf Clinic - Kalba,Clinic,Tertiary,Sharjah,Sharjah,Kalba,Public,DoH Abu Dhabi,Temporarily Closed
+FAC00473,Emirates Clinic - Ras Al Khaimah,Clinic,Tertiary,Ras Al Khaimah,Ras Al Khaimah,Ras Al Khaimah,Private,DoH Abu Dhabi,Active
+FAC00474,Life Hospital - Ruwais,Hospital,Medium,Abu Dhabi,Al Dhafra,Ruwais,Private,MOHAP,Active
+FAC00475,Al Noor Day Surgery Center - Dubai,Day Surgery Center,Tertiary,Dubai,Dubai,Dubai,Public,DHA Dubai,Active
+FAC00476,Burjeel Clinic - Dubai,Clinic,Small,Dubai,Dubai,Dubai,Private,DoH Abu Dhabi,Temporarily Closed
+FAC00477,Aster Specialty Center - Ras Al Khaimah,Specialty Center,Small,Ras Al Khaimah,Ras Al Khaimah,Ras Al Khaimah,Public,DHA Dubai,Active
+FAC00478,Prime Medical Center - Dhaid,Medical Center,Tertiary,Sharjah,Sharjah,Dhaid,Private,MOHAP,Active
+FAC00479,NMC Clinic - Jebel Ali,Clinic,Medium,Dubai,Dubai,Jebel Ali,Public,MOHAP,Temporarily Closed
+FAC00480,MediCare Clinic - Madinat Zayed,Clinic,Large,Abu Dhabi,Al Dhafra,Madinat Zayed,Public,DHA Dubai,Temporarily Closed
+FAC00481,Aster Medical Center - Dubai,Medical Center,Medium,Dubai,Dubai,Dubai,Private,DHA Dubai,Active
+FAC00482,Aster Clinic - Dibba Al-Fujairah,Clinic,Medium,Fujairah,Fujairah,Dibba Al-Fujairah,Public,DoH Abu Dhabi,Active
+FAC00483,Life Clinic - Dibba Al-Fujairah,Clinic,Large,Fujairah,Fujairah,Dibba Al-Fujairah,Public,Sharjah Health Authority,Active
+FAC00484,Al Noor Clinic - Jebel Ali,Clinic,Medium,Dubai,Dubai,Jebel Ali,Private,Sharjah Health Authority,Active
+FAC00485,MediCare Medical Center - Umm Al Quwain,Medical Center,Small,Umm Al Quwain,Umm Al Quwain,Umm Al Quwain,Public,Sharjah Health Authority,Active
+FAC00486,Al Noor Day Surgery Center - Ruwais,Day Surgery Center,Large,Abu Dhabi,Abu Dhabi City,Ruwais,Private,Sharjah Health Authority,Active
+FAC00487,Al Noor Clinic - Hatta,Clinic,Tertiary,Dubai,Dubai,Hatta,Public,DoH Abu Dhabi,Active
+FAC00488,Burjeel Clinic - Madinat Zayed,Clinic,Large,Abu Dhabi,Al Dhafra,Madinat Zayed,Public,DoH Abu Dhabi,Temporarily Closed
+FAC00489,Aster Clinic - Madinat Zayed,Clinic,Large,Abu Dhabi,Abu Dhabi City,Madinat Zayed,Private,DHA Dubai,Active
+FAC00490,NMC Clinic - Khor Fakkan,Clinic,Large,Sharjah,Sharjah,Khor Fakkan,Public,DHA Dubai,Active
+FAC00491,MediCare Medical Center - Ruwais,Medical Center,Large,Abu Dhabi,Al Dhafra,Ruwais,Private,Sharjah Health Authority,Active
+FAC00492,Gulf Clinic - Abu Dhabi,Clinic,Medium,Abu Dhabi,Al Dhafra,Abu Dhabi,Public,MOHAP,Active
+FAC00493,Life Clinic - Ras Al Khaimah,Clinic,Large,Ras Al Khaimah,Ras Al Khaimah,Ras Al Khaimah,Private,Sharjah Health Authority,Active
+FAC00494,NMC Specialty Center - Ras Al Khaimah,Specialty Center,Tertiary,Ras Al Khaimah,Ras Al Khaimah,Ras Al Khaimah,Private,DoH Abu Dhabi,Temporarily Closed
+FAC00495,Emirates Clinic - Masfout,Clinic,Large,Ajman,Ajman,Masfout,Private,Sharjah Health Authority,Temporarily Closed
+FAC00496,Al Noor Day Surgery Center - Fujairah,Day Surgery Center,Medium,Fujairah,Fujairah,Fujairah,Public,DoH Abu Dhabi,Active
+FAC00497,Emirates Medical Center - Abu Dhabi,Medical Center,Small,Abu Dhabi,Al Ain,Abu Dhabi,Private,MOHAP,Active
+FAC00498,Gulf Clinic - Sharjah,Clinic,Tertiary,Sharjah,Al Dhaid,Sharjah,Private,MOHAP,Active
+FAC00499,Emirates Hospital - Umm Al Quwain,Hospital,Large,Umm Al Quwain,Umm Al Quwain,Umm Al Quwain,Private,MOHAP,Temporarily Closed
+FAC00500,National Specialty Center - Madinat Zayed,Specialty Center,Large,Abu Dhabi,Al Dhafra,Madinat Zayed,Private,Sharjah Health Authority,Active
+FAC00501,Al Noor Medical Center - Dubai,Medical Center,Small,Dubai,Dubai,Dubai,Private,DHA Dubai,Active
+FAC00502,National Medical Center - Ras Al Khaimah,Medical Center,Tertiary,Ras Al Khaimah,Ras Al Khaimah,Ras Al Khaimah,Private,Sharjah Health Authority,Active
+FAC00503,Prime Clinic - Madinat Zayed,Clinic,Medium,Abu Dhabi,Abu Dhabi City,Madinat Zayed,Public,Sharjah Health Authority,Active
+FAC00504,Gulf Clinic - Dubai,Clinic,Large,Dubai,Dubai,Dubai,Private,MOHAP,Active
+FAC00505,Emirates Hospital - Masfout,Hospital,Medium,Ajman,Ajman,Masfout,Private,MOHAP,Active
+FAC00506,MediCare Hospital - Ras Al Khaimah,Hospital,Small,Ras Al Khaimah,Ras Al Khaimah,Ras Al Khaimah,Private,Sharjah Health Authority,Active
+FAC00507,Prime Medical Center - Umm Al Quwain,Medical Center,Tertiary,Umm Al Quwain,Umm Al Quwain,Umm Al Quwain,Private,DoH Abu Dhabi,Temporarily Closed
+FAC00508,MediCare Medical Center - Hatta,Medical Center,Tertiary,Dubai,Dubai,Hatta,Public,DHA Dubai,Temporarily Closed
+FAC00509,Aster Medical Center - Al Ain,Medical Center,Small,Abu Dhabi,Al Ain,Al Ain,Private,DoH Abu Dhabi,Active
+FAC00510,MediCare Medical Center - Dibba Al-Fujairah,Medical Center,Large,Fujairah,Fujairah,Dibba Al-Fujairah,Public,Sharjah Health Authority,Active
+FAC00511,Al Noor Specialty Center - Al Ain,Specialty Center,Medium,Abu Dhabi,Al Dhafra,Al Ain,Private,Sharjah Health Authority,Active
+FAC00512,Gulf Clinic - Ras Al Khaimah,Clinic,,Ras Al Khaimah,Ras Al Khaimah,Ras Al Khaimah,Public,Sharjah Health Authority,Active
+FAC00513,Aster Medical Center - Ajman,Medical Center,Large,Ajman,Ajman,Ajman,Private,Sharjah Health Authority,Active
+FAC00514,Gulf Clinic - Kalba,Clinic,Medium,Sharjah,Khor Fakkan,Kalba,Public,DoH Abu Dhabi,Active
+FAC00515,MediCare Clinic - Hatta,Clinic,Medium,Dubai,Dubai,Hatta,Public,DoH Abu Dhabi,Active
+FAC00516,Emirates Medical Center - Abu Dhabi,Medical Center,Tertiary,Abu Dhabi,Abu Dhabi City,Abu Dhabi,Private,Sharjah Health Authority,Active
+FAC00517,Life Specialty Center - Hatta,Specialty Center,Tertiary,Dubai,Dubai,Hatta,Private,DoH Abu Dhabi,Active
+FAC00518,NMC Clinic - Hatta,Clinic,Tertiary,Dubai,Dubai,Hatta,Private,DoH Abu Dhabi,Temporarily Closed
+FAC00519,Burjeel Clinic - Madinat Zayed,Clinic,Small,Abu Dhabi,Abu Dhabi City,Madinat Zayed,Public,MOHAP,Active
+FAC00520,MediCare Clinic - Dhaid,Clinic,Small,Sharjah,Al Dhaid,Dhaid,Public,DoH Abu Dhabi,Active
+FAC00521,Life Hospital - Sharjah,Hospital,Small,Sharjah,Khor Fakkan,Sharjah,Public,Sharjah Health Authority,Active
+FAC00522,Gulf Clinic - Kalba,Clinic,Tertiary,Sharjah,Khor Fakkan,Kalba,Public,DHA Dubai,Temporarily Closed
+FAC00523,National Clinic - Ajman,Clinic,Medium,Ajman,Ajman,Ajman,Public,DoH Abu Dhabi,Active
+FAC00524,Al Noor Medical Center - Abu Dhabi,Medical Center,Small,Abu Dhabi,Abu Dhabi City,Abu Dhabi,Private,DHA Dubai,Active
+FAC00525,Al Noor Clinic - Dibba Al-Fujairah,Clinic,Medium,Fujairah,Fujairah,Dibba Al-Fujairah,Public,MOHAP,Temporarily Closed
+FAC00526,Burjeel Clinic - Hatta,Clinic,Large,Dubai,Dubai,Hatta,Public,MOHAP,Active
+FAC00527,Life Clinic - Ajman,Clinic,Tertiary,Ajman,Ajman,Ajman,Public,DoH Abu Dhabi,Active
+FAC00528,Al Noor Hospital - Fujairah,Hospital,Tertiary,Fujairah,Fujairah,Fujairah,Private,MOHAP,Active
+FAC00529,Life Day Surgery Center - Hatta,Day Surgery Center,Medium,Dubai,Dubai,Hatta,Public,DoH Abu Dhabi,Active
+FAC00530,Al Noor Hospital - Madinat Zayed,Hospital,Small,Abu Dhabi,Al Dhafra,Madinat Zayed,Public,DoH Abu Dhabi,Active
+FAC00531,MediCare Clinic - Dhaid,Clinic,Medium,Sharjah,Al Dhaid,Dhaid,Private,Sharjah Health Authority,Temporarily Closed
+FAC00532,MediCare Clinic - Dubai,Clinic,Medium,Dubai,Dubai,Dubai,Private,Sharjah Health Authority,Active
+FAC00533,Gulf Hospital - Ras Al Khaimah,Hospital,Tertiary,Ras Al Khaimah,Ras Al Khaimah,Ras Al Khaimah,Private,DoH Abu Dhabi,Active
+FAC00534,National Medical Center - Hatta,Medical Center,Small,Dubai,Dubai,Hatta,Public,DoH Abu Dhabi,Active
+FAC00535,National Medical Center - Jebel Ali,Medical Center,Tertiary,Dubai,Dubai,Jebel Ali,Private,Sharjah Health Authority,Active
+FAC00536,NMC Hospital - Ruwais,Hospital,Medium,Abu Dhabi,Al Ain,Ruwais,Private,DoH Abu Dhabi,Active
+FAC00537,Aster Day Surgery Center - Ajman,Day Surgery Center,Tertiary,Ajman,Ajman,Ajman,Public,DoH Abu Dhabi,Active
+FAC00538,Gulf Specialty Center - Dibba Al-Fujairah,Specialty Center,Small,Fujairah,Fujairah,Dibba Al-Fujairah,Public,DoH Abu Dhabi,Active
+FAC00539,Emirates Clinic - Kalba,Clinic,Tertiary,Sharjah,Khor Fakkan,Kalba,Public,DHA Dubai,Active
+FAC00540,Emirates Day Surgery Center - Ras Al Khaimah,Day Surgery Center,Medium,Ras Al Khaimah,Ras Al Khaimah,Ras Al Khaimah,Private,Sharjah Health Authority,Active
+FAC00541,NMC Clinic - Ras Al Khaimah,Clinic,Medium,Ras Al Khaimah,Ras Al Khaimah,Ras Al Khaimah,Private,DoH Abu Dhabi,Active
+FAC00542,Al Noor Clinic - Hatta,Clinic,Medium,Dubai,Dubai,Hatta,Public,DoH Abu Dhabi,Active
+FAC00543,NMC Hospital - Ras Al Khaimah,Hospital,Tertiary,Ras Al Khaimah,Ras Al Khaimah,Ras Al Khaimah,Public,MOHAP,Temporarily Closed
+FAC00544,Gulf Specialty Center - Ras Al Khaimah,Specialty Center,Medium,Ras Al Khaimah,Ras Al Khaimah,Ras Al Khaimah,Public,DoH Abu Dhabi,Temporarily Closed
+FAC00545,Gulf Medical Center - Ras Al Khaimah,Medical Center,Small,Ras Al Khaimah,Ras Al Khaimah,Ras Al Khaimah,Public,MOHAP,Active
+FAC00546,Prime Day Surgery Center - Khor Fakkan,Day Surgery Center,Large,Sharjah,Al Dhaid,Khor Fakkan,Private,Sharjah Health Authority,Temporarily Closed
+FAC00547,National Medical Center - Al Ain,Medical Center,Small,Abu Dhabi,Al Ain,Al Ain,Public,Sharjah Health Authority,Active
+FAC00548,Aster Medical Center - Ras Al Khaimah,Medical Center,Large,Ras Al Khaimah,Ras Al Khaimah,Ras Al Khaimah,Private,DHA Dubai,Active
+FAC00549,Gulf Medical Center - Fujairah,Medical Center,Medium,Fujairah,Fujairah,Fujairah,Private,Sharjah Health Authority,Active
+FAC00550,Al Noor Medical Center - Jebel Ali,Medical Center,Tertiary,Dubai,Dubai,Jebel Ali,Private,DHA Dubai,Active
+FAC00551,MediCare Day Surgery Center - Madinat Zayed,Day Surgery Center,Medium,Abu Dhabi,Abu Dhabi City,Madinat Zayed,Private,DHA Dubai,Active
+FAC00552,Prime Clinic - Khor Fakkan,Clinic,Large,Sharjah,Khor Fakkan,Khor Fakkan,Private,Sharjah Health Authority,Active
+FAC00553,Burjeel Medical Center - Madinat Zayed,Medical Center,Large,Abu Dhabi,Al Dhafra,Madinat Zayed,Public,DHA Dubai,Temporarily Closed
+FAC00554,National Medical Center - Jebel Ali,Medical Center,Small,Dubai,Dubai,Jebel Ali,Public,DHA Dubai,Active
+FAC00555,Aster Hospital - Al Ain,Hospital,Tertiary,Abu Dhabi,Al Dhafra,Al Ain,Public,Sharjah Health Authority,Active
+FAC00556,Aster Clinic - Khor Fakkan,Clinic,Medium,Sharjah,Khor Fakkan,Khor Fakkan,Public,DoH Abu Dhabi,Active
+FAC00557,Life Clinic - Sharjah,Clinic,Large,Sharjah,Sharjah,Sharjah,Public,MOHAP,Active
+FAC00558,Emirates Day Surgery Center - Sharjah,Day Surgery Center,Medium,Sharjah,Al Dhaid,Sharjah,Public,DoH Abu Dhabi,Active
+FAC00559,Burjeel Clinic - Sharjah,Clinic,Small,Sharjah,Sharjah,Sharjah,Public,Sharjah Health Authority,Active
+FAC00560,Burjeel Day Surgery Center - Hatta,Day Surgery Center,Medium,Dubai,Dubai,Hatta,Private,MOHAP,Active
+FAC00561,Al Noor Specialty Center - Dubai,Specialty Center,Tertiary,Dubai,Dubai,Dubai,Private,DHA Dubai,Active
+FAC00562,Aster Specialty Center - Umm Al Quwain,Specialty Center,Large,Umm Al Quwain,Umm Al Quwain,Umm Al Quwain,Public,DoH Abu Dhabi,Temporarily Closed
+FAC00563,MediCare Medical Center - Ras Al Khaimah,Medical Center,Large,Ras Al Khaimah,Ras Al Khaimah,Ras Al Khaimah,Private,Sharjah Health Authority,Active
+FAC00564,Prime Medical Center - Kalba,Medical Center,Large,Sharjah,Khor Fakkan,Kalba,Public,MOHAP,Active
+FAC00565,MediCare Specialty Center - Umm Al Quwain,Specialty Center,Tertiary,Umm Al Quwain,Umm Al Quwain,Umm Al Quwain,Public,MOHAP,Active
+FAC00566,National Hospital - Madinat Zayed,Hospital,Medium,Abu Dhabi,Al Dhafra,Madinat Zayed,Public,DoH Abu Dhabi,Active
+FAC00567,Aster Clinic - Dubai,Clinic,Medium,Dubai,Dubai,Dubai,Private,MOHAP,Active
+FAC00568,Prime Clinic - Jebel Ali,Clinic,Small,Dubai,Dubai,Jebel Ali,Private,MOHAP,Active
+FAC00569,MediCare Clinic - Dhaid,Clinic,Tertiary,Sharjah,Khor Fakkan,Dhaid,Private,DoH Abu Dhabi,Active
+FAC00570,Gulf Clinic - Hatta,Clinic,Small,Dubai,Dubai,Hatta,Public,DHA Dubai,Temporarily Closed
+FAC00571,Gulf Medical Center - Hatta,Medical Center,Medium,Dubai,Dubai,Hatta,Private,Sharjah Health Authority,Temporarily Closed
+FAC00572,NMC Specialty Center - Madinat Zayed,Specialty Center,Small,Abu Dhabi,Abu Dhabi City,Madinat Zayed,Public,DoH Abu Dhabi,Active
+FAC00573,Emirates Medical Center - Madinat Zayed,Medical Center,Tertiary,Abu Dhabi,Al Ain,Madinat Zayed,Public,DoH Abu Dhabi,Active
+FAC00574,Gulf Specialty Center - Ras Al Khaimah,Specialty Center,Tertiary,Ras Al Khaimah,Ras Al Khaimah,Ras Al Khaimah,Public,MOHAP,Active
+FAC00575,National Medical Center - Dibba Al-Fujairah,Medical Center,Tertiary,Fujairah,Fujairah,Dibba Al-Fujairah,Public,DoH Abu Dhabi,Active
+FAC00576,Life Medical Center - Kalba,Medical Center,Medium,Sharjah,Sharjah,Kalba,Public,DoH Abu Dhabi,Active
+FAC00577,NMC Specialty Center - Sharjah,Specialty Center,Small,Sharjah,Sharjah,Sharjah,Public,DHA Dubai,Active
+FAC00578,NMC Clinic - Dibba Al-Fujairah,Clinic,Large,Fujairah,Fujairah,Dibba Al-Fujairah,Public,DHA Dubai,Active
+FAC00579,Aster Clinic - Ajman,Clinic,Medium,Ajman,Ajman,Ajman,Public,Sharjah Health Authority,Temporarily Closed
+FAC00580,NMC Clinic - Jebel Ali,Clinic,Large,Dubai,Dubai,Jebel Ali,Private,DoH Abu Dhabi,Temporarily Closed
+FAC00581,Gulf Hospital - Dubai,Hospital,Large,Dubai,Dubai,Dubai,Private,DHA Dubai,Active
+FAC00582,Emirates Clinic - Madinat Zayed,Clinic,Small,Abu Dhabi,Al Ain,Madinat Zayed,Private,DHA Dubai,Active
+FAC00583,NMC Clinic - Umm Al Quwain,Clinic,Small,Umm Al Quwain,Umm Al Quwain,Umm Al Quwain,Public,Sharjah Health Authority,Active
+FAC00584,Gulf Clinic - Hatta,Clinic,Small,Dubai,Dubai,Hatta,Public,Sharjah Health Authority,Active
+FAC00585,NMC Clinic - Ras Al Khaimah,Clinic,Medium,Ras Al Khaimah,Ras Al Khaimah,Ras Al Khaimah,Public,DHA Dubai,Active
+FAC00586,Emirates Specialty Center - Hatta,Specialty Center,Large,Dubai,Dubai,Hatta,Public,MOHAP,Active
+FAC00587,Prime Clinic - Jebel Ali,Clinic,Small,Dubai,Dubai,Jebel Ali,Public,DoH Abu Dhabi,Active
+FAC00588,National Hospital - Jebel Ali,Hospital,Tertiary,Dubai,Dubai,Jebel Ali,Private,MOHAP,Active
+FAC00589,Gulf Medical Center - Dubai,Medical Center,Medium,Dubai,Dubai,Dubai,Public,MOHAP,Active
+FAC00590,Gulf Clinic - Madinat Zayed,Clinic,,Abu Dhabi,Al Ain,Madinat Zayed,Private,DHA Dubai,Active
+FAC00591,Prime Specialty Center - Ajman,Specialty Center,Small,Ajman,Ajman,Ajman,Public,DoH Abu Dhabi,Active
+FAC00592,MediCare Hospital - Sharjah,Hospital,Large,Sharjah,Khor Fakkan,Sharjah,Public,Sharjah Health Authority,Active
+FAC00593,Life Clinic - Madinat Zayed,Clinic,Small,Abu Dhabi,Al Dhafra,Madinat Zayed,Public,MOHAP,Temporarily Closed
+FAC00594,Gulf Clinic - Dibba Al-Fujairah,Clinic,Large,Fujairah,Fujairah,Dibba Al-Fujairah,Public,Sharjah Health Authority,Active
+FAC00595,National Hospital - Ajman,Hospital,Large,Ajman,Ajman,Ajman,Public,DoH Abu Dhabi,Active
+FAC00596,National Medical Center - Ras Al Khaimah,Medical Center,Small,Ras Al Khaimah,Ras Al Khaimah,Ras Al Khaimah,Private,DoH Abu Dhabi,Active
+FAC00597,Emirates Clinic - Sharjah,Clinic,Small,Sharjah,Sharjah,Sharjah,Private,DoH Abu Dhabi,Active
+FAC00598,Emirates Specialty Center - Al Ain,Specialty Center,Small,Abu Dhabi,Al Dhafra,Al Ain,Private,MOHAP,Active
+FAC00599,Burjeel Clinic - Hatta,Clinic,Large,Dubai,Dubai,Hatta,Private,MOHAP,Active
+FAC00600,Emirates Medical Center - Madinat Zayed,Medical Center,Small,Abu Dhabi,Al Ain,Madinat Zayed,Private,DHA Dubai,Active
+FAC00601,NMC Clinic - Kalba,Clinic,Medium,Sharjah,Khor Fakkan,Kalba,Private,DoH Abu Dhabi,Active
+FAC00602,Emirates Specialty Center - Umm Al Quwain,Specialty Center,Small,Umm Al Quwain,Umm Al Quwain,Umm Al Quwain,Private,DHA Dubai,Temporarily Closed
+FAC00603,Life Hospital - Hatta,Hospital,Large,Dubai,Dubai,Hatta,Public,Sharjah Health Authority,Temporarily Closed
+FAC00604,Aster Hospital - Jebel Ali,Hospital,Medium,Dubai,Dubai,Jebel Ali,Public,DHA Dubai,Active
+FAC00605,NMC Clinic - Abu Dhabi,Clinic,Tertiary,Abu Dhabi,Al Ain,Abu Dhabi,Private,DHA Dubai,Active
+FAC00606,Emirates Clinic - Jebel Ali,Clinic,Medium,Dubai,Dubai,Jebel Ali,Public,MOHAP,Temporarily Closed
+FAC00607,NMC Clinic - Ajman,Clinic,Small,Ajman,Ajman,Ajman,Public,MOHAP,Temporarily Closed
+FAC00608,Life Hospital - Al Ain,Hospital,Small,Abu Dhabi,Abu Dhabi City,Al Ain,Public,MOHAP,Active
+FAC00609,Al Noor Hospital - Ruwais,Hospital,Tertiary,Abu Dhabi,Al Ain,Ruwais,Private,DHA Dubai,Temporarily Closed
+FAC00610,Al Noor Hospital - Hatta,Hospital,Small,Dubai,Dubai,Hatta,Private,DoH Abu Dhabi,Temporarily Closed
+FAC00611,Aster Hospital - Ras Al Khaimah,Hospital,Small,Ras Al Khaimah,Ras Al Khaimah,Ras Al Khaimah,Private,DoH Abu Dhabi,Active
+FAC00612,NMC Medical Center - Jebel Ali,Medical Center,Large,Dubai,Dubai,Jebel Ali,Public,DHA Dubai,Temporarily Closed
+FAC00613,Burjeel Medical Center - Masfout,Medical Center,Medium,Ajman,Ajman,Masfout,Private,DoH Abu Dhabi,Active
+FAC00614,National Medical Center - Hatta,Medical Center,Tertiary,Dubai,Dubai,Hatta,Private,DoH Abu Dhabi,Temporarily Closed
+FAC00615,Burjeel Medical Center - Hatta,Medical Center,Medium,Dubai,Dubai,Hatta,Public,DoH Abu Dhabi,Active
+FAC00616,Emirates Clinic - Hatta,Clinic,Large,Dubai,Dubai,Hatta,Private,DHA Dubai,Active
+FAC00617,Aster Clinic - Kalba,Clinic,Medium,Sharjah,Khor Fakkan,Kalba,Public,MOHAP,Active
+FAC00618,National Hospital - Al Ain,Hospital,Large,Abu Dhabi,Al Dhafra,Al Ain,Public,DoH Abu Dhabi,Active
+FAC00619,National Medical Center - Jebel Ali,Medical Center,Large,Dubai,Dubai,Jebel Ali,Public,DHA Dubai,Active
+FAC00620,Gulf Medical Center - Al Ain,Medical Center,Small,Abu Dhabi,Al Ain,Al Ain,Private,DHA Dubai,Temporarily Closed
+FAC00621,Aster Clinic - Sharjah,Clinic,Large,Sharjah,Al Dhaid,Sharjah,Public,DoH Abu Dhabi,Active
+FAC00622,Prime Hospital - Abu Dhabi,Hospital,Medium,Abu Dhabi,Al Dhafra,Abu Dhabi,Public,DHA Dubai,Active
+FAC00623,National Medical Center - Ras Al Khaimah,Medical Center,Small,Ras Al Khaimah,Ras Al Khaimah,Ras Al Khaimah,Public,MOHAP,Active
+FAC00624,NMC Medical Center - Ras Al Khaimah,Medical Center,Medium,Ras Al Khaimah,Ras Al Khaimah,Ras Al Khaimah,Public,MOHAP,Active
+FAC00625,MediCare Clinic - Masfout,Clinic,Small,Ajman,Ajman,Masfout,Public,MOHAP,Temporarily Closed
+FAC00626,Life Specialty Center - Abu Dhabi,Specialty Center,Tertiary,Abu Dhabi,Al Ain,Abu Dhabi,Private,DHA Dubai,Temporarily Closed
+FAC00627,MediCare Specialty Center - Hatta,Specialty Center,Medium,Dubai,Dubai,Hatta,Public,DoH Abu Dhabi,Active
+FAC00628,Life Hospital - Hatta,Hospital,Small,Dubai,Dubai,Hatta,Public,Sharjah Health Authority,Temporarily Closed
+FAC00629,Life Medical Center - Kalba,Medical Center,Medium,Sharjah,Sharjah,Kalba,Private,DHA Dubai,Active
+FAC00630,Prime Hospital - Al Ain,Hospital,Large,Abu Dhabi,Al Dhafra,Al Ain,Private,Sharjah Health Authority,Active
+FAC00631,NMC Clinic - Madinat Zayed,Clinic,Tertiary,Abu Dhabi,Al Dhafra,Madinat Zayed,Public,MOHAP,Active
+FAC00632,Burjeel Specialty Center - Sharjah,Specialty Center,Large,Sharjah,Sharjah,Sharjah,Public,DHA Dubai,Active
+FAC00633,Life Medical Center - Kalba,Medical Center,Large,Sharjah,Al Dhaid,Kalba,Private,MOHAP,Active
+FAC00634,NMC Clinic - Masfout,Clinic,Small,Ajman,Ajman,Masfout,Private,MOHAP,Active
+FAC00635,Aster Clinic - Abu Dhabi,Clinic,Tertiary,Abu Dhabi,Al Dhafra,Abu Dhabi,Private,MOHAP,Active
+FAC00636,Gulf Medical Center - Masfout,Medical Center,Small,Ajman,Ajman,Masfout,Public,Sharjah Health Authority,Temporarily Closed
+FAC00637,Gulf Hospital - Ras Al Khaimah,Hospital,Small,Ras Al Khaimah,Ras Al Khaimah,Ras Al Khaimah,Private,Sharjah Health Authority,Active
+FAC00638,Aster Clinic - Madinat Zayed,Clinic,Medium,Abu Dhabi,Al Dhafra,Madinat Zayed,Public,DoH Abu Dhabi,Temporarily Closed
+FAC00639,National Clinic - Dubai,Clinic,Medium,Dubai,Dubai,Dubai,Public,MOHAP,Temporarily Closed
+FAC00640,Emirates Medical Center - Madinat Zayed,Medical Center,Large,Abu Dhabi,Abu Dhabi City,Madinat Zayed,Public,MOHAP,Temporarily Closed
+FAC00641,MediCare Clinic - Umm Al Quwain,Clinic,Tertiary,Umm Al Quwain,Umm Al Quwain,Umm Al Quwain,Public,Sharjah Health Authority,Temporarily Closed
+FAC00642,Emirates Day Surgery Center - Abu Dhabi,Day Surgery Center,Tertiary,Abu Dhabi,Abu Dhabi City,Abu Dhabi,Public,DHA Dubai,Active
+FAC00643,National Clinic - Fujairah,Clinic,Tertiary,Fujairah,Fujairah,Fujairah,Private,Sharjah Health Authority,Temporarily Closed
+FAC00644,Aster Day Surgery Center - Masfout,Day Surgery Center,Small,Ajman,Ajman,Masfout,Private,Sharjah Health Authority,Active
+FAC00645,Emirates Clinic - Al Ain,Clinic,Medium,Abu Dhabi,Al Dhafra,Al Ain,Public,Sharjah Health Authority,Temporarily Closed
+FAC00646,Burjeel Clinic - Ruwais,Clinic,Tertiary,Abu Dhabi,Al Dhafra,Ruwais,Private,DoH Abu Dhabi,Active
+FAC00647,NMC Medical Center - Umm Al Quwain,Medical Center,Small,Umm Al Quwain,Umm Al Quwain,Umm Al Quwain,Private,DHA Dubai,Active
+FAC00648,Life Day Surgery Center - Dubai,Day Surgery Center,Medium,Dubai,Dubai,Dubai,Private,DoH Abu Dhabi,Temporarily Closed
+FAC00649,Aster Medical Center - Dubai,Medical Center,Small,Dubai,Dubai,Dubai,Public,DHA Dubai,Active
+FAC00650,MediCare Clinic - Dhaid,Clinic,Small,Sharjah,Khor Fakkan,Dhaid,Public,DoH Abu Dhabi,Temporarily Closed
+FAC00651,Emirates Hospital - Hatta,Hospital,Large,Dubai,Dubai,Hatta,Private,MOHAP,Active
+FAC00652,Gulf Clinic - Abu Dhabi,Clinic,Tertiary,Abu Dhabi,Abu Dhabi City,Abu Dhabi,Private,DoH Abu Dhabi,Active
+FAC00653,NMC Specialty Center - Ras Al Khaimah,Specialty Center,Tertiary,Ras Al Khaimah,Ras Al Khaimah,Ras Al Khaimah,Public,Sharjah Health Authority,Active
+FAC00654,Al Noor Day Surgery Center - Hatta,Day Surgery Center,Large,Dubai,Dubai,Hatta,Private,Sharjah Health Authority,Active
+FAC00655,NMC Clinic - Jebel Ali,Clinic,Tertiary,Dubai,Dubai,Jebel Ali,Private,DoH Abu Dhabi,Temporarily Closed
+FAC00656,Prime Day Surgery Center - Ras Al Khaimah,Day Surgery Center,Medium,Ras Al Khaimah,Ras Al Khaimah,Ras Al Khaimah,Public,DoH Abu Dhabi,Temporarily Closed
+FAC00657,Emirates Hospital - Madinat Zayed,Hospital,Medium,Abu Dhabi,Al Dhafra,Madinat Zayed,Private,DoH Abu Dhabi,Active
+FAC00658,Emirates Hospital - Masfout,Hospital,Medium,Ajman,Ajman,Masfout,Public,Sharjah Health Authority,Active
+FAC00659,National Hospital - Madinat Zayed,Hospital,Small,Abu Dhabi,Al Ain,Madinat Zayed,Public,Sharjah Health Authority,Active
+FAC00660,Aster Hospital - Ruwais,Hospital,Large,Abu Dhabi,Al Dhafra,Ruwais,Public,DoH Abu Dhabi,Active
+FAC00661,MediCare Specialty Center - Madinat Zayed,Specialty Center,Small,Abu Dhabi,Al Dhafra,Madinat Zayed,Public,Sharjah Health Authority,Active
+FAC00662,Life Clinic - Ruwais,Clinic,Medium,Abu Dhabi,Abu Dhabi City,Ruwais,Public,MOHAP,Active
+FAC00663,National Clinic - Al Ain,Clinic,Small,Abu Dhabi,Abu Dhabi City,Al Ain,Public,DoH Abu Dhabi,Active
+FAC00664,Prime Clinic - Al Ain,Clinic,Medium,Abu Dhabi,Al Dhafra,Al Ain,Public,DoH Abu Dhabi,Active
+FAC00665,Life Medical Center - Madinat Zayed,Medical Center,Tertiary,Abu Dhabi,Al Dhafra,Madinat Zayed,Private,DoH Abu Dhabi,Active
+FAC00666,Burjeel Specialty Center - Ruwais,Specialty Center,Tertiary,Abu Dhabi,Abu Dhabi City,Ruwais,Private,DoH Abu Dhabi,Active
+FAC00667,Prime Hospital - Ras Al Khaimah,Hospital,Tertiary,Ras Al Khaimah,Ras Al Khaimah,Ras Al Khaimah,Public,Sharjah Health Authority,Temporarily Closed
+FAC00668,NMC Clinic - Madinat Zayed,Clinic,Large,Abu Dhabi,Abu Dhabi City,Madinat Zayed,Private,MOHAP,Temporarily Closed
+FAC00669,MediCare Day Surgery Center - Umm Al Quwain,Day Surgery Center,Tertiary,Umm Al Quwain,Umm Al Quwain,Umm Al Quwain,Private,DHA Dubai,Temporarily Closed
+FAC00670,Burjeel Day Surgery Center - Jebel Ali,Day Surgery Center,Tertiary,Dubai,Dubai,Jebel Ali,Private,MOHAP,Active
+FAC00671,Burjeel Hospital - Madinat Zayed,Hospital,Large,Abu Dhabi,Abu Dhabi City,Madinat Zayed,Private,DHA Dubai,Active
+FAC00672,MediCare Hospital - Ruwais,Hospital,Medium,Abu Dhabi,Al Ain,Ruwais,Public,Sharjah Health Authority,Active
+FAC00673,National Clinic - Madinat Zayed,Clinic,Small,Abu Dhabi,Al Dhafra,Madinat Zayed,Private,DHA Dubai,Temporarily Closed
+FAC00674,Al Noor Medical Center - Madinat Zayed,Medical Center,Medium,Abu Dhabi,Al Ain,Madinat Zayed,Private,DHA Dubai,Active
+FAC00675,Burjeel Specialty Center - Abu Dhabi,Specialty Center,Small,Abu Dhabi,Abu Dhabi City,Abu Dhabi,Private,MOHAP,Temporarily Closed
+FAC00676,Burjeel Medical Center - Dibba Al-Fujairah,Medical Center,Medium,Fujairah,Fujairah,Dibba Al-Fujairah,Private,DHA Dubai,Active
+FAC00677,Al Noor Clinic - Jebel Ali,Clinic,,Dubai,Dubai,Jebel Ali,Public,DoH Abu Dhabi,Active
+FAC00678,Burjeel Specialty Center - Masfout,Specialty Center,Small,Ajman,Ajman,Masfout,Public,DoH Abu Dhabi,Active
+FAC00679,Life Specialty Center - Dhaid,Specialty Center,Medium,Sharjah,Khor Fakkan,Dhaid,Private,Sharjah Health Authority,Active
+FAC00680,Aster Day Surgery Center - Fujairah,Day Surgery Center,Small,Fujairah,Fujairah,Fujairah,Private,Sharjah Health Authority,Temporarily Closed
+FAC00681,MediCare Clinic - Abu Dhabi,Clinic,Small,Abu Dhabi,Al Ain,Abu Dhabi,Public,DoH Abu Dhabi,Active
+FAC00682,MediCare Day Surgery Center - Ruwais,Day Surgery Center,Large,Abu Dhabi,Al Dhafra,Ruwais,Private,DoH Abu Dhabi,Active
+FAC00683,Al Noor Day Surgery Center - Umm Al Quwain,Day Surgery Center,Tertiary,Umm Al Quwain,Umm Al Quwain,Umm Al Quwain,Private,MOHAP,Temporarily Closed
+FAC00684,Aster Clinic - Umm Al Quwain,Clinic,Small,Umm Al Quwain,Umm Al Quwain,Umm Al Quwain,Private,DHA Dubai,Active
+FAC00685,Emirates Clinic - Hatta,Clinic,,Dubai,Dubai,Hatta,Private,Sharjah Health Authority,Active
+FAC00686,Al Noor Clinic - Madinat Zayed,Clinic,Large,Abu Dhabi,Abu Dhabi City,Madinat Zayed,Private,DHA Dubai,Active
+FAC00687,Aster Clinic - Fujairah,Clinic,Large,Fujairah,Fujairah,Fujairah,Private,DoH Abu Dhabi,Active
+FAC00688,MediCare Medical Center - Jebel Ali,Medical Center,Large,Dubai,Dubai,Jebel Ali,Private,DHA Dubai,Temporarily Closed
+FAC00689,Burjeel Medical Center - Dubai,Medical Center,Medium,Dubai,Dubai,Dubai,Public,DoH Abu Dhabi,Active
+FAC00690,Al Noor Clinic - Dibba Al-Fujairah,Clinic,Large,Fujairah,Fujairah,Dibba Al-Fujairah,Public,DHA Dubai,Active
+FAC00691,Gulf Clinic - Abu Dhabi,Clinic,Large,Abu Dhabi,Al Dhafra,Abu Dhabi,Private,DHA Dubai,Active
+FAC00692,NMC Day Surgery Center - Hatta,Day Surgery Center,Large,Dubai,Dubai,Hatta,Public,Sharjah Health Authority,Active
+FAC00693,NMC Clinic - Khor Fakkan,Clinic,Large,Sharjah,Khor Fakkan,Khor Fakkan,Public,MOHAP,Active
+FAC00694,Prime Clinic - Ajman,Clinic,Small,Ajman,Ajman,Ajman,Public,DoH Abu Dhabi,Active
+FAC00695,Emirates Medical Center - Ras Al Khaimah,Medical Center,,Ras Al Khaimah,Ras Al Khaimah,Ras Al Khaimah,Public,DoH Abu Dhabi,Temporarily Closed
+FAC00696,Burjeel Specialty Center - Ras Al Khaimah,Specialty Center,Medium,Ras Al Khaimah,Ras Al Khaimah,Ras Al Khaimah,Public,DHA Dubai,Active
+FAC00697,MediCare Medical Center - Kalba,Medical Center,Large,Sharjah,Sharjah,Kalba,Private,DHA Dubai,Active
+FAC00698,National Specialty Center - Dhaid,Specialty Center,Medium,Sharjah,Al Dhaid,Dhaid,Public,DoH Abu Dhabi,Active
+FAC00699,NMC Specialty Center - Hatta,Specialty Center,Medium,Dubai,Dubai,Hatta,Private,Sharjah Health Authority,Temporarily Closed
+FAC00700,National Medical Center - Dubai,Medical Center,Small,Dubai,Dubai,Dubai,Public,DHA Dubai,Temporarily Closed
+FAC00701,Gulf Clinic - Al Ain,Clinic,Small,Abu Dhabi,Al Dhafra,Al Ain,Private,DoH Abu Dhabi,Active
+FAC00702,Al Noor Day Surgery Center - Al Ain,Day Surgery Center,Medium,Abu Dhabi,Abu Dhabi City,Al Ain,Private,MOHAP,Active
+FAC00703,MediCare Medical Center - Hatta,Medical Center,Tertiary,Dubai,Dubai,Hatta,Public,DHA Dubai,Active
+FAC00704,Burjeel Clinic - Kalba,Clinic,Small,Sharjah,Al Dhaid,Kalba,Public,DoH Abu Dhabi,Active
+FAC00705,Prime Hospital - Hatta,Hospital,Large,Dubai,Dubai,Hatta,Public,DoH Abu Dhabi,Active
+FAC00706,Al Noor Medical Center - Jebel Ali,Medical Center,Tertiary,Dubai,Dubai,Jebel Ali,Public,MOHAP,Active
+FAC00707,National Clinic - Dubai,Clinic,Medium,Dubai,Dubai,Dubai,Public,MOHAP,Active
+FAC00708,National Clinic - Dibba Al-Fujairah,Clinic,Small,Fujairah,Fujairah,Dibba Al-Fujairah,Public,MOHAP,Active
+FAC00709,NMC Hospital - Ras Al Khaimah,Hospital,Tertiary,Ras Al Khaimah,Ras Al Khaimah,Ras Al Khaimah,Public,DoH Abu Dhabi,Active
+FAC00710,MediCare Medical Center - Dibba Al-Fujairah,Medical Center,Tertiary,Fujairah,Fujairah,Dibba Al-Fujairah,Public,DoH Abu Dhabi,Active
+FAC00711,Al Noor Clinic - Umm Al Quwain,Clinic,Tertiary,Umm Al Quwain,Umm Al Quwain,Umm Al Quwain,Private,MOHAP,Active
+FAC00712,Al Noor Specialty Center - Dibba Al-Fujairah,Specialty Center,Small,Fujairah,Fujairah,Dibba Al-Fujairah,Public,DoH Abu Dhabi,Active
+FAC00713,NMC Clinic - Kalba,Clinic,Medium,Sharjah,Khor Fakkan,Kalba,Private,DoH Abu Dhabi,Temporarily Closed
+FAC00714,NMC Hospital - Umm Al Quwain,Hospital,Large,Umm Al Quwain,Umm Al Quwain,Umm Al Quwain,Public,MOHAP,Temporarily Closed
+FAC00715,MediCare Hospital - Kalba,Hospital,Small,Sharjah,Al Dhaid,Kalba,Public,DHA Dubai,Temporarily Closed
+FAC00716,National Hospital - Ras Al Khaimah,Hospital,Tertiary,Ras Al Khaimah,Ras Al Khaimah,Ras Al Khaimah,Public,DHA Dubai,Active
+FAC00717,Al Noor Specialty Center - Dubai,Specialty Center,Tertiary,Dubai,Dubai,Dubai,Public,MOHAP,Temporarily Closed
+FAC00718,Burjeel Clinic - Abu Dhabi,Clinic,Large,Abu Dhabi,Al Ain,Abu Dhabi,Public,Sharjah Health Authority,Active
+FAC00719,MediCare Specialty Center - Dubai,Specialty Center,Large,Dubai,Dubai,Dubai,Private,Sharjah Health Authority,Active
+FAC00720,Al Noor Medical Center - Madinat Zayed,Medical Center,Medium,Abu Dhabi,Abu Dhabi City,Madinat Zayed,Private,DHA Dubai,Temporarily Closed
+FAC00721,Al Noor Day Surgery Center - Kalba,Day Surgery Center,Medium,Sharjah,Khor Fakkan,Kalba,Private,DHA Dubai,Active
+FAC00722,MediCare Clinic - Madinat Zayed,Clinic,Large,Abu Dhabi,Abu Dhabi City,Madinat Zayed,Public,MOHAP,Temporarily Closed
+FAC00723,Emirates Clinic - Jebel Ali,Clinic,Small,Dubai,Dubai,Jebel Ali,Private,DoH Abu Dhabi,Active
+FAC00724,MediCare Clinic - Al Ain,Clinic,Small,Abu Dhabi,Abu Dhabi City,Al Ain,Public,MOHAP,Active
+FAC00725,Al Noor Clinic - Hatta,Clinic,Small,Dubai,Dubai,Hatta,Public,Sharjah Health Authority,Active
+FAC00726,MediCare Hospital - Ras Al Khaimah,Hospital,Tertiary,Ras Al Khaimah,Ras Al Khaimah,Ras Al Khaimah,Public,Sharjah Health Authority,Temporarily Closed
+FAC00727,Gulf Specialty Center - Jebel Ali,Specialty Center,Medium,Dubai,Dubai,Jebel Ali,Private,Sharjah Health Authority,Active
+FAC00728,Life Day Surgery Center - Dubai,Day Surgery Center,Medium,Dubai,Dubai,Dubai,Public,DoH Abu Dhabi,Active
+FAC00729,Gulf Clinic - Dibba Al-Fujairah,Clinic,Large,Fujairah,Fujairah,Dibba Al-Fujairah,Public,Sharjah Health Authority,Active
+FAC00730,NMC Hospital - Ras Al Khaimah,Hospital,Medium,Ras Al Khaimah,Ras Al Khaimah,Ras Al Khaimah,Public,Sharjah Health Authority,Active
+FAC00731,National Hospital - Al Ain,Hospital,Medium,Abu Dhabi,Al Ain,Al Ain,Public,Sharjah Health Authority,Active
+FAC00732,Life Clinic - Jebel Ali,Clinic,Large,Dubai,Dubai,Jebel Ali,Private,DoH Abu Dhabi,Active
+FAC00733,NMC Specialty Center - Al Ain,Specialty Center,Tertiary,Abu Dhabi,Al Ain,Al Ain,Public,MOHAP,Active
+FAC00734,Aster Specialty Center - Ajman,Specialty Center,Tertiary,Ajman,Ajman,Ajman,Private,DHA Dubai,Active
+FAC00735,Emirates Clinic - Ajman,Clinic,Tertiary,Ajman,Ajman,Ajman,Public,Sharjah Health Authority,Active
+FAC00736,Aster Specialty Center - Ras Al Khaimah,Specialty Center,Medium,Ras Al Khaimah,Ras Al Khaimah,Ras Al Khaimah,Public,Sharjah Health Authority,Active
+FAC00737,Aster Day Surgery Center - Dhaid,Day Surgery Center,Large,Sharjah,Sharjah,Dhaid,Public,MOHAP,Active
+FAC00738,Emirates Medical Center - Fujairah,Medical Center,Medium,Fujairah,Fujairah,Fujairah,Public,MOHAP,Temporarily Closed
+FAC00739,Aster Day Surgery Center - Ruwais,Day Surgery Center,Large,Abu Dhabi,Al Ain,Ruwais,Private,MOHAP,Active
+FAC00740,MediCare Clinic - Hatta,Clinic,Large,Dubai,Dubai,Hatta,Public,Sharjah Health Authority,Active
+FAC00741,Aster Medical Center - Ras Al Khaimah,Medical Center,Small,Ras Al Khaimah,Ras Al Khaimah,Ras Al Khaimah,Private,Sharjah Health Authority,Temporarily Closed
+FAC00742,Prime Hospital - Al Ain,Hospital,Large,Abu Dhabi,Al Ain,Al Ain,Private,DoH Abu Dhabi,Active
+FAC00743,Al Noor Medical Center - Jebel Ali,Medical Center,Small,Dubai,Dubai,Jebel Ali,Public,MOHAP,Active
+FAC00744,National Clinic - Dubai,Clinic,Tertiary,Dubai,Dubai,Dubai,Private,Sharjah Health Authority,Active
+FAC00745,NMC Hospital - Al Ain,Hospital,Large,Abu Dhabi,Al Dhafra,Al Ain,Private,MOHAP,Active
+FAC00746,Life Hospital - Ras Al Khaimah,Hospital,Tertiary,Ras Al Khaimah,Ras Al Khaimah,Ras Al Khaimah,Public,Sharjah Health Authority,Active
+FAC00747,MediCare Hospital - Dubai,Hospital,Large,Dubai,Dubai,Dubai,Public,MOHAP,Active
+FAC00748,Al Noor Clinic - Ras Al Khaimah,Clinic,Small,Ras Al Khaimah,Ras Al Khaimah,Ras Al Khaimah,Private,Sharjah Health Authority,Active
+FAC00749,Prime Hospital - Al Ain,Hospital,Medium,Abu Dhabi,Abu Dhabi City,Al Ain,Public,Sharjah Health Authority,Active
+FAC00750,Al Noor Clinic - Dibba Al-Fujairah,Clinic,Tertiary,Fujairah,Fujairah,Dibba Al-Fujairah,Public,MOHAP,Active
+FAC00751,Emirates Specialty Center - Fujairah,Specialty Center,Medium,Fujairah,Fujairah,Fujairah,Private,DHA Dubai,Temporarily Closed
+FAC00752,Emirates Clinic - Jebel Ali,Clinic,Tertiary,Dubai,Dubai,Jebel Ali,Public,DoH Abu Dhabi,Temporarily Closed
+FAC00753,National Clinic - Jebel Ali,Clinic,Small,Dubai,Dubai,Jebel Ali,Public,Sharjah Health Authority,Active
+FAC00754,MediCare Day Surgery Center - Masfout,Day Surgery Center,Medium,Ajman,Ajman,Masfout,Private,DHA Dubai,Active
+FAC00755,Aster Day Surgery Center - Abu Dhabi,Day Surgery Center,Large,Abu Dhabi,Abu Dhabi City,Abu Dhabi,Public,DHA Dubai,Temporarily Closed
+FAC00756,Aster Medical Center - Kalba,Medical Center,Large,Sharjah,Khor Fakkan,Kalba,Public,DHA Dubai,Active
+FAC00757,Burjeel Specialty Center - Dubai,Specialty Center,Medium,Dubai,Dubai,Dubai,Public,MOHAP,Active
+FAC00758,MediCare Day Surgery Center - Hatta,Day Surgery Center,Tertiary,Dubai,Dubai,Hatta,Public,DHA Dubai,Active
+FAC00759,Gulf Clinic - Dhaid,Clinic,Large,Sharjah,Al Dhaid,Dhaid,Public,Sharjah Health Authority,Temporarily Closed
+FAC00760,NMC Clinic - Jebel Ali,Clinic,Large,Dubai,Dubai,Jebel Ali,Public,Sharjah Health Authority,Temporarily Closed
+FAC00761,NMC Hospital - Al Ain,Hospital,Small,Abu Dhabi,Al Ain,Al Ain,Public,DHA Dubai,Active
+FAC00762,Al Noor Clinic - Abu Dhabi,Clinic,Tertiary,Abu Dhabi,Al Ain,Abu Dhabi,Public,DHA Dubai,Temporarily Closed
+FAC00763,Emirates Hospital - Dhaid,Hospital,Small,Sharjah,Sharjah,Dhaid,Public,DHA Dubai,Active
+FAC00764,MediCare Hospital - Dhaid,Hospital,Medium,Sharjah,Khor Fakkan,Dhaid,Public,MOHAP,Active
+FAC00765,NMC Clinic - Hatta,Clinic,Large,Dubai,Dubai,Hatta,Private,MOHAP,Active
+FAC00766,Life Clinic - Hatta,Clinic,Medium,Dubai,Dubai,Hatta,Public,MOHAP,Active
+FAC00767,Burjeel Specialty Center - Umm Al Quwain,Specialty Center,Small,Umm Al Quwain,Umm Al Quwain,Umm Al Quwain,Private,MOHAP,Active
+FAC00768,Gulf Day Surgery Center - Fujairah,Day Surgery Center,Small,Fujairah,Fujairah,Fujairah,Private,DHA Dubai,Active
+FAC00769,Emirates Specialty Center - Al Ain,Specialty Center,Large,Abu Dhabi,Al Dhafra,Al Ain,Private,MOHAP,Temporarily Closed
+FAC00770,Emirates Medical Center - Jebel Ali,Medical Center,Medium,Dubai,Dubai,Jebel Ali,Private,DHA Dubai,Active
+FAC00771,Emirates Medical Center - Al Ain,Medical Center,Large,Abu Dhabi,Al Ain,Al Ain,Public,DHA Dubai,Temporarily Closed
+FAC00772,Prime Medical Center - Sharjah,Medical Center,Tertiary,Sharjah,Khor Fakkan,Sharjah,Private,DHA Dubai,Temporarily Closed
+FAC00773,Prime Clinic - Masfout,Clinic,Large,Ajman,Ajman,Masfout,Public,Sharjah Health Authority,Temporarily Closed
+FAC00774,Burjeel Medical Center - Madinat Zayed,Medical Center,Large,Abu Dhabi,Al Dhafra,Madinat Zayed,Private,Sharjah Health Authority,Temporarily Closed
+FAC00775,National Clinic - Dubai,Clinic,Small,Dubai,Dubai,Dubai,Private,DHA Dubai,Temporarily Closed
+FAC00776,Emirates Medical Center - Hatta,Medical Center,Large,Dubai,Dubai,Hatta,Private,DHA Dubai,Active
+FAC00777,Gulf Medical Center - Al Ain,Medical Center,Large,Abu Dhabi,Al Ain,Al Ain,Public,DoH Abu Dhabi,Active
+FAC00778,Gulf Day Surgery Center - Ruwais,Day Surgery Center,,Abu Dhabi,Al Dhafra,Ruwais,Private,MOHAP,Active
+FAC00779,Prime Clinic - Madinat Zayed,Clinic,Tertiary,Abu Dhabi,Al Dhafra,Madinat Zayed,Private,DoH Abu Dhabi,Active
+FAC00780,NMC Day Surgery Center - Fujairah,Day Surgery Center,Small,Fujairah,Fujairah,Fujairah,Private,DHA Dubai,Active
+FAC00781,Life Clinic - Madinat Zayed,Clinic,Tertiary,Abu Dhabi,Al Ain,Madinat Zayed,Private,DHA Dubai,Active
+FAC00782,Al Noor Specialty Center - Umm Al Quwain,Specialty Center,Large,Umm Al Quwain,Umm Al Quwain,Umm Al Quwain,Public,Sharjah Health Authority,Active
+FAC00783,MediCare Medical Center - Madinat Zayed,Medical Center,Tertiary,Abu Dhabi,Al Dhafra,Madinat Zayed,Public,MOHAP,Temporarily Closed
+FAC00784,National Hospital - Ruwais,Hospital,Tertiary,Abu Dhabi,Al Dhafra,Ruwais,Private,DoH Abu Dhabi,Active
+FAC00785,Life Clinic - Jebel Ali,Clinic,Large,Dubai,Dubai,Jebel Ali,Private,DoH Abu Dhabi,Temporarily Closed
+FAC00786,Emirates Clinic - Hatta,Clinic,Small,Dubai,Dubai,Hatta,Public,DoH Abu Dhabi,Active
+FAC00787,MediCare Medical Center - Hatta,Medical Center,Medium,Dubai,Dubai,Hatta,Public,DHA Dubai,Active
+FAC00788,Burjeel Medical Center - Jebel Ali,Medical Center,Tertiary,Dubai,Dubai,Jebel Ali,Public,MOHAP,Temporarily Closed
+FAC00789,Gulf Medical Center - Ras Al Khaimah,Medical Center,Small,Ras Al Khaimah,Ras Al Khaimah,Ras Al Khaimah,Public,MOHAP,Temporarily Closed
+FAC00790,Aster Day Surgery Center - Dibba Al-Fujairah,Day Surgery Center,Large,Fujairah,Fujairah,Dibba Al-Fujairah,Public,DoH Abu Dhabi,Active
+FAC00791,Aster Clinic - Jebel Ali,Clinic,Tertiary,Dubai,Dubai,Jebel Ali,Private,MOHAP,Active
+FAC00792,MediCare Medical Center - Ruwais,Medical Center,Medium,Abu Dhabi,Al Dhafra,Ruwais,Private,DoH Abu Dhabi,Active
+FAC00793,National Specialty Center - Madinat Zayed,Specialty Center,Tertiary,Abu Dhabi,Al Ain,Madinat Zayed,Private,Sharjah Health Authority,Temporarily Closed
+FAC00794,Life Clinic - Masfout,Clinic,Medium,Ajman,Ajman,Masfout,Public,MOHAP,Active
+FAC00795,Life Clinic - Dubai,Clinic,Large,Dubai,Dubai,Dubai,Private,MOHAP,Active
+FAC00796,Gulf Specialty Center - Madinat Zayed,Specialty Center,Tertiary,Abu Dhabi,Al Ain,Madinat Zayed,Private,DHA Dubai,Active
+FAC00797,Life Clinic - Ruwais,Clinic,Small,Abu Dhabi,Al Ain,Ruwais,Public,Sharjah Health Authority,Active
+FAC00798,NMC Medical Center - Jebel Ali,Medical Center,Small,Dubai,Dubai,Jebel Ali,Public,MOHAP,Active
+FAC00799,Life Clinic - Hatta,Clinic,Large,Dubai,Dubai,Hatta,Public,DHA Dubai,Active
+FAC00800,Prime Medical Center - Jebel Ali,Medical Center,Medium,Dubai,Dubai,Jebel Ali,Private,DoH Abu Dhabi,Active
+FAC00801,Aster Clinic - Al Ain,Clinic,Small,Abu Dhabi,Abu Dhabi City,Al Ain,Private,DHA Dubai,Active
+FAC00802,Emirates Clinic - Jebel Ali,Clinic,Medium,Dubai,Dubai,Jebel Ali,Public,MOHAP,Active
+FAC00803,MediCare Hospital - Fujairah,Hospital,Large,Fujairah,Fujairah,Fujairah,Private,Sharjah Health Authority,Active
+FAC00804,Prime Medical Center - Umm Al Quwain,Medical Center,Medium,Umm Al Quwain,Umm Al Quwain,Umm Al Quwain,Public,DHA Dubai,Temporarily Closed
+FAC00805,Burjeel Clinic - Dubai,Clinic,Medium,Dubai,Dubai,Dubai,Private,MOHAP,Temporarily Closed
+FAC00806,Prime Clinic - Madinat Zayed,Clinic,Tertiary,Abu Dhabi,Abu Dhabi City,Madinat Zayed,Public,DHA Dubai,Active
+FAC00807,Al Noor Hospital - Hatta,Hospital,Large,Dubai,Dubai,Hatta,Public,Sharjah Health Authority,Active
+FAC00808,National Hospital - Kalba,Hospital,Tertiary,Sharjah,Khor Fakkan,Kalba,Public,DHA Dubai,Active
+FAC00809,NMC Specialty Center - Sharjah,Specialty Center,Small,Sharjah,Khor Fakkan,Sharjah,Private,Sharjah Health Authority,Active
+FAC00810,Emirates Specialty Center - Kalba,Specialty Center,Tertiary,Sharjah,Khor Fakkan,Kalba,Public,DoH Abu Dhabi,Active
+FAC00811,Burjeel Clinic - Dubai,Clinic,Tertiary,Dubai,Dubai,Dubai,Public,Sharjah Health Authority,Active
+FAC00812,Prime Hospital - Al Ain,Hospital,Tertiary,Abu Dhabi,Al Ain,Al Ain,Public,DHA Dubai,Active
+FAC00813,National Clinic - Abu Dhabi,Clinic,Small,Abu Dhabi,Al Ain,Abu Dhabi,Private,Sharjah Health Authority,Active
+FAC00814,Prime Clinic - Abu Dhabi,Clinic,Small,Abu Dhabi,Al Dhafra,Abu Dhabi,Public,Sharjah Health Authority,Active
+FAC00815,NMC Medical Center - Al Ain,Medical Center,Large,Abu Dhabi,Al Ain,Al Ain,Private,MOHAP,Active
+FAC00816,Emirates Clinic - Dhaid,Clinic,Large,Sharjah,Sharjah,Dhaid,Public,DHA Dubai,Active
+FAC00817,Emirates Clinic - Hatta,Clinic,Large,Dubai,Dubai,Hatta,Private,DoH Abu Dhabi,Active
+FAC00818,Burjeel Hospital - Hatta,Hospital,Tertiary,Dubai,Dubai,Hatta,Private,DoH Abu Dhabi,Active
+FAC00819,Aster Day Surgery Center - Abu Dhabi,Day Surgery Center,Tertiary,Abu Dhabi,Al Dhafra,Abu Dhabi,Private,MOHAP,Active
+FAC00820,NMC Clinic - Umm Al Quwain,Clinic,Medium,Umm Al Quwain,Umm Al Quwain,Umm Al Quwain,Public,MOHAP,Active
+FAC00821,National Clinic - Ras Al Khaimah,Clinic,Medium,Ras Al Khaimah,Ras Al Khaimah,Ras Al Khaimah,Private,DoH Abu Dhabi,Temporarily Closed
+FAC00822,MediCare Medical Center - Jebel Ali,Medical Center,Medium,Dubai,Dubai,Jebel Ali,Public,MOHAP,Temporarily Closed
+FAC00823,Aster Medical Center - Umm Al Quwain,Medical Center,Small,Umm Al Quwain,Umm Al Quwain,Umm Al Quwain,Private,MOHAP,Active
+FAC00824,NMC Clinic - Ras Al Khaimah,Clinic,Large,Ras Al Khaimah,Ras Al Khaimah,Ras Al Khaimah,Public,DHA Dubai,Active
+FAC00825,National Clinic - Madinat Zayed,Clinic,Medium,Abu Dhabi,Al Dhafra,Madinat Zayed,Private,DHA Dubai,Active
+FAC00826,Gulf Clinic - Khor Fakkan,Clinic,Medium,Sharjah,Al Dhaid,Khor Fakkan,Private,Sharjah Health Authority,Active
+FAC00827,Prime Clinic - Madinat Zayed,Clinic,Tertiary,Abu Dhabi,Al Ain,Madinat Zayed,Private,MOHAP,Temporarily Closed
+FAC00828,Life Medical Center - Fujairah,Medical Center,Tertiary,Fujairah,Fujairah,Fujairah,Private,DHA Dubai,Active
+FAC00829,Prime Medical Center - Abu Dhabi,Medical Center,Medium,Abu Dhabi,Abu Dhabi City,Abu Dhabi,Private,MOHAP,Active
+FAC00830,NMC Specialty Center - Ajman,Specialty Center,Small,Ajman,Ajman,Ajman,Private,DHA Dubai,Active
+FAC00831,Gulf Clinic - Umm Al Quwain,Clinic,Small,Umm Al Quwain,Umm Al Quwain,Umm Al Quwain,Private,DoH Abu Dhabi,Active
+FAC00832,Al Noor Specialty Center - Abu Dhabi,Specialty Center,Tertiary,Abu Dhabi,Al Ain,Abu Dhabi,Private,Sharjah Health Authority,Active
+FAC00833,Gulf Medical Center - Madinat Zayed,Medical Center,Small,Abu Dhabi,Abu Dhabi City,Madinat Zayed,Private,DHA Dubai,Active
+FAC00834,Emirates Specialty Center - Khor Fakkan,Specialty Center,Medium,Sharjah,Sharjah,Khor Fakkan,Private,MOHAP,Active
+FAC00835,Aster Specialty Center - Ajman,Specialty Center,Medium,Ajman,Ajman,Ajman,Public,Sharjah Health Authority,Active
+FAC00836,Prime Clinic - Fujairah,Clinic,Small,Fujairah,Fujairah,Fujairah,Public,MOHAP,Active
+FAC00837,Al Noor Hospital - Ajman,Hospital,Large,Ajman,Ajman,Ajman,Public,DHA Dubai,Active
+FAC00838,Life Hospital - Ajman,Hospital,Large,Ajman,Ajman,Ajman,Private,DHA Dubai,Active
+FAC00839,Gulf Day Surgery Center - Al Ain,Day Surgery Center,,Abu Dhabi,Al Dhafra,Al Ain,Private,MOHAP,Active
+FAC00840,Gulf Medical Center - Ruwais,Medical Center,Large,Abu Dhabi,Al Dhafra,Ruwais,Public,DoH Abu Dhabi,Temporarily Closed
+FAC00841,Aster Clinic - Dubai,Clinic,Medium,Dubai,Dubai,Dubai,Public,DoH Abu Dhabi,Active
+FAC00842,National Specialty Center - Masfout,Specialty Center,Tertiary,Ajman,Ajman,Masfout,Private,DHA Dubai,Active
+FAC00843,Emirates Medical Center - Ruwais,Medical Center,Medium,Abu Dhabi,Abu Dhabi City,Ruwais,Private,MOHAP,Active
+FAC00844,Aster Clinic - Dubai,Clinic,Small,Dubai,Dubai,Dubai,Private,DHA Dubai,Active
+FAC00845,Burjeel Clinic - Al Ain,Clinic,Small,Abu Dhabi,Al Dhafra,Al Ain,Public,Sharjah Health Authority,Active
+FAC00846,Aster Medical Center - Madinat Zayed,Medical Center,Large,Abu Dhabi,Al Ain,Madinat Zayed,Private,MOHAP,Active
+FAC00847,Al Noor Clinic - Fujairah,Clinic,Tertiary,Fujairah,Fujairah,Fujairah,Private,DHA Dubai,Active
+FAC00848,Gulf Clinic - Umm Al Quwain,Clinic,Large,Umm Al Quwain,Umm Al Quwain,Umm Al Quwain,Private,MOHAP,Active
+FAC00849,Prime Clinic - Madinat Zayed,Clinic,Medium,Abu Dhabi,Abu Dhabi City,Madinat Zayed,Private,DHA Dubai,Temporarily Closed
+FAC00850,NMC Clinic - Ruwais,Clinic,Small,Abu Dhabi,Abu Dhabi City,Ruwais,Private,DoH Abu Dhabi,Temporarily Closed
+FAC00851,Emirates Clinic - Dubai,Clinic,Tertiary,Dubai,Dubai,Dubai,Public,Sharjah Health Authority,Active
+FAC00852,Prime Hospital - Ruwais,Hospital,Medium,Abu Dhabi,Al Ain,Ruwais,Private,DoH Abu Dhabi,Temporarily Closed
+FAC00853,Aster Medical Center - Jebel Ali,Medical Center,Large,Dubai,Dubai,Jebel Ali,Public,Sharjah Health Authority,Active
+FAC00854,MediCare Medical Center - Ruwais,Medical Center,Tertiary,Abu Dhabi,Al Ain,Ruwais,Public,DHA Dubai,Active
+FAC00855,National Clinic - Umm Al Quwain,Clinic,Large,Umm Al Quwain,Umm Al Quwain,Umm Al Quwain,Public,MOHAP,Active
+FAC00856,Gulf Hospital - Madinat Zayed,Hospital,Medium,Abu Dhabi,Al Ain,Madinat Zayed,Private,MOHAP,Active
+FAC00857,Gulf Day Surgery Center - Madinat Zayed,Day Surgery Center,Medium,Abu Dhabi,Abu Dhabi City,Madinat Zayed,Private,MOHAP,Active
+FAC00858,Aster Clinic - Madinat Zayed,Clinic,Small,Abu Dhabi,Al Dhafra,Madinat Zayed,Private,DoH Abu Dhabi,Active
+FAC00859,MediCare Medical Center - Jebel Ali,Medical Center,Large,Dubai,Dubai,Jebel Ali,Private,DoH Abu Dhabi,Active
+FAC00860,NMC Day Surgery Center - Jebel Ali,Day Surgery Center,Tertiary,Dubai,Dubai,Jebel Ali,Public,MOHAP,Active
+FAC00861,National Specialty Center - Ras Al Khaimah,Specialty Center,Large,Ras Al Khaimah,Ras Al Khaimah,Ras Al Khaimah,Public,DHA Dubai,Active
+FAC00862,National Clinic - Madinat Zayed,Clinic,Tertiary,Abu Dhabi,Al Ain,Madinat Zayed,Public,Sharjah Health Authority,Active
+FAC00863,Life Clinic - Al Ain,Clinic,Medium,Abu Dhabi,Al Dhafra,Al Ain,Private,DHA Dubai,Active
+FAC00864,Burjeel Medical Center - Dubai,Medical Center,Small,Dubai,Dubai,Dubai,Public,Sharjah Health Authority,Active
+FAC00865,Burjeel Hospital - Ras Al Khaimah,Hospital,Large,Ras Al Khaimah,Ras Al Khaimah,Ras Al Khaimah,Private,DoH Abu Dhabi,Active
+FAC00866,Burjeel Clinic - Abu Dhabi,Clinic,Tertiary,Abu Dhabi,Al Ain,Abu Dhabi,Private,Sharjah Health Authority,Active
+FAC00867,NMC Medical Center - Sharjah,Medical Center,Large,Sharjah,Al Dhaid,Sharjah,Private,DHA Dubai,Active
+FAC00868,National Medical Center - Sharjah,Medical Center,Tertiary,Sharjah,Al Dhaid,Sharjah,Private,Sharjah Health Authority,Temporarily Closed
+FAC00869,Al Noor Medical Center - Ruwais,Medical Center,Small,Abu Dhabi,Al Ain,Ruwais,Public,DoH Abu Dhabi,Active
+FAC00870,National Hospital - Abu Dhabi,Hospital,Small,Abu Dhabi,Al Dhafra,Abu Dhabi,Public,DHA Dubai,Active
+FAC00871,Prime Specialty Center - Kalba,Specialty Center,Tertiary,Sharjah,Khor Fakkan,Kalba,Private,DHA Dubai,Active
+FAC00872,NMC Clinic - Kalba,Clinic,Large,Sharjah,Sharjah,Kalba,Private,DoH Abu Dhabi,Active
+FAC00873,Al Noor Day Surgery Center - Fujairah,Day Surgery Center,Medium,Fujairah,Fujairah,Fujairah,Private,DoH Abu Dhabi,Active
+FAC00874,National Day Surgery Center - Abu Dhabi,Day Surgery Center,Tertiary,Abu Dhabi,Al Dhafra,Abu Dhabi,Public,DoH Abu Dhabi,Active
+FAC00875,Life Specialty Center - Hatta,Specialty Center,Medium,Dubai,Dubai,Hatta,Public,DoH Abu Dhabi,Temporarily Closed
+FAC00876,Prime Clinic - Madinat Zayed,Clinic,Large,Abu Dhabi,Al Dhafra,Madinat Zayed,Private,MOHAP,Temporarily Closed
+FAC00877,Gulf Clinic - Jebel Ali,Clinic,Small,Dubai,Dubai,Jebel Ali,Public,DoH Abu Dhabi,Temporarily Closed
+FAC00878,Burjeel Specialty Center - Fujairah,Specialty Center,Small,Fujairah,Fujairah,Fujairah,Public,Sharjah Health Authority,Active
+FAC00879,NMC Specialty Center - Umm Al Quwain,Specialty Center,Medium,Umm Al Quwain,Umm Al Quwain,Umm Al Quwain,Private,Sharjah Health Authority,Temporarily Closed
+FAC00880,Aster Clinic - Dubai,Clinic,Small,Dubai,Dubai,Dubai,Public,Sharjah Health Authority,Active
+FAC00881,Emirates Clinic - Jebel Ali,Clinic,Large,Dubai,Dubai,Jebel Ali,Public,DoH Abu Dhabi,Active
+FAC00882,National Day Surgery Center - Dubai,Day Surgery Center,Small,Dubai,Dubai,Dubai,Public,DHA Dubai,Active
+FAC00883,Emirates Clinic - Umm Al Quwain,Clinic,Large,Umm Al Quwain,Umm Al Quwain,Umm Al Quwain,Public,MOHAP,Temporarily Closed
+FAC00884,Emirates Clinic - Abu Dhabi,Clinic,Tertiary,Abu Dhabi,Abu Dhabi City,Abu Dhabi,Public,DHA Dubai,Active
+FAC00885,Burjeel Medical Center - Fujairah,Medical Center,Large,Fujairah,Fujairah,Fujairah,Private,Sharjah Health Authority,Temporarily Closed
+FAC00886,National Clinic - Kalba,Clinic,Tertiary,Sharjah,Al Dhaid,Kalba,Private,MOHAP,Active
+FAC00887,Burjeel Clinic - Fujairah,Clinic,Medium,Fujairah,Fujairah,Fujairah,Private,DoH Abu Dhabi,Active
+FAC00888,Burjeel Medical Center - Dubai,Medical Center,Medium,Dubai,Dubai,Dubai,Public,MOHAP,Active
+FAC00889,Al Noor Clinic - Jebel Ali,Clinic,Tertiary,Dubai,Dubai,Jebel Ali,Private,DoH Abu Dhabi,Active
+FAC00890,MediCare Hospital - Ruwais,Hospital,,Abu Dhabi,Al Dhafra,Ruwais,Private,DHA Dubai,Active
+FAC00891,Life Medical Center - Abu Dhabi,Medical Center,Large,Abu Dhabi,Al Dhafra,Abu Dhabi,Public,DHA Dubai,Temporarily Closed
+FAC00892,MediCare Clinic - Madinat Zayed,Clinic,Large,Abu Dhabi,Al Ain,Madinat Zayed,Private,DHA Dubai,Temporarily Closed
+FAC00893,Al Noor Clinic - Madinat Zayed,Clinic,Small,Abu Dhabi,Al Dhafra,Madinat Zayed,Public,MOHAP,Active
+FAC00894,Emirates Clinic - Al Ain,Clinic,Large,Abu Dhabi,Al Dhafra,Al Ain,Public,DHA Dubai,Active
+FAC00895,Gulf Hospital - Kalba,Hospital,Tertiary,Sharjah,Khor Fakkan,Kalba,Private,Sharjah Health Authority,Active
+FAC00896,Burjeel Hospital - Ruwais,Hospital,Large,Abu Dhabi,Al Dhafra,Ruwais,Private,Sharjah Health Authority,Temporarily Closed
+FAC00897,NMC Medical Center - Jebel Ali,Medical Center,Medium,Dubai,Dubai,Jebel Ali,Private,Sharjah Health Authority,Active
+FAC00898,Al Noor Medical Center - Umm Al Quwain,Medical Center,Large,Umm Al Quwain,Umm Al Quwain,Umm Al Quwain,Public,Sharjah Health Authority,Active
+FAC00899,Life Clinic - Hatta,Clinic,Small,Dubai,Dubai,Hatta,Public,MOHAP,Active
+FAC00900,NMC Hospital - Ruwais,Hospital,Tertiary,Abu Dhabi,Al Dhafra,Ruwais,Public,MOHAP,Active
+FAC00901,Life Clinic - Ruwais,Clinic,Small,Abu Dhabi,Abu Dhabi City,Ruwais,Public,DHA Dubai,Active
+FAC00902,Emirates Medical Center - Dubai,Medical Center,Tertiary,Dubai,Dubai,Dubai,Public,MOHAP,Active
+FAC00903,Gulf Hospital - Umm Al Quwain,Hospital,Medium,Umm Al Quwain,Umm Al Quwain,Umm Al Quwain,Public,MOHAP,Active
+FAC00904,Emirates Hospital - Ras Al Khaimah,Hospital,Small,Ras Al Khaimah,Ras Al Khaimah,Ras Al Khaimah,Public,DHA Dubai,Active
+FAC00905,Prime Clinic - Jebel Ali,Clinic,Small,Dubai,Dubai,Jebel Ali,Public,Sharjah Health Authority,Temporarily Closed
+FAC00906,Burjeel Clinic - Hatta,Clinic,Small,Dubai,Dubai,Hatta,Private,MOHAP,Active
+FAC00907,MediCare Clinic - Al Ain,Clinic,Tertiary,Abu Dhabi,Abu Dhabi City,Al Ain,Private,DHA Dubai,Temporarily Closed
+FAC00908,Prime Clinic - Ras Al Khaimah,Clinic,Large,Ras Al Khaimah,Ras Al Khaimah,Ras Al Khaimah,Public,DHA Dubai,Temporarily Closed
+FAC00909,Gulf Hospital - Khor Fakkan,Hospital,Small,Sharjah,Sharjah,Khor Fakkan,Private,DoH Abu Dhabi,Active
+FAC00910,Gulf Clinic - Al Ain,Clinic,Tertiary,Abu Dhabi,Al Ain,Al Ain,Private,DHA Dubai,Active
+FAC00911,Burjeel Medical Center - Dhaid,Medical Center,Medium,Sharjah,Al Dhaid,Dhaid,Public,DHA Dubai,Temporarily Closed
+FAC00912,Aster Medical Center - Khor Fakkan,Medical Center,Medium,Sharjah,Sharjah,Khor Fakkan,Private,MOHAP,Active
+FAC00913,NMC Clinic - Jebel Ali,Clinic,Tertiary,Dubai,Dubai,Jebel Ali,Public,MOHAP,Active
+FAC00914,NMC Medical Center - Al Ain,Medical Center,Tertiary,Abu Dhabi,Abu Dhabi City,Al Ain,Private,DoH Abu Dhabi,Active
+FAC00915,Burjeel Medical Center - Hatta,Medical Center,Large,Dubai,Dubai,Hatta,Private,DoH Abu Dhabi,Active
+FAC00916,MediCare Clinic - Umm Al Quwain,Clinic,Medium,Umm Al Quwain,Umm Al Quwain,Umm Al Quwain,Private,DHA Dubai,Temporarily Closed
+FAC00917,Gulf Hospital - Ras Al Khaimah,Hospital,Tertiary,Ras Al Khaimah,Ras Al Khaimah,Ras Al Khaimah,Public,DoH Abu Dhabi,Active
+FAC00918,Al Noor Medical Center - Ras Al Khaimah,Medical Center,Small,Ras Al Khaimah,Ras Al Khaimah,Ras Al Khaimah,Private,Sharjah Health Authority,Active
+FAC00919,Gulf Clinic - Jebel Ali,Clinic,Small,Dubai,Dubai,Jebel Ali,Public,MOHAP,Temporarily Closed
+FAC00920,NMC Clinic - Hatta,Clinic,Large,Dubai,Dubai,Hatta,Public,Sharjah Health Authority,Active
+FAC00921,Burjeel Medical Center - Umm Al Quwain,Medical Center,Small,Umm Al Quwain,Umm Al Quwain,Umm Al Quwain,Private,DHA Dubai,Temporarily Closed
+FAC00922,Al Noor Clinic - Dubai,Clinic,Large,Dubai,Dubai,Dubai,Public,Sharjah Health Authority,Active
+FAC00923,Gulf Hospital - Umm Al Quwain,Hospital,Tertiary,Umm Al Quwain,Umm Al Quwain,Umm Al Quwain,Private,DHA Dubai,Active
+FAC00924,Burjeel Hospital - Khor Fakkan,Hospital,Tertiary,Sharjah,Sharjah,Khor Fakkan,Public,MOHAP,Active
+FAC00925,Gulf Clinic - Ras Al Khaimah,Clinic,Small,Ras Al Khaimah,Ras Al Khaimah,Ras Al Khaimah,Public,Sharjah Health Authority,Active
+FAC00926,Gulf Medical Center - Jebel Ali,Medical Center,Medium,Dubai,Dubai,Jebel Ali,Private,DHA Dubai,Active
+FAC00927,National Medical Center - Kalba,Medical Center,Medium,Sharjah,Al Dhaid,Kalba,Public,DHA Dubai,Temporarily Closed
+FAC00928,National Clinic - Ruwais,Clinic,Medium,Abu Dhabi,Al Dhafra,Ruwais,Public,Sharjah Health Authority,Active
+FAC00929,Al Noor Clinic - Ajman,Clinic,Large,Ajman,Ajman,Ajman,Public,DoH Abu Dhabi,Active
+FAC00930,Burjeel Clinic - Hatta,Clinic,Tertiary,Dubai,Dubai,Hatta,Public,DoH Abu Dhabi,Active
+FAC00931,Prime Clinic - Abu Dhabi,Clinic,Large,Abu Dhabi,Al Dhafra,Abu Dhabi,Private,MOHAP,Active
+FAC00932,Life Hospital - Ajman,Hospital,Small,Ajman,Ajman,Ajman,Private,DoH Abu Dhabi,Active
+FAC00933,Life Specialty Center - Ruwais,Specialty Center,Tertiary,Abu Dhabi,Abu Dhabi City,Ruwais,Public,DHA Dubai,Active
+FAC00934,MediCare Clinic - Ras Al Khaimah,Clinic,Large,Ras Al Khaimah,Ras Al Khaimah,Ras Al Khaimah,Private,Sharjah Health Authority,Active
+FAC00935,Emirates Hospital - Dubai,Hospital,Tertiary,Dubai,Dubai,Dubai,Private,DHA Dubai,Active
+FAC00936,NMC Clinic - Abu Dhabi,Clinic,Medium,Abu Dhabi,Al Ain,Abu Dhabi,Public,Sharjah Health Authority,Temporarily Closed
+FAC00937,Aster Medical Center - Umm Al Quwain,Medical Center,Tertiary,Umm Al Quwain,Umm Al Quwain,Umm Al Quwain,Private,Sharjah Health Authority,Active
+FAC00938,Emirates Medical Center - Sharjah,Medical Center,Small,Sharjah,Al Dhaid,Sharjah,Public,MOHAP,Active
+FAC00939,Burjeel Hospital - Dubai,Hospital,Tertiary,Dubai,Dubai,Dubai,Public,Sharjah Health Authority,Active
+FAC00940,Life Clinic - Masfout,Clinic,Small,Ajman,Ajman,Masfout,Public,Sharjah Health Authority,Temporarily Closed
+FAC00941,Aster Medical Center - Madinat Zayed,Medical Center,Tertiary,Abu Dhabi,Al Dhafra,Madinat Zayed,Private,Sharjah Health Authority,Active
+FAC00942,Life Medical Center - Masfout,Medical Center,Medium,Ajman,Ajman,Masfout,Private,DoH Abu Dhabi,Active
+FAC00943,MediCare Day Surgery Center - Ruwais,Day Surgery Center,Medium,Abu Dhabi,Abu Dhabi City,Ruwais,Public,DoH Abu Dhabi,Active
+FAC00944,Emirates Clinic - Madinat Zayed,Clinic,Large,Abu Dhabi,Abu Dhabi City,Madinat Zayed,Private,Sharjah Health Authority,Temporarily Closed
+FAC00945,Prime Clinic - Abu Dhabi,Clinic,Small,Abu Dhabi,Al Ain,Abu Dhabi,Public,DHA Dubai,Active
+FAC00946,Gulf Clinic - Abu Dhabi,Clinic,Large,Abu Dhabi,Abu Dhabi City,Abu Dhabi,Private,DoH Abu Dhabi,Active
+FAC00947,Life Specialty Center - Al Ain,Specialty Center,Medium,Abu Dhabi,Abu Dhabi City,Al Ain,Private,MOHAP,Temporarily Closed
+FAC00948,National Hospital - Jebel Ali,Hospital,Small,Dubai,Dubai,Jebel Ali,Private,MOHAP,Temporarily Closed
+FAC00949,MediCare Clinic - Dhaid,Clinic,Large,Sharjah,Sharjah,Dhaid,Private,DoH Abu Dhabi,Active
+FAC00950,NMC Clinic - Dubai,Clinic,Large,Dubai,Dubai,Dubai,Private,DHA Dubai,Active
+FAC00951,Gulf Hospital - Jebel Ali,Hospital,Tertiary,Dubai,Dubai,Jebel Ali,Private,Sharjah Health Authority,Active
+FAC00952,MediCare Medical Center - Dibba Al-Fujairah,Medical Center,Small,Fujairah,Fujairah,Dibba Al-Fujairah,Private,Sharjah Health Authority,Active
+FAC00953,National Specialty Center - Jebel Ali,Specialty Center,Large,Dubai,Dubai,Jebel Ali,Private,DoH Abu Dhabi,Temporarily Closed
+FAC00954,MediCare Hospital - Jebel Ali,Hospital,Large,Dubai,Dubai,Jebel Ali,Public,DHA Dubai,Active
+FAC00955,National Medical Center - Dubai,Medical Center,Large,Dubai,Dubai,Dubai,Private,Sharjah Health Authority,Active
+FAC00956,MediCare Clinic - Madinat Zayed,Clinic,Medium,Abu Dhabi,Al Dhafra,Madinat Zayed,Public,Sharjah Health Authority,Active
+FAC00957,Prime Hospital - Masfout,Hospital,Tertiary,Ajman,Ajman,Masfout,Public,Sharjah Health Authority,Active
+FAC00958,NMC Hospital - Ruwais,Hospital,Small,Abu Dhabi,Al Dhafra,Ruwais,Public,MOHAP,Active
+FAC00959,Burjeel Specialty Center - Ajman,Specialty Center,Large,Ajman,Ajman,Ajman,Public,MOHAP,Active
+FAC00960,Burjeel Medical Center - Abu Dhabi,Medical Center,Large,Abu Dhabi,Al Dhafra,Abu Dhabi,Public,DHA Dubai,Temporarily Closed
+FAC00961,Life Medical Center - Madinat Zayed,Medical Center,Medium,Abu Dhabi,Al Dhafra,Madinat Zayed,Public,DHA Dubai,Active
+FAC00962,Gulf Clinic - Hatta,Clinic,Medium,Dubai,Dubai,Hatta,Public,MOHAP,Active
+FAC00963,Aster Medical Center - Umm Al Quwain,Medical Center,Medium,Umm Al Quwain,Umm Al Quwain,Umm Al Quwain,Public,DHA Dubai,Temporarily Closed
+FAC00964,MediCare Clinic - Madinat Zayed,Clinic,Small,Abu Dhabi,Al Ain,Madinat Zayed,Public,DHA Dubai,Active
+FAC00965,MediCare Clinic - Sharjah,Clinic,Large,Sharjah,Al Dhaid,Sharjah,Public,DoH Abu Dhabi,Active
+FAC00966,Gulf Medical Center - Ruwais,Medical Center,Tertiary,Abu Dhabi,Al Ain,Ruwais,Private,DHA Dubai,Active
+FAC00967,Prime Medical Center - Ruwais,Medical Center,Small,Abu Dhabi,Abu Dhabi City,Ruwais,Public,DHA Dubai,Active
+FAC00968,MediCare Clinic - Al Ain,Clinic,Small,Abu Dhabi,Abu Dhabi City,Al Ain,Public,Sharjah Health Authority,Active
+FAC00969,Gulf Hospital - Dubai,Hospital,Tertiary,Dubai,Dubai,Dubai,Private,DoH Abu Dhabi,Active
+FAC00970,NMC Specialty Center - Madinat Zayed,Specialty Center,Large,Abu Dhabi,Abu Dhabi City,Madinat Zayed,Private,MOHAP,Temporarily Closed
+FAC00971,Al Noor Medical Center - Sharjah,Medical Center,Medium,Sharjah,Khor Fakkan,Sharjah,Private,DHA Dubai,Active
+FAC00972,Aster Clinic - Hatta,Clinic,Small,Dubai,Dubai,Hatta,Public,Sharjah Health Authority,Active
+FAC00973,Life Hospital - Dhaid,Hospital,Small,Sharjah,Al Dhaid,Dhaid,Public,Sharjah Health Authority,Active
+FAC00974,Emirates Clinic - Umm Al Quwain,Clinic,Large,Umm Al Quwain,Umm Al Quwain,Umm Al Quwain,Public,Sharjah Health Authority,Active
+FAC00975,MediCare Specialty Center - Ruwais,Specialty Center,Medium,Abu Dhabi,Al Ain,Ruwais,Private,MOHAP,Temporarily Closed
+FAC00976,Emirates Hospital - Umm Al Quwain,Hospital,Tertiary,Umm Al Quwain,Umm Al Quwain,Umm Al Quwain,Public,Sharjah Health Authority,Active
+FAC00977,Emirates Clinic - Fujairah,Clinic,Large,Fujairah,Fujairah,Fujairah,Public,MOHAP,Active
+FAC00978,NMC Hospital - Khor Fakkan,Hospital,Small,Sharjah,Khor Fakkan,Khor Fakkan,Public,DHA Dubai,Temporarily Closed
+FAC00979,Aster Specialty Center - Abu Dhabi,Specialty Center,Medium,Abu Dhabi,Abu Dhabi City,Abu Dhabi,Public,DoH Abu Dhabi,Active
+FAC00980,Emirates Clinic - Ruwais,Clinic,Small,Abu Dhabi,Al Ain,Ruwais,Public,Sharjah Health Authority,Active
+FAC00981,MediCare Clinic - Dubai,Clinic,,Dubai,Dubai,Dubai,Public,MOHAP,Active
+FAC00982,NMC Medical Center - Al Ain,Medical Center,Small,Abu Dhabi,Abu Dhabi City,Al Ain,Public,DoH Abu Dhabi,Active
+FAC00983,Al Noor Day Surgery Center - Al Ain,Day Surgery Center,Medium,Abu Dhabi,Al Ain,Al Ain,Public,DHA Dubai,Active
+FAC00984,NMC Clinic - Madinat Zayed,Clinic,Medium,Abu Dhabi,Al Ain,Madinat Zayed,Private,Sharjah Health Authority,Active
+FAC00985,Life Day Surgery Center - Hatta,Day Surgery Center,Small,Dubai,Dubai,Hatta,Public,Sharjah Health Authority,Temporarily Closed
+FAC00986,Al Noor Medical Center - Umm Al Quwain,Medical Center,Medium,Umm Al Quwain,Umm Al Quwain,Umm Al Quwain,Public,Sharjah Health Authority,Temporarily Closed
+FAC00987,NMC Hospital - Jebel Ali,Hospital,Large,Dubai,Dubai,Jebel Ali,Private,DoH Abu Dhabi,Temporarily Closed
+FAC00988,National Hospital - Hatta,Hospital,Tertiary,Dubai,Dubai,Hatta,Public,DoH Abu Dhabi,Temporarily Closed
+FAC00989,Al Noor Day Surgery Center - Ruwais,Day Surgery Center,Large,Abu Dhabi,Abu Dhabi City,Ruwais,Public,DHA Dubai,Temporarily Closed
+FAC00990,Burjeel Day Surgery Center - Ras Al Khaimah,Day Surgery Center,Small,Ras Al Khaimah,Ras Al Khaimah,Ras Al Khaimah,Private,MOHAP,Temporarily Closed
+FAC00991,Prime Specialty Center - Kalba,Specialty Center,Medium,Sharjah,Al Dhaid,Kalba,Private,DoH Abu Dhabi,Active
+FAC00992,Gulf Medical Center - Kalba,Medical Center,Tertiary,Sharjah,Al Dhaid,Kalba,Private,DHA Dubai,Active
+FAC00993,Burjeel Medical Center - Dubai,Medical Center,Small,Dubai,Dubai,Dubai,Private,DoH Abu Dhabi,Temporarily Closed
+FAC00994,Aster Medical Center - Abu Dhabi,Medical Center,Small,Abu Dhabi,Abu Dhabi City,Abu Dhabi,Public,DoH Abu Dhabi,Active
+FAC00995,Emirates Clinic - Madinat Zayed,Clinic,Tertiary,Abu Dhabi,Al Dhafra,Madinat Zayed,Private,Sharjah Health Authority,Temporarily Closed
+FAC00996,Life Clinic - Madinat Zayed,Clinic,Small,Abu Dhabi,Al Ain,Madinat Zayed,Private,MOHAP,Active
+FAC00997,Gulf Clinic - Khor Fakkan,Clinic,Small,Sharjah,Sharjah,Khor Fakkan,Private,Sharjah Health Authority,Active
+FAC00998,NMC Hospital - Ruwais,Hospital,Large,Abu Dhabi,Al Dhafra,Ruwais,Public,DoH Abu Dhabi,Active
+FAC00999,Emirates Clinic - Madinat Zayed,Clinic,Small,Abu Dhabi,Abu Dhabi City,Madinat Zayed,Public,MOHAP,Temporarily Closed
+FAC01000,Aster Clinic - Sharjah,Clinic,,Sharjah,Sharjah,Sharjah,Public,MOHAP,Active
+FAC01001,Burjeel Clinic - Sharjah,Clinic,Medium,Sharjah,Sharjah,Sharjah,Private,DHA Dubai,Active
+FAC01002,Al Noor Hospital - Abu Dhabi,Hospital,Medium,Abu Dhabi,Al Ain,Abu Dhabi,Public,DoH Abu Dhabi,Active
+FAC01003,Gulf Clinic - Ras Al Khaimah,Clinic,Large,Ras Al Khaimah,Ras Al Khaimah,Ras Al Khaimah,Public,DHA Dubai,Active
+FAC01004,Al Noor Hospital - Umm Al Quwain,Hospital,Tertiary,Umm Al Quwain,Umm Al Quwain,Umm Al Quwain,Public,MOHAP,Active
+FAC01005,NMC Medical Center - Fujairah,Medical Center,Tertiary,Fujairah,Fujairah,Fujairah,Private,Sharjah Health Authority,Active
+FAC01006,Aster Clinic - Dubai,Clinic,Large,Dubai,Dubai,Dubai,Private,Sharjah Health Authority,Active
+FAC01007,Life Specialty Center - Umm Al Quwain,Specialty Center,Large,Umm Al Quwain,Umm Al Quwain,Umm Al Quwain,Private,DHA Dubai,Active
+FAC01008,Al Noor Medical Center - Fujairah,Medical Center,Small,Fujairah,Fujairah,Fujairah,Private,MOHAP,Active
+FAC01009,National Hospital - Kalba,Hospital,Medium,Sharjah,Khor Fakkan,Kalba,Private,DHA Dubai,Temporarily Closed
+FAC01010,Burjeel Clinic - Sharjah,Clinic,Medium,Sharjah,Sharjah,Sharjah,Private,DoH Abu Dhabi,Active
+FAC01011,MediCare Clinic - Ruwais,Clinic,Large,Abu Dhabi,Al Dhafra,Ruwais,Private,Sharjah Health Authority,Active
+FAC01012,Prime Medical Center - Abu Dhabi,Medical Center,Medium,Abu Dhabi,Abu Dhabi City,Abu Dhabi,Private,DoH Abu Dhabi,Active
+FAC01013,National Clinic - Jebel Ali,Clinic,Large,Dubai,Dubai,Jebel Ali,Public,DHA Dubai,Temporarily Closed
+FAC01014,Emirates Clinic - Hatta,Clinic,Small,Dubai,Dubai,Hatta,Public,Sharjah Health Authority,Active
+FAC01015,NMC Specialty Center - Fujairah,Specialty Center,Tertiary,Fujairah,Fujairah,Fujairah,Public,MOHAP,Active
+FAC01016,Aster Specialty Center - Hatta,Specialty Center,Medium,Dubai,Dubai,Hatta,Private,MOHAP,Active
+FAC01017,Al Noor Clinic - Hatta,Clinic,Large,Dubai,Dubai,Hatta,Private,DoH Abu Dhabi,Temporarily Closed
+FAC01018,Burjeel Clinic - Dibba Al-Fujairah,Clinic,Small,Fujairah,Fujairah,Dibba Al-Fujairah,Private,MOHAP,Temporarily Closed
+FAC01019,Burjeel Clinic - Ajman,Clinic,Large,Ajman,Ajman,Ajman,Public,DHA Dubai,Active
+FAC01020,Prime Clinic - Kalba,Clinic,Tertiary,Sharjah,Al Dhaid,Kalba,Private,DHA Dubai,Active
+FAC01021,Al Noor Clinic - Khor Fakkan,Clinic,Tertiary,Sharjah,Sharjah,Khor Fakkan,Public,DoH Abu Dhabi,Active
+FAC01022,Aster Medical Center - Kalba,Medical Center,Large,Sharjah,Sharjah,Kalba,Private,DoH Abu Dhabi,Active
+FAC01023,NMC Clinic - Hatta,Clinic,Large,Dubai,Dubai,Hatta,Public,Sharjah Health Authority,Active
+FAC01024,NMC Clinic - Khor Fakkan,Clinic,Large,Sharjah,Khor Fakkan,Khor Fakkan,Private,MOHAP,Active
+FAC01025,NMC Day Surgery Center - Abu Dhabi,Day Surgery Center,Medium,Abu Dhabi,Al Dhafra,Abu Dhabi,Private,MOHAP,Active
+FAC01026,Al Noor Clinic - Ruwais,Clinic,Medium,Abu Dhabi,Abu Dhabi City,Ruwais,Public,DHA Dubai,Active
+FAC01027,Burjeel Medical Center - Hatta,Medical Center,Large,Dubai,Dubai,Hatta,Private,MOHAP,Active
+FAC01028,NMC Medical Center - Sharjah,Medical Center,Tertiary,Sharjah,Sharjah,Sharjah,Private,DoH Abu Dhabi,Temporarily Closed
+FAC01029,National Clinic - Al Ain,Clinic,Small,Abu Dhabi,Al Ain,Al Ain,Public,DoH Abu Dhabi,Active
+FAC01030,Gulf Medical Center - Jebel Ali,Medical Center,Small,Dubai,Dubai,Jebel Ali,Private,DoH Abu Dhabi,Active
+FAC01031,Life Clinic - Abu Dhabi,Clinic,Small,Abu Dhabi,Al Ain,Abu Dhabi,Public,MOHAP,Temporarily Closed
+FAC01032,Emirates Clinic - Abu Dhabi,Clinic,Tertiary,Abu Dhabi,Al Ain,Abu Dhabi,Private,MOHAP,Temporarily Closed
+FAC01033,Burjeel Clinic - Sharjah,Clinic,Large,Sharjah,Al Dhaid,Sharjah,Private,DHA Dubai,Active
+FAC01034,Prime Day Surgery Center - Khor Fakkan,Day Surgery Center,Large,Sharjah,Sharjah,Khor Fakkan,Public,Sharjah Health Authority,Active
+FAC01035,Al Noor Specialty Center - Ras Al Khaimah,Specialty Center,Tertiary,Ras Al Khaimah,Ras Al Khaimah,Ras Al Khaimah,Private,DHA Dubai,Active
+FAC01036,Prime Medical Center - Madinat Zayed,Medical Center,Large,Abu Dhabi,Abu Dhabi City,Madinat Zayed,Private,DHA Dubai,Active
+FAC01037,Emirates Hospital - Abu Dhabi,Hospital,Medium,Abu Dhabi,Al Ain,Abu Dhabi,Public,DoH Abu Dhabi,Active
+FAC01038,Gulf Medical Center - Ruwais,Medical Center,Small,Abu Dhabi,Al Dhafra,Ruwais,Public,Sharjah Health Authority,Active
+FAC01039,Burjeel Clinic - Abu Dhabi,Clinic,Tertiary,Abu Dhabi,Al Dhafra,Abu Dhabi,Private,MOHAP,Active
+FAC01040,Burjeel Hospital - Ruwais,Hospital,Small,Abu Dhabi,Abu Dhabi City,Ruwais,Private,MOHAP,Active
+FAC01041,Al Noor Specialty Center - Hatta,Specialty Center,Small,Dubai,Dubai,Hatta,Private,Sharjah Health Authority,Active
+FAC01042,Emirates Hospital - Al Ain,Hospital,Medium,Abu Dhabi,Abu Dhabi City,Al Ain,Public,DHA Dubai,Active
+FAC01043,Life Clinic - Dibba Al-Fujairah,Clinic,Large,Fujairah,Fujairah,Dibba Al-Fujairah,Public,Sharjah Health Authority,Active
+FAC01044,Burjeel Day Surgery Center - Ras Al Khaimah,Day Surgery Center,Tertiary,Ras Al Khaimah,Ras Al Khaimah,Ras Al Khaimah,Public,DoH Abu Dhabi,Active
+FAC01045,Life Specialty Center - Ras Al Khaimah,Specialty Center,Tertiary,Ras Al Khaimah,Ras Al Khaimah,Ras Al Khaimah,Public,DoH Abu Dhabi,Active
+FAC01046,Al Noor Hospital - Ajman,Hospital,Tertiary,Ajman,Ajman,Ajman,Private,DHA Dubai,Active
+FAC01047,Aster Clinic - Dubai,Clinic,Medium,Dubai,Dubai,Dubai,Public,DHA Dubai,Temporarily Closed
+FAC01048,Burjeel Hospital - Dibba Al-Fujairah,Hospital,Medium,Fujairah,Fujairah,Dibba Al-Fujairah,Public,DoH Abu Dhabi,Active
+FAC01049,National Hospital - Hatta,Hospital,Medium,Dubai,Dubai,Hatta,Private,MOHAP,Active
+FAC01050,Life Clinic - Madinat Zayed,Clinic,Tertiary,Abu Dhabi,Abu Dhabi City,Madinat Zayed,Private,DHA Dubai,Temporarily Closed
+FAC01051,Life Medical Center - Jebel Ali,Medical Center,Large,Dubai,Dubai,Jebel Ali,Public,DoH Abu Dhabi,Active
+FAC01052,National Medical Center - Dubai,Medical Center,Large,Dubai,Dubai,Dubai,Private,MOHAP,Active
+FAC01053,Prime Medical Center - Abu Dhabi,Medical Center,Tertiary,Abu Dhabi,Al Dhafra,Abu Dhabi,Public,MOHAP,Active
+FAC01054,Gulf Hospital - Sharjah,Hospital,Tertiary,Sharjah,Al Dhaid,Sharjah,Public,Sharjah Health Authority,Active
+FAC01055,MediCare Day Surgery Center - Masfout,Day Surgery Center,Large,Ajman,Ajman,Masfout,Public,DHA Dubai,Active
+FAC01056,Life Medical Center - Ruwais,Medical Center,Large,Abu Dhabi,Abu Dhabi City,Ruwais,Public,DoH Abu Dhabi,Active
+FAC01057,Prime Specialty Center - Fujairah,Specialty Center,Medium,Fujairah,Fujairah,Fujairah,Private,MOHAP,Active
+FAC01058,Al Noor Hospital - Jebel Ali,Hospital,Small,Dubai,Dubai,Jebel Ali,Public,MOHAP,Active
+FAC01059,Aster Specialty Center - Dhaid,Specialty Center,Tertiary,Sharjah,Khor Fakkan,Dhaid,Private,DoH Abu Dhabi,Active
+FAC01060,Burjeel Hospital - Al Ain,Hospital,Tertiary,Abu Dhabi,Al Dhafra,Al Ain,Public,DoH Abu Dhabi,Active
+FAC01061,Life Clinic - Ruwais,Clinic,Medium,Abu Dhabi,Al Dhafra,Ruwais,Public,DHA Dubai,Active
+FAC01062,National Medical Center - Jebel Ali,Medical Center,Large,Dubai,Dubai,Jebel Ali,Private,DoH Abu Dhabi,Active
+FAC01063,Aster Medical Center - Hatta,Medical Center,Tertiary,Dubai,Dubai,Hatta,Public,DHA Dubai,Active
+FAC01064,MediCare Medical Center - Al Ain,Medical Center,Tertiary,Abu Dhabi,Abu Dhabi City,Al Ain,Public,MOHAP,Active
+FAC01065,Aster Day Surgery Center - Khor Fakkan,Day Surgery Center,Medium,Sharjah,Al Dhaid,Khor Fakkan,Public,DHA Dubai,Active
+FAC01066,Al Noor Clinic - Ruwais,Clinic,Medium,Abu Dhabi,Al Dhafra,Ruwais,Private,DoH Abu Dhabi,Active
+FAC01067,Burjeel Specialty Center - Ruwais,Specialty Center,Medium,Abu Dhabi,Al Dhafra,Ruwais,Private,DHA Dubai,Active
+FAC01068,Emirates Day Surgery Center - Madinat Zayed,Day Surgery Center,Medium,Abu Dhabi,Al Dhafra,Madinat Zayed,Public,Sharjah Health Authority,Active
+FAC01069,Burjeel Clinic - Dhaid,Clinic,Medium,Sharjah,Khor Fakkan,Dhaid,Private,DoH Abu Dhabi,Active
+FAC01070,Emirates Day Surgery Center - Hatta,Day Surgery Center,Tertiary,Dubai,Dubai,Hatta,Public,DHA Dubai,Temporarily Closed
+FAC01071,National Hospital - Madinat Zayed,Hospital,Tertiary,Abu Dhabi,Al Dhafra,Madinat Zayed,Private,DHA Dubai,Active
+FAC01072,MediCare Clinic - Abu Dhabi,Clinic,Large,Abu Dhabi,Al Dhafra,Abu Dhabi,Public,DHA Dubai,Temporarily Closed
+FAC01073,Burjeel Hospital - Ruwais,Hospital,Tertiary,Abu Dhabi,Abu Dhabi City,Ruwais,Public,DoH Abu Dhabi,Active
+FAC01074,Prime Hospital - Hatta,Hospital,Large,Dubai,Dubai,Hatta,Public,Sharjah Health Authority,Active
+FAC01075,Aster Clinic - Ruwais,Clinic,Tertiary,Abu Dhabi,Al Ain,Ruwais,Private,Sharjah Health Authority,Temporarily Closed
+FAC01076,Emirates Specialty Center - Ras Al Khaimah,Specialty Center,Medium,Ras Al Khaimah,Ras Al Khaimah,Ras Al Khaimah,Private,DHA Dubai,Active
+FAC01077,Emirates Medical Center - Ajman,Medical Center,Large,Ajman,Ajman,Ajman,Private,DoH Abu Dhabi,Active
+FAC01078,Al Noor Medical Center - Hatta,Medical Center,Large,Dubai,Dubai,Hatta,Private,DHA Dubai,Temporarily Closed
+FAC01079,Prime Medical Center - Al Ain,Medical Center,Large,Abu Dhabi,Al Dhafra,Al Ain,Public,DoH Abu Dhabi,Active
+FAC01080,Prime Medical Center - Dubai,Medical Center,Tertiary,Dubai,Dubai,Dubai,Private,MOHAP,Active
+FAC01081,MediCare Specialty Center - Madinat Zayed,Specialty Center,Small,Abu Dhabi,Al Dhafra,Madinat Zayed,Private,DHA Dubai,Temporarily Closed
+FAC01082,Life Day Surgery Center - Umm Al Quwain,Day Surgery Center,Medium,Umm Al Quwain,Umm Al Quwain,Umm Al Quwain,Public,DoH Abu Dhabi,Active
+FAC01083,Emirates Specialty Center - Hatta,Specialty Center,Large,Dubai,Dubai,Hatta,Public,Sharjah Health Authority,Active
+FAC01084,Life Specialty Center - Hatta,Specialty Center,Tertiary,Dubai,Dubai,Hatta,Private,Sharjah Health Authority,Active
+FAC01085,MediCare Day Surgery Center - Hatta,Day Surgery Center,Medium,Dubai,Dubai,Hatta,Public,DoH Abu Dhabi,Active
+FAC01086,National Medical Center - Madinat Zayed,Medical Center,Medium,Abu Dhabi,Abu Dhabi City,Madinat Zayed,Private,MOHAP,Active
+FAC01087,Gulf Day Surgery Center - Jebel Ali,Day Surgery Center,Small,Dubai,Dubai,Jebel Ali,Private,MOHAP,Temporarily Closed
+FAC01088,Emirates Clinic - Abu Dhabi,Clinic,Medium,Abu Dhabi,Al Dhafra,Abu Dhabi,Public,Sharjah Health Authority,Temporarily Closed
+FAC01089,NMC Medical Center - Dubai,Medical Center,Medium,Dubai,Dubai,Dubai,Public,Sharjah Health Authority,Active
+FAC01090,MediCare Clinic - Kalba,Clinic,Medium,Sharjah,Al Dhaid,Kalba,Public,MOHAP,Temporarily Closed
+FAC01091,Life Hospital - Dubai,Hospital,Tertiary,Dubai,Dubai,Dubai,Public,Sharjah Health Authority,Active
+FAC01092,Aster Specialty Center - Ajman,Specialty Center,Medium,Ajman,Ajman,Ajman,Public,DoH Abu Dhabi,Active
+FAC01093,NMC Specialty Center - Fujairah,Specialty Center,Small,Fujairah,Fujairah,Fujairah,Public,DHA Dubai,Active
+FAC01094,Life Clinic - Dibba Al-Fujairah,Clinic,Large,Fujairah,Fujairah,Dibba Al-Fujairah,Private,MOHAP,Active
+FAC01095,Prime Clinic - Jebel Ali,Clinic,Medium,Dubai,Dubai,Jebel Ali,Private,Sharjah Health Authority,Active
+FAC01096,Al Noor Specialty Center - Al Ain,Specialty Center,Medium,Abu Dhabi,Al Ain,Al Ain,Public,DHA Dubai,Active
+FAC01097,Emirates Hospital - Al Ain,Hospital,Small,Abu Dhabi,Abu Dhabi City,Al Ain,Private,MOHAP,Active
+FAC01098,Life Clinic - Jebel Ali,Clinic,,Dubai,Dubai,Jebel Ali,Public,Sharjah Health Authority,Active
+FAC01099,Burjeel Clinic - Kalba,Clinic,Medium,Sharjah,Sharjah,Kalba,Public,DHA Dubai,Active
+FAC01100,Burjeel Clinic - Abu Dhabi,Clinic,Small,Abu Dhabi,Abu Dhabi City,Abu Dhabi,Public,MOHAP,Active
+FAC01101,Emirates Clinic - Al Ain,Clinic,Large,Abu Dhabi,Abu Dhabi City,Al Ain,Private,MOHAP,Temporarily Closed
+FAC01102,National Clinic - Dibba Al-Fujairah,Clinic,Medium,Fujairah,Fujairah,Dibba Al-Fujairah,Public,MOHAP,Active
+FAC01103,Burjeel Hospital - Sharjah,Hospital,Small,Sharjah,Sharjah,Sharjah,Private,DHA Dubai,Active
+FAC01104,Al Noor Hospital - Masfout,Hospital,Tertiary,Ajman,Ajman,Masfout,Private,DHA Dubai,Temporarily Closed
+FAC01105,Prime Hospital - Dubai,Hospital,Tertiary,Dubai,Dubai,Dubai,Private,MOHAP,Active
+FAC01106,NMC Clinic - Madinat Zayed,Clinic,Medium,Abu Dhabi,Al Dhafra,Madinat Zayed,Public,DHA Dubai,Active
+FAC01107,NMC Clinic - Madinat Zayed,Clinic,Tertiary,Abu Dhabi,Al Ain,Madinat Zayed,Private,DoH Abu Dhabi,Temporarily Closed
+FAC01108,MediCare Day Surgery Center - Ruwais,Day Surgery Center,Large,Abu Dhabi,Abu Dhabi City,Ruwais,Public,MOHAP,Active
+FAC01109,National Specialty Center - Abu Dhabi,Specialty Center,Small,Abu Dhabi,Abu Dhabi City,Abu Dhabi,Private,MOHAP,Active
+FAC01110,National Hospital - Jebel Ali,Hospital,Medium,Dubai,Dubai,Jebel Ali,Private,DoH Abu Dhabi,Active
+FAC01111,Aster Hospital - Jebel Ali,Hospital,Large,Dubai,Dubai,Jebel Ali,Public,MOHAP,Active
+FAC01112,Prime Medical Center - Dibba Al-Fujairah,Medical Center,Small,Fujairah,Fujairah,Dibba Al-Fujairah,Public,MOHAP,Active
+FAC01113,MediCare Medical Center - Dhaid,Medical Center,Medium,Sharjah,Khor Fakkan,Dhaid,Public,MOHAP,Active
+FAC01114,MediCare Clinic - Kalba,Clinic,Tertiary,Sharjah,Sharjah,Kalba,Private,Sharjah Health Authority,Temporarily Closed
+FAC01115,National Medical Center - Ras Al Khaimah,Medical Center,Small,Ras Al Khaimah,Ras Al Khaimah,Ras Al Khaimah,Public,Sharjah Health Authority,Active
+FAC01116,Gulf Hospital - Abu Dhabi,Hospital,,Abu Dhabi,Al Ain,Abu Dhabi,Public,DoH Abu Dhabi,Active
+FAC01117,Prime Clinic - Hatta,Clinic,Large,Dubai,Dubai,Hatta,Public,DHA Dubai,Temporarily Closed
+FAC01118,National Specialty Center - Kalba,Specialty Center,Tertiary,Sharjah,Khor Fakkan,Kalba,Private,DoH Abu Dhabi,Active
+FAC01119,MediCare Specialty Center - Hatta,Specialty Center,,Dubai,Dubai,Hatta,Private,MOHAP,Active
+FAC01120,Emirates Clinic - Ajman,Clinic,Large,Ajman,Ajman,Ajman,Public,Sharjah Health Authority,Temporarily Closed
+FAC01121,Life Medical Center - Khor Fakkan,Medical Center,Large,Sharjah,Khor Fakkan,Khor Fakkan,Private,DHA Dubai,Active
+FAC01122,MediCare Day Surgery Center - Fujairah,Day Surgery Center,Medium,Fujairah,Fujairah,Fujairah,Private,DHA Dubai,Active
+FAC01123,NMC Clinic - Hatta,Clinic,Medium,Dubai,Dubai,Hatta,Public,MOHAP,Active
+FAC01124,Aster Clinic - Ruwais,Clinic,Large,Abu Dhabi,Al Dhafra,Ruwais,Private,DoH Abu Dhabi,Temporarily Closed
+FAC01125,Burjeel Hospital - Ruwais,Hospital,Large,Abu Dhabi,Al Dhafra,Ruwais,Private,Sharjah Health Authority,Temporarily Closed
+FAC01126,Gulf Medical Center - Madinat Zayed,Medical Center,Small,Abu Dhabi,Al Ain,Madinat Zayed,Private,MOHAP,Active
+FAC01127,NMC Medical Center - Al Ain,Medical Center,Small,Abu Dhabi,Abu Dhabi City,Al Ain,Private,DHA Dubai,Temporarily Closed
+FAC01128,Gulf Hospital - Hatta,Hospital,Small,Dubai,Dubai,Hatta,Public,MOHAP,Active
+FAC01129,National Medical Center - Dubai,Medical Center,Small,Dubai,Dubai,Dubai,Public,DoH Abu Dhabi,Active
+FAC01130,Al Noor Clinic - Dibba Al-Fujairah,Clinic,Tertiary,Fujairah,Fujairah,Dibba Al-Fujairah,Public,DoH Abu Dhabi,Active
+FAC01131,Gulf Clinic - Dubai,Clinic,Medium,Dubai,Dubai,Dubai,Public,MOHAP,Active
+FAC01132,National Medical Center - Abu Dhabi,Medical Center,Large,Abu Dhabi,Abu Dhabi City,Abu Dhabi,Private,DoH Abu Dhabi,Active
+FAC01133,Burjeel Hospital - Jebel Ali,Hospital,Medium,Dubai,Dubai,Jebel Ali,Public,DoH Abu Dhabi,Active
+FAC01134,Emirates Hospital - Jebel Ali,Hospital,Medium,Dubai,Dubai,Jebel Ali,Private,MOHAP,Active
+FAC01135,Burjeel Medical Center - Masfout,Medical Center,Tertiary,Ajman,Ajman,Masfout,Private,DHA Dubai,Temporarily Closed
+FAC01136,National Hospital - Ruwais,Hospital,Large,Abu Dhabi,Al Ain,Ruwais,Private,DoH Abu Dhabi,Active
+FAC01137,Emirates Clinic - Dubai,Clinic,Medium,Dubai,Dubai,Dubai,Private,DoH Abu Dhabi,Active
+FAC01138,National Specialty Center - Jebel Ali,Specialty Center,Large,Dubai,Dubai,Jebel Ali,Public,Sharjah Health Authority,Temporarily Closed
+FAC01139,Burjeel Day Surgery Center - Jebel Ali,Day Surgery Center,Large,Dubai,Dubai,Jebel Ali,Public,DHA Dubai,Active
+FAC01140,Gulf Medical Center - Kalba,Medical Center,Tertiary,Sharjah,Al Dhaid,Kalba,Private,DHA Dubai,Temporarily Closed
+FAC01141,Al Noor Day Surgery Center - Jebel Ali,Day Surgery Center,Large,Dubai,Dubai,Jebel Ali,Public,DoH Abu Dhabi,Active
+FAC01142,MediCare Clinic - Ras Al Khaimah,Clinic,Medium,Ras Al Khaimah,Ras Al Khaimah,Ras Al Khaimah,Private,DoH Abu Dhabi,Active
+FAC01143,National Hospital - Jebel Ali,Hospital,Large,Dubai,Dubai,Jebel Ali,Public,MOHAP,Active
+FAC01144,Al Noor Clinic - Hatta,Clinic,Medium,Dubai,Dubai,Hatta,Public,MOHAP,Active
+FAC01145,MediCare Clinic - Ruwais,Clinic,Small,Abu Dhabi,Al Dhafra,Ruwais,Public,DHA Dubai,Temporarily Closed
+FAC01146,NMC Clinic - Khor Fakkan,Clinic,Tertiary,Sharjah,Al Dhaid,Khor Fakkan,Private,DoH Abu Dhabi,Temporarily Closed
+FAC01147,Gulf Clinic - Hatta,Clinic,Large,Dubai,Dubai,Hatta,Public,MOHAP,Active
+FAC01148,Life Clinic - Abu Dhabi,Clinic,Medium,Abu Dhabi,Al Ain,Abu Dhabi,Private,DHA Dubai,Active
+FAC01149,Aster Hospital - Dhaid,Hospital,Small,Sharjah,Sharjah,Dhaid,Private,DHA Dubai,Active
+FAC01150,Aster Medical Center - Khor Fakkan,Medical Center,Tertiary,Sharjah,Khor Fakkan,Khor Fakkan,Public,Sharjah Health Authority,Active
+FAC01151,Prime Clinic - Hatta,Clinic,Small,Dubai,Dubai,Hatta,Public,MOHAP,Active
+FAC01152,Gulf Hospital - Dubai,Hospital,Medium,Dubai,Dubai,Dubai,Private,Sharjah Health Authority,Temporarily Closed
+FAC01153,National Clinic - Fujairah,Clinic,Tertiary,Fujairah,Fujairah,Fujairah,Private,DHA Dubai,Temporarily Closed
+FAC01154,Emirates Medical Center - Dibba Al-Fujairah,Medical Center,Tertiary,Fujairah,Fujairah,Dibba Al-Fujairah,Public,DoH Abu Dhabi,Temporarily Closed
+FAC01155,Life Hospital - Ruwais,Hospital,Medium,Abu Dhabi,Al Ain,Ruwais,Private,DoH Abu Dhabi,Active
+FAC01156,National Specialty Center - Dubai,Specialty Center,Large,Dubai,Dubai,Dubai,Private,DoH Abu Dhabi,Active
+FAC01157,Al Noor Medical Center - Hatta,Medical Center,Tertiary,Dubai,Dubai,Hatta,Private,DHA Dubai,Active
+FAC01158,MediCare Medical Center - Abu Dhabi,Medical Center,Medium,Abu Dhabi,Al Ain,Abu Dhabi,Private,MOHAP,Active
+FAC01159,Life Clinic - Jebel Ali,Clinic,Tertiary,Dubai,Dubai,Jebel Ali,Public,DHA Dubai,Temporarily Closed
+FAC01160,Emirates Clinic - Hatta,Clinic,Large,Dubai,Dubai,Hatta,Private,MOHAP,Temporarily Closed
+FAC01161,Gulf Hospital - Umm Al Quwain,Hospital,Small,Umm Al Quwain,Umm Al Quwain,Umm Al Quwain,Public,MOHAP,Temporarily Closed
+FAC01162,Prime Clinic - Ruwais,Clinic,Small,Abu Dhabi,Al Ain,Ruwais,Public,DoH Abu Dhabi,Active
+FAC01163,Al Noor Clinic - Abu Dhabi,Clinic,Tertiary,Abu Dhabi,Abu Dhabi City,Abu Dhabi,Public,DHA Dubai,Active
+FAC01164,NMC Day Surgery Center - Ajman,Day Surgery Center,Large,Ajman,Ajman,Ajman,Public,Sharjah Health Authority,Active
+FAC01165,MediCare Hospital - Khor Fakkan,Hospital,Medium,Sharjah,Al Dhaid,Khor Fakkan,Private,DoH Abu Dhabi,Temporarily Closed
+FAC01166,Life Medical Center - Masfout,Medical Center,,Ajman,Ajman,Masfout,Public,DoH Abu Dhabi,Temporarily Closed
+FAC01167,Burjeel Medical Center - Masfout,Medical Center,Medium,Ajman,Ajman,Masfout,Private,MOHAP,Active
+FAC01168,Gulf Day Surgery Center - Dubai,Day Surgery Center,Medium,Dubai,Dubai,Dubai,Private,DHA Dubai,Temporarily Closed
+FAC01169,MediCare Clinic - Madinat Zayed,Clinic,Tertiary,Abu Dhabi,Abu Dhabi City,Madinat Zayed,Public,MOHAP,Active
+FAC01170,Life Medical Center - Kalba,Medical Center,Tertiary,Sharjah,Sharjah,Kalba,Public,Sharjah Health Authority,Active
+FAC01171,Emirates Medical Center - Umm Al Quwain,Medical Center,Large,Umm Al Quwain,Umm Al Quwain,Umm Al Quwain,Private,DHA Dubai,Active
+FAC01172,Prime Medical Center - Dubai,Medical Center,Medium,Dubai,Dubai,Dubai,Public,MOHAP,Active
+FAC01173,NMC Clinic - Ruwais,Clinic,Tertiary,Abu Dhabi,Abu Dhabi City,Ruwais,Private,DoH Abu Dhabi,Active
+FAC01174,National Hospital - Al Ain,Hospital,Medium,Abu Dhabi,Al Ain,Al Ain,Public,DoH Abu Dhabi,Temporarily Closed
+FAC01175,Emirates Clinic - Dubai,Clinic,Small,Dubai,Dubai,Dubai,Public,DoH Abu Dhabi,Active
+FAC01176,National Day Surgery Center - Al Ain,Day Surgery Center,Tertiary,Abu Dhabi,Al Ain,Al Ain,Public,DHA Dubai,Active
+FAC01177,National Medical Center - Al Ain,Medical Center,Large,Abu Dhabi,Al Dhafra,Al Ain,Private,MOHAP,Active
+FAC01178,Prime Day Surgery Center - Khor Fakkan,Day Surgery Center,Large,Sharjah,Sharjah,Khor Fakkan,Public,MOHAP,Active
+FAC01179,Emirates Medical Center - Hatta,Medical Center,Medium,Dubai,Dubai,Hatta,Public,Sharjah Health Authority,Temporarily Closed
+FAC01180,Aster Specialty Center - Kalba,Specialty Center,Medium,Sharjah,Sharjah,Kalba,Public,DoH Abu Dhabi,Active
+FAC01181,Gulf Clinic - Ras Al Khaimah,Clinic,Small,Ras Al Khaimah,Ras Al Khaimah,Ras Al Khaimah,Public,MOHAP,Active
+FAC01182,National Clinic - Sharjah,Clinic,Tertiary,Sharjah,Khor Fakkan,Sharjah,Private,DoH Abu Dhabi,Active
+FAC01183,Al Noor Hospital - Ras Al Khaimah,Hospital,Medium,Ras Al Khaimah,Ras Al Khaimah,Ras Al Khaimah,Public,DoH Abu Dhabi,Active
+FAC01184,NMC Medical Center - Ruwais,Medical Center,Tertiary,Abu Dhabi,Al Ain,Ruwais,Private,DHA Dubai,Temporarily Closed
+FAC01185,NMC Medical Center - Abu Dhabi,Medical Center,Small,Abu Dhabi,Al Dhafra,Abu Dhabi,Public,Sharjah Health Authority,Active
+FAC01186,Life Specialty Center - Al Ain,Specialty Center,Tertiary,Abu Dhabi,Al Ain,Al Ain,Public,Sharjah Health Authority,Active
+FAC01187,Aster Clinic - Sharjah,Clinic,Large,Sharjah,Al Dhaid,Sharjah,Public,DoH Abu Dhabi,Active
+FAC01188,Prime Specialty Center - Dubai,Specialty Center,Medium,Dubai,Dubai,Dubai,Private,DHA Dubai,Temporarily Closed
+FAC01189,Prime Medical Center - Umm Al Quwain,Medical Center,Large,Umm Al Quwain,Umm Al Quwain,Umm Al Quwain,Public,DHA Dubai,Active
+FAC01190,Aster Hospital - Ajman,Hospital,Tertiary,Ajman,Ajman,Ajman,Private,MOHAP,Active
+FAC01191,Life Hospital - Jebel Ali,Hospital,Medium,Dubai,Dubai,Jebel Ali,Public,DHA Dubai,Temporarily Closed
+FAC01192,Al Noor Medical Center - Fujairah,Medical Center,Medium,Fujairah,Fujairah,Fujairah,Public,MOHAP,Temporarily Closed
+FAC01193,Burjeel Medical Center - Madinat Zayed,Medical Center,Large,Abu Dhabi,Al Dhafra,Madinat Zayed,Public,Sharjah Health Authority,Active
+FAC01194,National Clinic - Sharjah,Clinic,Large,Sharjah,Khor Fakkan,Sharjah,Private,Sharjah Health Authority,Active
+FAC01195,National Specialty Center - Khor Fakkan,Specialty Center,Medium,Sharjah,Al Dhaid,Khor Fakkan,Private,MOHAP,Temporarily Closed
+FAC01196,National Clinic - Abu Dhabi,Clinic,Small,Abu Dhabi,Al Ain,Abu Dhabi,Public,DoH Abu Dhabi,Active
+FAC01197,Emirates Medical Center - Ruwais,Medical Center,Tertiary,Abu Dhabi,Abu Dhabi City,Ruwais,Private,DoH Abu Dhabi,Active
+FAC01198,Burjeel Clinic - Jebel Ali,Clinic,Tertiary,Dubai,Dubai,Jebel Ali,Private,MOHAP,Temporarily Closed
+FAC01199,Gulf Clinic - Masfout,Clinic,Small,Ajman,Ajman,Masfout,Public,DHA Dubai,Temporarily Closed
+FAC01200,Prime Hospital - Masfout,Hospital,Small,Ajman,Ajman,Masfout,Public,DHA Dubai,Active
+FAC01201,Burjeel Medical Center - Hatta,Medical Center,Large,Dubai,Dubai,Hatta,Private,Sharjah Health Authority,Active
+FAC01202,NMC Medical Center - Ajman,Medical Center,Small,Ajman,Ajman,Ajman,Private,DHA Dubai,Temporarily Closed
+FAC01203,Gulf Specialty Center - Ajman,Specialty Center,Small,Ajman,Ajman,Ajman,Public,DHA Dubai,Active
+FAC01204,Burjeel Clinic - Dubai,Clinic,Tertiary,Dubai,Dubai,Dubai,Private,MOHAP,Active
+FAC01205,Al Noor Day Surgery Center - Masfout,Day Surgery Center,Tertiary,Ajman,Ajman,Masfout,Private,DHA Dubai,Active
+FAC01206,Gulf Hospital - Umm Al Quwain,Hospital,Small,Umm Al Quwain,Umm Al Quwain,Umm Al Quwain,Private,MOHAP,Active
+FAC01207,Life Medical Center - Hatta,Medical Center,Small,Dubai,Dubai,Hatta,Public,DHA Dubai,Temporarily Closed
+FAC01208,Gulf Clinic - Ruwais,Clinic,Tertiary,Abu Dhabi,Al Ain,Ruwais,Private,DoH Abu Dhabi,Active
+FAC01209,Gulf Hospital - Masfout,Hospital,Tertiary,Ajman,Ajman,Masfout,Private,Sharjah Health Authority,Active
+FAC01210,MediCare Specialty Center - Ajman,Specialty Center,Tertiary,Ajman,Ajman,Ajman,Private,MOHAP,Active
+FAC01211,MediCare Clinic - Khor Fakkan,Clinic,Small,Sharjah,Sharjah,Khor Fakkan,Public,MOHAP,Active
+FAC01212,Prime Clinic - Dibba Al-Fujairah,Clinic,Medium,Fujairah,Fujairah,Dibba Al-Fujairah,Private,DHA Dubai,Active
+FAC01213,Aster Medical Center - Masfout,Medical Center,Large,Ajman,Ajman,Masfout,Public,Sharjah Health Authority,Active
+FAC01214,Burjeel Clinic - Ruwais,Clinic,Large,Abu Dhabi,Al Dhafra,Ruwais,Public,DoH Abu Dhabi,Temporarily Closed
+FAC01215,Gulf Clinic - Ruwais,Clinic,Tertiary,Abu Dhabi,Abu Dhabi City,Ruwais,Private,Sharjah Health Authority,Active
+FAC01216,NMC Medical Center - Sharjah,Medical Center,Large,Sharjah,Sharjah,Sharjah,Public,DoH Abu Dhabi,Temporarily Closed
+FAC01217,Gulf Medical Center - Al Ain,Medical Center,Tertiary,Abu Dhabi,Al Dhafra,Al Ain,Private,DoH Abu Dhabi,Active
+FAC01218,Emirates Medical Center - Dubai,Medical Center,Tertiary,Dubai,Dubai,Dubai,Private,DHA Dubai,Active
+FAC01219,Emirates Medical Center - Abu Dhabi,Medical Center,Large,Abu Dhabi,Al Ain,Abu Dhabi,Private,MOHAP,Active
+FAC01220,Burjeel Clinic - Hatta,Clinic,Large,Dubai,Dubai,Hatta,Private,MOHAP,Active
+FAC01221,Gulf Day Surgery Center - Ajman,Day Surgery Center,Medium,Ajman,Ajman,Ajman,Public,DoH Abu Dhabi,Active
+FAC01222,Prime Medical Center - Hatta,Medical Center,Tertiary,Dubai,Dubai,Hatta,Public,DoH Abu Dhabi,Active
+FAC01223,Emirates Clinic - Fujairah,Clinic,Large,Fujairah,Fujairah,Fujairah,Private,DoH Abu Dhabi,Active
+FAC01224,National Hospital - Masfout,Hospital,Large,Ajman,Ajman,Masfout,Private,Sharjah Health Authority,Active
+FAC01225,Burjeel Medical Center - Dubai,Medical Center,Tertiary,Dubai,Dubai,Dubai,Private,Sharjah Health Authority,Active
+FAC01226,Emirates Clinic - Abu Dhabi,Clinic,Large,Abu Dhabi,Al Dhafra,Abu Dhabi,Private,MOHAP,Active
+FAC01227,Gulf Specialty Center - Ruwais,Specialty Center,Medium,Abu Dhabi,Al Ain,Ruwais,Public,Sharjah Health Authority,Active
+FAC01228,Aster Clinic - Dibba Al-Fujairah,Clinic,Small,Fujairah,Fujairah,Dibba Al-Fujairah,Private,MOHAP,Active
+FAC01229,Emirates Medical Center - Jebel Ali,Medical Center,Large,Dubai,Dubai,Jebel Ali,Public,DoH Abu Dhabi,Active
+FAC01230,Al Noor Clinic - Dibba Al-Fujairah,Clinic,Large,Fujairah,Fujairah,Dibba Al-Fujairah,Private,DHA Dubai,Active
+FAC01231,Al Noor Clinic - Hatta,Clinic,,Dubai,Dubai,Hatta,Private,DoH Abu Dhabi,Active
+FAC01232,NMC Clinic - Kalba,Clinic,Small,Sharjah,Khor Fakkan,Kalba,Public,DHA Dubai,Active
+FAC01233,Prime Medical Center - Jebel Ali,Medical Center,Medium,Dubai,Dubai,Jebel Ali,Public,DHA Dubai,Active
+FAC01234,Life Day Surgery Center - Madinat Zayed,Day Surgery Center,Medium,Abu Dhabi,Al Dhafra,Madinat Zayed,Public,DHA Dubai,Active
+FAC01235,Life Medical Center - Hatta,Medical Center,Small,Dubai,Dubai,Hatta,Private,DHA Dubai,Active
+FAC01236,Gulf Hospital - Madinat Zayed,Hospital,Medium,Abu Dhabi,Al Ain,Madinat Zayed,Private,DoH Abu Dhabi,Temporarily Closed
+FAC01237,Life Clinic - Jebel Ali,Clinic,Tertiary,Dubai,Dubai,Jebel Ali,Public,DHA Dubai,Active
+FAC01238,MediCare Clinic - Ruwais,Clinic,Medium,Abu Dhabi,Abu Dhabi City,Ruwais,Public,DoH Abu Dhabi,Active
+FAC01239,Gulf Medical Center - Abu Dhabi,Medical Center,Small,Abu Dhabi,Al Dhafra,Abu Dhabi,Public,DoH Abu Dhabi,Active
+FAC01240,National Hospital - Hatta,Hospital,Large,Dubai,Dubai,Hatta,Public,Sharjah Health Authority,Temporarily Closed
+FAC01241,Aster Clinic - Al Ain,Clinic,Medium,Abu Dhabi,Al Dhafra,Al Ain,Private,Sharjah Health Authority,Temporarily Closed
+FAC01242,Life Clinic - Al Ain,Clinic,Medium,Abu Dhabi,Abu Dhabi City,Al Ain,Private,DHA Dubai,Active
+FAC01243,Gulf Clinic - Al Ain,Clinic,Small,Abu Dhabi,Al Ain,Al Ain,Private,DHA Dubai,Active
+FAC01244,Emirates Day Surgery Center - Ras Al Khaimah,Day Surgery Center,Large,Ras Al Khaimah,Ras Al Khaimah,Ras Al Khaimah,Public,DoH Abu Dhabi,Temporarily Closed
+FAC01245,NMC Specialty Center - Fujairah,Specialty Center,Medium,Fujairah,Fujairah,Fujairah,Public,DHA Dubai,Active
+FAC01246,Gulf Clinic - Masfout,Clinic,Tertiary,Ajman,Ajman,Masfout,Private,DHA Dubai,Temporarily Closed
+FAC01247,Gulf Hospital - Fujairah,Hospital,Large,Fujairah,Fujairah,Fujairah,Public,DoH Abu Dhabi,Temporarily Closed
+FAC01248,Aster Specialty Center - Dibba Al-Fujairah,Specialty Center,Tertiary,Fujairah,Fujairah,Dibba Al-Fujairah,Public,MOHAP,Active
+FAC01249,Aster Clinic - Ruwais,Clinic,Small,Abu Dhabi,Abu Dhabi City,Ruwais,Public,DHA Dubai,Active
+FAC01250,Aster Medical Center - Ruwais,Medical Center,Medium,Abu Dhabi,Al Dhafra,Ruwais,Private,DoH Abu Dhabi,Active
+FAC01251,Al Noor Hospital - Ruwais,Hospital,Medium,Abu Dhabi,Abu Dhabi City,Ruwais,Public,MOHAP,Active
+FAC01252,Al Noor Clinic - Fujairah,Clinic,Small,Fujairah,Fujairah,Fujairah,Public,DHA Dubai,Active
+FAC01253,Emirates Medical Center - Al Ain,Medical Center,Small,Abu Dhabi,Abu Dhabi City,Al Ain,Private,Sharjah Health Authority,Temporarily Closed
+FAC01254,National Clinic - Dubai,Clinic,Small,Dubai,Dubai,Dubai,Private,MOHAP,Active
+FAC01255,Life Clinic - Dubai,Clinic,Small,Dubai,Dubai,Dubai,Public,DoH Abu Dhabi,Active
+FAC01256,MediCare Day Surgery Center - Ras Al Khaimah,Day Surgery Center,Tertiary,Ras Al Khaimah,Ras Al Khaimah,Ras Al Khaimah,Private,DHA Dubai,Active
+FAC01257,Life Clinic - Dhaid,Clinic,Medium,Sharjah,Khor Fakkan,Dhaid,Public,Sharjah Health Authority,Active
+FAC01258,National Specialty Center - Masfout,Specialty Center,Large,Ajman,Ajman,Masfout,Public,DoH Abu Dhabi,Active
+FAC01259,NMC Clinic - Madinat Zayed,Clinic,Small,Abu Dhabi,Abu Dhabi City,Madinat Zayed,Private,DHA Dubai,Active
+FAC01260,MediCare Hospital - Dubai,Hospital,Tertiary,Dubai,Dubai,Dubai,Private,MOHAP,Temporarily Closed
+FAC01261,Al Noor Specialty Center - Dibba Al-Fujairah,Specialty Center,Small,Fujairah,Fujairah,Dibba Al-Fujairah,Public,DHA Dubai,Temporarily Closed
+FAC01262,Life Clinic - Masfout,Clinic,,Ajman,Ajman,Masfout,Private,MOHAP,Active
+FAC01263,Gulf Clinic - Hatta,Clinic,Tertiary,Dubai,Dubai,Hatta,Private,Sharjah Health Authority,Active
+FAC01264,National Clinic - Dubai,Clinic,Medium,Dubai,Dubai,Dubai,Private,Sharjah Health Authority,Temporarily Closed
+FAC01265,Al Noor Medical Center - Jebel Ali,Medical Center,Large,Dubai,Dubai,Jebel Ali,Private,MOHAP,Temporarily Closed
+FAC01266,Life Clinic - Khor Fakkan,Clinic,Tertiary,Sharjah,Al Dhaid,Khor Fakkan,Public,MOHAP,Temporarily Closed
+FAC01267,NMC Hospital - Fujairah,Hospital,Tertiary,Fujairah,Fujairah,Fujairah,Public,DoH Abu Dhabi,Active
+FAC01268,Gulf Clinic - Madinat Zayed,Clinic,Medium,Abu Dhabi,Abu Dhabi City,Madinat Zayed,Public,DoH Abu Dhabi,Temporarily Closed
+FAC01269,National Medical Center - Al Ain,Medical Center,Tertiary,Abu Dhabi,Al Dhafra,Al Ain,Public,MOHAP,Temporarily Closed
+FAC01270,MediCare Medical Center - Jebel Ali,Medical Center,Large,Dubai,Dubai,Jebel Ali,Private,Sharjah Health Authority,Active
+FAC01271,Emirates Medical Center - Al Ain,Medical Center,Medium,Abu Dhabi,Abu Dhabi City,Al Ain,Private,MOHAP,Active
+FAC01272,Aster Clinic - Dibba Al-Fujairah,Clinic,Small,Fujairah,Fujairah,Dibba Al-Fujairah,Private,DoH Abu Dhabi,Active
+FAC01273,National Clinic - Ras Al Khaimah,Clinic,Small,Ras Al Khaimah,Ras Al Khaimah,Ras Al Khaimah,Private,MOHAP,Active
+FAC01274,Burjeel Clinic - Jebel Ali,Clinic,Small,Dubai,Dubai,Jebel Ali,Public,Sharjah Health Authority,Temporarily Closed
+FAC01275,MediCare Medical Center - Hatta,Medical Center,Large,Dubai,Dubai,Hatta,Public,DHA Dubai,Active
+FAC01276,Burjeel Hospital - Hatta,Hospital,Medium,Dubai,Dubai,Hatta,Public,Sharjah Health Authority,Active
+FAC01277,Emirates Clinic - Khor Fakkan,Clinic,Small,Sharjah,Sharjah,Khor Fakkan,Public,DHA Dubai,Active
+FAC01278,Al Noor Medical Center - Fujairah,Medical Center,Small,Fujairah,Fujairah,Fujairah,Public,Sharjah Health Authority,Active
+FAC01279,Gulf Hospital - Madinat Zayed,Hospital,Medium,Abu Dhabi,Al Ain,Madinat Zayed,Public,Sharjah Health Authority,Active
+FAC01280,Gulf Clinic - Kalba,Clinic,Small,Sharjah,Khor Fakkan,Kalba,Private,Sharjah Health Authority,Temporarily Closed
+FAC01281,Al Noor Specialty Center - Dubai,Specialty Center,Small,Dubai,Dubai,Dubai,Private,MOHAP,Active
+FAC01282,MediCare Hospital - Al Ain,Hospital,Small,Abu Dhabi,Abu Dhabi City,Al Ain,Private,MOHAP,Active
+FAC01283,Life Specialty Center - Hatta,Specialty Center,Small,Dubai,Dubai,Hatta,Public,MOHAP,Temporarily Closed
+FAC01284,Aster Medical Center - Khor Fakkan,Medical Center,Tertiary,Sharjah,Al Dhaid,Khor Fakkan,Public,DoH Abu Dhabi,Active
+FAC01285,NMC Medical Center - Dibba Al-Fujairah,Medical Center,Large,Fujairah,Fujairah,Dibba Al-Fujairah,Private,DoH Abu Dhabi,Active
+FAC01286,Life Clinic - Khor Fakkan,Clinic,Medium,Sharjah,Khor Fakkan,Khor Fakkan,Public,DoH Abu Dhabi,Active
+FAC01287,NMC Clinic - Al Ain,Clinic,Large,Abu Dhabi,Al Dhafra,Al Ain,Public,DoH Abu Dhabi,Active
+FAC01288,NMC Specialty Center - Hatta,Specialty Center,Tertiary,Dubai,Dubai,Hatta,Private,Sharjah Health Authority,Active
+FAC01289,National Hospital - Umm Al Quwain,Hospital,Tertiary,Umm Al Quwain,Umm Al Quwain,Umm Al Quwain,Public,DHA Dubai,Active
+FAC01290,National Day Surgery Center - Ruwais,Day Surgery Center,Large,Abu Dhabi,Al Ain,Ruwais,Private,MOHAP,Active
+FAC01291,Burjeel Medical Center - Al Ain,Medical Center,Large,Abu Dhabi,Al Dhafra,Al Ain,Public,DoH Abu Dhabi,Active
+FAC01292,Burjeel Clinic - Khor Fakkan,Clinic,Large,Sharjah,Al Dhaid,Khor Fakkan,Private,DHA Dubai,Active
+FAC01293,Gulf Medical Center - Dubai,Medical Center,Large,Dubai,Dubai,Dubai,Private,DoH Abu Dhabi,Active
+FAC01294,Emirates Day Surgery Center - Al Ain,Day Surgery Center,Tertiary,Abu Dhabi,Al Ain,Al Ain,Private,DoH Abu Dhabi,Active
+FAC01295,NMC Hospital - Madinat Zayed,Hospital,Small,Abu Dhabi,Al Dhafra,Madinat Zayed,Private,DHA Dubai,Temporarily Closed
+FAC01296,Prime Clinic - Al Ain,Clinic,Large,Abu Dhabi,Al Dhafra,Al Ain,Private,MOHAP,Active
+FAC01297,Life Clinic - Jebel Ali,Clinic,Small,Dubai,Dubai,Jebel Ali,Private,DoH Abu Dhabi,Active
+FAC01298,MediCare Medical Center - Masfout,Medical Center,Tertiary,Ajman,Ajman,Masfout,Public,DHA Dubai,Active
+FAC01299,NMC Hospital - Abu Dhabi,Hospital,Large,Abu Dhabi,Al Ain,Abu Dhabi,Public,DHA Dubai,Active
+FAC01300,Burjeel Hospital - Ras Al Khaimah,Hospital,Large,Ras Al Khaimah,Ras Al Khaimah,Ras Al Khaimah,Private,Sharjah Health Authority,Active
+FAC01301,NMC Clinic - Dubai,Clinic,Medium,Dubai,Dubai,Dubai,Public,Sharjah Health Authority,Active
+FAC01302,Life Medical Center - Dubai,Medical Center,Tertiary,Dubai,Dubai,Dubai,Public,DHA Dubai,Temporarily Closed
+FAC01303,Aster Hospital - Dubai,Hospital,Medium,Dubai,Dubai,Dubai,Public,Sharjah Health Authority,Temporarily Closed
+FAC01304,MediCare Clinic - Dibba Al-Fujairah,Clinic,Large,Fujairah,Fujairah,Dibba Al-Fujairah,Public,Sharjah Health Authority,Temporarily Closed
+FAC01305,Prime Medical Center - Sharjah,Medical Center,Tertiary,Sharjah,Khor Fakkan,Sharjah,Private,Sharjah Health Authority,Temporarily Closed
+FAC01306,Aster Medical Center - Dubai,Medical Center,Medium,Dubai,Dubai,Dubai,Private,DoH Abu Dhabi,Temporarily Closed
+FAC01307,Prime Hospital - Madinat Zayed,Hospital,Large,Abu Dhabi,Al Ain,Madinat Zayed,Public,DHA Dubai,Active
+FAC01308,Gulf Medical Center - Dubai,Medical Center,Medium,Dubai,Dubai,Dubai,Private,DoH Abu Dhabi,Active
+FAC01309,Prime Medical Center - Masfout,Medical Center,Medium,Ajman,Ajman,Masfout,Private,DHA Dubai,Temporarily Closed
+FAC01310,Al Noor Hospital - Sharjah,Hospital,Small,Sharjah,Khor Fakkan,Sharjah,Private,Sharjah Health Authority,Active
+FAC01311,MediCare Specialty Center - Madinat Zayed,Specialty Center,Large,Abu Dhabi,Al Ain,Madinat Zayed,Private,DoH Abu Dhabi,Active
+FAC01312,Aster Medical Center - Masfout,Medical Center,Medium,Ajman,Ajman,Masfout,Public,DHA Dubai,Active
+FAC01313,Aster Hospital - Dubai,Hospital,Medium,Dubai,Dubai,Dubai,Public,Sharjah Health Authority,Active
+FAC01314,NMC Clinic - Dibba Al-Fujairah,Clinic,Large,Fujairah,Fujairah,Dibba Al-Fujairah,Public,DHA Dubai,Active
+FAC01315,Life Clinic - Fujairah,Clinic,Large,Fujairah,Fujairah,Fujairah,Private,DHA Dubai,Active
+FAC01316,Gulf Clinic - Dibba Al-Fujairah,Clinic,Medium,Fujairah,Fujairah,Dibba Al-Fujairah,Public,MOHAP,Active
+FAC01317,Life Clinic - Dibba Al-Fujairah,Clinic,Small,Fujairah,Fujairah,Dibba Al-Fujairah,Public,Sharjah Health Authority,Temporarily Closed
+FAC01318,Al Noor Hospital - Ajman,Hospital,Tertiary,Ajman,Ajman,Ajman,Public,Sharjah Health Authority,Active
+FAC01319,Prime Clinic - Fujairah,Clinic,Tertiary,Fujairah,Fujairah,Fujairah,Public,Sharjah Health Authority,Active
+FAC01320,Aster Clinic - Jebel Ali,Clinic,Small,Dubai,Dubai,Jebel Ali,Private,Sharjah Health Authority,Active
+FAC01321,Emirates Medical Center - Madinat Zayed,Medical Center,Large,Abu Dhabi,Abu Dhabi City,Madinat Zayed,Public,Sharjah Health Authority,Temporarily Closed
+FAC01322,Prime Day Surgery Center - Al Ain,Day Surgery Center,Medium,Abu Dhabi,Al Ain,Al Ain,Public,DHA Dubai,Active
+FAC01323,Aster Hospital - Ruwais,Hospital,Tertiary,Abu Dhabi,Abu Dhabi City,Ruwais,Private,DoH Abu Dhabi,Active
+FAC01324,Gulf Specialty Center - Madinat Zayed,Specialty Center,Tertiary,Abu Dhabi,Al Dhafra,Madinat Zayed,Public,Sharjah Health Authority,Active
+FAC01325,National Hospital - Jebel Ali,Hospital,Tertiary,Dubai,Dubai,Jebel Ali,Private,DHA Dubai,Active
+FAC01326,Gulf Medical Center - Madinat Zayed,Medical Center,Small,Abu Dhabi,Abu Dhabi City,Madinat Zayed,Public,MOHAP,Temporarily Closed
+FAC01327,National Clinic - Madinat Zayed,Clinic,Large,Abu Dhabi,Al Ain,Madinat Zayed,Private,Sharjah Health Authority,Active
+FAC01328,NMC Medical Center - Sharjah,Medical Center,Medium,Sharjah,Al Dhaid,Sharjah,Private,DoH Abu Dhabi,Active
+FAC01329,MediCare Medical Center - Hatta,Medical Center,Small,Dubai,Dubai,Hatta,Private,Sharjah Health Authority,Temporarily Closed
+FAC01330,Al Noor Specialty Center - Abu Dhabi,Specialty Center,Medium,Abu Dhabi,Al Ain,Abu Dhabi,Public,MOHAP,Temporarily Closed
+FAC01331,Aster Medical Center - Ruwais,Medical Center,Medium,Abu Dhabi,Al Ain,Ruwais,Public,Sharjah Health Authority,Active
+FAC01332,NMC Specialty Center - Madinat Zayed,Specialty Center,Medium,Abu Dhabi,Abu Dhabi City,Madinat Zayed,Private,DHA Dubai,Active
+FAC01333,Aster Hospital - Jebel Ali,Hospital,Small,Dubai,Dubai,Jebel Ali,Public,Sharjah Health Authority,Active
+FAC01334,National Medical Center - Dubai,Medical Center,Tertiary,Dubai,Dubai,Dubai,Public,Sharjah Health Authority,Active
+FAC01335,Burjeel Specialty Center - Sharjah,Specialty Center,Medium,Sharjah,Sharjah,Sharjah,Public,MOHAP,Active
+FAC01336,NMC Hospital - Hatta,Hospital,Medium,Dubai,Dubai,Hatta,Public,DHA Dubai,Active
+FAC01337,National Medical Center - Umm Al Quwain,Medical Center,Medium,Umm Al Quwain,Umm Al Quwain,Umm Al Quwain,Private,DoH Abu Dhabi,Temporarily Closed
+FAC01338,Al Noor Clinic - Ras Al Khaimah,Clinic,Medium,Ras Al Khaimah,Ras Al Khaimah,Ras Al Khaimah,Private,Sharjah Health Authority,Active
+FAC01339,Life Clinic - Dubai,Clinic,Small,Dubai,Dubai,Dubai,Public,MOHAP,Active
+FAC01340,NMC Clinic - Hatta,Clinic,Large,Dubai,Dubai,Hatta,Public,MOHAP,Active
+FAC01341,Aster Hospital - Madinat Zayed,Hospital,Tertiary,Abu Dhabi,Al Dhafra,Madinat Zayed,Private,Sharjah Health Authority,Active
+FAC01342,Gulf Clinic - Abu Dhabi,Clinic,Tertiary,Abu Dhabi,Al Ain,Abu Dhabi,Private,MOHAP,Active
+FAC01343,Life Medical Center - Jebel Ali,Medical Center,Medium,Dubai,Dubai,Jebel Ali,Public,DoH Abu Dhabi,Active
+FAC01344,MediCare Clinic - Khor Fakkan,Clinic,Small,Sharjah,Khor Fakkan,Khor Fakkan,Public,DHA Dubai,Temporarily Closed
+FAC01345,Aster Medical Center - Dubai,Medical Center,Tertiary,Dubai,Dubai,Dubai,Public,MOHAP,Active
+FAC01346,NMC Clinic - Kalba,Clinic,Large,Sharjah,Sharjah,Kalba,Public,DHA Dubai,Active
+FAC01347,National Specialty Center - Dubai,Specialty Center,Small,Dubai,Dubai,Dubai,Private,MOHAP,Active
+FAC01348,Aster Medical Center - Abu Dhabi,Medical Center,Small,Abu Dhabi,Abu Dhabi City,Abu Dhabi,Public,DHA Dubai,Active
+FAC01349,Prime Clinic - Dibba Al-Fujairah,Clinic,Tertiary,Fujairah,Fujairah,Dibba Al-Fujairah,Private,DoH Abu Dhabi,Temporarily Closed
+FAC01350,Emirates Medical Center - Ruwais,Medical Center,Medium,Abu Dhabi,Al Ain,Ruwais,Private,Sharjah Health Authority,Temporarily Closed
+FAC01351,Prime Hospital - Dubai,Hospital,Tertiary,Dubai,Dubai,Dubai,Public,Sharjah Health Authority,Active
+FAC01352,Prime Day Surgery Center - Ajman,Day Surgery Center,Medium,Ajman,Ajman,Ajman,Private,DoH Abu Dhabi,Active
+FAC01353,NMC Hospital - Jebel Ali,Hospital,Small,Dubai,Dubai,Jebel Ali,Private,MOHAP,Active
+FAC01354,Prime Hospital - Masfout,Hospital,Small,Ajman,Ajman,Masfout,Public,DHA Dubai,Active
+FAC01355,Prime Medical Center - Ruwais,Medical Center,Large,Abu Dhabi,Abu Dhabi City,Ruwais,Public,DoH Abu Dhabi,Temporarily Closed
+FAC01356,Prime Clinic - Fujairah,Clinic,Large,Fujairah,Fujairah,Fujairah,Private,DoH Abu Dhabi,Active
+FAC01357,Gulf Clinic - Abu Dhabi,Clinic,Large,Abu Dhabi,Al Dhafra,Abu Dhabi,Private,DHA Dubai,Active
+FAC01358,Aster Clinic - Ajman,Clinic,Large,Ajman,Ajman,Ajman,Private,MOHAP,Active
+FAC01359,Burjeel Clinic - Ras Al Khaimah,Clinic,,Ras Al Khaimah,Ras Al Khaimah,Ras Al Khaimah,Private,Sharjah Health Authority,Temporarily Closed
+FAC01360,Life Day Surgery Center - Hatta,Day Surgery Center,Small,Dubai,Dubai,Hatta,Public,DHA Dubai,Active
+FAC01361,Prime Hospital - Ajman,Hospital,Medium,Ajman,Ajman,Ajman,Private,MOHAP,Active
+FAC01362,NMC Day Surgery Center - Dubai,Day Surgery Center,Small,Dubai,Dubai,Dubai,Private,DoH Abu Dhabi,Active
+FAC01363,Emirates Medical Center - Al Ain,Medical Center,Large,Abu Dhabi,Al Ain,Al Ain,Private,DoH Abu Dhabi,Active
+FAC01364,Gulf Clinic - Jebel Ali,Clinic,Medium,Dubai,Dubai,Jebel Ali,Public,DHA Dubai,Active
+FAC01365,Life Clinic - Al Ain,Clinic,Medium,Abu Dhabi,Abu Dhabi City,Al Ain,Public,DHA Dubai,Active
+FAC01366,Emirates Medical Center - Madinat Zayed,Medical Center,Medium,Abu Dhabi,Al Dhafra,Madinat Zayed,Public,DHA Dubai,Active
+FAC01367,NMC Medical Center - Abu Dhabi,Medical Center,Small,Abu Dhabi,Al Dhafra,Abu Dhabi,Public,DHA Dubai,Active
+FAC01368,Emirates Clinic - Hatta,Clinic,Small,Dubai,Dubai,Hatta,Public,Sharjah Health Authority,Temporarily Closed
+FAC01369,National Day Surgery Center - Ajman,Day Surgery Center,Small,Ajman,Ajman,Ajman,Private,MOHAP,Temporarily Closed
+FAC01370,Gulf Day Surgery Center - Ruwais,Day Surgery Center,Large,Abu Dhabi,Al Ain,Ruwais,Private,MOHAP,Active
+FAC01371,Burjeel Clinic - Ruwais,Clinic,Medium,Abu Dhabi,Al Dhafra,Ruwais,Public,MOHAP,Active
+FAC01372,Emirates Hospital - Al Ain,Hospital,Tertiary,Abu Dhabi,Al Dhafra,Al Ain,Public,Sharjah Health Authority,Active
+FAC01373,Life Clinic - Kalba,Clinic,Small,Sharjah,Al Dhaid,Kalba,Public,MOHAP,Active
+FAC01374,NMC Medical Center - Hatta,Medical Center,Tertiary,Dubai,Dubai,Hatta,Public,Sharjah Health Authority,Active
+FAC01375,Gulf Specialty Center - Umm Al Quwain,Specialty Center,Medium,Umm Al Quwain,Umm Al Quwain,Umm Al Quwain,Public,DoH Abu Dhabi,Active
+FAC01376,Emirates Clinic - Ras Al Khaimah,Clinic,Small,Ras Al Khaimah,Ras Al Khaimah,Ras Al Khaimah,Private,MOHAP,Active
+FAC01377,Prime Clinic - Dibba Al-Fujairah,Clinic,Small,Fujairah,Fujairah,Dibba Al-Fujairah,Public,DHA Dubai,Active
+FAC01378,Life Clinic - Dubai,Clinic,Tertiary,Dubai,Dubai,Dubai,Public,MOHAP,Active
+FAC01379,Prime Hospital - Jebel Ali,Hospital,Small,Dubai,Dubai,Jebel Ali,Private,DHA Dubai,Active
+FAC01380,Gulf Hospital - Fujairah,Hospital,Small,Fujairah,Fujairah,Fujairah,Private,Sharjah Health Authority,Temporarily Closed
+FAC01381,National Medical Center - Dibba Al-Fujairah,Medical Center,Small,Fujairah,Fujairah,Dibba Al-Fujairah,Private,DHA Dubai,Active
+FAC01382,Prime Medical Center - Al Ain,Medical Center,Medium,Abu Dhabi,Abu Dhabi City,Al Ain,Private,DHA Dubai,Active
+FAC01383,National Hospital - Sharjah,Hospital,Small,Sharjah,Al Dhaid,Sharjah,Private,DHA Dubai,Active
+FAC01384,Prime Specialty Center - Dibba Al-Fujairah,Specialty Center,Medium,Fujairah,Fujairah,Dibba Al-Fujairah,Public,DoH Abu Dhabi,Active
+FAC01385,Al Noor Clinic - Sharjah,Clinic,Medium,Sharjah,Sharjah,Sharjah,Private,Sharjah Health Authority,Temporarily Closed
+FAC01386,Al Noor Medical Center - Sharjah,Medical Center,Tertiary,Sharjah,Khor Fakkan,Sharjah,Private,DHA Dubai,Active
+FAC01387,MediCare Medical Center - Ruwais,Medical Center,Large,Abu Dhabi,Abu Dhabi City,Ruwais,Private,Sharjah Health Authority,Active
+FAC01388,National Clinic - Umm Al Quwain,Clinic,Medium,Umm Al Quwain,Umm Al Quwain,Umm Al Quwain,Public,Sharjah Health Authority,Active
+FAC01389,Prime Medical Center - Ruwais,Medical Center,Small,Abu Dhabi,Al Dhafra,Ruwais,Public,DoH Abu Dhabi,Active
+FAC01390,National Medical Center - Fujairah,Medical Center,Large,Fujairah,Fujairah,Fujairah,Public,MOHAP,Active
+FAC01391,NMC Clinic - Madinat Zayed,Clinic,Small,Abu Dhabi,Abu Dhabi City,Madinat Zayed,Private,Sharjah Health Authority,Active
+FAC01392,Al Noor Hospital - Dubai,Hospital,Medium,Dubai,Dubai,Dubai,Private,MOHAP,Active
+FAC01393,National Specialty Center - Fujairah,Specialty Center,Tertiary,Fujairah,Fujairah,Fujairah,Private,Sharjah Health Authority,Active
+FAC01394,Al Noor Clinic - Ras Al Khaimah,Clinic,Tertiary,Ras Al Khaimah,Ras Al Khaimah,Ras Al Khaimah,Public,Sharjah Health Authority,Active
+FAC01395,Aster Hospital - Abu Dhabi,Hospital,Medium,Abu Dhabi,Abu Dhabi City,Abu Dhabi,Private,MOHAP,Active
+FAC01396,NMC Medical Center - Khor Fakkan,Medical Center,Medium,Sharjah,Sharjah,Khor Fakkan,Private,DHA Dubai,Active
+FAC01397,Burjeel Medical Center - Kalba,Medical Center,Tertiary,Sharjah,Al Dhaid,Kalba,Public,DoH Abu Dhabi,Active
+FAC01398,Al Noor Hospital - Hatta,Hospital,Large,Dubai,Dubai,Hatta,Public,DoH Abu Dhabi,Active
+FAC01399,NMC Medical Center - Ruwais,Medical Center,Medium,Abu Dhabi,Abu Dhabi City,Ruwais,Private,MOHAP,Active
+FAC01400,Burjeel Medical Center - Abu Dhabi,Medical Center,Medium,Abu Dhabi,Al Ain,Abu Dhabi,Private,Sharjah Health Authority,Active
+FAC01401,National Day Surgery Center - Hatta,Day Surgery Center,Tertiary,Dubai,Dubai,Hatta,Private,DoH Abu Dhabi,Active
+FAC01402,Emirates Hospital - Al Ain,Hospital,Small,Abu Dhabi,Al Dhafra,Al Ain,Public,DoH Abu Dhabi,Active
+FAC01403,Life Clinic - Khor Fakkan,Clinic,Small,Sharjah,Al Dhaid,Khor Fakkan,Private,DHA Dubai,Active
+FAC01404,Emirates Hospital - Dibba Al-Fujairah,Hospital,Medium,Fujairah,Fujairah,Dibba Al-Fujairah,Private,Sharjah Health Authority,Active
+FAC01405,NMC Day Surgery Center - Al Ain,Day Surgery Center,Tertiary,Abu Dhabi,Al Ain,Al Ain,Private,DHA Dubai,Active
+FAC01406,Aster Hospital - Abu Dhabi,Hospital,,Abu Dhabi,Abu Dhabi City,Abu Dhabi,Public,DoH Abu Dhabi,Active
+FAC01407,Gulf Medical Center - Ajman,Medical Center,Tertiary,Ajman,Ajman,Ajman,Private,DoH Abu Dhabi,Active
+FAC01408,Burjeel Clinic - Dubai,Clinic,Large,Dubai,Dubai,Dubai,Private,DoH Abu Dhabi,Active
+FAC01409,Aster Medical Center - Dhaid,Medical Center,Small,Sharjah,Al Dhaid,Dhaid,Private,Sharjah Health Authority,Temporarily Closed
+FAC01410,NMC Clinic - Ras Al Khaimah,Clinic,Small,Ras Al Khaimah,Ras Al Khaimah,Ras Al Khaimah,Public,Sharjah Health Authority,Active
+FAC01411,Gulf Medical Center - Madinat Zayed,Medical Center,Medium,Abu Dhabi,Abu Dhabi City,Madinat Zayed,Private,Sharjah Health Authority,Active
+FAC01412,Burjeel Clinic - Khor Fakkan,Clinic,Tertiary,Sharjah,Al Dhaid,Khor Fakkan,Public,DoH Abu Dhabi,Active
+FAC01413,Burjeel Medical Center - Dubai,Medical Center,Medium,Dubai,Dubai,Dubai,Private,DoH Abu Dhabi,Active
+FAC01414,Aster Hospital - Al Ain,Hospital,Small,Abu Dhabi,Al Dhafra,Al Ain,Private,DoH Abu Dhabi,Active
+FAC01415,Emirates Hospital - Hatta,Hospital,,Dubai,Dubai,Hatta,Public,DHA Dubai,Active
+FAC01416,Burjeel Clinic - Sharjah,Clinic,Small,Sharjah,Al Dhaid,Sharjah,Public,Sharjah Health Authority,Active
+FAC01417,Emirates Clinic - Sharjah,Clinic,Tertiary,Sharjah,Khor Fakkan,Sharjah,Public,DHA Dubai,Active
+FAC01418,Burjeel Clinic - Masfout,Clinic,Medium,Ajman,Ajman,Masfout,Public,MOHAP,Temporarily Closed
+FAC01419,Aster Hospital - Ruwais,Hospital,Small,Abu Dhabi,Al Ain,Ruwais,Public,MOHAP,Active
+FAC01420,Prime Clinic - Abu Dhabi,Clinic,Large,Abu Dhabi,Al Dhafra,Abu Dhabi,Private,DHA Dubai,Active
+FAC01421,MediCare Clinic - Ras Al Khaimah,Clinic,Tertiary,Ras Al Khaimah,Ras Al Khaimah,Ras Al Khaimah,Public,MOHAP,Active
+FAC01422,Prime Medical Center - Ras Al Khaimah,Medical Center,Large,Ras Al Khaimah,Ras Al Khaimah,Ras Al Khaimah,Private,DoH Abu Dhabi,Active
+FAC01423,NMC Clinic - Fujairah,Clinic,Small,Fujairah,Fujairah,Fujairah,Private,MOHAP,Active
+FAC01424,Burjeel Hospital - Dibba Al-Fujairah,Hospital,Large,Fujairah,Fujairah,Dibba Al-Fujairah,Private,DoH Abu Dhabi,Active
+FAC01425,MediCare Clinic - Jebel Ali,Clinic,Tertiary,Dubai,Dubai,Jebel Ali,Private,DHA Dubai,Temporarily Closed
+FAC01426,Prime Medical Center - Dhaid,Medical Center,Tertiary,Sharjah,Sharjah,Dhaid,Private,DHA Dubai,Active
+FAC01427,Life Specialty Center - Jebel Ali,Specialty Center,Large,Dubai,Dubai,Jebel Ali,Public,Sharjah Health Authority,Active
+FAC01428,National Clinic - Masfout,Clinic,Large,Ajman,Ajman,Masfout,Private,DHA Dubai,Temporarily Closed
+FAC01429,Emirates Hospital - Madinat Zayed,Hospital,Large,Abu Dhabi,Al Dhafra,Madinat Zayed,Public,Sharjah Health Authority,Temporarily Closed
+FAC01430,MediCare Medical Center - Dubai,Medical Center,,Dubai,Dubai,Dubai,Private,Sharjah Health Authority,Active
+FAC01431,MediCare Clinic - Khor Fakkan,Clinic,Tertiary,Sharjah,Sharjah,Khor Fakkan,Private,MOHAP,Active
+FAC01432,MediCare Specialty Center - Umm Al Quwain,Specialty Center,Large,Umm Al Quwain,Umm Al Quwain,Umm Al Quwain,Private,Sharjah Health Authority,Active
+FAC01433,Al Noor Clinic - Dubai,Clinic,Tertiary,Dubai,Dubai,Dubai,Private,MOHAP,Active
+FAC01434,Burjeel Specialty Center - Umm Al Quwain,Specialty Center,Medium,Umm Al Quwain,Umm Al Quwain,Umm Al Quwain,Private,MOHAP,Active
+FAC01435,Prime Clinic - Dubai,Clinic,Medium,Dubai,Dubai,Dubai,Private,DoH Abu Dhabi,Active
+FAC01436,Life Medical Center - Jebel Ali,Medical Center,Large,Dubai,Dubai,Jebel Ali,Public,MOHAP,Temporarily Closed
+FAC01437,Burjeel Clinic - Al Ain,Clinic,Large,Abu Dhabi,Al Dhafra,Al Ain,Public,MOHAP,Active
+FAC01438,NMC Hospital - Jebel Ali,Hospital,,Dubai,Dubai,Jebel Ali,Public,Sharjah Health Authority,Active
+FAC01439,Emirates Medical Center - Dubai,Medical Center,Medium,Dubai,Dubai,Dubai,Public,DoH Abu Dhabi,Active
+FAC01440,National Hospital - Jebel Ali,Hospital,Small,Dubai,Dubai,Jebel Ali,Public,DoH Abu Dhabi,Active
+FAC01441,Al Noor Clinic - Hatta,Clinic,Medium,Dubai,Dubai,Hatta,Private,MOHAP,Active
+FAC01442,Al Noor Hospital - Masfout,Hospital,Medium,Ajman,Ajman,Masfout,Public,MOHAP,Active
+FAC01443,MediCare Specialty Center - Al Ain,Specialty Center,Tertiary,Abu Dhabi,Al Ain,Al Ain,Private,Sharjah Health Authority,Active
+FAC01444,Burjeel Hospital - Abu Dhabi,Hospital,Large,Abu Dhabi,Al Ain,Abu Dhabi,Public,Sharjah Health Authority,Active
+FAC01445,Al Noor Specialty Center - Al Ain,Specialty Center,Tertiary,Abu Dhabi,Al Ain,Al Ain,Public,Sharjah Health Authority,Active
+FAC01446,Burjeel Medical Center - Kalba,Medical Center,Large,Sharjah,Sharjah,Kalba,Private,Sharjah Health Authority,Active
+FAC01447,National Medical Center - Abu Dhabi,Medical Center,Medium,Abu Dhabi,Al Ain,Abu Dhabi,Private,DHA Dubai,Active
+FAC01448,Al Noor Hospital - Hatta,Hospital,Large,Dubai,Dubai,Hatta,Public,DHA Dubai,Active
+FAC01449,National Clinic - Hatta,Clinic,Small,Dubai,Dubai,Hatta,Private,DHA Dubai,Active
+FAC01450,National Specialty Center - Dubai,Specialty Center,Large,Dubai,Dubai,Dubai,Public,Sharjah Health Authority,Active
+FAC01451,NMC Clinic - Abu Dhabi,Clinic,Tertiary,Abu Dhabi,Abu Dhabi City,Abu Dhabi,Public,DHA Dubai,Temporarily Closed
+FAC01452,Life Clinic - Hatta,Clinic,Large,Dubai,Dubai,Hatta,Public,DoH Abu Dhabi,Temporarily Closed
+FAC01453,Al Noor Medical Center - Masfout,Medical Center,Small,Ajman,Ajman,Masfout,Public,DHA Dubai,Active
+FAC01454,Al Noor Specialty Center - Hatta,Specialty Center,Medium,Dubai,Dubai,Hatta,Private,DHA Dubai,Active
+FAC01455,Gulf Specialty Center - Dubai,Specialty Center,Large,Dubai,Dubai,Dubai,Public,DHA Dubai,Active
+FAC01456,Aster Medical Center - Abu Dhabi,Medical Center,Small,Abu Dhabi,Al Dhafra,Abu Dhabi,Public,DHA Dubai,Active
+FAC01457,MediCare Clinic - Ruwais,Clinic,Medium,Abu Dhabi,Al Ain,Ruwais,Public,DHA Dubai,Active
+FAC01458,Gulf Specialty Center - Madinat Zayed,Specialty Center,Medium,Abu Dhabi,Al Ain,Madinat Zayed,Public,DoH Abu Dhabi,Active
+FAC01459,Prime Medical Center - Dubai,Medical Center,Tertiary,Dubai,Dubai,Dubai,Private,MOHAP,Temporarily Closed
+FAC01460,Gulf Medical Center - Dhaid,Medical Center,Medium,Sharjah,Khor Fakkan,Dhaid,Private,DHA Dubai,Temporarily Closed
+FAC01461,Al Noor Medical Center - Kalba,Medical Center,Medium,Sharjah,Al Dhaid,Kalba,Public,Sharjah Health Authority,Active
+FAC01462,Gulf Medical Center - Al Ain,Medical Center,Small,Abu Dhabi,Al Dhafra,Al Ain,Public,DHA Dubai,Active
+FAC01463,Al Noor Clinic - Jebel Ali,Clinic,Tertiary,Dubai,Dubai,Jebel Ali,Private,MOHAP,Active
+FAC01464,NMC Clinic - Dhaid,Clinic,,Sharjah,Sharjah,Dhaid,Private,DHA Dubai,Active
+FAC01465,Burjeel Medical Center - Hatta,Medical Center,Tertiary,Dubai,Dubai,Hatta,Private,MOHAP,Active
+FAC01466,Prime Clinic - Madinat Zayed,Clinic,Large,Abu Dhabi,Al Dhafra,Madinat Zayed,Private,Sharjah Health Authority,Active
+FAC01467,MediCare Clinic - Ras Al Khaimah,Clinic,Tertiary,Ras Al Khaimah,Ras Al Khaimah,Ras Al Khaimah,Public,DHA Dubai,Temporarily Closed
+FAC01468,Gulf Medical Center - Dubai,Medical Center,Small,Dubai,Dubai,Dubai,Public,DHA Dubai,Temporarily Closed
+FAC01469,Prime Clinic - Kalba,Clinic,Medium,Sharjah,Al Dhaid,Kalba,Public,Sharjah Health Authority,Active
+FAC01470,Life Hospital - Jebel Ali,Hospital,Medium,Dubai,Dubai,Jebel Ali,Private,DoH Abu Dhabi,Active
+FAC01471,Burjeel Clinic - Ajman,Clinic,Large,Ajman,Ajman,Ajman,Private,DHA Dubai,Active
+FAC01472,Burjeel Hospital - Al Ain,Hospital,Small,Abu Dhabi,Al Ain,Al Ain,Public,Sharjah Health Authority,Active
+FAC01473,Gulf Specialty Center - Dubai,Specialty Center,Tertiary,Dubai,Dubai,Dubai,Private,Sharjah Health Authority,Active
+FAC01474,Prime Day Surgery Center - Al Ain,Day Surgery Center,Large,Abu Dhabi,Abu Dhabi City,Al Ain,Private,Sharjah Health Authority,Active
+FAC01475,Aster Hospital - Ajman,Hospital,Tertiary,Ajman,Ajman,Ajman,Public,DHA Dubai,Active
+FAC01476,Al Noor Clinic - Dubai,Clinic,Medium,Dubai,Dubai,Dubai,Private,DoH Abu Dhabi,Temporarily Closed
+FAC01477,MediCare Medical Center - Al Ain,Medical Center,Large,Abu Dhabi,Abu Dhabi City,Al Ain,Private,Sharjah Health Authority,Temporarily Closed
+FAC01478,Gulf Clinic - Khor Fakkan,Clinic,Medium,Sharjah,Khor Fakkan,Khor Fakkan,Public,MOHAP,Active
+FAC01479,Emirates Clinic - Ras Al Khaimah,Clinic,Tertiary,Ras Al Khaimah,Ras Al Khaimah,Ras Al Khaimah,Private,DoH Abu Dhabi,Active
+FAC01480,Aster Clinic - Dubai,Clinic,Medium,Dubai,Dubai,Dubai,Private,DHA Dubai,Temporarily Closed
+FAC01481,Al Noor Medical Center - Dibba Al-Fujairah,Medical Center,Large,Fujairah,Fujairah,Dibba Al-Fujairah,Private,DHA Dubai,Active
+FAC01482,National Clinic - Masfout,Clinic,Large,Ajman,Ajman,Masfout,Private,Sharjah Health Authority,Active
+FAC01483,Al Noor Hospital - Dibba Al-Fujairah,Hospital,Medium,Fujairah,Fujairah,Dibba Al-Fujairah,Public,DoH Abu Dhabi,Active
+FAC01484,NMC Medical Center - Ras Al Khaimah,Medical Center,Tertiary,Ras Al Khaimah,Ras Al Khaimah,Ras Al Khaimah,Public,Sharjah Health Authority,Active
+FAC01485,MediCare Hospital - Khor Fakkan,Hospital,Large,Sharjah,Sharjah,Khor Fakkan,Private,Sharjah Health Authority,Temporarily Closed
+FAC01486,Al Noor Specialty Center - Khor Fakkan,Specialty Center,,Sharjah,Al Dhaid,Khor Fakkan,Public,Sharjah Health Authority,Temporarily Closed
+FAC01487,Life Clinic - Umm Al Quwain,Clinic,Tertiary,Umm Al Quwain,Umm Al Quwain,Umm Al Quwain,Public,Sharjah Health Authority,Active
+FAC01488,National Hospital - Dubai,Hospital,Medium,Dubai,Dubai,Dubai,Private,Sharjah Health Authority,Active
+FAC01489,Aster Medical Center - Al Ain,Medical Center,Small,Abu Dhabi,Abu Dhabi City,Al Ain,Public,MOHAP,Active
+FAC01490,Prime Clinic - Sharjah,Clinic,Tertiary,Sharjah,Al Dhaid,Sharjah,Public,DHA Dubai,Active
+FAC01491,MediCare Clinic - Ruwais,Clinic,Large,Abu Dhabi,Abu Dhabi City,Ruwais,Private,Sharjah Health Authority,Active
+FAC01492,Burjeel Hospital - Ruwais,Hospital,Medium,Abu Dhabi,Abu Dhabi City,Ruwais,Public,MOHAP,Active
+FAC01493,Life Medical Center - Al Ain,Medical Center,Medium,Abu Dhabi,Al Ain,Al Ain,Public,MOHAP,Active
+FAC01494,National Medical Center - Madinat Zayed,Medical Center,Small,Abu Dhabi,Abu Dhabi City,Madinat Zayed,Public,Sharjah Health Authority,Active
+FAC01495,Aster Clinic - Jebel Ali,Clinic,Medium,Dubai,Dubai,Jebel Ali,Public,DHA Dubai,Active
+FAC01496,MediCare Hospital - Dibba Al-Fujairah,Hospital,Small,Fujairah,Fujairah,Dibba Al-Fujairah,Public,Sharjah Health Authority,Active
+FAC01497,Aster Medical Center - Jebel Ali,Medical Center,,Dubai,Dubai,Jebel Ali,Public,DoH Abu Dhabi,Active
+FAC01498,Emirates Medical Center - Dubai,Medical Center,Large,Dubai,Dubai,Dubai,Private,DoH Abu Dhabi,Active
+FAC01499,Emirates Hospital - Ruwais,Hospital,Small,Abu Dhabi,Al Dhafra,Ruwais,Public,MOHAP,Temporarily Closed
+FAC01500,Gulf Medical Center - Masfout,Medical Center,Large,Ajman,Ajman,Masfout,Private,DoH Abu Dhabi,Active
+FAC01501,Life Hospital - Ruwais,Hospital,Large,Abu Dhabi,Abu Dhabi City,Ruwais,Public,DHA Dubai,Temporarily Closed
+FAC01502,Life Specialty Center - Al Ain,Specialty Center,Tertiary,Abu Dhabi,Al Dhafra,Al Ain,Private,MOHAP,Active
+FAC01503,Burjeel Clinic - Umm Al Quwain,Clinic,Small,Umm Al Quwain,Umm Al Quwain,Umm Al Quwain,Public,MOHAP,Active
+FAC01504,MediCare Clinic - Ras Al Khaimah,Clinic,Medium,Ras Al Khaimah,Ras Al Khaimah,Ras Al Khaimah,Public,DoH Abu Dhabi,Active
+FAC01505,Prime Clinic - Jebel Ali,Clinic,Tertiary,Dubai,Dubai,Jebel Ali,Public,Sharjah Health Authority,Temporarily Closed
+FAC01506,Prime Clinic - Dubai,Clinic,Tertiary,Dubai,Dubai,Dubai,Private,DHA Dubai,Temporarily Closed
+FAC01507,Life Specialty Center - Dhaid,Specialty Center,Tertiary,Sharjah,Al Dhaid,Dhaid,Public,Sharjah Health Authority,Active
+FAC01508,Burjeel Medical Center - Masfout,Medical Center,Large,Ajman,Ajman,Masfout,Private,Sharjah Health Authority,Active
+FAC01509,Burjeel Clinic - Jebel Ali,Clinic,Small,Dubai,Dubai,Jebel Ali,Public,DoH Abu Dhabi,Temporarily Closed
+FAC01510,Burjeel Day Surgery Center - Al Ain,Day Surgery Center,Tertiary,Abu Dhabi,Al Ain,Al Ain,Private,DHA Dubai,Active
+FAC01511,Prime Medical Center - Al Ain,Medical Center,Medium,Abu Dhabi,Al Dhafra,Al Ain,Public,DoH Abu Dhabi,Active
+FAC01512,Life Medical Center - Dubai,Medical Center,Tertiary,Dubai,Dubai,Dubai,Public,DHA Dubai,Active
+FAC01513,NMC Medical Center - Ras Al Khaimah,Medical Center,Large,Ras Al Khaimah,Ras Al Khaimah,Ras Al Khaimah,Public,DoH Abu Dhabi,Active
+FAC01514,National Hospital - Dibba Al-Fujairah,Hospital,Small,Fujairah,Fujairah,Dibba Al-Fujairah,Public,DoH Abu Dhabi,Active
+FAC01515,Emirates Medical Center - Hatta,Medical Center,Medium,Dubai,Dubai,Hatta,Private,DHA Dubai,Active
+FAC01516,Burjeel Clinic - Madinat Zayed,Clinic,Medium,Abu Dhabi,Abu Dhabi City,Madinat Zayed,Public,DHA Dubai,Temporarily Closed
+FAC01517,Gulf Hospital - Jebel Ali,Hospital,Large,Dubai,Dubai,Jebel Ali,Private,Sharjah Health Authority,Active
+FAC01518,MediCare Specialty Center - Jebel Ali,Specialty Center,Medium,Dubai,Dubai,Jebel Ali,Public,DHA Dubai,Active
+FAC01519,Al Noor Clinic - Dhaid,Clinic,Small,Sharjah,Al Dhaid,Dhaid,Public,MOHAP,Active
+FAC01520,Gulf Medical Center - Umm Al Quwain,Medical Center,Medium,Umm Al Quwain,Umm Al Quwain,Umm Al Quwain,Private,DoH Abu Dhabi,Active
+FAC01521,National Clinic - Abu Dhabi,Clinic,Tertiary,Abu Dhabi,Al Ain,Abu Dhabi,Public,DoH Abu Dhabi,Active
+FAC01522,Life Hospital - Ras Al Khaimah,Hospital,Tertiary,Ras Al Khaimah,Ras Al Khaimah,Ras Al Khaimah,Private,Sharjah Health Authority,Active
+FAC01523,MediCare Medical Center - Umm Al Quwain,Medical Center,Small,Umm Al Quwain,Umm Al Quwain,Umm Al Quwain,Public,Sharjah Health Authority,Active
+FAC01524,Gulf Specialty Center - Abu Dhabi,Specialty Center,Large,Abu Dhabi,Al Ain,Abu Dhabi,Public,MOHAP,Active
+FAC01525,Burjeel Specialty Center - Abu Dhabi,Specialty Center,Large,Abu Dhabi,Abu Dhabi City,Abu Dhabi,Private,MOHAP,Active
+FAC01526,Aster Specialty Center - Dibba Al-Fujairah,Specialty Center,Medium,Fujairah,Fujairah,Dibba Al-Fujairah,Private,Sharjah Health Authority,Active
+FAC01527,Emirates Medical Center - Abu Dhabi,Medical Center,Medium,Abu Dhabi,Al Ain,Abu Dhabi,Private,MOHAP,Active
+FAC01528,Gulf Clinic - Dubai,Clinic,Large,Dubai,Dubai,Dubai,Public,DHA Dubai,Active
+FAC01529,MediCare Specialty Center - Al Ain,Specialty Center,Tertiary,Abu Dhabi,Al Ain,Al Ain,Private,MOHAP,Temporarily Closed
+FAC01530,NMC Hospital - Abu Dhabi,Hospital,Tertiary,Abu Dhabi,Al Ain,Abu Dhabi,Public,DHA Dubai,Active
+FAC01531,Burjeel Clinic - Dubai,Clinic,Tertiary,Dubai,Dubai,Dubai,Public,MOHAP,Active
+FAC01532,Emirates Clinic - Hatta,Clinic,Tertiary,Dubai,Dubai,Hatta,Public,DoH Abu Dhabi,Active
+FAC01533,Al Noor Hospital - Fujairah,Hospital,Small,Fujairah,Fujairah,Fujairah,Private,MOHAP,Active
+FAC01534,Aster Clinic - Ruwais,Clinic,Medium,Abu Dhabi,Al Ain,Ruwais,Private,MOHAP,Active
+FAC01535,NMC Specialty Center - Hatta,Specialty Center,Small,Dubai,Dubai,Hatta,Private,MOHAP,Temporarily Closed
+FAC01536,Al Noor Specialty Center - Khor Fakkan,Specialty Center,Tertiary,Sharjah,Khor Fakkan,Khor Fakkan,Private,DoH Abu Dhabi,Active
+FAC01537,Burjeel Clinic - Ras Al Khaimah,Clinic,Large,Ras Al Khaimah,Ras Al Khaimah,Ras Al Khaimah,Private,DHA Dubai,Temporarily Closed
+FAC01538,MediCare Clinic - Hatta,Clinic,Medium,Dubai,Dubai,Hatta,Private,Sharjah Health Authority,Active
+FAC01539,MediCare Clinic - Abu Dhabi,Clinic,Medium,Abu Dhabi,Abu Dhabi City,Abu Dhabi,Public,DoH Abu Dhabi,Active
+FAC01540,Burjeel Clinic - Umm Al Quwain,Clinic,Medium,Umm Al Quwain,Umm Al Quwain,Umm Al Quwain,Public,Sharjah Health Authority,Active
+FAC01541,MediCare Day Surgery Center - Hatta,Day Surgery Center,Small,Dubai,Dubai,Hatta,Private,DHA Dubai,Active
+FAC01542,National Clinic - Umm Al Quwain,Clinic,Large,Umm Al Quwain,Umm Al Quwain,Umm Al Quwain,Private,Sharjah Health Authority,Temporarily Closed
+FAC01543,National Specialty Center - Masfout,Specialty Center,Tertiary,Ajman,Ajman,Masfout,Public,DHA Dubai,Active
+FAC01544,Burjeel Clinic - Ras Al Khaimah,Clinic,Large,Ras Al Khaimah,Ras Al Khaimah,Ras Al Khaimah,Public,MOHAP,Active
+FAC01545,Gulf Hospital - Hatta,Hospital,Tertiary,Dubai,Dubai,Hatta,Public,DoH Abu Dhabi,Temporarily Closed
+FAC01546,Prime Medical Center - Hatta,Medical Center,Tertiary,Dubai,Dubai,Hatta,Private,Sharjah Health Authority,Active
+FAC01547,National Clinic - Ruwais,Clinic,Medium,Abu Dhabi,Al Ain,Ruwais,Public,MOHAP,Temporarily Closed
+FAC01548,Emirates Specialty Center - Madinat Zayed,Specialty Center,Medium,Abu Dhabi,Al Dhafra,Madinat Zayed,Private,MOHAP,Active
+FAC01549,Aster Clinic - Masfout,Clinic,Large,Ajman,Ajman,Masfout,Public,DHA Dubai,Active
+FAC01550,Burjeel Clinic - Abu Dhabi,Clinic,Small,Abu Dhabi,Al Dhafra,Abu Dhabi,Private,MOHAP,Active
+FAC01551,Prime Specialty Center - Umm Al Quwain,Specialty Center,Tertiary,Umm Al Quwain,Umm Al Quwain,Umm Al Quwain,Private,DoH Abu Dhabi,Temporarily Closed
+FAC01552,Burjeel Hospital - Al Ain,Hospital,Tertiary,Abu Dhabi,Al Ain,Al Ain,Public,DoH Abu Dhabi,Temporarily Closed
+FAC01553,Al Noor Hospital - Madinat Zayed,Hospital,Tertiary,Abu Dhabi,Abu Dhabi City,Madinat Zayed,Private,Sharjah Health Authority,Active
+FAC01554,Burjeel Medical Center - Umm Al Quwain,Medical Center,Tertiary,Umm Al Quwain,Umm Al Quwain,Umm Al Quwain,Private,MOHAP,Active
+FAC01555,Burjeel Clinic - Al Ain,Clinic,Medium,Abu Dhabi,Al Dhafra,Al Ain,Public,DHA Dubai,Temporarily Closed
+FAC01556,Gulf Medical Center - Umm Al Quwain,Medical Center,Large,Umm Al Quwain,Umm Al Quwain,Umm Al Quwain,Private,MOHAP,Active
+FAC01557,Aster Clinic - Dibba Al-Fujairah,Clinic,Small,Fujairah,Fujairah,Dibba Al-Fujairah,Private,DHA Dubai,Active
+FAC01558,National Medical Center - Dhaid,Medical Center,Medium,Sharjah,Sharjah,Dhaid,Private,DoH Abu Dhabi,Active
+FAC01559,Gulf Medical Center - Khor Fakkan,Medical Center,Tertiary,Sharjah,Al Dhaid,Khor Fakkan,Private,Sharjah Health Authority,Active
+FAC01560,Al Noor Medical Center - Dubai,Medical Center,Small,Dubai,Dubai,Dubai,Public,DoH Abu Dhabi,Active
+FAC01561,Prime Clinic - Dibba Al-Fujairah,Clinic,Large,Fujairah,Fujairah,Dibba Al-Fujairah,Private,Sharjah Health Authority,Temporarily Closed
+FAC01562,Prime Clinic - Ruwais,Clinic,Small,Abu Dhabi,Abu Dhabi City,Ruwais,Public,MOHAP,Active
+FAC01563,NMC Clinic - Hatta,Clinic,Medium,Dubai,Dubai,Hatta,Private,MOHAP,Active
+FAC01564,Aster Clinic - Ruwais,Clinic,Small,Abu Dhabi,Al Ain,Ruwais,Public,MOHAP,Temporarily Closed
+FAC01565,Burjeel Clinic - Madinat Zayed,Clinic,Large,Abu Dhabi,Al Ain,Madinat Zayed,Public,DoH Abu Dhabi,Temporarily Closed
+FAC01566,Gulf Clinic - Sharjah,Clinic,Medium,Sharjah,Sharjah,Sharjah,Private,DoH Abu Dhabi,Temporarily Closed
+FAC01567,Life Clinic - Dubai,Clinic,Medium,Dubai,Dubai,Dubai,Private,DHA Dubai,Active
+FAC01568,Aster Medical Center - Abu Dhabi,Medical Center,Small,Abu Dhabi,Al Ain,Abu Dhabi,Private,DHA Dubai,Active
+FAC01569,NMC Clinic - Ruwais,Clinic,Small,Abu Dhabi,Abu Dhabi City,Ruwais,Public,Sharjah Health Authority,Active
+FAC01570,Life Clinic - Sharjah,Clinic,Large,Sharjah,Sharjah,Sharjah,Private,DHA Dubai,Active
+FAC01571,Gulf Clinic - Hatta,Clinic,Small,Dubai,Dubai,Hatta,Private,MOHAP,Active
+FAC01572,Prime Day Surgery Center - Fujairah,Day Surgery Center,Tertiary,Fujairah,Fujairah,Fujairah,Public,Sharjah Health Authority,Active
+FAC01573,National Clinic - Abu Dhabi,Clinic,Tertiary,Abu Dhabi,Al Ain,Abu Dhabi,Public,Sharjah Health Authority,Active
+FAC01574,MediCare Day Surgery Center - Al Ain,Day Surgery Center,Large,Abu Dhabi,Al Ain,Al Ain,Public,Sharjah Health Authority,Active
+FAC01575,MediCare Day Surgery Center - Dibba Al-Fujairah,Day Surgery Center,Small,Fujairah,Fujairah,Dibba Al-Fujairah,Public,DoH Abu Dhabi,Active
+FAC01576,MediCare Day Surgery Center - Umm Al Quwain,Day Surgery Center,Tertiary,Umm Al Quwain,Umm Al Quwain,Umm Al Quwain,Public,DoH Abu Dhabi,Active
+FAC01577,NMC Clinic - Al Ain,Clinic,Large,Abu Dhabi,Abu Dhabi City,Al Ain,Private,DoH Abu Dhabi,Active
+FAC01578,Life Specialty Center - Ajman,Specialty Center,Tertiary,Ajman,Ajman,Ajman,Public,DoH Abu Dhabi,Temporarily Closed
+FAC01579,Burjeel Clinic - Kalba,Clinic,Large,Sharjah,Sharjah,Kalba,Private,DHA Dubai,Active
+FAC01580,Prime Clinic - Abu Dhabi,Clinic,Large,Abu Dhabi,Abu Dhabi City,Abu Dhabi,Public,DHA Dubai,Active
+FAC01581,MediCare Day Surgery Center - Sharjah,Day Surgery Center,Tertiary,Sharjah,Sharjah,Sharjah,Public,DHA Dubai,Active
+FAC01582,National Clinic - Ruwais,Clinic,Large,Abu Dhabi,Al Dhafra,Ruwais,Public,DHA Dubai,Active
+FAC01583,Gulf Hospital - Dubai,Hospital,Large,Dubai,Dubai,Dubai,Public,DoH Abu Dhabi,Active
+FAC01584,Prime Hospital - Ruwais,Hospital,Large,Abu Dhabi,Al Dhafra,Ruwais,Public,MOHAP,Active
+FAC01585,National Clinic - Ras Al Khaimah,Clinic,Medium,Ras Al Khaimah,Ras Al Khaimah,Ras Al Khaimah,Private,MOHAP,Temporarily Closed
+FAC01586,Aster Specialty Center - Al Ain,Specialty Center,,Abu Dhabi,Al Dhafra,Al Ain,Private,DHA Dubai,Active
+FAC01587,National Medical Center - Hatta,Medical Center,Small,Dubai,Dubai,Hatta,Private,MOHAP,Temporarily Closed
+FAC01588,Prime Specialty Center - Jebel Ali,Specialty Center,Large,Dubai,Dubai,Jebel Ali,Private,MOHAP,Temporarily Closed
+FAC01589,Prime Medical Center - Madinat Zayed,Medical Center,Medium,Abu Dhabi,Abu Dhabi City,Madinat Zayed,Private,DHA Dubai,Active
+FAC01590,Burjeel Clinic - Ruwais,Clinic,Tertiary,Abu Dhabi,Abu Dhabi City,Ruwais,Public,Sharjah Health Authority,Temporarily Closed
+FAC01591,MediCare Hospital - Abu Dhabi,Hospital,Large,Abu Dhabi,Al Dhafra,Abu Dhabi,Private,DoH Abu Dhabi,Temporarily Closed
+FAC01592,Burjeel Clinic - Abu Dhabi,Clinic,Large,Abu Dhabi,Al Ain,Abu Dhabi,Private,Sharjah Health Authority,Active
+FAC01593,Burjeel Day Surgery Center - Ajman,Day Surgery Center,Small,Ajman,Ajman,Ajman,Private,Sharjah Health Authority,Temporarily Closed
+FAC01594,National Specialty Center - Abu Dhabi,Specialty Center,Small,Abu Dhabi,Abu Dhabi City,Abu Dhabi,Private,DHA Dubai,Temporarily Closed
+FAC01595,Aster Medical Center - Dhaid,Medical Center,Small,Sharjah,Khor Fakkan,Dhaid,Public,Sharjah Health Authority,Active
+FAC01596,Aster Specialty Center - Hatta,Specialty Center,Small,Dubai,Dubai,Hatta,Public,DHA Dubai,Active
+FAC01597,National Medical Center - Ras Al Khaimah,Medical Center,Small,Ras Al Khaimah,Ras Al Khaimah,Ras Al Khaimah,Private,Sharjah Health Authority,Temporarily Closed
+FAC01598,Burjeel Day Surgery Center - Dubai,Day Surgery Center,Medium,Dubai,Dubai,Dubai,Public,MOHAP,Active
+FAC01599,Al Noor Clinic - Dibba Al-Fujairah,Clinic,Large,Fujairah,Fujairah,Dibba Al-Fujairah,Private,DHA Dubai,Active
+FAC01600,Al Noor Hospital - Dhaid,Hospital,Tertiary,Sharjah,Sharjah,Dhaid,Public,DHA Dubai,Active
+FAC01601,Burjeel Clinic - Al Ain,Clinic,Tertiary,Abu Dhabi,Abu Dhabi City,Al Ain,Private,Sharjah Health Authority,Active
+FAC01602,NMC Medical Center - Al Ain,Medical Center,Small,Abu Dhabi,Al Ain,Al Ain,Private,DoH Abu Dhabi,Temporarily Closed
+FAC01603,MediCare Day Surgery Center - Madinat Zayed,Day Surgery Center,Small,Abu Dhabi,Abu Dhabi City,Madinat Zayed,Public,MOHAP,Active
+FAC01604,National Day Surgery Center - Ruwais,Day Surgery Center,Medium,Abu Dhabi,Al Ain,Ruwais,Public,DoH Abu Dhabi,Active
+FAC01605,Gulf Medical Center - Umm Al Quwain,Medical Center,Tertiary,Umm Al Quwain,Umm Al Quwain,Umm Al Quwain,Private,Sharjah Health Authority,Active
+FAC01606,MediCare Medical Center - Khor Fakkan,Medical Center,Tertiary,Sharjah,Khor Fakkan,Khor Fakkan,Private,Sharjah Health Authority,Active
+FAC01607,Gulf Hospital - Masfout,Hospital,Small,Ajman,Ajman,Masfout,Public,MOHAP,Temporarily Closed
+FAC01608,Al Noor Hospital - Ruwais,Hospital,Small,Abu Dhabi,Al Dhafra,Ruwais,Public,DHA Dubai,Active
+FAC01609,Al Noor Clinic - Dubai,Clinic,Large,Dubai,Dubai,Dubai,Public,MOHAP,Temporarily Closed
+FAC01610,Prime Clinic - Umm Al Quwain,Clinic,Large,Umm Al Quwain,Umm Al Quwain,Umm Al Quwain,Private,Sharjah Health Authority,Temporarily Closed
+FAC01611,Emirates Specialty Center - Masfout,Specialty Center,Small,Ajman,Ajman,Masfout,Private,DoH Abu Dhabi,Temporarily Closed
+FAC01612,Burjeel Medical Center - Ruwais,Medical Center,Medium,Abu Dhabi,Al Dhafra,Ruwais,Private,MOHAP,Active
+FAC01613,NMC Clinic - Ras Al Khaimah,Clinic,Medium,Ras Al Khaimah,Ras Al Khaimah,Ras Al Khaimah,Private,DHA Dubai,Temporarily Closed
+FAC01614,Life Hospital - Jebel Ali,Hospital,Small,Dubai,Dubai,Jebel Ali,Public,DoH Abu Dhabi,Active
+FAC01615,Emirates Clinic - Jebel Ali,Clinic,Tertiary,Dubai,Dubai,Jebel Ali,Private,DHA Dubai,Active
+FAC01616,Emirates Clinic - Hatta,Clinic,Small,Dubai,Dubai,Hatta,Private,DHA Dubai,Active
+FAC01617,NMC Clinic - Madinat Zayed,Clinic,Tertiary,Abu Dhabi,Al Ain,Madinat Zayed,Private,Sharjah Health Authority,Active
+FAC01618,Gulf Clinic - Al Ain,Clinic,Tertiary,Abu Dhabi,Abu Dhabi City,Al Ain,Private,MOHAP,Active
+FAC01619,Life Medical Center - Dubai,Medical Center,Tertiary,Dubai,Dubai,Dubai,Public,DHA Dubai,Active
+FAC01620,Life Specialty Center - Sharjah,Specialty Center,Small,Sharjah,Sharjah,Sharjah,Private,Sharjah Health Authority,Active
+FAC01621,Al Noor Specialty Center - Abu Dhabi,Specialty Center,Medium,Abu Dhabi,Al Ain,Abu Dhabi,Public,DHA Dubai,Active
+FAC01622,Gulf Hospital - Abu Dhabi,Hospital,,Abu Dhabi,Al Dhafra,Abu Dhabi,Public,DHA Dubai,Active
+FAC01623,MediCare Clinic - Ras Al Khaimah,Clinic,Medium,Ras Al Khaimah,Ras Al Khaimah,Ras Al Khaimah,Public,MOHAP,Active
+FAC01624,Prime Medical Center - Ras Al Khaimah,Medical Center,Medium,Ras Al Khaimah,Ras Al Khaimah,Ras Al Khaimah,Public,MOHAP,Active
+FAC01625,Prime Clinic - Masfout,Clinic,Small,Ajman,Ajman,Masfout,Private,Sharjah Health Authority,Active
+FAC01626,Life Hospital - Ruwais,Hospital,Medium,Abu Dhabi,Al Dhafra,Ruwais,Private,Sharjah Health Authority,Active
+FAC01627,MediCare Medical Center - Dibba Al-Fujairah,Medical Center,Tertiary,Fujairah,Fujairah,Dibba Al-Fujairah,Private,Sharjah Health Authority,Active
+FAC01628,Prime Clinic - Umm Al Quwain,Clinic,Tertiary,Umm Al Quwain,Umm Al Quwain,Umm Al Quwain,Private,DoH Abu Dhabi,Active
+FAC01629,Burjeel Hospital - Sharjah,Hospital,Large,Sharjah,Khor Fakkan,Sharjah,Private,Sharjah Health Authority,Temporarily Closed
+FAC01630,MediCare Specialty Center - Al Ain,Specialty Center,Tertiary,Abu Dhabi,Abu Dhabi City,Al Ain,Private,DHA Dubai,Active
+FAC01631,Life Medical Center - Dubai,Medical Center,Tertiary,Dubai,Dubai,Dubai,Private,DHA Dubai,Active
+FAC01632,Aster Medical Center - Ras Al Khaimah,Medical Center,Medium,Ras Al Khaimah,Ras Al Khaimah,Ras Al Khaimah,Private,DHA Dubai,Active
+FAC01633,Burjeel Hospital - Kalba,Hospital,Medium,Sharjah,Khor Fakkan,Kalba,Private,DHA Dubai,Active
+FAC01634,Gulf Specialty Center - Jebel Ali,Specialty Center,Large,Dubai,Dubai,Jebel Ali,Private,Sharjah Health Authority,Active
+FAC01635,Burjeel Clinic - Jebel Ali,Clinic,Small,Dubai,Dubai,Jebel Ali,Public,Sharjah Health Authority,Temporarily Closed
+FAC01636,NMC Medical Center - Madinat Zayed,Medical Center,Tertiary,Abu Dhabi,Abu Dhabi City,Madinat Zayed,Private,DoH Abu Dhabi,Active
+FAC01637,National Clinic - Sharjah,Clinic,Large,Sharjah,Khor Fakkan,Sharjah,Private,DHA Dubai,Temporarily Closed
+FAC01638,National Clinic - Hatta,Clinic,Small,Dubai,Dubai,Hatta,Private,MOHAP,Temporarily Closed
+FAC01639,National Day Surgery Center - Dhaid,Day Surgery Center,Medium,Sharjah,Khor Fakkan,Dhaid,Public,MOHAP,Active
+FAC01640,Life Hospital - Ras Al Khaimah,Hospital,Large,Ras Al Khaimah,Ras Al Khaimah,Ras Al Khaimah,Private,Sharjah Health Authority,Temporarily Closed
+FAC01641,Gulf Medical Center - Ruwais,Medical Center,Medium,Abu Dhabi,Abu Dhabi City,Ruwais,Private,MOHAP,Temporarily Closed
+FAC01642,Prime Clinic - Masfout,Clinic,Large,Ajman,Ajman,Masfout,Public,DHA Dubai,Temporarily Closed
+FAC01643,NMC Medical Center - Ras Al Khaimah,Medical Center,Medium,Ras Al Khaimah,Ras Al Khaimah,Ras Al Khaimah,Private,DHA Dubai,Temporarily Closed
+FAC01644,National Hospital - Ras Al Khaimah,Hospital,Large,Ras Al Khaimah,Ras Al Khaimah,Ras Al Khaimah,Public,DHA Dubai,Active
+FAC01645,Aster Clinic - Hatta,Clinic,Small,Dubai,Dubai,Hatta,Public,Sharjah Health Authority,Active
+FAC01646,Life Medical Center - Ruwais,Medical Center,Tertiary,Abu Dhabi,Al Dhafra,Ruwais,Private,DHA Dubai,Active
+FAC01647,MediCare Clinic - Hatta,Clinic,Small,Dubai,Dubai,Hatta,Public,DHA Dubai,Active
+FAC01648,Prime Clinic - Al Ain,Clinic,Medium,Abu Dhabi,Abu Dhabi City,Al Ain,Public,MOHAP,Active
+FAC01649,National Day Surgery Center - Madinat Zayed,Day Surgery Center,Large,Abu Dhabi,Al Ain,Madinat Zayed,Private,Sharjah Health Authority,Active
+FAC01650,Life Medical Center - Ruwais,Medical Center,Medium,Abu Dhabi,Al Dhafra,Ruwais,Private,DoH Abu Dhabi,Temporarily Closed
