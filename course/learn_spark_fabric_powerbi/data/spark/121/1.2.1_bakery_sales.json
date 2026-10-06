@@ -1,0 +1,29 @@
+[
+  {
+    "OrderID": "B1001",
+    "OrderDate": "2026-09-01",
+    "Product": "Chocolate Croissant",
+    "Category": "Pastry",
+    "Quantity": 12,
+    "UnitPrice": 4.5,
+    "Store": "Downtown"
+  },
+  {
+    "OrderID": "B1002",
+    "OrderDate": "2026-09-01",
+    "Product": "Sourdough Bread",
+    "Category": "Bread",
+    "Quantity": 8,
+    "UnitPrice": 8.0,
+    "Store": "Downtown"
+  },
+  {
+    "OrderID": "B1003",
+    "OrderDate": "2026-09-02",
+    "Product": "Blueberry Muffin",
+    "Category": "Muffin",
+    "Quantity": 15,
+    "UnitPrice": 3.5,
+    "Store": "Marina"
+  }
+]
