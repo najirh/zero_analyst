@@ -1,0 +1,51 @@
+OrderID,OrderDate,Product,Category,Quantity,UnitPrice,Store,Currency
+B1001,2026-09-01,Chocolate Croissant,Pastry,12,4.50,Downtown,AED
+B1002,2026-09-02,Sourdough Bread,Bread,8,8.00,Marina,AED
+B1003,2026-09-03,Blueberry Muffin,Muffin,15,3.50,Airport,AED
+B1004,2026-09-04,Cinnamon Roll,Pastry,10,5.00,Downtown,AED
+B1005,2026-09-05,Baguette,Bread,14,5.50,Marina,AED
+B1006,2026-09-06,Chocolate Cake Slice,Cake,9,6.50,Airport,AED
+B1007,2026-09-07,Almond Croissant,Pastry,11,5.00,Downtown,AED
+B1008,2026-09-08,Banana Bread Slice,Bread,13,4.00,Marina,AED
+B1009,2026-09-09,Red Velvet Cake Slice,Cake,7,7.00,Airport,AED
+B1010,2026-09-10,Cheese Danish,Pastry,16,4.75,Downtown,AED
+B1011,2026-09-11,Chocolate Croissant,Pastry,12,4.50,Marina,AED
+B1012,2026-09-12,Sourdough Bread,Bread,8,8.00,Airport,AED
+B1013,2026-09-13,Blueberry Muffin,Muffin,15,3.50,Downtown,AED
+B1014,2026-09-14,Cinnamon Roll,Pastry,10,5.00,Marina,AED
+B1015,2026-09-15,Baguette,Bread,14,5.50,Airport,AED
+B1016,2026-09-16,Chocolate Cake Slice,Cake,9,6.50,Downtown,AED
+B1017,2026-09-17,Almond Croissant,Pastry,11,5.00,Marina,AED
+B1018,2026-09-18,  Banana Bread Slice  ,Bread,13,4.00,Airport,AED
+B1019,2026-09-19,Red Velvet Cake Slice,Cake,7,7.00,Downtown,AED
+B1020,2026-09-20,Cheese Danish,Pastry,16,4.75,Marina,AED
+B1021,2026-09-01,Chocolate Croissant,Pastry,12,4.50,Airport,AED
+B1022,2026-09-02,Sourdough Bread,Bread,8,8.00,Downtown,AED
+B1023,2026-09-03,Blueberry Muffin,Muffin,15,3.50,Marina,AED
+B1024,2026-09-04,Cinnamon Roll,Pastry,10,5.00,Airport,AED
+B1025,2026-09-05,Baguette,Bread,14,5.50,Downtown,AED
+B1026,2026-09-06,Chocolate Cake Slice,Cake,9,6.50,Marina,AED
+B1027,2026-09-07,Almond Croissant,Pastry,11,5.00,Airport,AED
+B1028,2026-09-08,Banana Bread Slice,Bread,13,4.00,Downtown,AED
+B1029,2026-09-09,Red Velvet Cake Slice,Cake,7,7.00,Marina,AED
+B1030,2026-09-10,Cheese Danish,Pastry,16,4.75,Airport,AED
+B1031,2026-09-11,Chocolate Croissant,Pastry,12,4.50,Downtown,AED
+B1032,2026-09-12,sourdough bread,Bread,8,8.00,Marina,AED
+B1033,2026-09-13,Blueberry Muffin,Muffin,15,3.50,Airport,AED
+B1034,2026-09-14,Cinnamon Roll,Pastry,10,5.00,Downtown,AED
+B1035,2026-09-15,Baguette,Bread,14,5.50,Marina,AED
+B1036,2026-09-16,Chocolate Cake Slice,Cake,9,6.50,Airport,AED
+B1037,2026-09-17,Almond Croissant,Pastry,11,5.00,Downtown,AED
+B1038,2026-09-18,Banana Bread Slice,Bread,13,4.00,Marina,AED
+B1039,2026-09-19,Red Velvet Cake Slice,Cake,7,7.00,Airport,AED
+B1040,2026-09-20,Cheese Danish,Pastry,16,4.75,Downtown,AED
+B1041,2026-09-01,Chocolate Croissant,Pastry,12,4.50,Marina,AED
+B1042,2026-09-02,Sourdough Bread,Bread,8,8.00,Airport,AED
+B1043,2026-09-03,Blueberry Muffin,Muffin,15,3.50,Downtown,AED
+B1044,2026-09-04,Cinnamon Roll,Pastry,10,5.00,Marina,AED
+B1045,2026-09-05,Baguette,Bread,14,5.50,Airport,AED
+B1046,2026-09-06,Chocolate Cake Slice,Cake,9,6.50,Downtown,AED
+B1047,2026-09-07,Almond Croissant,Pastry,11,5.00,Marina,AED
+B1048,2026-09-08,Banana Bread Slice,Bread,13,4.00,Airport,AED
+B1049,2026-09-09,Red Velvet Cake Slice,Cake,7,7.00,Downtown,AED
+B1050,2026-09-10,Cheese Danish,Pastry,16,4.75,Marina,AED
