@@ -1,7 +1,7 @@
-﻿SellerID,SellerName,SellerType,Country,City,JoinDate,SellerRating,SellerStatus
-SELL0001,Shepherd LLC,Brand Store,Qatar,Doha,2025-04-05,3.91,Active
-SELL0002,Adams-Anderson,Marketplace Seller,UAE,Dubai,2025-06-09,4.29,Active
-SELL0003,Becker-Watson,Marketplace Seller,UAE,Sharjah,2025-06-15,4.65,Active
+SellerID,SellerName,SellerType,Country,City,JoinDate,SellerRating,SellerStatus
+SELL0001,,Brand Store,Qatar,Doha,2025-04-05,3.91,Active
+SELL0002,,Marketplace Seller,UAE,Dubai,2025-06-09,4.29,Active
+SELL0003,,Marketplace Seller,UAE,Sharjah,2025-06-15,4.65,Active
 SELL0004,Flores PLC,Distributor,Saudi Arabia,Dammam,2024-03-21,3.98,Active
 SELL0005,Thomas Richard and Richardson,Marketplace Seller,UAE,Ajman,2025-06-13,3.53,Active
 SELL0006,Andrews Hurley and Williams,Marketplace Seller,Oman,Muscat,2025-02-07,4.72,Active
@@ -77,5 +77,9 @@ SELL0075,Smith Smith and Duncan,Brand Store,Bahrain,Manama,2025-08-24,4.58,Activ
 SELL0076,Brown Payne and Love,Marketplace Seller,Saudi Arabia,Jeddah,2024-10-31,4.46,Active
 SELL0077,Osborne and Sons,Marketplace Seller,Bahrain,Manama,2025-09-27,4.07,Active
 SELL0078,Adams Frazier and Moran,Marketplace Seller,UAE,Dubai,2025-09-02,4.71,Active
+SELL0079,Lee Charles and Parker,Brand Store,Qatar,Doha,2025-03-21,4.46,Active
+SELL0080,Atkins-Smith,Brand Store,Saudi Arabia,Jeddah,2024-09-07,4.38,Active
+SELL0079,Lee Charles and Parker,Brand Store,Qatar,Doha,2025-03-21,4.46,Active
+SELL0080,Atkins-Smith,Brand Store,Saudi Arabia,Jeddah,2024-09-07,4.38,Active
 SELL0079,Lee Charles and Parker,Brand Store,Qatar,Doha,2025-03-21,4.46,Active
 SELL0080,Atkins-Smith,Brand Store,Saudi Arabia,Jeddah,2024-09-07,4.38,Active
